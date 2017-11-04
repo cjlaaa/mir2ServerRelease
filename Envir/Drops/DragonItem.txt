@@ -118,7 +118,7 @@
 1/1000 MirWheel  1
 1/1000 MirNecklace  1
 1/1000 MirHelmet  1
-1/1000 MirSword  1
+1/1000 传奇之剑  1
 1/1000 MirBelt  1
 1/1000 MirBoots  1
 1/1000 MirArmour(M)  1
@@ -229,7 +229,7 @@
 1/900 MirWheel  2
 1/900 MirNecklace  2
 1/900 MirHelmet  2
-1/900 MirSword  2
+1/900 传奇之剑  2
 1/900 MirBelt  2
 1/900 MirBoots  2
 1/900 MirArmour(M)  2
@@ -341,7 +341,7 @@
 1/800 MirWheel  3
 1/800 MirNecklace  3
 1/800 MirHelmet  3
-1/800 MirSword  3
+1/800 传奇之剑  3
 1/800 MirBelt  3
 1/800 MirBoots  3
 1/800 MirArmour(M)  3
@@ -453,7 +453,7 @@
 1/700 MirWheel  4
 1/700 MirNecklace  4
 1/700 MirHelmet  4
-1/700 MirSword  4
+1/700 传奇之剑  4
 1/700 MirBelt  4
 1/700 MirBoots  4
 1/700 MirArmour(M)  4
@@ -565,7 +565,7 @@
 1/600 MirWheel  5
 1/600 MirNecklace  5
 1/600 MirHelmet  5
-1/600 MirSword  5
+1/600 传奇之剑  5
 1/600 MirBelt  5
 1/600 MirBoots  5
 1/600 MirArmour(M)  5
@@ -677,7 +677,7 @@
 1/500 MirWheel  6
 1/500 MirNecklace  6
 1/500 MirHelmet  6
-1/500 MirSword  6
+1/500 传奇之剑  6
 1/500 MirBelt  6
 1/500 MirBoots  6
 1/500 MirArmour(M)  6
@@ -817,7 +817,7 @@
 1/500 MirWheel  7
 1/500 MirNecklace  7
 1/500 MirHelmet  7
-1/500 MirSword  7
+1/500 传奇之剑  7
 1/500 MirBelt  7
 1/500 MirBoots  7
 1/500 MirArmour(M)  7
@@ -957,7 +957,7 @@
 1/500 MirWheel  8
 1/500 MirNecklace  8
 1/500 MirHelmet  8
-1/500 MirSword  8
+1/500 传奇之剑  8
 1/500 MirBelt  8
 1/500 MirBoots  8
 1/500 MirArmour(M)  8
@@ -1097,7 +1097,7 @@
 1/500 MirWheel  9
 1/500 MirNecklace  9
 1/500 MirHelmet  9
-1/500 MirSword  9
+1/500 传奇之剑  9
 1/500 MirBelt  9
 1/500 MirBoots  9
 1/500 MirArmour(M)  9
@@ -1237,7 +1237,7 @@
 1/500 MirWheel  10
 1/500 MirNecklace  10
 1/500 MirHelmet  10
-1/500 MirSword  10
+1/500 传奇之剑  10
 1/500 MirBelt  10
 1/500 MirBoots  10
 1/500 MirArmour(M)  10
@@ -1377,7 +1377,7 @@
 1/500 MirWheel  11
 1/500 MirNecklace  11
 1/500 MirHelmet  11
-1/500 MirSword  11
+1/500 传奇之剑  11
 1/500 MirBelt  11
 1/500 MirBoots  11
 1/500 MirArmour(M)  11
@@ -1517,7 +1517,7 @@
 1/500 MirWheel  12
 1/500 MirNecklace  12
 1/500 MirHelmet  12
-1/500 MirSword  12
+1/500 传奇之剑  12
 1/500 MirBelt  12
 1/500 MirBoots  12
 1/500 MirArmour(M)  12
@@ -1657,7 +1657,7 @@
 1/500 MirWheel  13
 1/500 MirNecklace  13
 1/500 MirHelmet  13
-1/500 MirSword  13
+1/500 传奇之剑  13
 1/500 MirBelt  13
 1/500 MirBoots  13
 1/500 MirArmour(M)  13

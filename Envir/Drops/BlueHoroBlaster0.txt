@@ -57,8 +57,8 @@
 1/5 RepairOil
 
 ;Quest
-1/5 BugBlood Q
-1/8 GatheringGlove Q
-1/8 GatheringTool Q
-1/8 GreenHerb Q
-1/4 BugEye Q
+1/2 BugBlood Q
+1/2 GatheringGlove Q
+1/2 GatheringTool Q
+1/2 GreenHerb Q
+1/2 BugEye Q

@@ -1,20 +1,15 @@
-[@Description]
-You have been very helpful to many people in 
-{Bichon/Yellow}. Do you have any spare time to help me 
-as well? A long time ago, I had a friend that I 
-went hunting with. We went to {BichonDeadMine/Yellow} 
-one day when we where suuounded by 
-dangerous creatures. We tried to escape, but 
-there where just to many of them. My friend got 
-hurt in battle, and he decided to stay behide 
-while I escaped to get some help. I wanted 
-to get some help but no one was brave enough 
-to go help him with me. It's already to late 
-but can you go find the remains of my friend? 
-He always had his necklace on him.
+﻿[@Description]
+勇士，现在整个 {Bichon/Yellow}都在传颂着你的乐于助人.
+请问你还有没有时间再帮我个小忙呢? 
+很久以前, 我有一个一起狩猎的朋友.
+有一天我们前往{BichonDeadMine/Yellow} 
+狩猎时遇到了危险. 我们试图逃脱，但是遇到了太多的僵尸.
+我朋友决定隐藏起来，由我出来寻求帮助. 
+我出来后向人们寻求帮助，但是一无所获. 现在我的朋友很可能已经凶多吉少，
+但我仍想试试，请你帮我找到他，他身上经常戴着一个项链.
 
 [@TaskDescription]
-Try find {Vincent's/LimeGreen} friend he was last seen on
+试着寻找 {Vincent's/LimeGreen} 朋友 最后一次见到他是在
 {B2 of DeadMine/Yellow}.
 
 [@Completion]
@@ -30,7 +25,7 @@ Try find {Vincent's/LimeGreen} friend he was last seen on
 [@SelectRewards]
 
 [@ExpReward]
-1848
+9240
 
 [@GoldReward]
-2220
+11100

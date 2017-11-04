@@ -1,9 +1,9 @@
-[@Description]
-The Order left day's ago.. 
-He should have recieved her order by now.. 
+﻿[@Description]
+这些货物几天前离开了.. 
+她应该沿路去找找丢失的货物. 
 
 [@TaskDescription]
-Locate the missing Carriage.
+找到迷失的马车.
 
 [@Completion]
 
@@ -18,7 +18,7 @@ Locate the missing Carriage.
 [@SelectRewards]
 
 [@ExpReward]
-1930
+96500
 
 [@GoldReward]
-3500
+17500

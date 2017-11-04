@@ -1,17 +1,17 @@
-[@Description]
-{Assistant Jane/LimeGreen} sent you? 
-I can't reject anyone that she has recommended, 
-but I cant accept just anyone as my disciple. 
-You will have to pass my test.
+﻿[@Description]
+{Assistant Jane/LimeGreen}  让你来的? 
+我不能拒绝他推荐来的人, 
+但是我也不想有人滥竽充数. 
+你必须通过我的试炼.
 
 [@TaskDescription]
-Eliminate 10 {Oma's/Crimson} and {RakingCat's/Crimson}
+消灭 5 {Oma's/Crimson} 和 {RakingCat's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-Oma 10
-RakingCat 10
+Oma 5
+RakingCat 5
 
 [@ItemTasks]
 
@@ -24,7 +24,7 @@ Healing
 [@SelectRewards]
 
 [@ExpReward]
-180
+900
 
 [@GoldReward]
-45
+225

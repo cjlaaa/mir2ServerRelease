@@ -1,11 +1,10 @@
-[@Description]
-Could you do a favour for me as well? I want to
-give a present to {Jane/LimeGreen} to show my gratitude.
-But i cannot leave here at the moment. 
+﻿[@Description]
+能帮我个忙嘛？我想送一个礼物给 {Jane/LimeGreen} 
+但现在我走不开。
 
 [@TaskDescription]
-Find {GingerTea/LightSteelBlue} from {Scarecrows/Crimson} and Deliver
-to {Assistant Jane/LimeGreen} in {BorderVillage/Yellow}.
+找到 {GingerTea/LightSteelBlue} 从 {Scarecrows/Crimson} 然后带给{Assistant Jane/LimeGreen} 
+他在 {BorderVillage/Yellow}.
 
 [@Completion]
 
@@ -22,6 +21,6 @@ GoldenPendant
 [@SelectRewards]
 
 [@ExpReward]
-10
+50
 
 [@GoldReward]

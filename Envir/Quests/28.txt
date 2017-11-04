@@ -1,21 +1,19 @@
-[@Description]
-Hello traveller. You are quite famous around 
-here. Could you help me as well? 
-The demand for medicine has been increasing, 
-and we are short on the ingredients for the 
-medicine. We are especially short on {Web's/LightSteelBlue} 
-which can be found from {SpittingSpiders/Crimson} could you 
-please get some for me?
+﻿[@Description]
+你好旅行者. 你现在已经远近闻名了. 
+现在我们还想请你帮个小忙.
+随着战事越来越紧张，我们需要一些 {Web's/LightSteelBlue} 
+从外面的 {SpittingSpiders/Crimson}身上就可以找到 
+请帮帮我们
 
 [@TaskDescription]
-Please collect 10 {Web's/LightSteelBlue} from {SpittingSpider's/Crimson}
+收集 5 {Web's/LightSteelBlue} 从 {SpittingSpider's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-Web 10
+Web 5
 
 [@CarryItems]
 
@@ -24,7 +22,7 @@ Web 10
 [@SelectRewards]
 
 [@ExpReward]
-500
+2500
 
 [@GoldReward]
-500
+2500

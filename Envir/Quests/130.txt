@@ -1,8 +1,8 @@
-[@Description]
-Are you interested in a Bounty?
+﻿[@Description]
+你喜欢赏金任务吗?
 
 [@TaskDescription]
-Find and Eliminate {EvilBigApe/LightSteelBlue} in {RedValley/Yellow}.
+找到并击杀 {EvilBigApe/LightSteelBlue} 在 {RedValley/Yellow}.
 
 [@Completion]
 
@@ -18,7 +18,7 @@ EvilBigApe 1
 [@SelectRewards]
 
 [@ExpReward]
-40000
+400000
 
 [@GoldReward]
-40000
+400000

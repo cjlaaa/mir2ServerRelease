@@ -1,9 +1,8 @@
-[@Description]
-Here's the {SnakeWine/LightSteelBlue} for {MongchonScout/LimeGreen} as 
-promised. Please enjoy.
+﻿[@Description]
+这是酿好的 {SnakeWine/LightSteelBlue} 请带给 {MongchonScout/LimeGreen} 辛苦了！
 
 [@TaskDescription]
-Deliver the {SnakeWine/LightSteelBlue} to {MongchonScout/LimeGreen}.
+带 {SnakeWine/LightSteelBlue} 给 {MongchonScout/LimeGreen}.
 
 [@Completion]
 
@@ -15,12 +14,12 @@ Deliver the {SnakeWine/LightSteelBlue} to {MongchonScout/LimeGreen}.
 SnakeWine 2
 
 [@FixedRewards]
-BrokenSword 
+
 
 [@SelectRewards]
 
 [@ExpReward]
-822
+4110
 
 [@GoldReward]
-300
+1500

@@ -1,9 +1,9 @@
-[@Description]
-After searching the {CrushedBone's/LimeGreen} it's missing 
-the {TraineeRing/LightSteelBlue}.
+﻿[@Description]
+找到 {CrushedBone's/LimeGreen} 之后，它丢掉了 {TraineeRing/LightSteelBlue}.
 
 [@TaskDescription]
-Retrieve the {TraineeRing/LightSteelBlue} by killing {VenomSpider/Crimson}.
+找到 {TraineeRing/LightSteelBlue} 
+通过击杀 {VenomSpider/Crimson}.
 
 [@Completion]
 
@@ -19,7 +19,7 @@ TraineeRing 1
 [@SelectRewards]
 
 [@ExpReward]
-7000
+35000
 
 [@GoldReward]
-7000
+35000

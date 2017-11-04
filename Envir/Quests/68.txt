@@ -1,10 +1,10 @@
-[@Description]
-Hello traveller, I have another task which suit's your
-talent's.. I love my necklace in {InsectCave/Yellow}.
-Can you find and bring it back to me please?
+﻿[@Description]
+你好旅行者, 我还有一个小请求，
+我把我最喜欢的项链丢在 {InsectCave/Yellow}了.
+你能帮我找找吗?
 
 [@TaskDescription]
-Kill {SpiderFrog's/Crimson} and collect {BluJadeNecklace/LightSteelBlue}.
+杀掉 {SpiderFrog's/Crimson} 并收集 {BluJadeNecklace/LightSteelBlue}.
 
 [@Completion]
 
@@ -20,7 +20,7 @@ BluJadePendant 1
 [@SelectRewards]
 
 [@ExpReward]
-3800
+19000
 
 [@GoldReward]
-3800
+19000

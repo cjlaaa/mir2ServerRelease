@@ -1,15 +1,15 @@
-[@Description]
-Traveler. Please enter the {SerpentDeadMine/Yellow} 
-and eliminate the threat.
+﻿[@Description]
+冒险者，请进入 {SerpentDeadMine/Yellow} 
+消灭里面潜在的威胁.
 
 [@TaskDescription]
-Eliminate 10 {GhostZombie/Crimson} and {DarkPriestZombie/Crimson}.
+消灭 5 {GhostZombie/Crimson} 和 {DarkPriestZombie/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-GhostZombie 10
-DarkPriestZombie 10
+GhostZombie 5
+DarkPriestZombie 5
 
 [@ItemTasks]
 
@@ -20,7 +20,7 @@ DarkPriestZombie 10
 [@SelectRewards]
 
 [@ExpReward]
-4900
+24500
 
 [@GoldReward]
-4900
+24500

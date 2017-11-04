@@ -1,10 +1,10 @@
-[@Description]
-You came right on time. {MongchonScout/LimeGreen} came 
-by earlier and left a message for you. Please go 
-to the {Tavern/Yellow}
+﻿[@Description]
+你来的真及时. {MongchonEdwin/LimeGreen} 前段时间来过
+并留了个口信给你 
+去找 {Tavern/Yellow}吧
 
 [@TaskDescription]
-Go speak to {MongchonScout/LimeGreen} in the {Tavern/Yellow}
+去找 {MongchonEdwin/LimeGreen} 使用 {Tavern/Yellow}
 
 [@Completion]
 
@@ -19,7 +19,7 @@ Go speak to {MongchonScout/LimeGreen} in the {Tavern/Yellow}
 [@SelectRewards]
 
 [@ExpReward]
-1104
+5520
 
 [@GoldReward]
-1200
+6000

@@ -1,8 +1,8 @@
-[@Description]
-Please report back to the {BichonExaminer/LimeGreen} 
+﻿[@Description]
+请向 {BichonExaminer/LimeGreen} 回复. 
 
 [@TaskDescription]
-Talk to {BichonExaminer/LimeGreen} in {BichonProvince/Yellow}
+与 {BichonExaminer/LimeGreen} 交谈，他在 {BichonProvince/Yellow}
 
 [@Completion]
 
@@ -18,7 +18,7 @@ BlackIronBangle
 [@SelectRewards]
 
 [@ExpReward]
-5180
+51800
 
 [@GoldReward]
-2422
+24220

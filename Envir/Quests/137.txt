@@ -1,7 +1,6 @@
-[@Description]
-Is it true? Youve been to the {Ancient Layer/Yellow}? Can
-you return and Collect 17 {BloodPill/LightSteelBlue} by killing 
-{AncientSnakeScorpion's/Crimson}
+﻿[@Description]
+你已经去过 {Ancient Layer/Yellow} 了? 能帮我再去收集 12 {BloodPill/LightSteelBlue} 通过击杀 
+{AncientSnakeScorpion's/Crimson} 吗
 
 [@TaskDescription]
 
@@ -10,7 +9,7 @@ you return and Collect 17 {BloodPill/LightSteelBlue} by killing
 [@KillTasks]
 
 [@ItemTasks]
-BloodPill 17
+BloodPill 12
 
 [@CarryItems]
 
@@ -19,7 +18,7 @@ BloodPill 17
 [@SelectRewards]
 
 [@ExpReward]
-88500
+3885000
 
 [@GoldReward]
-88500
+3885000

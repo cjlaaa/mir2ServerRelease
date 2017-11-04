@@ -84,6 +84,8 @@
 1/250 VioletRing 
 1/250 TitanRing 
 
+;Amulets
+
 ;Belts
 1/150 SteelBelt 
 1/550 GoldBelt 
@@ -107,6 +109,8 @@
 1/600 MCStone 
 1/600 SCStone 
 
+;Torches
+
 ;Potions
 1/1 (HP)DrugLarge 
 1/1 (MP)DrugLarge 
@@ -126,8 +130,16 @@
 1/2 SunPotion(M) 
 1/2 SunPotion(M) 
 1/2 SunPotion(M) 
-1/30 MagicDrug(S)
-1/30 MagicAid(S)
+1/30 MagicDrug(S) 
+1/30 MagicAid(S) 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
 
 ;Gems
 1/500 BraveryOrb 
@@ -141,6 +153,8 @@
 1/2500 StormOrb 
 1/2500 AgilityOrb 
 1/2500 AccuracyOrb 
+
+;Mount
 
 ;Books
 1/100 ShoulderDash 
@@ -169,7 +183,7 @@
 1/400 Reincarnation 
 1/400 SummonHolyDeva 
 1/400 Curse 
-1/800 PoisonCloud
+1/800 PoisonCloud 
 1/1200 EnergyShield 
 1/275 FlashDash 
 1/1200 FireBurst 
@@ -183,4 +197,38 @@
 
 ;Nothing
 1/300 GoldBar 
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
 

@@ -1,29 +1,27 @@
-[@Description]
-I want you to eliminate in the insects in 
-{InsectCave/Yellow} I'm a very light sleeper and i cannot 
-sleep with noise from all the insects. Please can 
-you help me.
+﻿[@Description]
+我想派你去杀虫子，它们盘踞在{InsectCave/Yellow}。
+这些虫子每天制造出来的噪音让我寝食难安，帮帮我！ 
 
 [@TaskDescription]
-Eliminate 10 {KekTal/Crimson} and {VioletKekTal/Crimson}
+猎杀 5 {KekTal/Crimson} 和 {VioletKekTal/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-KekTal 10
-VioletKekTal 10
+KekTal 5
+VioletKekTal 5
 
 [@ItemTasks]
 
 [@CarryItems]
 
 [@FixedRewards]
-BronzeStrap 
+BronzeStrap
 
 [@SelectRewards]
 
 [@ExpReward]
-3000
+15000
 
 [@GoldReward]
-750
+3750

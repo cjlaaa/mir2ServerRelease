@@ -1,17 +1,17 @@
-[@Description]
-Young traveller my name is {Smith/LimeGreen}.
-There are so my monsters outside the village
-I don't know how I'll make it to {BichonWall/Yellow}
-Can you help me?
+﻿[@Description]
+年轻的冒险者，我的名字叫 {Smith/LimeGreen}.
+在村外，有太多的怪物了！
+我不知道怎么才能去 {BichonWall/Yellow}
+你能帮我吗？
 
 [@TaskDescription]
-Eliminate 10 {Deer/Crimson} and {Scarecrow's/Crimson}.
+消灭 5 {Deer/Crimson} 和 {Scarecrow's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-Deer 10
-Scarecrow 10
+Deer 5
+Scarecrow 5
 
 [@ItemTasks]
 
@@ -23,7 +23,7 @@ WornIronBracelet
 [@SelectRewards]
 
 [@ExpReward]
-120
+600
 
 [@GoldReward]
-30
+150

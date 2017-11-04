@@ -114,3 +114,7 @@
 ;Books
 1/70 Purification
 1/100 UltimateEnhancer
+
+;Quest
+1/2 RedThread Q
+1/2 BlackThread Q

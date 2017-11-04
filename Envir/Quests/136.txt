@@ -1,19 +1,16 @@
-[@Description]
-From the rumours going around you have found
-the {Ancient Layer/Yellow} in {Stone Temple/Yellow} Return and 
-Collect {RelicRock's/LightSteelBlue} from the Ancient Layer of 
-{StoneTemple/Yellow}
+﻿[@Description]
+进入 {Ancient Layer/Yellow} 在 {Stone Temple/Yellow} 然后收集 {RelicRock's/LightSteelBlue} 
 
 [@TaskDescription]
-Kill {AncientRedBoars/Crimson}, {AncientBlackBoars/Crimson} and 
-{AncientWhiteBoar's/Crimson} for {RelicRock's/LightSteelBlue}.
+杀死 {AncientRedBoars/Crimson}, {AncientBlackBoars/Crimson} 和 
+{AncientWhiteBoar's/Crimson} 取得 {RelicRock's/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-RelicRock 20
+RelicRock 10
 
 [@CarryItems]
 
@@ -22,7 +19,7 @@ RelicRock 20
 [@SelectRewards]
 
 [@ExpReward]
-78000
+1780000
 
 [@GoldReward]
-78000
+1780000

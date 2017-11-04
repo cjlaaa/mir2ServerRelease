@@ -1,15 +1,14 @@
-[@Description]
-Have you heard of the {SerpentDeadMine/Yellow}? I keep 
-hearing chain's. coming from the Mine its 
-driving me mad.
+﻿[@Description]
+你听说过 {SerpentDeadMine/Yellow}? 
+我要被里面传出的呼啸声折磨疯了.
 
 [@TaskDescription]
-Eliminate 15 {ChainGhoul's/Crimson}.
+消灭 5 {ChainGhoul's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ChainGhoul 15
+ChainGhoul 1
 
 [@ItemTasks]
 
@@ -20,7 +19,7 @@ ChainGhoul 15
 [@SelectRewards]
 
 [@ExpReward]
-4800
+24000
 
 [@GoldReward]
-4800
+24000

@@ -1,24 +1,20 @@
-[@Description]
-Hello traveller. Thankyou for coming.
-The reason I asked for you was to get some
-help keeping {WoomyonWoods/Yellow} safe. You 
-probably have seen some {CannibalPlant's/Crimson} 
-on the way here from {BichonWall/Yellow}. We need 
-to hunt them down to keep merchants safe 
-from dangerous attacks.
+﻿[@Description]
+你好旅行者. 感谢来访.
+我向你们寻求帮助是为了确保{WoomyonWoods/Yellow} 的安全. 
+你可能已经看到了一些 {CannibalPlant's/Crimson} 
+从 {BichonWall/Yellow}沿路到处都是.我们需要消灭他们确保安全
 
 [@TaskDescription]
-Please collect 10 {CannibalStem/LightSteelBlue} and 
-{CannibalLeafs/LightSteelBlue} From {CannibalPlant's/Crimson} and deliver 
-to {MirGuide/LimeGreen} in {BichonWall/Yellow}
+收集 1 {CannibalStem/LightSteelBlue} 和 
+{CannibalLeafs/LightSteelBlue} 从 {CannibalPlant's/Crimson} 并向我回复
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-CannibalStem 10
-CannibalLeaf 10
+CannibalStem 1
+CannibalLeaf 1
 
 [@CarryItems]
 
@@ -28,7 +24,7 @@ SteelBangle
 [@SelectRewards]
 
 [@ExpReward]
-450
+2250
 
 [@GoldReward]
-113
+565

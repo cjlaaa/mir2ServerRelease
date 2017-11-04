@@ -1,8 +1,8 @@
-[@Description]
-I miss my Parent's so much. Please can you help?
+﻿[@Description]
+我很想我的父母，你能帮帮我吗?
 
 [@TaskDescription]
-Delivery {SkysLetter/LightSteelBlue} to {Sir.Mogu/LimeGreen} in {BichonWall/Yellow}.
+带 {SkysLetter/LightSteelBlue} 给 {Sir.Mogu/LimeGreen} 在 {BichonWall/Yellow}.
 
 [@Completion]
 
@@ -18,7 +18,7 @@ SkysLetter 2
 [@SelectRewards]
 
 [@ExpReward]
-1930
+9650
 
 [@GoldReward]
-4100
+20500

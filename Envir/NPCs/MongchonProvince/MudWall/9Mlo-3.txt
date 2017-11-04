@@ -45,5 +45,3 @@ Please pick up what you want to buy,
 LotteryTicket
 
 [Quests]
-65
--65

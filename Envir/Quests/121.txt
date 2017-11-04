@@ -1,16 +1,15 @@
-[@Description]
-We have been getting more attacks from the monsters lately. 
-Do you think you can eliminate the threat? 
+﻿[@Description]
+我们最近遭到了怪物猛烈的进攻，你能帮帮我们吗? 
 
 [@TaskDescription]
-Travel the Island and Eliminate 15 {ToxicGhoul's/Crimson} 
-and 10 {RoninGhoul's/Crimson}.
+前往苍月岛并杀死 10 {ToxicGhoul's/Crimson} 
+和 5 {RoninGhoul's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ToxicGhoul 15
-RoninGhoul 10
+ToxicGhoul 10
+RoninGhoul 5
 
 [@ItemTasks]
 
@@ -21,7 +20,7 @@ RoninGhoul 10
 [@SelectRewards]
 
 [@ExpReward]
-18500
+185000
 
 [@GoldReward]
-18500
+185000

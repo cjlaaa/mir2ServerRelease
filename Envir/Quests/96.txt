@@ -1,17 +1,17 @@
-[@Description]
-The {Butcher/LimeGreen} in {WoomyonWoods/Yellow} just opened a
-new store. He asked me for some help. 
+﻿[@Description]
+{Butcher/LimeGreen} 在 {WoomyonWoods/Yellow} 开了一个
+新店，他似乎需要一些帮助. 
 
 [@TaskDescription]
-Collect 10 {BeefRib/LightSteelBlue} by Killing {WoomaSoldier's/Crimson}
-and deliver to the {Butcher/LimeGreen} in {WoomyonWoods/Yellow}
+收集 5 {BeefRib/LightSteelBlue} 通过猎杀 {WoomaSoldier's/Crimson}
+然后带给 {Butcher/LimeGreen} 在 {WoomyonWoods/Yellow}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BeefRib 10
+BeefRib 5
 
 [@CarryItems]
 
@@ -20,7 +20,7 @@ BeefRib 10
 [@SelectRewards]
 
 [@ExpReward]
-8200
+41000
 
 [@GoldReward]
-8200
+41000

@@ -1,16 +1,14 @@
-[@Description]
-Traveler Please return to the {SerpentDeadMines/Yellow} 
-and complete the task which was on the 
-{HiddenScroll/LightSteelBlue}. 
+﻿[@Description]
+旅行者，请回到 {SerpentDeadMines/Yellow} 
+然后完成{HiddenScroll/LightSteelBlue}上的任务. 
 
 [@TaskDescription]
-Eliminate {RotShamanZombie's/Crimson} and retrieve 
-{HeartOfDead/LightSteelBlue} from the {HiGreatGhoul/Crimson}
+猎杀 {RotShamanZombie's/Crimson} 并找回 
+{HeartOfDead/LightSteelBlue} 从 {HiGreatGhoul/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-RotShamanZombie 20
 
 [@ItemTasks]
 HeartOfDead 1
@@ -27,7 +25,7 @@ BlackIronCrowSwords
 ToughLongBow
 
 [@ExpReward]
-4800
+24000
 
 [@GoldReward]
-4800
+24000

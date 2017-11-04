@@ -1,8 +1,8 @@
-[@Description]
-Report that the Carriage was attacked.
+﻿[@Description]
+这批货物被袭击了，回到道馆去报告吧.
 
 [@TaskDescription]
-Return to the {LeadTrainer/LimeGreen}.
+向 {LeadTrainer/LimeGreen}回复.
 
 [@Completion]
 
@@ -17,7 +17,7 @@ Return to the {LeadTrainer/LimeGreen}.
 [@SelectRewards]
 
 [@ExpReward]
-1930
+96500
 
 [@GoldReward]
-3500
+17500

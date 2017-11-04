@@ -1,11 +1,12 @@
-[@Description]
-Hello Traveller. Have you heard about the
-Archer Captain Currently protecting the
-region? Rumours say they are looking for
-disciples to aid in the war
+﻿[@Description]
+你好，旅行者. 你听说过高级弓手吗?
+他是这一带最伟大的道士。
+我听说他现在正在招收徒弟，
+你可以去看看。
+
 
 [@TaskDescription]
-Speak with {Jerald/LimeGreen} at Coordinates 320:476
+与 {Jerald/LimeGreen} 交谈，他在坐标 320:476
 
 [@Completion]
 
@@ -20,7 +21,7 @@ Speak with {Jerald/LimeGreen} at Coordinates 320:476
 [@SelectRewards]
 
 [@ExpReward]
-48
+240
 
 [@GoldReward]
-60
+300

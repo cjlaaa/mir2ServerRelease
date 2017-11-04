@@ -1,16 +1,14 @@
-[@Description]
-Hello traveller, One of the {Zombies/Crimson} killed my pet 
-a couple days ago. Please help me with my 
-revenge on the {Zombies/Crimson}!
+﻿[@Description]
+你好旅行者, 一只 {Zombies/Crimson} 在几天前杀了我的宠物。 请你帮我杀掉{Zombies/Crimson}!
 
 [@TaskDescription]
-Eliminate 30 {Shaman Zombies/Crimson} in 
+消灭 15 {Shaman Zombies/Crimson} 在 
 {BichonDeadMines/Yellow}.
 
 [@Completion]
 
 [@KillTasks]
-Zombie1 30
+ShamanZombie 15
 
 [@ItemTasks]
 
@@ -21,7 +19,7 @@ Zombie1 30
 [@SelectRewards]
 
 [@ExpReward]
-3000
+15000
 
 [@GoldReward]
-3000
+15000

@@ -1,9 +1,8 @@
-[@Description]
-Please report to my Commanding Officer in 
-{BichonProvince/Yellow}.
+﻿[@Description]
+请向 {BichonProvince/Yellow}汇报这边的战果.
 
 [@TaskDescription]
-Report to {SubjugationManager/LimeGreen} 
+汇报 {SubjugationManager/LimeGreen} 
 
 [@Completion]
 
@@ -23,7 +22,7 @@ SolidTwinBlades
 SolidSilverBow
 
 [@ExpReward]
-6688
+66880
 
 [@GoldReward]
-13000
+130000

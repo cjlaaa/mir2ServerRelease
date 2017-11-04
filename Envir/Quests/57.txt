@@ -1,12 +1,9 @@
-[@Description]
-We are getting attacked by stonger monsters 
-latley. We need to get some help from {Bichon/Yellow}.
-Do you think you can be the messenger to 
-deliver the information of these monsters to 
-{Bichon/Yellow}?
+﻿[@Description]
+我们被怪物袭击了. 现在需要 {Bichon/Yellow}的帮助.
+你能把这些信息送到{Bichon/Yellow}吗?
 
 [@TaskDescription]
-Take {CaveReport/LightSteelBlue} to {Kyle/LimeGreen}.
+带 {CaveReport/LightSteelBlue} 给 {Kyle/LimeGreen}.
 
 [@Completion]
 
@@ -22,7 +19,7 @@ CaveReport 2
 [@SelectRewards]
 
 [@ExpReward]
-506
+2530
 
 [@GoldReward]
-670
+3350

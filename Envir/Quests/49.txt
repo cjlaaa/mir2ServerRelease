@@ -1,18 +1,16 @@
-[@Description]
-Have you been to the dungeon near {Bichon/Yellow}?
-The {Skeletons/Crimson} are there. The Guard near the
-dungeon reported that the number of {Skeletons/Crimson}
-have been increasing lately. Do you think you
-can go eliminate 25 {Skeletons/Crimson}? This is for the
-safety of {Bichon/Yellow}.
+﻿[@Description]
+你感受到 {Bichon/Yellow}越来越近的危险了吗?
+ {Skeletons/Crimson} 就要入侵了. 我们的探报说 {Skeletons/Crimson}
+的数量增长的很快. 你能猎杀 10 {Skeletons/Crimson}来嘛? 
+这样会让 {Bichon/Yellow}更加安全.
 
 [@TaskDescription]
-Eliminate 25 {Skeleton's/Crimson}
+猎杀 10 {Skeleton's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-Skeleton 25
+Skeleton 10
 
 [@ItemTasks]
 
@@ -24,7 +22,7 @@ SuperiorMagicHelmet
 [@SelectRewards]
 
 [@ExpReward]
-1500
+7500
 
 [@GoldReward]
-375
+1875

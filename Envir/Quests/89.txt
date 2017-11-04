@@ -1,17 +1,17 @@
-[@Description]
-There seem's to be a lot of Zombie's presence 
-lately. Head West to the {MineralMines/Yellow}.
+﻿[@Description]
+我听说西面的{MineralMines/Yellow}有很多
+僵尸出没，去帮我杀掉他们.
  
 [@TaskDescription]
-Eliminate 10 {CursedPriest/Crimson}, {ShiZombie/Crimson}, 
+消灭 5 {CursedPriest/Crimson}, {ShiZombie/Crimson}, 
 {CursedZombie's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-CursedPriest 10
-ShiZombie 10
-CursedZombie 10
+CursedPriest 5
+ShiZombie 5
+CursedZombie 5
 
 [@ItemTasks]
 
@@ -22,7 +22,7 @@ CursedZombie 10
 [@SelectRewards]
 
 [@ExpReward]
-6600
+33000
 
 [@GoldReward]
-6600
+33000

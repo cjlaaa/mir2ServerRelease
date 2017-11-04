@@ -1,10 +1,9 @@
-[@Description]
-I lost my bag because of the insects in the cave.
-They took all my belongings. Could you please
-get my stuff back? 
+﻿[@Description]
+太多的虫子了，我找不回我的包.
+他们拿走了我所有的行李，你能帮我找回来吗? 
 
 [@TaskDescription]
-Kill {VoiletKekTal/Crimson}, {KekTal/Crimson} and {BlueHoroBlaster's/Crimson} 
+杀死 {VoiletKekTal/Crimson}, {KekTal/Crimson} 和 {BlueHoroBlaster's/Crimson} 
 
 [@Completion]
 
@@ -26,7 +25,7 @@ MonkBangle
 SilkShoes
 
 [@ExpReward]
-3800
+19000
 
 [@GoldReward]
-950
+4750

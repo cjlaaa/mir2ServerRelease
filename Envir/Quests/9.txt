@@ -1,10 +1,10 @@
-[@Description]
-You seem more like a well-trained Warrior now.
-I have asked Peter to give you some work
-to do. The reward should help you in many ways,
+﻿[@Description]
+你现在似乎是一个成功的勇士了.
+我已经叫彼得给你一些新工作了。
+拿好你现在的奖励，这些似乎会对你有些帮助。
 
 [@TaskDescription]
-Speak to {MirGuide Peter/LimeGreen} Coordinates 335:275
+与 {MirGuide Peter/LimeGreen} 交谈，他的坐标是 335:275
 
 [@Completion]
 
@@ -19,7 +19,7 @@ Speak to {MirGuide Peter/LimeGreen} Coordinates 335:275
 [@SelectRewards]
 
 [@ExpReward]
-48
+240
 
 [@GoldReward]
-60
+300

@@ -58,4 +58,4 @@
 1/500 WarGodOil 
 
 ;Quest
-1/5 SnakeBody Q
+1/2 SnakeBody Q

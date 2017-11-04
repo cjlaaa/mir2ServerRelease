@@ -1,10 +1,8 @@
-[@Description]
-There seem's to be a Dark and Evil Aura coming 
-from the {Mine/Yellow}
+﻿[@Description]
+{Mine/Yellow}洞穴散发出的气氛看起来邪恶又阴冷。
 
 [@TaskDescription]
-Investigate the source of Evil in 
-{SerpentDeadMine/Yellow}
+调查{SerpentDeadMine/Yellow}中邪恶的来源
 
 [@Completion]
 
@@ -19,7 +17,7 @@ Investigate the source of Evil in
 [@SelectRewards]
 
 [@ExpReward]
-5594
+20000
 
 [@GoldReward]
-6000
+30000

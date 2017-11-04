@@ -1,14 +1,14 @@
-[@Description]
-Traveller.. I still think its to dangerous outside.
-Can you do a another favour for me?
+﻿[@Description]
+旅行者.. 我还是觉得外面不是很安全.
+你能再帮帮我吗?
 
 [@TaskDescription]
-Eliminate 10 {HookingCat's/Crimson}
+消灭 5 {HookingCat's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-HookingCat 10
+HookingCat 5
 
 [@ItemTasks]
 
@@ -22,7 +22,7 @@ StrongHoaSword
 StrongWoodenBow
 
 [@ExpReward]
-150
+750
 
 [@GoldReward]
-38
+190

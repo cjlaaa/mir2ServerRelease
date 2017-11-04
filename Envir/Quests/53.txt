@@ -1,9 +1,8 @@
-[@Description]
-Here is the Tea you asked for. Please deliver this 
-before it gets cold.
+﻿[@Description]
+这是你需要的茶，快些喝吧，别凉了.
 
 [@TaskDescription]
-Deliver the {CanniTea/LightSteelBlue} to {MirGuide/LimeGreen}
+带 {CanniTea/LightSteelBlue} 给 {MirGuide/LimeGreen}
 
 [@Completion]
 
@@ -20,7 +19,7 @@ SteelBuckle
 [@SelectRewards]
 
 [@ExpReward]
-439
+2195
 
 [@GoldReward]
-145
+725

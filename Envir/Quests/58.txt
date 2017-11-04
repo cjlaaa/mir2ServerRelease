@@ -1,12 +1,11 @@
-[@Description]
-Hmm.. The information seems to refer to the 
-{BoneElite/Crimson}. Can you help us and hunt 
-this monster? We cannot leave our town since 
-we are under attack as well. 
+﻿[@Description]
+嗯.. 这次攻势似乎是由骷髅精灵发起的 
+{BoneElite/Crimson}. 你能帮我杀掉骷髅精灵吗? 
+我们现在还走不开. 
 
 [@TaskDescription]
-Please eliminate the {BoneElite/Crimson} and bring back his 
-{Head/LightSteelBlue}.
+猎杀 {BoneElite/Crimson} 并把它的 
+{Head/LightSteelBlue}带会来.
 
 [@Completion]
 
@@ -22,7 +21,7 @@ SkeletonHead 1
 [@SelectRewards]
 
 [@ExpReward]
-2500
+12500
 
 [@GoldReward]
-2500
+12500

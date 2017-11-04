@@ -3,4 +3,4 @@
 1/10 Venison 
 
 ;Quest
-1/5 DeerMeat Q
+1/2 DeerMeat Q

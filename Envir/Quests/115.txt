@@ -1,9 +1,9 @@
-[@Description]
-How Deep have you been in {Stone Temple/Yellow}?
-The {WhiteBoar/Crimson} is located on Deep Within.
+﻿[@Description]
+你深入 {Stone Temple/Yellow} 了吗?
+据说 {WhiteBoar/Crimson} 就隐藏在石墓深处.
 
 [@TaskDescription]
-Eliminate the {WhiteBoar/Crimson}.
+杀掉 {WhiteBoar/Crimson}.
 
 [@Completion]
 
@@ -19,7 +19,7 @@ WhiteBoar 1
 [@SelectRewards]
 
 [@ExpReward]
-13000
+130000
 
 [@GoldReward]
-13000
+130000

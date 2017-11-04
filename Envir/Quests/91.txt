@@ -1,11 +1,11 @@
-[@Description]
-Traveler.. Alittle help please. I was in {TreePath/Yellow}.
-Chopping {Wood/LightSteelBlue} when i was starteld and dropped 
-my {Axe/LightSteelBlue}
+﻿[@Description]
+旅行者，请帮帮我. 我在 {TreePath/Yellow}.
+我在砍 {Wood/LightSteelBlue} 时把 {Axe/LightSteelBlue}
+弄丢了
 
 [@TaskDescription]
-Locate and Kill {BloodyLureSpider/Crimson} and retrieve 
-the {WornAxe/LightSteelBlue}
+找到并击杀 {BloodyLureSpider/Crimson} 
+然后拿到 {WornAxe/LightSteelBlue}
 
 [@Completion]
 
@@ -21,7 +21,7 @@ WornAxe 1
 [@SelectRewards]
 
 [@ExpReward]
-7000
+35000
 
 [@GoldReward]
-7000
+35000

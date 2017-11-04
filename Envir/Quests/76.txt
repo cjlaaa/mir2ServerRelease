@@ -1,10 +1,9 @@
-[@Description]
-Rumours take it.. theres a very rare Sword in the 
-Mines north. Can you please bring me it?
+﻿[@Description]
+在矿区北部有一把及其稀有的血剑，你能帮我取回它吗?
 
 [@TaskDescription]
-Kill {HiGreatGhoul/Crimson} on {SerpentDeadMines 2F/Yellow}
-and retrieve the {BloodySword/LightSteelBlue}
+杀掉 {HiGreatGhoul/Crimson} 在 {SerpentDeadMines 2F/Yellow}
+然后取回 {BloodySword/LightSteelBlue}
 
 [@Completion]
 
@@ -20,7 +19,7 @@ RedDagger 1
 [@SelectRewards]
 
 [@ExpReward]
-4700
+23500
 
 [@GoldReward]
-4700
+23500

@@ -101,8 +101,11 @@ Amulet
 RepairOil
 
 [Quests]
+36
+-36
 33
 -33
+37
 -43
 44
 -45

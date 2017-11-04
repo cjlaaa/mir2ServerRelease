@@ -1,20 +1,18 @@
-[@Description]
-{Prajna Cave/Yellow} is where lots of Warriors died
-fighting the monsters. A couple years ago, 
-we have seen these dead Warriors brought back to 
-life, but they do not remember a thing and 
-attack everyone that enters the cave. 
-Please help Eliminate them.
+﻿[@Description]
+{Prajna Cave/Yellow} 是曾经勇士与恶魔战斗之地。
+但是最近我们发现，这山洞中战死的勇士都被
+恶灵之力转化成了白骨，这对我们造成了很大的威胁。
+请前往消灭这些白骨，让勇士们安息。
 
 [@TaskDescription]
-Head East to the {PrajnaStoneCave/Yellow} and Eliminate 
-15 {BoneArcher's/Crimson} and 15 {BoneSpearman/Crimson}
+前往东方的 {PrajnaStoneCave/Yellow} 然后猎杀 
+10 {BoneArcher's/Crimson} and 10 {BoneSpearman/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-BoneArcher 15
-BoneSpearman 15
+BoneArcher 10
+BoneSpearman 10
 
 [@ItemTasks]
 
@@ -25,7 +23,7 @@ BoneSpearman 15
 [@SelectRewards]
 
 [@ExpReward]
-19500
+195000
 
 [@GoldReward]
-19500
+195000

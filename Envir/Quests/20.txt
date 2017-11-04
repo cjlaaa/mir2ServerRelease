@@ -1,17 +1,16 @@
-[@Description]
-A Recommendation.. Thats a first.
-We need all that is able to help with this war.
-Whether they join the Guard or not.
-Please can you assist me with something.
+﻿[@Description]
+让我看看这封信.. 这还是第一次推荐人来我这里呢.
+现在的守卫士气有些低迷，我们需要你的帮助才能打赢这场战争.
+你能帮我吗.
 
 [@TaskDescription]
-Eliminate 10 {Oma's/Crimson} and {RakingCat's/Crimson}
+消灭 5 {Oma's/Crimson} 和 {RakingCat's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-Oma 10
-RakingCat 10
+Oma 5
+RakingCat 5
 
 [@ItemTasks]
 
@@ -24,7 +23,7 @@ Focus
 [@SelectRewards]
 
 [@ExpReward]
-180
+900
 
 [@GoldReward]
-45
+225

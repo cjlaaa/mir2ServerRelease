@@ -83,6 +83,5 @@ Be gone, don't waste my time again!
 <Close/@exit>
 
 [Quests]
-49
--49
-57
+75
+-75

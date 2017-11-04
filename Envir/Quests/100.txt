@@ -1,15 +1,15 @@
-[@Description]
-We have been receiving new report's.
-There is a New type of creature in the {Temple/Yellow}.
+﻿[@Description]
+我们得到报告称有一只强大的恶魔出没在 {Temple/Yellow}.
+请去消灭他和他的爪牙！
 
 [@TaskDescription]
-Eliminate 30 {WoomaWarrior's/Crimson} and a 
-{WoomaGaurdian/Crimson} and return his {Horn/LightSteelBlue}.
+猎杀 15 {WoomaWarrior's/Crimson} 和 1 
+{WoomaGaurdian/Crimson} 然后取得它的 {Horn/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
-WoomaWarrior 30
+WoomaWarrior 15
 WoomaGuardian 1
 
 [@ItemTasks]
@@ -25,7 +25,7 @@ WizardRing
 RingOfMoral
 
 [@ExpReward]
-11000
+110000
 
 [@GoldReward]
-11000
+110000

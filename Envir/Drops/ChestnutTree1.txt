@@ -10,8 +10,8 @@
 1/7 SilverChestnut 
 1/7 SilverChestnut 
 
-1/9 GoldChestnut 
-1/9 GoldChestnut 
+1/1 GoldChestnut 
+1/1 GoldChestnut 
 
 1/8 Timber
 1/15 Timber
