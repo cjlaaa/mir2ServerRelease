@@ -1,10 +1,9 @@
-[@Description]
-Thankyou Traveller the assistance you have 
-provided. I am so happy that my Friend {Soho/LimeGreen} 
-is alive and well. I have another task for you.
+﻿[@Description]
+谢谢你勇敢的冒险者. 听说我的朋友 {Soho/LimeGreen} 
+还活着我很高兴. 此外，我还有点别的事麻烦你.
 
 [@TaskDescription]
-Deliver {MobBlood/LightSteelBlue} to {Dr.Kim/LimeGreen} in {SerpentValley/Yellow}
+运送 {MobBlood/LightSteelBlue} 给 {Dr.Kim/LimeGreen} 在 {SerpentValley/Yellow}
 
 [@Completion]
 
@@ -20,7 +19,7 @@ MobBlood 2
 [@SelectRewards]
 
 [@ExpReward]
-1971
+9855
 
 [@GoldReward]
-2850
+14250

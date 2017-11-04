@@ -1,13 +1,13 @@
-[@Description]
+﻿[@Description]
 
 [@TaskDescription]
-Travel South-East to {PrajnaTemple/Yellow} and Kill 30 
+前往东南方的 {PrajnaTemple/Yellow} 然后击杀15 
 {Minotaur's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-Minotaur 30
+Minotaur 15
 
 [@ItemTasks]
 
@@ -18,7 +18,7 @@ Minotaur 30
 [@SelectRewards]
 
 [@ExpReward]
-48000
+480000
 
 [@GoldReward]
-48000
+480000

@@ -1,17 +1,16 @@
-[@Description]
-We need to damage this threat quickly. Head to 
-South-West to the {Temple/Yellow} and try weaken 
-it's resolve.
+﻿[@Description]
+我们需要尽快化解这场危机. 前往西南方向的 {Temple/Yellow}
+然后试着解除这场危机.
 
 [@TaskDescription]
-Eliminate 20 {Dung/Crimson} and {WoomaSoldiers/Crimson}.
+猎杀 10 {Dung/Crimson} 和 {WoomaSoldiers/Crimson}.
 
 [@Completion]
-Your back, Let's hope your actions has weaken the threat.
+很好，你是削弱这场危机的希望.
 
 [@KillTasks]
-Dung 20
-WoomaSoldier 20
+Dung 10
+WoomaSoldier 10
 
 [@ItemTasks]
 
@@ -22,7 +21,7 @@ WoomaSoldier 20
 [@SelectRewards]
 
 [@ExpReward]
-8200
+41000
 
 [@GoldReward]
-8200
+41000

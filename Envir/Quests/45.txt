@@ -1,11 +1,9 @@
-[@Description]
-{RedSnake/Crimson} bite? Please tell {Robert/LimeGreen} that the Teeth
-of the {RedSnake/Crimson} is the main ingredient for the 
-cure. You don't have much time. Go and kill some 
-{RedSnake's/Crimson} for the Teeth.
+﻿[@Description]
+{RedSnake/Crimson} 咬伤? 请转告 {Robert/LimeGreen} 那些{RedSnake/Crimson} 的毒牙可以辅助治疗.
+现在时间紧急，你快去杀一些 {RedSnake's/Crimson} 收集点毒牙.
 
 [@TaskDescription]
-Collect {RedSnakeTeeth/LightSteelBlue} for the Cure
+收集 {RedSnakeTeeth/LightSteelBlue} 
 
 [@Completion]
 
@@ -22,7 +20,7 @@ BoxofHolyWater(3)
 [@SelectRewards]
 
 [@ExpReward]
-1200
+6000
 
 [@GoldReward]
-300
+1500

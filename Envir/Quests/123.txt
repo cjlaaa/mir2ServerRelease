@@ -1,16 +1,15 @@
-[@Description]
-There are stonger monsters inside the tomb.
-{BoneBlademan/Crimson} are faster then the other
-monsters. Please eliminate these monsters.
+﻿[@Description]
+山洞里还有很多强大的怪物.
+{BoneBlademan/Crimson} 就是其中的一种，请消灭它们.
 
 [@TaskDescription]
-Please return to the cave. And Eliminate 15 
+回到洞窟，消灭 10 
 {BoneBlademan/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-BoneBlademan 15
+BoneBlademan 10
 
 [@ItemTasks]
 
@@ -21,7 +20,7 @@ BoneBlademan 15
 [@SelectRewards]
 
 [@ExpReward]
-19000
+190000
 
 [@GoldReward]
-19000
+190000

@@ -1,10 +1,10 @@
-[@Description]
-You found the Book.. That's fantastic news. 
-It dosent look like it's been damaged. 
+﻿[@Description]
+你找到了苍月之书.. 这真是梦幻般的结局. 
+看起来这书已经略显残破了. 
 
 [@TaskDescription]
-Return the {PrajnaHistory/LightSteelBlue} Book to {VillageChief/LimeGreen}
-in {PrajnaIsland/Yellow}.
+将 {PrajnaHistory/LightSteelBlue} 书交还
+给 {VillageChief/LimeGreen} 他在 {PrajnaIsland/Yellow}.
 
 [@Completion]
 
@@ -25,7 +25,7 @@ FlamingRedArmour
 HardTemperedArmour
 
 [@ExpReward]
-3912
+39120
 
 [@GoldReward]
-1500
+15000

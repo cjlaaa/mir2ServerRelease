@@ -72,5 +72,5 @@
 1/5 LargeBone 
 
 ;Quest
-1/5 SkeletonBone Q
-1/5 Skull Q
+1/2 SkeletonBone Q
+1/2 Skull Q

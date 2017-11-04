@@ -79,9 +79,11 @@
 1/160 ConvexLens
 
 ;Crafting Materals
-1/10 BlackThread
-1/10 RedThread
-1/10 SpiderWeb
+1/5 BlackThread
+1/5 RedThread
+1/5 SpiderWeb
 
 ;Quest
-1/8 TraineeRing 
+1/2 TraineeRing 
+1/2 RedThread Q
+1/2 BlackThread Q 

@@ -1,12 +1,12 @@
-[@Description]
-I went to hunt in {DeathValley/Yellow}. I ran into some 
-{Tongs/Crimson} I thought it was a Boss Monster. 
-While retreating I dropped my beloved Sword.
+﻿[@Description]
+我曾经去 {DeathValley/Yellow}打猎. 结果遇到了很多 
+{Tongs/Crimson} 慌乱之中我丢掉了我的剑，
+请你帮我找回来。
 
 
 [@TaskDescription]
-Travel to {Death Valley/Yellow} and retrieve {CharleySword/LightSteelBlue} 
-by killing {Tongs/Crimson}.
+前往 {Death Valley/Yellow} 获取 {CharleySword/LightSteelBlue} 
+通过击杀 {Tongs/Crimson}.
 
 [@Completion]
 
@@ -22,7 +22,7 @@ CharleySword 1
 [@SelectRewards]
 
 [@ExpReward]
-9500
+95000
 
 [@GoldReward]
-9500
+95000

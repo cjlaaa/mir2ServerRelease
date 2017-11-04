@@ -1,10 +1,10 @@
-[@Description]
-Welcome to {Border Village/Yellow} Young traveller.
-Before you get started with your journey
-would you please do me a quick favour? 
+﻿[@Description]
+欢迎来到 {Border Village/Yellow} 年轻人.
+在你开始你的旅途之前，
+能否先帮我个忙? 
 
 [@TaskDescription]
-Transport {CannibalLeaves/LightSteelBlue} to {CraftLady/LimeGreen}
+带 {CannibalLeaves/LightSteelBlue} 给 {CraftLady/LimeGreen}
 
 [@Completion]
 
@@ -21,6 +21,6 @@ CannibalLeaves 5
 [@SelectRewards]
 
 [@ExpReward]
-10
+50
 
 [@GoldReward]

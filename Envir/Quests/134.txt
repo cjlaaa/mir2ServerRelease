@@ -1,9 +1,9 @@
-[@Description]
-Please can you take this {Algea/LightSteelBlue} to 
+﻿[@Description]
+请把这个 {Algea/LightSteelBlue} 带到 
 {MongchonProvince/Yellow}.
 
 [@TaskDescription]
-Deliver the {Algea/LightSteelBlue} to {CraftsLady/LimeGreen} in 
+运送 {Algea/LightSteelBlue} 给 {CraftsLady/LimeGreen} 在 
 {MongchonProvince/Yellow}.
 
 [@Completion]
@@ -20,7 +20,7 @@ Algae 2
 [@SelectRewards]
 
 [@ExpReward]
-8407
+840700
 
 [@GoldReward]
-12000
+120000

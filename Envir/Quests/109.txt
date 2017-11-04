@@ -1,9 +1,9 @@
-[@Description]
-Hello Mirian, I'm still missing {Volume 1/LightSteelBlue} and {2/LightSteelBlue}, 
+﻿[@Description]
+你好旅行者，我在寻找 {Volume 1/LightSteelBlue} 和 {2/LightSteelBlue}, 
 
 [@TaskDescription]
-Please return to the {Hidden Entrance/Yellow} 
-And retrieve {Volume 1/LightSteelBlue} and {2/LightSteelBlue}.
+请回到 {隐藏入口/Yellow} 
+然后寻找 {Volume 1/LightSteelBlue} 和 {2/LightSteelBlue}.
 
 [@Completion]
 
@@ -20,7 +20,7 @@ BichonTales(2) 1
 [@SelectRewards]
 
 [@ExpReward]
-10000
+100000
 
 [@GoldReward]
-10000
+100000

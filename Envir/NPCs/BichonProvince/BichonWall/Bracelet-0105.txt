@@ -47,3 +47,7 @@ LeatherGlove
 SilverBracelet
 SteelBracelet
 LargeBracelet
+
+[Quests]
+47
+-47

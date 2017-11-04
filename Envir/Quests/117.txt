@@ -1,9 +1,9 @@
-[@Description]
-Speak to {CaveGuide/LimeGreen} in {TaoVillage/Yellow}
+﻿[@Description]
+与 {CaveGuide/LimeGreen} 交谈，他在 {TaoVillage/Yellow}
 
 [@TaskDescription]
-Head West of {TaoVillage/Yellow} and Speak 
-with {CaveGuide/LimeGreen}.
+前往 {TaoVillage/Yellow} 西部然后与 
+{CaveGuide/LimeGreen} 交谈.
 
 [@Completion]
 
@@ -18,7 +18,7 @@ with {CaveGuide/LimeGreen}.
 [@SelectRewards]
 
 [@ExpReward]
-4144
+41440
 
 [@GoldReward]
-7750
+77500

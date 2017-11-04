@@ -94,3 +94,8 @@
 1/3 BlackThread
 1/3 RedThread
 1/3 SpiderWeb
+
+;Quest
+1/2 TraineeRing 
+1/2 RedThread Q
+1/2 BlackThread Q 

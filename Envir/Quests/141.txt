@@ -1,15 +1,15 @@
-[@Description]
-BichonWall Bounty, Has been submitted.
+﻿[@Description]
+比奇省赏金任务：收集骷髅骨头.
 
 [@TaskDescription]
-Travel to {OmaCave/Yellow} and collect {Skeleton Bone's/LightSteelBlue}.
+前往 {OmaCave/Yellow} 并收集 {Skeleton Bone's/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonBone 40 "Gather SkeletonBones"
+SkeletonBone 10 
 
 [@FlagTasks]
 
@@ -20,7 +20,7 @@ SkeletonBone 40 "Gather SkeletonBones"
 [@SelectRewards]
 
 [@ExpReward]
-6500
+65000
 
 [@GoldReward]
-5000
+50000

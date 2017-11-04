@@ -1,12 +1,11 @@
-[@Description]
-There are creatures named {Oma/Crimson} outside
-{BichonWall/Yellow} and other towns. 
-They are very strong and violent. They have 
-been attacking the merchants. Hey, would you 
-be able to help us eliminate the danager?
+﻿[@Description]
+有一种叫做 {Oma/Crimson} 的怪物游荡在
+{BichonWall/Yellow} 外和其它村庄. 
+他们非常强壮，残忍. 我们损失惨重. 你能帮我们
+消灭他们吗?
 
 [@TaskDescription]
-Please hunt {Oma's/Crimson} and bring back 10 
+猎杀 {Oma's/Crimson} 并带回 5 
 {OmaTeeth's/LightSteelBlue}
 
 [@Completion]
@@ -14,7 +13,7 @@ Please hunt {Oma's/Crimson} and bring back 10
 [@KillTasks]
 
 [@ItemTasks]
-OmaTeeth 10
+OmaTeeth 5
 
 [@CarryItems]
 
@@ -26,7 +25,7 @@ BronzeHoaSword
 ElkWoodenBow
 
 [@ExpReward]
-300
+1500
 
 [@GoldReward]
-83
+415

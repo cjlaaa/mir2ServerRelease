@@ -45,7 +45,68 @@
 1/110 GlassRing 
 1/200 BlueRing 
 
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
 ;Potions
 1/60 (HP)DrugSmall 
 1/60 (MP)DrugSmall 
 1/160 SunPotion 
+
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
+;Quest
+
+;Awakening
+
+;Pets
+
+;Transform
+

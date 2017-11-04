@@ -1,10 +1,10 @@
-[@Description]
-I got a message from {WoomyonWoods/Yellow} asking for 
-some help. Can you go to {WoomyonWoods/Yellow} and 
-help then with the trouble in {InsectCave/Yellow}? 
+﻿[@Description]
+我听说 {WoomyonWoods/Yellow} 那边需要一些帮助. 
+请你现在前往 {WoomyonWoods/Yellow} 
+帮助他们处理 {InsectCave/Yellow}的麻烦.
 
 [@TaskDescription]
-Please go speak to {MasterShok/LimeGreen} in
+请与 {MasterShok/LimeGreen} 交谈，他在
 {WoomyonWoods/Yellow}.
 
 [@Completion]
@@ -20,7 +20,7 @@ Please go speak to {MasterShok/LimeGreen} in
 [@SelectRewards]
 
 [@ExpReward]
-1232
+6160
 
 [@GoldReward]
-1480
+7400

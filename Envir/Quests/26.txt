@@ -1,11 +1,8 @@
-[@Description]
-There have been icreasing numbers of 
-{SpittlingSpider's/Crimson} around the town. This monster 
-is poisonous and the antidote can only be made 
-from the {PoisonSack/LightSteelBlue}.
+﻿[@Description]
+村子附近有很多{SpittlingSpider's/Crimson} . 我们需要它的 {PoisonSack/LightSteelBlue}.
 
 [@TaskDescription]
-Please find {PoisonSack's/LightSteelBlue} by hunting 
+找到 {PoisonSack's/LightSteelBlue} 通过消灭
 {SpittingSpider's/Crimson}.
 
 [@Completion]
@@ -13,7 +10,7 @@ Please find {PoisonSack's/LightSteelBlue} by hunting
 [@KillTasks]
 
 [@ItemTasks]
-PoisonSack 10
+PoisonSack 1
 
 [@CarryItems]
 
@@ -23,7 +20,7 @@ StrongLeatherBelt
 [@SelectRewards]
 
 [@ExpReward]
-500
+2500
 
 [@GoldReward]
-125
+725

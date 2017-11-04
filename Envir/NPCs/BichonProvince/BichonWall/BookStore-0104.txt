@@ -220,3 +220,6 @@ StraightShot
 MentalState
 DoubleShot
 Meditation
+
+[Quests]
+50

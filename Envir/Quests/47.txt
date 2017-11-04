@@ -1,9 +1,9 @@
-[@Description]
-Hello traveller, I have a favor tou ask you. I lost 
-my sister's ring while hunting in {OmaCave/Yellow}. 
+﻿[@Description]
+你好，旅行者, 我有个小小的请求. 
+我在{OmaCave/Yellow}冒险时把妹妹的戒指遗失了，请帮帮我. 
 
 [@TaskDescription]
-Find {OliviasRing/LightSteelBlue} in {OmaCave/Yellow}
+找到 {OliviasRing/LightSteelBlue} 在 {OmaCave/Yellow}
 
 [@Completion]
 
@@ -20,7 +20,7 @@ OliviasRing 1
 [@SelectRewards]
 
 [@ExpReward]
-1400
+7000
 
 [@GoldReward]
-1400
+7000

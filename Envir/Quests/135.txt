@@ -1,11 +1,10 @@
-[@Description]
-Hello Mirian, there is a Darker Evil within 
-{Stone Temple/Yellow} There is a stone 
-within the layer's which cliams to have the capability
-to enter a passage into {Ancient Layer/Yellow}
+﻿[@Description]
+你好旅行者，在 {Stone Temple/Yellow} 深处
+有更强大的存在。去找到远古神石，那是连接
+{Ancient Layer/Yellow} 的入口
 
 [@TaskDescription]
-Find the Stone within {Stone Temple/Yellow}
+在 {Stone Temple/Yellow} 找到远古神石
 
 [@Completion]
 
@@ -23,7 +22,7 @@ Find the Stone within {Stone Temple/Yellow}
 [@SelectRewards]
 
 [@ExpReward]
-9612
+961200
 
 [@GoldReward]
-13600
+136000

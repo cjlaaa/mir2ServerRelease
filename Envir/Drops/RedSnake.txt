@@ -47,6 +47,16 @@
 1/110 GlassRing 
 1/200 BlueRing 
 
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
 ;Potions
 1/60 (HP)DrugSmall 
 1/60 (MP)DrugSmall 
@@ -54,9 +64,56 @@
 1/100 (MP)DrugMedium 
 1/200 SunPotion 
 
+;Ores
+
+;Meat
+
+;Crafting Materials
+
 ;Scrolls
 1/500 WarGodOil 
 
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
 ;Quest
-1/5 SnakeBody Q
-1/10 RedSnakeTeeth Q
+1/2 SnakeBody Q
+1/2 RedSnakeTeeth Q
+
+;Awakening
+
+;Pets
+
+;Transform
+

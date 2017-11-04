@@ -71,3 +71,11 @@ HookedSpear
 IronBlades
 LongBow
 PickAxe
+
+[Quests]
+-24
+25
+-25
+26
+-26
+27

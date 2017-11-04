@@ -1,8 +1,8 @@
-[@Description]
-A Scroll with a description. It must be important.
+﻿[@Description]
+一张卷轴，看起来很重要.
 
 [@TaskDescription]
-Deliver the {HiddenScroll/LightSteelBlue} to {Dr.Kim/LimeGreen}.
+带 {HiddenScroll/LightSteelBlue} 给 {Dr.Kim/LimeGreen}.
 
 [@Completion]
 
@@ -18,7 +18,7 @@ HiddenScroll 2
 [@SelectRewards]
 
 [@ExpReward]
-2382
+11910
 
 [@GoldReward]
-3600
+18000

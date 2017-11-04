@@ -1,10 +1,9 @@
-[@Description]
-I've been getting reports that {ForestYeti's/Crimson} are
-attacking only the new Warrior's lately.
-Do you think you can help?
+﻿[@Description]
+我听到报告 {ForestYeti's/Crimson} 最近袭击了这里.
+你能帮忙吗?
 
 [@TaskDescription]
-Eliminate 5 {ForestYeti's/Crimson}.
+消灭 5 {ForestYeti's/Crimson}.
 
 [@Completion]
 
@@ -21,7 +20,7 @@ PrecisionPendant
 [@SelectRewards]
 
 [@ExpReward]
-200
+1000
 
 [@GoldReward]
-50
+250

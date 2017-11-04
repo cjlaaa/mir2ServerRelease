@@ -57,7 +57,7 @@
 1/5 RepairOil
 
 ;Quest
-1/4 Antidote Q
-1/8 GatheringGlove Q
-1/8 GatheringTool Q
-1/8 GreenHerb Q
+1/2 Antidote Q
+1/2 GatheringGlove Q
+1/2 GatheringTool Q
+1/2 GreenHerb Q

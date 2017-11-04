@@ -1,10 +1,9 @@
-[@Description]
-That body seems to be one {Vincent/LimeGreen} is looking 
-for. The necklace matches the description 
-{Vincent/LimeGreen} gave.
+﻿[@Description]
+这具尸体似乎是 {Vincent/LimeGreen} 一直寻找的. 
+这个项链和 {Vincent/LimeGreen} 所描述的高度吻合.
 
 [@TaskDescription]
-Return the {OldNecklace/LightSteelBlue} to {Vincent/LimeGreen}.
+交还 {OldNecklace/LightSteelBlue} 给 {Vincent/LimeGreen}.
 
 [@Completion]
 
@@ -22,7 +21,7 @@ ToughGlove
 MagicBangle
 
 [@ExpReward]
-3616
+18080
 
 [@GoldReward]
-935
+4675

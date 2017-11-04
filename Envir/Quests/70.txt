@@ -1,10 +1,9 @@
-[@Description]
-I got attacked a couple days ago, and I got 
-poisoned. I bought the {Antidote/LightSteelBlue} but the mobs 
-took my bag. 
+﻿[@Description]
+几天前我被袭击了, 袭击我的虫子有毒. 
+我买了 {Antidote/LightSteelBlue} 但是被怪物抢走了
 
 [@TaskDescription]
-Kill {KekTal's/Crimson} and find {Soho's/LimeGreen} {Antidote/LightSteelBlue}
+杀死 {KekTal's/Crimson} 找到 {Soho's/LimeGreen} {Antidote/LightSteelBlue}
 
 [@Completion]
 
@@ -20,7 +19,7 @@ Antidote 1
 [@SelectRewards]
 
 [@ExpReward]
-3800
+19000
 
 [@GoldReward]
-3800
+19000

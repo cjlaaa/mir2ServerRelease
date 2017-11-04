@@ -1,13 +1,13 @@
-[@Description]
+﻿[@Description]
 
 [@TaskDescription]
-Eliminate 30 {LeftGuard/Crimson} and {RightGuard's/Crimson}.
+Eliminate 15 {LeftGuard/Crimson} and {RightGuard's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-LeftGuard 30
-RightGuard 30
+LeftGuard 15
+RightGuard 15
 
 [@ItemTasks]
 
@@ -18,7 +18,7 @@ RightGuard 30
 [@SelectRewards]
 
 [@ExpReward]
-55000
+1550000
 
 [@GoldReward]
-55000
+1550000

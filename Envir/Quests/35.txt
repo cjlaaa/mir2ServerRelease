@@ -1,11 +1,9 @@
-[@Description]
-Have you heard of {SnakeWine/LightSteelBlue}? This Wine is made 
-with {Red Snake/Crimson} and {Striped Snakes/Crimson}. I had this 
-once near the {SerpentValley/Yellow} and i still can't 
-forget the taste of it.
+﻿[@Description]
+你听说过 {SnakeWine/LightSteelBlue}吗? 这种酒是用 {Red Snake/Crimson} 和 {Striped Snakes/Crimson}做的. 
+我曾经在 {SerpentValley/Yellow} 买到过一次，至今回味不已啊！
 
 [@TaskDescription]
-Please go purchase some {SnakeWine/LightSteelBlue} from {Mary/LimeGreen}
+请购买 {SnakeWine/LightSteelBlue} 从 {Robert/LimeGreen}
 
 [@Completion]
 
@@ -20,7 +18,7 @@ Please go purchase some {SnakeWine/LightSteelBlue} from {Mary/LimeGreen}
 [@SelectRewards]
 
 [@ExpReward]
-411
+2055
 
 [@GoldReward]
-600
+3000

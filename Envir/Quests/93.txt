@@ -1,9 +1,8 @@
-[@Description]
-Student's like to take risk's.. but there's one 
-missing.
+﻿[@Description]
+我们有一名学员走失了，请帮我找找他
 
 [@TaskDescription]
-Search for the Missing Student. 
+找到迷失的学员. 
 
 [@Completion]
 
@@ -18,7 +17,7 @@ Search for the Missing Student.
 [@SelectRewards]
 
 [@ExpReward]
-3860
+19300
 
 [@GoldReward]
-7000
+35000

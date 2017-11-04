@@ -1,18 +1,17 @@
-[@Description]
-Hello. There are to many Insects in 
-{MongchonProvince/Yellow} these days. I can't sleep 
-because of the noises at night. Could you 
-hunt these insects?
+﻿[@Description]
+最近一段时间，{MongchonProvince/Yellow}有好多虫子. 
+我已经被它们制造出的噪音折磨疯了，请帮我
+消灭一些虫子.
 
 [@TaskDescription]
-Travel to {Stone Tomb/Yellow} and Eliminate 10 
-{BlackMaggot/Crimson} and {WedgeMoth/Crimson}.
+前往 {Stone Tomb/Yellow} 然后猎杀 5 
+{BlackMaggot/Crimson} 和 {WedgeMoth/Crimson}.
  
 [@Completion]
 
 [@KillTasks]
-BlackMaggot 10
-WedgeMoth 10
+BlackMaggot 5
+WedgeMoth 5
 
 [@ItemTasks]
 
@@ -23,7 +22,7 @@ WedgeMoth 10
 [@SelectRewards]
 
 [@ExpReward]
-12500
+125000
 
 [@GoldReward]
-12500
+125000

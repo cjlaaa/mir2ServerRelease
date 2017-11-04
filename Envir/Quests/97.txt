@@ -1,10 +1,10 @@
-[@Description]
-Traveler. Please Warn the {SubjugationLead/LimeGreen} in 
-{WoomyonWoods/Yellow} about the pending threat.
+﻿[@Description]
+旅行者. 请鼓舞 {SubjugationLead/LimeGreen} 在 
+{WoomyonWoods/Yellow} 以面对即将到来的危险.
 
 [@TaskDescription]
-Travel to {WoomyonWoods/Yellow} and warm them 
-about the pending Threat.
+前往 {WoomyonWoods/Yellow} 鼓舞他们面对
+即将到来的危险.
 
 [@Completion]
 
@@ -19,7 +19,7 @@ about the pending Threat.
 [@SelectRewards]
 
 [@ExpReward]
-1380
+6900
 
 [@GoldReward]
-2563
+12815

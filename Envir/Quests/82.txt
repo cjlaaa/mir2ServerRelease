@@ -1,12 +1,11 @@
-[@Description]
-Traveler... Traveler. I'm in dire need of your 
-help... I've just received new's regarding a 
-very rare creature in {SerpentDeadMines/Yellow} 
-the {WhiteSerpent/Crimson} sound's interesting 
-does it not? 
+﻿[@Description]
+旅行者... 旅行者. 我现在急需你的帮助... 
+我刚刚在{SerpentDeadMines/Yellow}中发现了 
+一种极其稀有的 {WhiteSerpent/Crimson} .
+你能帮我杀了到它吗
 
 [@TaskDescription]
-Eliminate {WhiteSerpent/Crimson} in {SerpentDeadMine/Yellow}.
+猎杀 {WhiteSerpent/Crimson} 在 {SerpentDeadMine/Yellow}.
 
 [@Completion]
 
@@ -22,7 +21,7 @@ WhiteSerpent 1
 [@SelectRewards]
 
 [@ExpReward]
-5900
+29500
 
 [@GoldReward]
-5900
+29500

@@ -1,18 +1,17 @@
-[@Description]
-There's been a Monster Kill Order issued. 
-Please carry out this Order.
+﻿[@Description]
+这里还有很多怪物，请你再帮我杀掉一些.
 
 [@TaskDescription]
-Eliminate 4 {GangSpider/Crimson}, {RootSpider/Crimson} 5 
-{LureSpider/Crimson} and {GreatSpider's/Crimson}.
+消灭 2 {GangSpider/Crimson}, 3 {RootSpider/Crimson}  
+{LureSpider/Crimson} 和 {GreatSpider's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-GangSpider 4
-RootSpider 5
-LureSpider 5
-GreatSpider 5
+GangSpider 2
+RootSpider 3
+LureSpider 3
+GreatSpider 3
 
 [@ItemTasks]
 
@@ -28,7 +27,7 @@ SpiritRobe
 LeatherArmour
 
 [@ExpReward]
-7100
+35500
 
 [@GoldReward]
-7100
+35500

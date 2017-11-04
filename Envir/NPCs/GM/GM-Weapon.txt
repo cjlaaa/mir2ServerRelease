@@ -38,7 +38,7 @@ Buy.
 
 [Trade]
 SpiritBlade
-MirSword
+传奇之剑
 BoneDecapitator
 PickAxe
 WoodenSword

@@ -1,17 +1,17 @@
-[@Description]
-Travel, I have another task. 
-I'm still worried by this threat. I have decided we 
-should send these creatures a message.
+﻿[@Description]
+干的漂亮冒险者！
+但是我觉得我们应该更进一步去削弱怪物，
+看你的了！
 
 [@TaskDescription]
-Eliminate 20 {FlamingWooma's/Crimson} and 
-{WoomaFighter's/Crimson} in {WoomaTemple/Yellow}.
+猎杀 10 {FlamingWooma's/Crimson} 和 
+{WoomaFighter's/Crimson} 在 {WoomaTemple/Yellow}.
 
 [@Completion]
 
 [@KillTasks]
-FlamingWooma 20
-WoomaFighter 20
+FlamingWooma 10
+WoomaFighter 10
 
 [@ItemTasks]
 
@@ -22,7 +22,7 @@ WoomaFighter 20
 [@SelectRewards]
 
 [@ExpReward]
-8300
+41500
 
 [@GoldReward]
-8300
+41500

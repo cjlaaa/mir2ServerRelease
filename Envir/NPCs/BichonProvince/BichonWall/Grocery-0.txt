@@ -130,3 +130,9 @@ from the throne the better. Its time for the free folk to
 govern these lands.
  
 <Close/@exit>
+
+
+
+[Quests]
+42
+-42

@@ -1,9 +1,9 @@
-[@Description]
-The Howling oh the Howling.. Search for the 
-Source and Kill the creature.
+﻿[@Description]
+咆哮...不断的咆哮.
+找到恶魔的藏身之处并杀掉它
 
 [@TaskDescription]
-Eliminate the {OmaWarrior/Crimson}.
+猎杀 {OmaWarrior/Crimson}.
 
 [@Completion]
 
@@ -20,7 +20,7 @@ BlackIronBelt
 [@SelectRewards]
 
 [@ExpReward]
-8200
+82000
 
 [@GoldReward]
-2050
+20500

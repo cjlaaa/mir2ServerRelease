@@ -1,18 +1,16 @@
-[@Description]
-Hello young Mirian, I'm planning going to
-{MongchonProvince/Yellow} frequently, but i haven't left
-this town because of the snake on the way. 
-Do you think you can eliminate some of those 
-snakes?
+﻿[@Description]
+你好旅行者, 我最近正在计划前往
+{MongchonProvince/Yellow} ,但是我听说路上不是很太平. 
+你能帮我杀一些蛇吗?
 
 [@TaskDescription]
-Eliminate 15 {RedViper/Crimson} and {TigerViper's/Crimson}
+消灭 5 {RedViper/Crimson} 和 {TigerViper's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-RedViper 15
-TigerViper 15
+RedViper 5
+TigerViper 5
 
 [@ItemTasks]
 
@@ -24,7 +22,7 @@ SolidBronzeAxe
 [@SelectRewards]
 
 [@ExpReward]
-1200
+6000
 
 [@GoldReward]
-300
+1500

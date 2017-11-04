@@ -1,6 +1,6 @@
-[@Main]
+﻿[@Main]
 #Say
-Feature to come.
+测试汉语
 
 [Quests]
 -34

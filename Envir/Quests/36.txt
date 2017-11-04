@@ -1,17 +1,16 @@
-[@Description]
-I'm sorry but we are sold out of {SnakeWine/LightSteelBlue}.
-I can make you some, But you will have to bring 
-me the ingredients.
+﻿[@Description]
+我很抱歉， {SnakeWine/LightSteelBlue}卖光了.
+我可以帮你酿一些，但是你得给我材料才行.
 
 [@TaskDescription]
-Please collect 10 {SnakeBody's/LightSteelBlue} from Snakes.
+从蛇身上收集 5 {SnakeBody's/LightSteelBlue} .
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-SnakeBody 10
+SnakeBody 5
 
 [@CarryItems]
 
@@ -20,7 +19,7 @@ SnakeBody 10
 [@SelectRewards]
 
 [@ExpReward]
-800
+4000
 
 [@GoldReward]
-800
+4000

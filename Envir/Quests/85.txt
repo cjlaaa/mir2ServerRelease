@@ -1,17 +1,17 @@
-[@Description]
-Myths and Rumours say that Collecting 
-{Zombie Heart's/LightSteelBlue} for a special Ridual.
-repells them from the Area.
+﻿[@Description]
+Myths 和 Rumours 说需要收集一些 
+{Zombie Heart's/LightSteelBlue} .
+这会有助于我们击败它们.
 
 [@TaskDescription]
-Collect 10 {ZombiesHeart/LightSteelBlue} from {CursedPriest's/Crimson}.
+收集 5 {ZombiesHeart/LightSteelBlue} 从 {CursedPriest's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-ZombiesHeart 10
+ZombiesHeart 5
 
 [@CarryItems]
 
@@ -20,7 +20,6 @@ ZombiesHeart 10
 [@SelectRewards]
 
 [@ExpReward]
-7000
-
+35000
 [@GoldReward]
-7000
+35000

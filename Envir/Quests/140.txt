@@ -1,8 +1,9 @@
-[@Description]
-BichonWall Bounty, Has been submitted.
+﻿[@Description]
+比奇省赏金任务：收集栗子.
 
 [@TaskDescription]
-Collect {5 GoldChestnuts/LightSteelBlue}. 
+收集 {5 GoldChestnuts/LightSteelBlue}. 
+通过击杀栗子树
 
 [@Completion]
 
@@ -20,7 +21,7 @@ GoldChestnut 5
 [@SelectRewards]
 
 [@ExpReward]
-1500
+15000
 
 [@GoldReward]
-10000
+100000

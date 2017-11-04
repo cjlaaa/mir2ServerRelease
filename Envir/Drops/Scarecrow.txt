@@ -13,9 +13,13 @@
 1/100 BaseDress(M) 
 1/100 BaseDress(F) 
 
+;Helmets
+
 ;Necklaces
 1/80 GoldNecklace 
 1/100 PrecisionNecklace 
+
+;Bracelets
 
 ;Rings
 1/200 CopperRing 
@@ -23,10 +27,69 @@
 1/200 GlassRing 
 1/200 HexagonalRing 
 
+;Amulets
+
+;Belts
+
+;Boots
+
+;Stones
+
+;Torches
+
 ;Potions
 1/40 (HP)DrugSmall 
 1/60 (MP)DrugSmall 
 1/400 SunPotion 
 
+;Ores
+
+;Meat
+
+;Crafting Materials
+
+;Scrolls
+
+;Gems
+
+;Mount
+
+;Books
+
+;Nothing
+
+;Script
+
+;Reins
+
+;Bells
+
+;Saddle
+
+;Ribbon
+
+;Mask
+
+;Food
+
+;Hook
+
+;Float
+
+;Bait
+
+;Finder
+
+;Reel
+
+;Fish
+
 ;Quest
 1/5 GingerTea Q
+
+;Awakening
+
+;Pets
+
+;Transform
+

@@ -1,10 +1,10 @@
-[@Description]
-Hello traveller..
-{Butcher John/LimeGreen} is loooking for some help.
-I think its an urgent matter.
+﻿[@Description]
+你好，旅行者..
+{Butcher John/LimeGreen} 正在寻求一些帮助.
+我觉得你应该立即去看看.
 
 [@TaskDescription]
-Speak to {Butcher John/LimeGreen} at Coordinates 293:603
+找到 {Butcher John/LimeGreen} 在 坐标 293:603
 
 [@Completion]
 
@@ -22,6 +22,6 @@ ToughHoaSword
 StiffWoodenBow
 
 [@ExpReward]
-10
+50
 
 [@GoldReward]

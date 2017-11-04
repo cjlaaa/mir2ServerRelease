@@ -1,16 +1,16 @@
-[@Description]
-Please head back to {TreePath/Yellow} and gather more 
+﻿[@Description]
+再次前往 {TreePath/Yellow} 获取更多的 
 {Materials/LightSteelBlue}.
 
 [@TaskDescription]
-Find 5 {AncientTree/LightSteelBlue} by killing {RootSpider's/Crimson}.
+找到 2 {AncientTree/LightSteelBlue} 通过猎杀 {RootSpider's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-AncientTree 5
+AncientTree 2
 
 [@CarryItems]
 
@@ -19,7 +19,7 @@ AncientTree 5
 [@SelectRewards]
 
 [@ExpReward]
-7000
+35000
 
 [@GoldReward]
-7000
+35000

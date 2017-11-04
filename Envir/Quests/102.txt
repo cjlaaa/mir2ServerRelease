@@ -1,10 +1,10 @@
-[@Description]
-Oh Hello Traveler. 
-Have you ever heard of {MongchonProvince/Yellow}? 
-They are in need of help.
+﻿[@Description]
+哦，你好旅行者. 
+不知道你有没有听说过 {MongchonProvince/Yellow}? 
+他们现在需要一些帮助.
 
 [@TaskDescription]
-Talk to {Edwin/LimeGreen} in {MongchonProvince/Yellow}.
+与 {Edwin/LimeGreen} 交谈，他在 {MongchonProvince/Yellow}.
 
 [@Completion]
 
@@ -19,7 +19,7 @@ Talk to {Edwin/LimeGreen} in {MongchonProvince/Yellow}.
 [@SelectRewards]
 
 [@ExpReward]
-2534
+25340
 
 [@GoldReward]
-4750
+47500
