@@ -1,0 +1,76 @@
+DONE List:
+16/10/2015 - Note Revision 3.
+Added StormEscape Book, Revised Damage + MP Usage
+Added FastMove Book, (Awaiting Skill tobe coded).
+Added ImmortalSkin Book, (Awaiting Skill tobe coded).
+Added HealingCircle Book, (Awaiting Skill tobe coded).
+Added MoonMist Book, (Awaiting Skill tobe coded).
+Added Knapsack(S), Knapsack(M), Knapsack(L)
+GameShop item's redone. Creatures + Mounts added.
+
+28/09/2015 - 15/20/2015 Note Revision 2.
+Added missing mounts to gm mount shop.
+Removed STONETRAP from gm book shop.
+Refine Added to Sabuk.
+Added rest of Transforms to the GameShop.. Few need new names.
+Added Patrols to CastleBichon
+Changed Awaking to official Weapon Only. (Removed Armour + Helmet)
+Changed CastleBichon Guard + ArcherGuard to Royal_Guard and Royal_Archer
+Bribery of Commander Luke, will send you to the Prison: (waiting for a Prison Buff)
+BookShops now fixed Archer explanation.
+InnKeeper's fixed incomplete sentance.
+Removed colours from the NPCS
+Added Timer to DC/MC/SC Torches
+Added Duration to Hard/KnowledgeTorchs
+PrisonGuard added to the BichonProvince Prison (Awaiting CHECKBUFF command)
+Gem + Orbs now follow Korean Official Useable on list.
+PenalCavern Added.
+PenalCavern Monster + Drop + Item Added.
+EXP Scrolls now changed to a Potion.
+Renumbered all Script type Items.
+CraftingVillage Added.
+Crafting Portal NPCS added. Require [SET] to enter. (Hidden until [SET] Active)
+Added TravellingMerchant, Location's Coord's Time's located inside TravellingMerchant.txt
+Re Added Old Patrols.
+Added Packages to GameShop.
+CreditScroll - change to CreditToken, image number 938 (mir2 token image)
+Frog mob (pet) - AI 64, Name Frog, Effect 10 (stats of other pets like baby dragon)
+FrogEgg item - Type Pets, Image 2884, Shape 10, Grade Mythical
+Transform27 item - shape 27, type transform (normal transform item stats)
+LaternItem - Type Torch, max light and range, gameshop item, image number 1948
+NPC shops - needs multiples adding for any stack items. Example: hp potion should be 1, 5, 10 amounts (just add number on end of item in TRADE. Don't add a number higher than the amount it can stack.
+
+08/09/2015 - 28/09/2015 Note Revision 1.
+Added m,h,d,M,y To GameShop items
+Added FootBall.
+GaleRing Speed Changed to 1. GaleNecklace Speed Changed to 2.
+Removed SC0-2 From Amulets and Poisons
+Added Amulet(Bundle)
+1x Quest to unlock Ancient Cave 
+   If you take Wine to Emperor Far, you will unlock feature in future. 
+New NPC for Far, in the Palace "Hail Emperor Far" feature to come. 
+Renamed PremiumDungeon_Elijah to Premium_Elijah
+You can purchase Wines from Sir_Mogu.. Wine Feature to come.
+Removed BoxOfHolyWater from Server until i find a nice clean way to add.
+Items Readded to GameShop
+Flag 952 Added to GameMaster NPCS in R001
+Flag 951 Added for Disabled NPCS 
+
+NPC's Redone:
+;AncientCaves
+;BichonProvince
+;MongchonProvince
+;PastBichon
+;PrajnaIsland
+;SerpentValley
+;WasteLand
+;WhiteValley
+;WoomyonWoods
+
+
+PARTLY FINISHED:
+CraftsLady-0 (Awaiting Feature tobe coded.)
+GTMerchant-0 (Awaiting Feature tobe coded.)
+(hoping for more complex system then orignal)
+Lottery-0 (Awaiting Feature tobe coded.)
+SwampNpc (Need to change to SabukCave once added FLAG CURRENT 951)
