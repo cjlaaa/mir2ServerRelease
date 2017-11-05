@@ -28,3 +28,6 @@ What item do you want to store or withdraw?
  
 <Back/@Main> - <Close/@exit>
 
+[Quests]
+113
+-113

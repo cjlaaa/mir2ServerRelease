@@ -5,14 +5,14 @@
 你能帮我消灭一些吗
 
 [@TaskDescription]
-消灭 8 {BlackBoar/Crimson} 和 {RedBoar's/Crimson} 在 
+消灭 5 {BlackBoar/Crimson} 和 {RedBoar's/Crimson} 在 
 {StoneTomb/Yellow}
 
 [@Completion]
 
 [@KillTasks]
-BlackBoar 8
-RedBoar 8
+BlackBoar 5
+RedBoar 5
 
 [@ItemTasks]
 

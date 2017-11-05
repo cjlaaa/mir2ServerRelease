@@ -72,3 +72,6 @@
 
 ;Crafting Materials
 1/15 RedThread 
+
+;Quest
+1/2 BoarTooth Q

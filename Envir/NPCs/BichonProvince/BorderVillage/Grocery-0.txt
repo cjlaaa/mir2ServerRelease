@@ -50,9 +50,11 @@ These are the items still available to purchase back.
 (MP)DrugMedium 10
 Candle
 Torch
-RandomTeleport
+RandomTeleport 1
+RandomTeleport 20
 DungeonEscape
-Amulet
+Amulet 500
+Amulet 5000
 
 [Quests]
 -48

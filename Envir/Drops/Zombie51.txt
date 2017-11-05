@@ -3,6 +3,6 @@
 
 
 ;Quest
-1/15 BichonTales(1) Q
-1/15 BichonTales(2) Q
-1/15 BichonTales(3) Q
+1/2 BichonTales(1) Q
+1/2 BichonTales(2) Q
+1/2 BichonTales(3) Q

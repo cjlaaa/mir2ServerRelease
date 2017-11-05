@@ -95,10 +95,12 @@ and you can return to a village promptly by using it...
 [Trade]
 Candle
 Torch
-RandomTeleport
+RandomTeleport 1
+RandomTeleport 20
 DungeonEscape
+Amulet 500
+Amulet 5000
 TeleportHome
-Amulet
 RepairOil
 
 [Quests]

@@ -8,7 +8,7 @@
 [@Completion]
 
 [@KillTasks]
-CrawlerZombie 20 "猎杀一些 CrawlerZombies"
+CrawlerZombie 5 
 
 [@ItemTasks]
 

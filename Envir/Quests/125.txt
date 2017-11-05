@@ -17,6 +17,6 @@ The {VillageChief/LimeGreen} is looking for you.
 [@SelectRewards]
 
 [@ExpReward]
-39120
+391200
 
 [@GoldReward]

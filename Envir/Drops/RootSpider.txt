@@ -79,5 +79,5 @@
 1/10 SpiderWeb
 
 ;Quest
-1/6 AncientTree Q
+1/2 AncientTree Q
 

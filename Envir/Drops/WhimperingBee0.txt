@@ -91,4 +91,4 @@
 1/2 WhiteThread 
 
 ;Quest
-1/5 BugSpecimen Q
+1/2 BugSpecimen Q

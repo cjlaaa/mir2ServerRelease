@@ -84,6 +84,6 @@
 1/5 SpiderWeb
 
 ;Quest
-1/2 TraineeRing 
+1/2 TraineeRing Q
 1/2 RedThread Q
 1/2 BlackThread Q 

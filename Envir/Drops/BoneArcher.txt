@@ -48,4 +48,4 @@
 1/100 ShamanHelmet
 
 ;Quest
-1/10 CleanSkull Q
+1/2 CleanSkull Q

@@ -18,4 +18,4 @@
 1/1000 Apple
 
 ;Quest
-1/5 WornAxe Q
+1/1 WornAxe 

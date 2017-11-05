@@ -35,20 +35,18 @@ These are the items still available to purchase back.
 
 [Trade]
 (HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
+(HP)DrugSmall 20
 (MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
+(MP)DrugSmall 20
 (HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
+(HP)DrugMedium 20
 (MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
+(MP)DrugMedium 20
 (HP)DrugLarge 1
-(HP)DrugLarge 5
-(HP)DrugLarge 10
+(HP)DrugLarge 20
 (MP)DrugLarge 1
-(MP)DrugLarge 5
-(MP)DrugLarge 10
+(MP)DrugLarge 20
+(HP)DrugXL 1
+(HP)DrugXL 20
+(MP)DrugXL 1
+(MP)DrugXL 20

@@ -1,16 +1,15 @@
 ﻿[@Description]
-找到 {CrushedBone's/LimeGreen} 之后，它丢掉了 {TraineeRing/LightSteelBlue}.
+找到 {CrushedBone's/LimeGreen} 之后，他已经被蜘蛛杀死了.
 
-[@TaskDescription]
-找到 {TraineeRing/LightSteelBlue} 
-通过击杀 {VenomSpider/Crimson}.
+[@TaskDescription]} 
+击杀 {VenomSpider/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
+VenomSpider 1
 
 [@ItemTasks]
-TraineeRing 1
 
 [@CarryItems]
 

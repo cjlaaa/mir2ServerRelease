@@ -18,7 +18,7 @@ BlackIronBangle
 [@SelectRewards]
 
 [@ExpReward]
-51800
+451800
 
 [@GoldReward]
 24220

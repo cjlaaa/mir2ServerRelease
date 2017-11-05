@@ -9,7 +9,7 @@
 [@Completion]
 
 [@KillTasks]
-WoomaWarrior 15
+WoomaWarrior 5
 WoomaGuardian 1
 
 [@ItemTasks]

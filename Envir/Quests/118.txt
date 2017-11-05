@@ -9,9 +9,9 @@
 [@Completion]
 
 [@KillTasks]
-CursedZombie 20 "Eliminate the CursedZombie Threat"
-ShiZombie 10 "Reduce the ShiZombie's"
-HungryZombie 20 "Eliminate the HungryZombie Threat"
+CursedZombie 5 
+ShiZombie 5 
+HungryZombie 5 
 
 [@ItemTasks]
 
@@ -22,7 +22,7 @@ HungryZombie 20 "Eliminate the HungryZombie Threat"
 [@SelectRewards]
 
 [@ExpReward]
-150000
+300000
 
 [@GoldReward]
 150000

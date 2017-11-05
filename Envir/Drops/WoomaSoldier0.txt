@@ -82,6 +82,6 @@
 1/250 BronzeBelt
 
 ;Quest
-1/6 BeefRib Q
+1/2 BeefRib Q
 1/350 WoomaHeart 
 

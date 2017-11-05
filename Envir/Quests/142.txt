@@ -1,16 +1,16 @@
-[@Description]
-MudWall Bounty, Has been submitted.
+﻿[@Description]
+盟重省悬赏任务.
 
 [@TaskDescription]
-Travel to {StoneTemple/Yellow} Eliminate {Boar's/Crimson} and 
-collect {Boar Tooth's/LightSteelBlue}.
+前往 {StoneTemple/Yellow}击杀 {Boar's/Crimson} 
+然后收集 {Boar Tooth's/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BoarTooth 75 "Collect the Boar's Tooth"
+BoarTooth 25 
 
 [@FlagTasks]
 
@@ -21,7 +21,7 @@ BoarTooth 75 "Collect the Boar's Tooth"
 [@SelectRewards]
 
 [@ExpReward]
-10000
+100000
 
 [@GoldReward]
-25000
+250000

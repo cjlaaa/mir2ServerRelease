@@ -90,5 +90,5 @@
 1/40 DoubleShot 
 
 ;Quest
-1/10 ZombiesHeart Q
+1/2 ZombiesHeart Q
 

@@ -25,7 +25,7 @@ FlamingRedArmour
 HardTemperedArmour
 
 [@ExpReward]
-39120
+391200
 
 [@GoldReward]
-15000
+150000

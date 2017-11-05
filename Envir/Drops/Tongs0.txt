@@ -92,5 +92,5 @@
 
 
 ;Quest
-1/15 CharleySword Q
+1/5 CharleySword Q
 

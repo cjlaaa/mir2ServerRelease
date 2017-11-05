@@ -27,5 +27,7 @@ What Posion's do you wish to buy?
 13
 
 [Trade]
-GreyPoison
-YellowPoison
+GreyPoison 500
+GreyPoison 5000
+YellowPoison 500
+YellowPoison 5000

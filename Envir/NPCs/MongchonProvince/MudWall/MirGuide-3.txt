@@ -854,3 +854,4 @@ guild information and etc.
 <Back/@basic>                               <Go to Main/@main>
 
 [Quests]
+110

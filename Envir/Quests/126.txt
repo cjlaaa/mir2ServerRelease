@@ -16,6 +16,6 @@
 [@SelectRewards]
 
 [@ExpReward]
-39120
+391200
 
 [@GoldReward]

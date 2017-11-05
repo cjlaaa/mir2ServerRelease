@@ -5,14 +5,13 @@
 
 [@TaskDescription]
 找到并击杀 {BloodyLureSpider/Crimson} 
-然后拿到 {WornAxe/LightSteelBlue}
 
 [@Completion]
 
 [@KillTasks]
+BloodyLureSpider 1
 
 [@ItemTasks]
-WornAxe 1
 
 [@CarryItems]
 

@@ -84,5 +84,5 @@
 1/5 Mandible 
 
 ;Quest
-1/10 OldNecklace Q
+1/2 OldNecklace Q
 

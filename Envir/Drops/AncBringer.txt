@@ -145,7 +145,7 @@
 1/300 AccuracyOrb
 1/300 AgilityOrb
 
-;Gems
+;books
 1/600 SlashingBurst
 1/600 EnergyShield
 1/600 IceThrust

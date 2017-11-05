@@ -25,7 +25,7 @@
 1/800 SoulArmour(F) 
 1/800 RelicArmour(M) 
 1/800 RelicArmour(F) 
-1/00 LightLeatherArmour(M) 
+1/800 LightLeatherArmour(M) 
 1/8400 LightLeatherArmour(F) 
 
 ;Helmets
@@ -91,4 +91,4 @@
 1/20 WhiteThread 
 
 ;Quest
-1/5 BugSpecimen Q
+1/2 BugSpecimen Q

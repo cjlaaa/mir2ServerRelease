@@ -58,7 +58,7 @@ LowShoes
 [Quests]
 -86
 87
-156
+
 
 [@talk]
 #IF
