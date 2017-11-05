@@ -25,7 +25,7 @@ MonkBangle
 SilkShoes
 
 [@ExpReward]
-19000
+38000
 
 [@GoldReward]
 4750

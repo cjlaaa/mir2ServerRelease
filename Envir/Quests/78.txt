@@ -24,7 +24,6 @@ EyeofGoldenSnake
 BlackPearlRing 
 
 [@ExpReward]
-24000
-
+48000
 [@GoldReward]
 24000

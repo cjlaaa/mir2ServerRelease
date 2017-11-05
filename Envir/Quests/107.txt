@@ -25,7 +25,7 @@ FireConvexLens
 StrongBambooFlute
 
 [@ExpReward]
-38010
+380100
 
 [@GoldReward]
-17810
+178100

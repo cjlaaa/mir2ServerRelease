@@ -21,7 +21,7 @@ BlackThread 5
 [@SelectRewards]
 
 [@ExpReward]
-29500
+59000
 
 [@GoldReward]
 29500

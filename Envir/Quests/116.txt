@@ -22,7 +22,7 @@ SolidTwinBlades
 SolidSilverBow
 
 [@ExpReward]
-66880
+668800
 
 [@GoldReward]
 130000
