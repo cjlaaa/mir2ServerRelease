@@ -1,10 +1,11 @@
 ﻿[@Description]
-{Blacksmith Jang/LimeGreen}, 需要一些帮助.
-他就居住在 {WoomyonWoods/Yellow} 
-进入森林向北走，你就会找到 {WoomyonWoods/Yellow} 村.
+{Blacksmith Jang/LimeGreen}需要一些帮助。
+他住在{WoomyonWoods/Yellow}的北方，你可以顺着城西北的
+小路一路向北，就能到达{WoomyonWoods/Yellow}的村庄。
+请你去帮帮他好吗？
 
 [@TaskDescription]
-前往 {WoomyonWoods/Yellow} 找到 {Jang/LimeGreen}.
+前往{WoomyonWoods/Yellow}找到{Jang/LimeGreen}并和他谈谈。
 
 [@Completion]
 

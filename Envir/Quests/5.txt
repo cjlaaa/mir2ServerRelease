@@ -1,11 +1,10 @@
 ﻿[@Description]
-年轻的冒险者，我的名字叫 {Smith/LimeGreen}.
-在村外，有太多的怪物了！
-我不知道怎么才能去 {BichonWall/Yellow}
-你能帮我吗？
+年轻的冒险者，我的名字叫{Smith/LimeGreen}。
+现在村外的怪物太泛滥，我都不敢去{BichonWall/Yellow}了。
+你能帮我消灭一些怪物吗？
 
 [@TaskDescription]
-消灭 5 {Deer/Crimson} 和 {Scarecrow's/Crimson}.
+消灭5只{Deer/Crimson}和5只{Scarecrow/Crimson}。
 
 [@Completion]
 

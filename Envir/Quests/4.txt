@@ -1,11 +1,10 @@
 ﻿[@Description]
-啊，你就是 {Jane/LimeGreen} 推荐的冒险者吗.
-请帮我杀几只 {Deer/Crimson} 并带回一些
-{Deer Meat/LightSteelBlue}. 如果你想知道更多关于
-屠夫的事，请按 "H".
+啊，你就是{Jane/LimeGreen}提到的冒险家吗。
+你能帮我猎几头{Deer/Crimson}并带回一些{Deer Meat/LightSteelBlue}吗？
+如果你想了解更多关于屠夫的帮助，请按"H"键。
 
 [@TaskDescription]
-收集 {Deer Meat/LightSteelBlue} 通过猎杀 {Deer's/Crimson}
+猎杀{Deer/Crimson}并收集5块{Deer Meat/LightSteelBlue}。
 
 [@Completion]
 

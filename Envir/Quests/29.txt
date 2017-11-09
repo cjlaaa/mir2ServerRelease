@@ -1,10 +1,11 @@
 ﻿[@Description]
-帮帮我.  你听说过{Bradly/LimeGreen} 住在{SerpentValley/Yellow}吗? 
-他上次来的时候将 {RepairOil's/LightSteelBlue}忘在这里了. 
-这是他维修武器的必需品，请帮我送给他。
+请帮我个忙。
+你能帮我把这东西交给{SerpentValley/Yellow}的{Bradly/LimeGreen}吗? 
+他的{RepairOil/LightSteelBlue}用光了，但他却急需修理武器。
+请尽快带给他，拜托了。
 
 [@TaskDescription]
-带一个 {RepairOil/LightSteelBlue} 给 {Bradly/LimeGreen}.
+把{RepairOil/LightSteelBlue}交给{Bradly/LimeGreen}。
 
 [@Completion]
 

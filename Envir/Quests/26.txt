@@ -1,9 +1,9 @@
 ﻿[@Description]
-村子附近有很多{SpittlingSpider's/Crimson} . 我们需要它的 {PoisonSack/LightSteelBlue}.
+村子附近的{SpittlingSpider/Crimson}越来越多，
+这种怪物的剧毒的解毒剂只能通过{PoisonSack/LightSteelBlue}来制作。
 
 [@TaskDescription]
-找到 {PoisonSack's/LightSteelBlue} 通过消灭
-{SpittingSpider's/Crimson}.
+消灭{SpittingSpider/Crimson}并在它们的尸体上找到{PoisonSack/LightSteelBlue}
 
 [@Completion]
 

@@ -1,12 +1,11 @@
 ﻿[@Description]
-有一种叫做 {Oma/Crimson} 的怪物游荡在
-{BichonWall/Yellow} 外和其它村庄. 
-他们非常强壮，残忍. 我们损失惨重. 你能帮我们
-消灭他们吗?
+最近{BichonWall/Yellow}和周边村庄附近
+出现了一些叫做{Oma/Crimson}的怪物。
+他们非常强壮残忍，并且不断的袭击往来的商队，
+你能帮我们消除威胁吗？
 
 [@TaskDescription]
-猎杀 {Oma's/Crimson} 并带回 5 
-{OmaTeeth's/LightSteelBlue}
+请消灭一些{Oma/Crimson}并带回5个{OmaTeeth/LightSteelBlue}。
 
 [@Completion]
 

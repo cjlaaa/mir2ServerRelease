@@ -1,10 +1,10 @@
 ﻿[@Description]
-你好，旅行者..
-{Butcher John/LimeGreen} 正在寻求一些帮助.
-我觉得你应该立即去看看.
+你好，旅行者。
+我听说{Butcher John/LimeGreen}正在寻求帮助。
+我想他一定是遇上麻烦事儿了。
 
 [@TaskDescription]
-找到 {Butcher John/LimeGreen} 在 坐标 293:603
+在坐标293:603附近找到{Butcher John/LimeGreen}。 
 
 [@Completion]
 
