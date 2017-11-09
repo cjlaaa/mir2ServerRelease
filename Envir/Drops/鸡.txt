@@ -1,28 +1,6 @@
-;Pots + Other
+;Meat
+1/5 Chicken 
+1/15 Chicken 
 
-
-;Weapons
-
-
-;Armour
-
-
-;Helmets
-
-
-;Necklace
-
-
-;Bracelets
-
-
-;Rings
-
-
-;Shoes
-
-
-;Belts
-
-
-;Stone
+;CraftingMaterial
+1/20 Feather
