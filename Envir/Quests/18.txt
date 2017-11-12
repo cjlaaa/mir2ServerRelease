@@ -1,10 +1,10 @@
 ﻿[@Description]
-你现在似乎是一名合格的刺客了.
-我已经叫彼得给你一些新工作了。
-拿好你现在的奖励，这些似乎会对你有些帮助。
+现在你终于看起来像个训练有素的刺客了。
+我已经让{MirGuide Peter/LimeGreen}给你安排了一些活儿。
+去吧，好好干，他不会亏待你的。
 
 [@TaskDescription]
-与 {MirGuide Peter/LimeGreen} 交谈，他在坐标 335:275
+与坐标335:275附近的{MirGuide Peter/LimeGreen}交谈。
 
 [@Completion]
 

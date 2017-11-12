@@ -1,12 +1,14 @@
 ﻿[@Description]
-你好旅行者. 你现在已经远近闻名了. 
-现在我们还想请你帮个小忙.
-随着战事越来越紧张，我们需要一些 {Web's/LightSteelBlue} 
-从外面的 {SpittingSpiders/Crimson}身上就可以找到 
-请帮帮我们
+你好旅行者，最近在这一带你真是远近闻名啊。 
+你能也帮我个忙吗？
+随着战事越来越紧张，最近药品的需求不断增加，
+但制作药品的材料却一直很短缺。
+我们尤其需要的是{Web/LightSteelBlue}，
+这玩意在{SpittingSpiders/Crimson}身上能搞到。 
+请帮我弄来一些好吗？
 
 [@TaskDescription]
-收集 5 {Web's/LightSteelBlue} 从 {SpittingSpider's/Crimson}
+在{SpittingSpider/Crimson}身上收集5个{Web/LightSteelBlue}。 
 
 [@Completion]
 

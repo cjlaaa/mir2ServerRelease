@@ -1,10 +1,9 @@
 ﻿[@Description]
-能帮我个忙嘛？我想送一个礼物给 {Jane/LimeGreen} 
-但现在我走不开。
+能帮我个忙吗？我想送一份礼物给{Jane/LimeGreen}以表达我的感激之情，
+但这会儿我实在是忙的不可开交。
 
 [@TaskDescription]
-找到 {GingerTea/LightSteelBlue} 从 {Scarecrows/Crimson} 然后带给{Assistant Jane/LimeGreen} 
-他在 {BorderVillage/Yellow}.
+在{Scarecrows/Crimson}身上找到{GingerTea/LightSteelBlue}带给{BorderVillage/Yellow}的{Assistant Jane/LimeGreen}。
 
 [@Completion]
 

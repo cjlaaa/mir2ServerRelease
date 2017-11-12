@@ -1,10 +1,9 @@
 ﻿[@Description]
-欢迎来到 {Border Village/Yellow} 年轻人.
-在你开始你的旅途之前，
-能否先帮我个忙? 
+年轻的旅者，欢迎来到{Border Village/Yellow}
+在开始你的旅途之前，能否先帮我个小忙? 
 
 [@TaskDescription]
-带 {CannibalLeaves/LightSteelBlue} 给 {CraftLady/LimeGreen}
+把{CannibalLeaves/LightSteelBlue}捎给{CraftLady/LimeGreen}。
 
 [@Completion]
 

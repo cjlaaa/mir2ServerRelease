@@ -1,10 +1,10 @@
 ﻿[@Description]
-你来的真及时. {MongchonEdwin/LimeGreen} 前段时间来过
-并留了个口信给你 
-去找 {Tavern/Yellow}吧
+你来的正好。
+{MongchonEdwin/LimeGreen}刚才走的时候给你留了个口信儿。
+请去{Tavern/Yellow}找他吧。
 
 [@TaskDescription]
-去找 {MongchonEdwin/LimeGreen} 使用 {Tavern/Yellow}
+去和{Tavern/Yellow}的{MongchonEdwin/LimeGreen}谈谈。
 
 [@Completion]
 
