@@ -1,3 +1,4 @@
+(@gtlist)
 [@Main]
 #SAY
 How are you? Mirian <$USERNAME>!

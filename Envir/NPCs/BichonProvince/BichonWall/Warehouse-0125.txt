@@ -93,7 +93,7 @@ He was also enquiring about an ancient language.
 1
 
 [Trade]
-Stamp
+邮票
 GoldBar
 GoldBarBundle
 GoldChest

@@ -1,6 +1,16 @@
 ﻿[@Main]
 #Say
-测试汉语
+我是工艺使者，可以制作很多稀有物品
+ 
+<Craft/@craft>
+
+[@Craft]
+#SAY
+你想要制作什么?
+
+[RECIPE]
+大火把
+
 
 [Quests]
 -34

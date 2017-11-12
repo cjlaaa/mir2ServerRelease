@@ -36,7 +36,7 @@ What would like to purchase?
 1
 
 [Trade]
-Stamp
+邮票
 GoldBar
 GoldBarBundle
 GoldChest

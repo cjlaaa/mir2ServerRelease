@@ -84,7 +84,7 @@ Come back only if u do have one.
 1
 
 [Trade]
-Stamp
+邮票
 GoldBar
 GoldBarBundle
 GoldChest

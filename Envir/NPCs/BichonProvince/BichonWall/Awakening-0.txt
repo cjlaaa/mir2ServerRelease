@@ -18,6 +18,11 @@ Welcome <$USERNAME>, I am the Awakening Master.
 === Resetting Features ===
 <Downgrade/@Downgrade> Item <Reset/@Reset> Item.
 
+[@Awakening]
+#SAY
+Choose which glaph you wish to awaking.
+
+
 [@Disassemble]
 #SAY
 Choose which Item you wish to Disassemble.
