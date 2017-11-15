@@ -38,7 +38,7 @@ Buy.
 
 [Trade]
 SpiritBlade
-传奇之剑
+天龙神型夺命剑
 BoneDecapitator
 PickAxe
 WoodenSword

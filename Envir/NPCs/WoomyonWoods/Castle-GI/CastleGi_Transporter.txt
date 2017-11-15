@@ -1,34 +1,34 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello i'm Denzel, the wandering warrior.
-I transport men and goods to other places fast and safe. 
-Just pay the fee then ill escort you to anywhere.
-So what do you say?
+你好，我的名字叫Denzel,我的工作是
+运用魔力将人们安全的送到他们想去的
+各大主城.整段旅途瞬间可达，只需要一点小钱
+那么你现在是想?
  
-I'll use this <Service/@tele>
-Maybe next <Time/@exit> 
+我想使用 <服务/@tele>
+我想 <下次再来/@exit> 
 
 [@tele]
 #SAY
-Which place would you like to go?
+你想去哪里?
  
-Teleport to: <CastleBichon/@move5> {(2000 Gold)/GOLD}
-Teleport to: <BorderVillage/@move1> {(500 Gold)/GOLD}
-Teleport to: <SerpentValley/@move2> {(2000 Gold)/GOLD}
-Teleport to: <MudWall/@move3> {(3000 Gold)/GOLD}
-Teleport to: <TaoistSchool/@move4> {(1000 Gold)/GOLD}
-Teleport to: <Maybe next time/@exit>
+前往: <比奇城/@move3> {(2000 Gold)/GOLD}
+前往: <边界村/@move1> {(2000 Gold)/GOLD}
+前往: <毒蛇山谷/@move2> {(1000 Gold)/GOLD}
+前往: <盟重土城/@move3> {(3000 Gold)/GOLD}
+前往: <道馆/@move4> {(1000 Gold)/GOLD}
+前往: <下次再来/@exit>
 
 [@move1]
 #IF
@@ -77,7 +77,8 @@ GOTO @B1
 
 [@B1]
 #SAY
-You don't have enough {Gold/Gold} to use my service!
-Be gone, don't waste my time again!
+你没有足够的 {Gold/Gold} 来使用此项服务!
+不要浪费我的时间，快走吧!
  
-<Close/@exit>
+<关闭/@exit>
+

@@ -1,6 +1,6 @@
-[@MAIN]
+﻿[@MAIN]
 #SAY
-I miss my farther.. 
+我很想我的家人.. 
 
 [Quests]
 95

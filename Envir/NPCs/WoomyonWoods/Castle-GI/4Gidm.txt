@@ -1,27 +1,27 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-What kind of Poison would you like to purchase?
+你想购买毒药吗?
  
-<Purchase/@Buy> Poison.
+<购买/@Buy> 毒药.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@Buy]
 #SAY
-What Posion's do you wish to buy?
+你想购买哪种毒药?
  
-<Close/@exit>
+<关闭/@exit>
  
 [Types]
 13

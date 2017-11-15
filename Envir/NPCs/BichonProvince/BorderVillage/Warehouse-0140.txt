@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -11,37 +11,36 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello traveller. How can i help you?
- 
-<Access/@Storage> Storage
-<Exchange/@mbind> Stuff
-<Purchase/@Buy>
-You have <$PARCELAMOUNT> parcels awaiting collection.
-<Send/@SendParcel> Parcel
-<Collect/@CollectParcel> Parcels
-
+你好旅行者，我能帮你做些什么?
+<打开/@Storage> 仓库
+<货币/@mbind> 转换
+<购买/@Buy>
+你有 <$PARCELAMOUNT> 个邮件在等待收取.
+<发送/@SendParcel> 邮件
+<收取/@CollectParcel> 邮件
 
 [@Storage]
 #SAY
-What item do you want to store or withdraw?
+看看你需要存取什么东西?
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 
 [@Buy]
 #SAY
-What would like to purchase?
+你想买什么东西?
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 
 [@mbind]
 #SAY
-I can exchange GoldBars,Bundles and Chests back in {Gold/Gold}.
-Tell me your wishes.
+我可以将金条，金砖，金盒与 {金币/Gold}互相转换.
+告诉我你需要哪项服务.
  
-Exchange: <GoldBar/@GBar> into {Gold/GOLD} - Commission {(2000 Gold)/Gold}
-Exchange: <GoldBarBundle/@GBBundle> into {Gold/GOLD} - Commission {(10000 Gold)/Gold}
-Exchange: <GoldChest/@GChest> into {Gold/GOLD} - Commission {(20000 Gold)/Gold}
-<Back/@main> - <Close/@exit>
+将: <金条/@GBar> 换成 {金币/GOLD} - 手续费 {(2000 金币)/Gold}
+将: <金砖/@GBBundle> 换成 {金币/GOLD} - 手续费 {(10000 金币)/Gold}
+将: <金盒/@GChest> 换成 {金币/GOLD} - 手续费 {(20000 金币)/Gold}
+<返回/@Main> - <关闭/@exit>
+
 
 [@GBar]
 #IF
@@ -50,10 +49,9 @@ CHECKITEM GoldBar 1
 TAKEITEM GoldBar 1
 GIVEGOLD 998000
 #ELSESAY
-You have no GoldBar for me to Exchange...
-Come back only if u do have one.
+你没有需要转换的金条，当你有了再来找我吧.
  
-<Back/@mbind> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 
 [@GBBundle]
 #IF
@@ -62,10 +60,9 @@ CHECKITEM GoldBarBundle 1
 TAKEITEM GoldBarBundle 1
 GIVEGOLD 4990000
 #ELSESAY
-You have no GoldBarBundle for me to Exchange...
-Come back only if u do have one.
+你没有需要转换的金砖，当你有了再来找我吧.
  
-<Back/@mbind> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 
 [@GChest]
 #IF
@@ -74,17 +71,15 @@ CHECKITEM GoldChest 1
 TAKEITEM GoldChest 1
 GIVEGOLD 9980000
 #ELSESAY
-You have no GoldChest for me to Exchange...
-Come back only if u do have one.
+你没有需要转换的金盒，当你有了再来找我吧.
  
-<Back/@mbind> - <Close/@exit>
-
+<返回/@Main> - <关闭/@exit>
 
 [Types]
 1
 
 [Trade]
-邮票
+Stamp
 GoldBar
 GoldBarBundle
 GoldChest

@@ -1,33 +1,17 @@
-;;2F
+﻿;;2F
 [@MAIN]
 #IF
-CHECKQUEST 153 1
-#ACT
-GOTO @MAIN-1
-#ELSESAY
-Nothing happens.
-
-[@MAIN-1]
-#IF
-LEVEL > 42
-LEVEL < 48
+LEVEL > 38 
+LEVEL < 54
 #SAY
-A Mysterious Stone. With Ancient symbols.
-"Banished Creatures <within./@Woomaa>"
-{WoomaHeart/LightSteelBlue} Required {Level 43~48./KHAI}
- 
-<Close/@exit>
-#ELSESAY
-Nothing happens.
- 
- 
-<Close/@Exit>
+前方是一个神秘的远古之地，你做好准备前往了吗？
+<前往/@go>
 
-[@Woomaa]
-#IF
-CHECKITEM WoomaHeart 1
-#ACT
-TAKEITEM WoomaHeart 1
-MOVE D022A 340 358
+<离开/@exit>
+
 #ELSESAY
-Nothing happens.
+这块石头散发出一股神秘的气息.
+
+[@go]
+#ACT
+MOVE D022A 340 358

@@ -1,15 +1,13 @@
-[@main]
+﻿[@main]
 #SAY
-I will gladly die for the general, if I can protect
-him by doing so.
-<Talk/@talk>
-<Close/@exit>
+我是将军的护卫，我会竭尽全力保证将军大人的安全.
+<交谈/@talk>
+<关闭/@exit>
 
 [@talk]
 #SAY
-You know what makes my life harder?
-Before the relief comes I can not leave the spot freely
-even for toilet. I wonder I might suffer from
-constipation one day...
-<close/@exit>
+你有过这种感受吗？
+半兽人的入侵让我们寝不安眠，我已经好久没有放松下来了...
+真担心哪天我会突然挺不住了...
+<关闭/@exit>
 

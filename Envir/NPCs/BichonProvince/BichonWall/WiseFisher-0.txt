@@ -1,43 +1,43 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Glad to see you, how can I help you?
+很高兴见到你，有什么需要帮忙的吗？
  
-<Purchase/@Buy> Fishing Stuff.
-<Sell/@sell> Fish.
+<买/@Buy> 渔具.
+<卖/@sell> 鱼.
  
-<Close/@exit>
+<关闭/@exit>
 
 
 [@Buy]
 #SAY
-Please select what you want to buy
-<Buy Back/@BuyBack>
+你要买卖什么东西?
+<买回/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@sell]
 #SAY
-Lay down your Fish to be sold
+把你要卖的鱼拿来我看看
  
  
- <Back/@main>
+ <返回/@main>
 
 [@BuyBack]
 #SAY
-Item's you are still able to purchase back.
+如果你不离线，那么你卖出的东西就可以买回去.
  
-<Back/@Main>
+<返回/@Main>
 
 [Type]
 

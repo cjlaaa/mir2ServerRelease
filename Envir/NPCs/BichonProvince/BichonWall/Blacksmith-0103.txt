@@ -1,43 +1,42 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello, Are you looking for something particular? 
-How can I be of assistance.
+你好，请问你需要些什么？
  
-<View/@BuySell> Store.
-<Repair/@Repair> Weapon.
+<浏览/@BuySell> 商店.
+<修理/@Repair> 武器.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
-<Buy Back/@BuyBack>
+你要买卖什么东西?
+<买回/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+如果你不离线，那么你卖出的东西就可以买回去.
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
-Would you like to repair a weapon?
-Show me the weapon that needs it.
+你想要修理武器?
+请把它拿来让我看看.
  
-<Back/@main>
+<返回/@main>
 
 
 [Types]
@@ -79,28 +78,26 @@ GOTO @MAIN1-2
 
 [@MAIN1-1]
 #SAY
-Hello again traveler.. How are you on this fine day? 
+很高兴再见到你旅行者，今天过得怎么样? 
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN1-2]
 #IF
 CHECKQUEST 155 1
 #SAY
-Well you have proven yourself to me. 
-I shall inform those will <listen/@listen>.
-<Close/@exit>
+你已经证明了自己，我将告诉你一个秘密 <listen/@listen>.
+<关闭/@exit>
 #ELSESAY
-How can I trust you? I don't even know who you are.
-Maybe you could do something for me? 
+我怎么相信你?现在我连你是谁都不知道... 
  
-<Close/@exit>
+<关闭/@exit>
 
 [@listen]
 #ACT
 SET [539] 1
 #SAY
-Farewell traveler.
+再会，旅行者.
  
-<Close/@exit>
+<关闭/@exit>
 

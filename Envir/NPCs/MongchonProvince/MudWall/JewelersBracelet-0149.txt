@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -11,31 +11,31 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome, What can I do for you?
+欢迎，我能为你做些什么?
  
-<View/@BuySell> Store.
-<Repair/@Repair> Bracelets or Gloves.
+<浏览/@BuySell> 商店.
+<修理/@Repair> 手镯或手套.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
-<Buy Back/@BuyBack>
+你要买卖什么东西?
+<买回/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+如果你不离线，那么你卖出的东西就可以买回去.
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
-You can repair various kinds of Bracelets and Gloves.
+你可以在我这里修理各种手镯和手套.
   
-<Back/@main>
+<返回/@main>
 
 [Types]
 6

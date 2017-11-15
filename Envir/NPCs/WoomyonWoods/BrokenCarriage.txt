@@ -1,7 +1,7 @@
-[@Main]
+﻿[@Main]
 #SAY
-A missing Carriage. Content's seems to be missing.
-<Close/@exit>
+一架损坏的马车. 上面的货物都已经破损了.
+<关闭/@exit>
 
 [Quests]
 -87

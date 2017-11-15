@@ -1,6 +1,6 @@
-[@Main]
+﻿[@Main]
 #SAY
-Feature to come..
+即将到来..
 
 [Quests]
 34

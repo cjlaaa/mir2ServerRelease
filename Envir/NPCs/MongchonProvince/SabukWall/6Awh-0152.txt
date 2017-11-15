@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -11,32 +11,32 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello traveller. How can i help you?
+你好旅行者，我能帮你做些什么?
  
-<Access/@Storage> Storage
-<Purchase/@Buy>
-You have <$PARCELAMOUNT> parcels awaiting collection.
-<Send/@SendParcel> Parcel
-<Collect/@CollectParcel> Parcels
+<打开/@Storage> 仓库
+<购买/@Buy>
+你有 <$PARCELAMOUNT> 个邮件在等待收取.
+<发送/@SendParcel> 邮件
+<收取/@CollectParcel> 邮件
 
 
 [@Storage]
 #SAY
-What item do you want to store or withdraw?
+看看你需要存取什么东西?
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 
 [@Buy]
 #SAY
-What would like to purchase?
+你想买什么东西?
  
-<Back/@Main> - <Close/@exit>
+<返回/@Main> - <关闭/@exit>
 
 [Types]
 1
 
 [Trade]
-邮票
+Stamp
 GoldBar
 GoldBarBundle
 GoldChest

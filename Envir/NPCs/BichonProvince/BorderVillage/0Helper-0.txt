@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -11,10 +11,10 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello <$USERNAME>, Are you a beginner in this game?
-Please press ('H') to bring up the help menu.
+你好 <$USERNAME>, 这是你的首次冒险吗?
+请按 ('H') 来打开帮助菜单.
  
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 1

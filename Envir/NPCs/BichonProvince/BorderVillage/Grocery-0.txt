@@ -1,34 +1,34 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello traveller, How may I help you?
+你好，旅行者, 我能帮你做些什么?
  
-<View/@BuySell> Store. 
+<浏览/@BuySell> 商店.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-What Item would you like to buy or sell?
-<BuyBack/@BuyBack>
+你要买卖什么东西?
+<买回/@BuyBack>
  
-<Back/@Main>
+<返回/@Main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+如果你不离线，那么你卖出的东西就可以买回去.
  
-<Back/@Main>
+<返回/@Main>
 
 [Types]
 8

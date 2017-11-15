@@ -1,8 +1,6 @@
-[@main]
-The worst monster amongst the spider monsters in the woods is a {Rootspider/Crimson}
-The {rootspider/Crimson} does not move for itself but it spews larvas continually
-The minute a larva sees a human it rushs at them
-in order to do a self-destruct
-if this {Rootspider/Crimson} is killed, the larves dont appear anymore
-But it is a terribly hard battle to kill a {Rootspider/Crimson}.
+﻿[@main]
+丛林中最恐怖的怪物就是幻影蜘蛛了!
+这种蜘蛛本身不能移动，但是却能吐出很多小蜘蛛.
+小蜘蛛只要碰到人就会自爆，当年我曾经击杀过一只，
+差点丢了命.
 <Ok/@exit>

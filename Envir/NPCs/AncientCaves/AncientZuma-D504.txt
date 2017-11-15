@@ -1,33 +1,17 @@
-;;4F
-[@MAIN]
+﻿;;4F
+[@Main]
 #IF
-CHECKQUEST 153 1
-#ACT
-GOTO @MAIN-1
-#ELSESAY
-Nothing happens.
-
-[@MAIN-1]
-#IF
-LEVEL > 54
+LEVEL > 54 
 LEVEL < 70
 #SAY
-A Mysterious Stone with Ancient symbols.
-"The still dont remain still for <long./@zumatemplea>"
-{ZumaHeart/LightSteelBlue} Required {Level55~70./KHAKI}
- 
-<Close/@exit>
-#ELSESAY
-Nothing happens.
- 
- 
-<Close/@exit>
+前方是一个神秘的远古之地，你做好准备前往了吗？
+<前往/@go>
 
-[@zumatemplea]
-#IF
-CHECKITEM ZumaHeart 1
-#ACT
-TAKEITEM ZumaHeart 1
-MOVE 0157A 18 17
+<离开/@exit>
+
 #ELSESAY
-Nothing happens.
+这块石头散发出一股神秘的气息.
+
+[@go]
+#ACT
+MOVE 0157A 18 17

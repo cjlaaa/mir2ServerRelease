@@ -1,27 +1,31 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Traveller, I will purchase any Stones you have.
+旅行者，我是收购石头的商人.
  
-<Sell/@sell> Stones.
- 
-<Close/@exit>
+<出售/@sell> 石头.
+<买回/@BuyBack> 
+<关闭/@exit>
+
+[@BuyBack]
+#SAY
+如果你不离线，那么你卖出的东西就可以买回去.
 
 [@Sell]
 #SAY
-Show me which Stones you wish to sell.
+你想出售哪个石头，拿来让我看看.
  
-<Back/@main>
+<返回/@main>
 
 [Types]
 11

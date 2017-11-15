@@ -1,2 +1,2 @@
-[@main]
-Feature to come.
+﻿[@main]
+即将到来.

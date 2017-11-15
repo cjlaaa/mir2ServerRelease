@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -12,18 +12,18 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 Welcome traveller,
-I sell Items for your Tiger! Please take alook!
+我出售坐骑和相关的一些配件!
  
-<View/@Buy> Store.
+<浏览/@Buy> 商店.
  
-<Close/@exit>
+<关闭/@exit>
 
 
 [@Buy]
 #SAY
-What would you like to purchase?
+你想买什么?
  
-<Back/@main>
+<返回/@main>
 
 [Type]
 19

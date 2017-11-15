@@ -1,7 +1,6 @@
-[@main]
+﻿[@main]
 #SAY
-Looks like these bones been laying
-here for a long time.
+看起来，这些骷髅已经在此盘踞很久了.
 
 [Quests]
 -63

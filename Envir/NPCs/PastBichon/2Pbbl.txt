@@ -1,6 +1,6 @@
-[@main]
+﻿[@main]
 #SAY
-Feature to come..
+功能即将开放..
 
 
 [@mainremoved]

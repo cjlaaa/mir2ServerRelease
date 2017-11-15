@@ -1,56 +1,51 @@
-[@Main]
+﻿[@Main]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello. I am the 'Commission Merchant'. I am in charge
-of commission sales. We are located at five places of
-Bichon Province, Mongchon Province, Tao Village, Prajna
-Island and Past Bichon, the item sales information are
-all shared by the five merchants.
+你好，我是一名拍卖师，负责保管，寄售物品. 
+我们在比奇城，盟重城，苍月岛，道馆和远古比奇
+提供寄售服务, 你可以将冒险获得的宝物交给我们进行寄售.
+寄售的信息将同时显示在所有主城内
  
-<Consign/@Consign> Item  <View Market/@Market>.
-<View Consignments/@Consignment>
-<Close/@exit> <Help/@help>
-
+<寄售/@Consign> 物品  <浏览市场/@Market>.
+<查看我的寄售/@Consignment>
+<关闭/@exit> <帮助/@help>
 
 [@Consign]
 #SAY
-The following are 'cautions' in the commission sale.
-1. Consignment fee: After confirming the sale,
-   1% of the selling price is paid.
-2. Trust money: when it is consigned, '1,000 {Gold/Gold}' is paid.
-3. Commission period: After 100 days of item sale registration,
-   the item will be automatically deleted from the list.
-4. Number of commission items: Maximum 30 items are allowed
-   for sale
-5. Trust money amount: can be set in the range of
-   1,000 - 50,000,000 {Gold/Gold}.
+以下是寄售系统的交易条款.
+1. 手续费: 在交易完成后，我们将收取成交额的1%作为手续费.
+2. 保证金: 当你提交托管时，我们将收取, '1,000 {金币/Gold}' 作为保证金.
+3. 托管时间: 我们每次提供最长100天的托管，如果到期仍未售出，
+那么物品将退回.
+4. 寄售的物品数量: 我们每次最多只能为你托管寄售30件物品
+5. 最大交易金额: 我们接受范围在
+   1,000 - 50,000,000 {金币/Gold}内的寄售.
  
-Do you agree?
-<Leave/@exit> <Back/@main>
+你能接受以下条款么?
+<离开/@exit> <返回/@main>
+
 
 [@help]
 #SAY
-The following are 'cautions' in the commission sale.\
-1. Consignment fee: After confirming the sale,\
-   1% of the selling price is paid.\
-2. Trust money: when it is consigned, '1,000 {Gold/Gold}' is paid.\
-3. Commission period: After 100 days of item sale registration,\
-   the item will be automatically deleted from the list.\
-4. Number of commission items: Maximum 30 items are allowed\
-   for sale\
-5. Trust money amount: can be set in the range of\
-   1,000 - 50,000,000 {Gold/Gold}.\ \
-<Back/@main>
+以下是寄售系统的交易条款.
+1. 手续费: 在交易完成后，我们将收取成交额的1%作为手续费.
+2. 保证金: 当你提交托管时，我们将收取, '1,000 {金币/Gold}' 作为保证金.
+3. 托管时间: 我们每次提供最长100天的托管，如果到期仍未售出，
+那么物品将退回.
+4. 寄售的物品数量: 我们每次最多只能为你托管寄售30件物品
+5. 最大交易金额: 我们接受范围在
+   1,000 - 50,000,000 {金币/Gold}内的寄售.
+<返回/@main>
 
 
 [Market]

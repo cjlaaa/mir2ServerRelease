@@ -1,25 +1,9 @@
-[@main]
+﻿[@main]
 #SAY
- The boat goes many places. The boat will depart soon
- Passengers, Please board the ship.
+ 如果你想返回比奇，可以在我这里坐船前往.
  
- <To Bichon Province/@brdmove> Pay 2,000 {Gold/Gold} and Board.
- <To White Valley/@brdmove1> Pay 12,000 {Gold/Gold} and Board.
- <Talk/@talk> about each frontiers.
- 
-[@talk]
-#SAY
- Which frontier do you want to talk about?
-  
- <White Valley/@talkWV>
- <Back/@main>
-
-[@talkWV]
-#SAY
- WhiteValley is new fontier which has just been discovered.
- The evil within is great. But the Riches are greater.
- 
- <Back/@talk>
+ <返回比奇/@brdmove> Pay 2,000 {Gold/Gold} and Board.
+ <离开/@exit>
 
 [@brdmove]
 #IF
@@ -29,20 +13,8 @@ TAKEGOLD 2000
 MOVE 0 252 674
 BREAK
 #ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
- 
-<Exit/@exit>
+你没有足够的 {Gold/Gold} 来支付此项服务!
+别浪费我的时间，快走吧!
 
-[@brdmove1]
-#IF
-CHECKGOLD > 12000
-#ACT
-TAKEGOLD 12000
-MOVE WHITEVILLAGE 67 93
-BREAK
-#ELSESAY
-You Dont Have enough {Gold/Gold} to use my Service!
-Be gone, don't waste my time again!
- 
-<Exit/@exit>
+<离开/@exit>
+

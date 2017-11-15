@@ -1,12 +1,11 @@
-[@main]
+﻿[@main]
 #SAY
-My duty is to protect the general at all cost.
-<Talk/@talk>
-<Close/@exit>
+无时无刻都要保证将军大人的安全.
+<交谈/@talk>
+<关闭/@exit>
 
 [@talk]
 #SAY
-My task is important but I feel sorry watching my fellow
-soldiers dying at the battlefield while fighting against
-the omas.
-<close/@exit>
+将军大人为了击败半兽人殚精竭虑，
+我能做到的就是尽我所能保证大人的安全.
+<关闭/@exit>

@@ -1,6 +1,5 @@
-[@main]
-The person who stole the best sword of
-this Taoist School in the past
-was a notorious villain at that time,
-his criminal record would fill a book
-<Thanks/@exit>
+﻿[@main]
+盗取圣剑的人据说曾经也是一名学员，
+当然我更愿意相信他是一个十足的恶棍.
+他的罪行罄竹难书！
+<谢谢/@exit>

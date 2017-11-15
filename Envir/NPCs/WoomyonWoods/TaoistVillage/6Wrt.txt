@@ -1,12 +1,12 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECK [527] 1
 #ACT
 GOTO @CHECK1
 #ELSESAY
-You seem to be interested in an old tale.
+你对古老的传说有兴趣吗?.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@CHECK1]
 #IF

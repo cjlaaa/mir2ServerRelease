@@ -1,13 +1,13 @@
-[@main]
+﻿[@main]
 #IF
 CHECKITEM DragonScale 1 
 #ACT
 TAKEITEM DragonScale 1
 #SAY
-<Enter the Dragons Lair./@tele>
+<进入龙之巢穴./@tele>
 #ELSESAY
-You do not have the {DragonScale/LightSteelBlue}!
-<Close/@exit>
+你没有 {DragonScale/LightSteelBlue}!
+<关闭/@exit>
 
 [@tele]
 #ACT

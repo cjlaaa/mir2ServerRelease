@@ -1,42 +1,42 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello Traveller. What can I do for you? 
+你好旅行者，我能为你做些什么? 
  
-<View/@BuySell> Store.
-<Repair/@Repair> Drapery pieces.
-<Talk/@talk> about CastleBichon
+<浏览/@BuySell> 商店.
+<修补/@Repair> 衣服.
+<打听/@talk> 比奇城的故事
  
-<Close/@exit>
+<关闭/@exit>
 
 [@BuySell]
 #SAY
-Which item would you like to Buy or Sell?
-<Buy Back/@BuyBack>
+你要买卖什么东西?
+<买回/@BuyBack>
  
-<Back/@main>
+<返回/@main>
 
 [@BuyBack]
 #SAY
-These are the items still available to purchase back.
+如果你不离线，那么你卖出的东西就可以买回去.
  
-<Back/@main>
+<返回/@main>
 
 [@Repair]
 #SAY
-Would you like to repair a drapery piece?
+你可以在我这里修补衣服.
  
-<Back/@main>
+<返回/@main>
 
 
 [Types]
@@ -78,35 +78,35 @@ GOTO @MAIN1-3
 
 [@MAIN1-1]
 #SAY
-Hello traveler.. I have been hearing good things about 
-the Emperors good deeds.
+你好旅行者，我曾经听说很多关于我们
+伟大的皇帝的事迹.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN1-2]
 #SAY
-Hello again traveler.. Its a fine day is it not.
+噢,又见面了旅行者，今天真是个好天气.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@MAIN1-3]
 #IF
 CHECKQUEST 157 1
 #SAY
-Thankyou traveler you have saved me some time.
-And boy o boy doesn't she talk a lot of rubbish..
- 
-So you want my help spreading the good deed's of the <Emperor/@Emperor>?
-<Close/@exit>
+谢谢你旅行者，难得你有心来看望我这么多次
+你想帮我宣扬一下我们伟大皇帝的事迹吗？ 
+
+<好/@Emperor>
+<关闭/@exit>
 #ELSESAY
-How about you do something for me first? 
+先帮我个小忙怎么样? 
  
-<Close@exit>
+<关闭/@exit>
 
 [@Emperor]
 #ACT
 SET [541] 1
 #SAY
-Very well traveler.. 
+谢谢你旅行者.. 
  
-<Close/@exit>
+<关闭/@exit>

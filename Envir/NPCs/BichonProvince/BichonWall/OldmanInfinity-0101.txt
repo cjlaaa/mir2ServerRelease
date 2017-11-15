@@ -1,65 +1,59 @@
-[@Main]
+﻿[@Main]
 #SAY
-Hey <$USERNAME>!!
-Can you call yourself a true Mirian fighter?
-Then will you test your power in the Infinite
-Bout for unlimited challenges? <Next/@next>
+你好 <$USERNAME>!!
+你是真正的勇士！现在你可以在无限对战中
+继续检测你的实力了，你想了解一下吗? <继续/@next> 
 
 
 [@next]
 #SAY
-The fee is only '3000 {Gold/Gold}'. What? Too expensive?
-You can get 3000 {Gold/Gold} just by collecting and
-selling 10 Brown Chestnuts!
+只需要花费 '3000 {金币/Gold}'. 就可以开启
+无限对战之旅
 
-<What is the/@info1> Infinite Bout?
-<I Will Challenge/@challenge1>
-<Maybe next time/@Exit>
+<什么是/@info1> 无限对战?
+<我想开始挑战/@challenge1>
+<下次再说/@Exit>
 
 [@info1]
 #SAY
-Ah! What is the Infinite Bout?
-In the Infinite Bout, you have to slay all the
-monsters that will keep appearing all by themself.
-It is a chance to prove your true power and
-potential to the very limit.
+哦，你想详细了解一下?
+在无限对战中，你需要杀掉所有刷新出来的
+怪物并保证自己的存活，这是检验你实力的最好途径.
 
-<What/@info2> should I bear in mind?
+<有哪些/@info2> 我需要注意的地方?
 
 [@info2]
 #SAY
-My advice is simple.
-You must rely on your own power only.
-And the time limit is two hours
-So don't lose your valuable items by being reckless.
-Have thorough preparation, OK?
+我的忠告如下.
+在无限对战中你只能靠自己.
+并且有2小时的时间限制
+所以一定要小心，不可大意.
 
-<I will/@info3>
+
+<我会的/@info3>
 
 [@info3]
 #SAY
-I told you everything I can.
-Do you want to listen to it again?
-Or give it a go?
+我已经把我知道的都告诉你了.
+那么你是想再听一遍还是现在就开始对战?
 
-I want to <hear it again./@info1>
-<Challenge!/@challenge2>
-<Maybe next time/@Exit>
+我想 <再听一遍./@info1>
+<现在开始挑战!/@challenge2>
+<下次吧/@Exit>
 
 [@challenge1]
 #SAY
-Oh, if you fall down during the fight,
-You may lose the items you are equipped with.
-Are you still willing to go ahead?
+请记住，如果你在中途失败了，那么你所获得
+的一切都将归零，现在开始挑战吗?
 
-<Sure, Bring it on!/@challenge2>
+<当然，我准备好了!/@challenge2>
 
 [@challenge2]
 #SAY
-Good! you are a true Mirian fighter!
+好样的!你是真正的勇士!
 
 
-<Okay/@MOVE10101>
+<开始/@MOVE10101>
 
 [@MOVE10101]
 #ACT

@@ -1,11 +1,11 @@
-[@MAIN]
+﻿[@MAIN]
 #SAY
-<Search/@next1> the bones.
-<Close/@exit>
+<搜寻/@next1> 骨头堆.
+<关闭/@exit>
 
 [@next1]
 #ACT
 MOVE EBEEBOSS
-LocalMessage "You fell through a hidden hole!" Hint
+LocalMessage "你掉进了一个隐藏的洞口!" Hint
 BREAK
 CLOSE

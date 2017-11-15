@@ -1,9 +1,9 @@
-[@Main]
+﻿[@Main]
 #SAY
-My beloved house..
-It was burned to the ground thanks to this war!
-I'm still waiting to hear back from the castle..
-<Close/@exit>
+我挚爱的家园...
+这该死的战争毁了一切！总有一天
+我们会战胜邪恶的怪物们！我坚信！
+<关闭/@exit>
 
 [Quests]
 -7

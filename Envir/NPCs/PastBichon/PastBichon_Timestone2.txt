@@ -1,8 +1,7 @@
-[@main]
-Worship me you little thing, then you will be able to
-break the boundary of time and space to go to the future.
-<To the future!/@tele>
-<I will stay here/@exit>
+﻿[@main]
+这块时空之石可以撕裂时空将你送回未来世界.
+<回到未来!/@tele>
+<留在这里/@exit>
 
 [@tele]
 #IF

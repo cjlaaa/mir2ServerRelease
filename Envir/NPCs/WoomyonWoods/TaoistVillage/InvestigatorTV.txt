@@ -1,20 +1,20 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Something dosent seem right in this Village.
-I will get to the bottom of it.
+这村庄里似乎隐藏着邪恶.
+我一定会一查到底.
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 130

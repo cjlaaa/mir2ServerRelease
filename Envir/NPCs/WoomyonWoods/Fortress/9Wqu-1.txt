@@ -1,9 +1,9 @@
-;MasterShok Woomyon Woods
+﻿;MasterShok Woomyon Woods
 [@main]
 #SAY
-I had to seek refuge in this town.. My Cabin is gone.
+我的家被毁了，现在我必须在这座城市中寻求庇护.
 
-<Close/@exit>
+<关闭/@exit>
 
 [Quests]
 -39

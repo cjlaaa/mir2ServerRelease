@@ -1,4 +1,4 @@
-[@main]
+﻿[@main]
 #IF
 CHECK [527] 1
 #ACT
@@ -12,7 +12,7 @@ CHECK [532] 1
 #ACT
 GOTO @Main-2
 #ELSEACT
-GOTO @Main-3
+GOTO @Main-2
 
 [@Main-1]
 #SAY
@@ -22,7 +22,7 @@ Go and see the owner of this school.
 
 [@Main-2]
 #SAY
-The HolyWeapon... I would never believe it.
+圣剑... 那只是一个传说罢了.
 <Close/@Exit>
 
 [@Main-3]

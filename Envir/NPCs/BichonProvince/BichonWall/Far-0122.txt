@@ -1,4 +1,4 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKITEM Wine 1
 #ACT
@@ -12,12 +12,12 @@ CHECK [537] 1
 #ACT
 TAKEITEM Wine 1
 #SAY
-HAHA... Mogu sent you...
-Ah those symbols... Theres not much information about the Language.
-But this is what the Stone says. 
-      "{Dungeon of the Ancient Ones./Gray}"
+哈哈... 这是Mogu给你的吗...
+这些符号... 我也解读不出更多的含义了.
+不过这几个字的意思是. 
+      "{一个远古时期的地牢./Gray}"
  
-Thank you <Emperor Far/@THX2>
+谢谢 <Emperor Far/@THX2>
 #ELSEACT
 GOTO @MAIN-3
 
@@ -25,12 +25,12 @@ GOTO @MAIN-3
 #IF
 CHECK [537] 1
 #SAY
-Ah those symbols... I helped Sir Mogu with them in the past.
-Theres not much information about the Language..
-But this is what the Stone says. 
-      "{Dungeon of the Ancient Ones./Gray}"
+这些符号... 我曾经帮助Mogu先生研究过这些符号.
+我也无法解读出更多的信息..
+不过这个石头上写的意思是. 
+      "{一个远古时期的地牢./Gray}"
  
-Thank you <Emperor Far/@THX>
+谢谢 <Emperor Far/@THX>
 #ELSEACT
 GOTO @MAIN-3
 

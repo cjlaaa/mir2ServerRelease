@@ -9,7 +9,7 @@ LEVEL < 30
 <离开/@exit>
 
 #ELSESAY
-Nothing happens.
+这块石头散发出一股神秘的气息.
 
 [@go]
 #ACT

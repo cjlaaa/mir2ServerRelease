@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -11,12 +11,11 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Your the Traveler, I keep hearing about.
-Welcome to MudWall. Your good deed's around the these Land's.
-are greatly admired.
-Please speak with the Local Vendor's im sure they would welcome any
-help.
-<Close/@exit>
+你好，旅行者，我曾经听说过你的大名.
+这里是盟重土城，整个大陆上最险恶的地区.
+如果你想补给或者寻求帮助，请与当地的居民谈谈，
+我想他们会很乐意帮助你.
+<关闭/@exit>
 
 [Quests]
 114

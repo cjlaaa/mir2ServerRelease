@@ -1,8 +1,5 @@
-[@main]
-Some woods called the Tree Path are located in the area to the
-north of this Taoist School
-A lot of trees are gathered thickly there and
-it is dark there even during the day.
-Even the local natives often lose their way
-When you go there, take great care!
+﻿[@main]
+丛林迷宫，位于道观北方.里面的树木遮天蔽日，
+传说有极其强大的恶魔盘踞其中，如果你去那里冒险
+一定要小心谨慎！
 <Ok/@exit>

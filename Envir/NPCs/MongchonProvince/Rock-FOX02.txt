@@ -1,38 +1,35 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 GROUPLEADER
 #ACT
 GROUPGOTO @grouphere
 break
 #ELSESAY
-(*You hear a slight whisper in the wind:*)
-"Only party leaders with their parties may pass here."
+(*你听到了风中呜咽的低语:*)
+"只有小队的队长才可以通过这里."
 
 [@grouphere]
 #IF
-GROUPCOUNT > 4
+GROUPCOUNT > 2
 CHECKMAP FOX02
 CHECKRANGE 223 304 5
 #ACT
 goto @checkorb
 break
 #ELSESAY
-(*You hear a slight whisper in the wind:*)
-"You are a party leader but your party is not present.
-You may not pass.All Must be within 5 spots of npc."
+(*你听到了风中呜咽的低语:*)
+"你的队伍太弱了，至少要有三名队员才可以继续前进."
 
 [@checkorb]
 #IF
 CHECKITEM AdmissionOrb 1
 #SAY
-(*You hear a slight whisper in the wind:*)
-"You are a party leader, Youre party is present,
-You have the forbidden Orb..."
-You may pass hunter!
-<Pass/@pass>                          <Do not pass/@exit>
+(*你听到了风中呜咽的低语:*)
+很好，冒险者，去前往面对那未知的恐惧吧！
+<前往/@pass>                          <离开/@exit>
 #ELSESAY
-(*You hear a slight whisper in the wind:*)
-"Only parties weilding the forbidden Orb may pass here."
+(*你听到了风中呜咽的低语:*)
+"只有拥有狐月神珠的人才可以前往."
 
 [@pass]
 #IF
@@ -42,5 +39,5 @@ TAKEITEM AdmissionOrb 1
 GROUPTELEPORT FOX03 47 21
 break
 #ELSESAY
-(*You hear a slight whisper in the wind:*)
-"Only parties weilding the forbidden Orb may pass here."
+(*你听到了风中呜咽的低语:*)
+"只有拥有狐月神珠的人才可以前往."

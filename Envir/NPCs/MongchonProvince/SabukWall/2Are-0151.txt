@@ -1,29 +1,30 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome Traveller, my name is Dean, I'm a Master Artisan.. 
-I have specialized in Weaponry for many year's now.
+你好旅行者, 我的名字叫 Dean ，是一名铁匠.. 
+这些年来，我一直为大陆上冒险的勇士提供武器的
+特殊修理服务.
  
-<Special/@SRepair> Repair Weapon.
+<特殊修理/@SRepair> 武器.
  
-<Close/@exit>
+<关闭/@exit>
 
 [@SRepair]
 #SAY
-Traveller, You are lucky... We have the materials to do Special repairs.
+旅行者，你很幸运，我们现在有足够的物资进行武器的特殊修理.
  
  
-<Close/@exit>
+<关闭/@exit>
 
 [Types]
 1

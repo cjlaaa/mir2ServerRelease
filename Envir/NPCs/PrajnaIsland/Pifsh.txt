@@ -1,17 +1,16 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
-<Close/@exit>
+<关闭/@exit>
 #ELSEACT
 GOTO @Main-1
 
 [@Main-1]
 #SAY
-Hello there <$USERNAME>. I don't have any work that
-needs doing at the moment. Come back next week and I
-may be able to help you.
+噢~<$USERNAME>. 我暂时没有什么需要你
+帮忙的了，谢谢你！
 <Ok/@exit>

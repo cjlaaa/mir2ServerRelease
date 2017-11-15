@@ -1,9 +1,9 @@
-[@Main]
-What brought you in this dangerous place?
-I wonder if you can get out of here easily...
+﻿[@Main]
+你怎么会轻易踏足这个险恶之地?
+我觉得你还是离开这里比较好...
 
-<Talk with/@talkwith_1>
-<Leave/@Exit>
+<打听消息/@talkwith_1>
+<离开/@Exit>
 
 
 [@talkwith_1]
@@ -24,47 +24,34 @@ goto talkwith_2
 goto untalkwith
    
 [@talkwith_2]
-As you came here and talked to me
-I'll give you good information... There is a cave that nobody knows around here.
-This cave is different from the others....
-I just have heard about it only one time
-I never been there, but you need a certificate to go there
-If you got a certificate, you can try.
+好吧，看在你陪我聊天的份上，我告诉你一个秘密.
+我知道一个无人知晓的秘密山洞
+这山洞据说非常诡异，我也没去过.
+不过如果你想去的话，我可以指引你.
 
-<Try/@talkwith_3>
-<Cancel/@Exit>
+<去试试/@talkwith_3>
+<关闭/@Exit>
 
 [@talkwith_3]
 #SAY
-Hey you... I'll let you get into the dungeon
-You will be right here after 3 hours.. Take care of yourself
+好吧！我会送你进去。但是里面只能呆3小时，你自己小心！
 
-<Get in/@talkwith_4>
+<前往/@talkwith_4>
    
 [@talkwith_4]
-#SAY
-I want to show you the way, but I'm exhausted
-I can't help you... Just wait a little while..
-
-<Close/@Exit>
-
-#ELSEACT
+#ACT
 MOVE M001
+
 
 [@untalkwith]
 #SAY
-Have you ever heard about the unknown dungeon?
-I can't explain more..
-but the time to get into dungeon is at weekend evening
-If you came to me again at this time
-I can take you there
-see you then...
+我现在没有什么可以告诉你的，白天这里耳目众多.
+如果你想了解更多信息，那就周末的晚上来吧！
 
-<Back/@Main>
+<返回/@Main>
 
 #ELSESAY
-I have nothing to tell you...
-Get out of here please
+我没有什么可以告诉你的，快离开这里！
 
-<Back/@Main>
+<返回/@Main>
 

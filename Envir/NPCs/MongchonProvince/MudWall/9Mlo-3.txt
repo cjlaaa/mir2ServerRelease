@@ -1,8 +1,8 @@
-[@MAIN]
+﻿[@MAIN]
 #IF
 CHECKPKPOINT > 2
 #SAY
-I will not help an evil person like you...
+我绝对不会为你这样的恶人服务...
  
  
 <Close/@exit>
@@ -11,33 +11,31 @@ GOTO @Main-1
 
 [@Main-1]
 #SAY
-Welcome! Would you like to try your luck?
-If you lost, do not blame me then!
-Do you still want to try it? Then pick it up.
-If the amount of money will be over the limit,
-the money over the limit will be dropped down so be careful!!
+你好啊，想试试你的运气吗？
+来一张彩票吧！如果你中了大奖，小心金币
+太多掉到地上哦!!
  
-<Buy/@buy> Lottery ticket
-<Check/@Bingo> the winning money!
-<Cancel/@exit>
+<买/@buy> 彩票.
+<查看/@Bingo> 奖金设置!
+<离开/@exit>
 
 [@buy]
 #SAY
-Please pick up what you want to buy,
+看看你要买些什么.
  
  
-<Back/@main>
+<返回/@main>
 
 [@Bingo]
 #SAY
-  1st prize : 1,000,000 {Gold/Gold}
-  2nd prize : 200,000 {Gold/Gold}
-  3rd prize : 100,000 {Gold/Gold}
-  4th prize : 10,000 {Gold/Gold}
-  5th prize : 1,000 {Gold/Gold}
-  6th prize : 500 {Gold/Gold}
+  一等奖 : 1,000,000 {Gold/Gold}
+  二等奖 : 200,000 {Gold/Gold}
+  三等奖 : 100,000 {Gold/Gold}
+  四等奖 : 10,000 {Gold/Gold}
+  五等奖 : 1,000 {Gold/Gold}
+  六等奖 : 500 {Gold/Gold}
  
-<Back/@main>
+<返回/@main>
 
 [Type]
 

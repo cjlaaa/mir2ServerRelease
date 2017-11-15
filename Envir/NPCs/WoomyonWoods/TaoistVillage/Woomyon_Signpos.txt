@@ -1,14 +1,14 @@
-[@Main]
+﻿[@Main]
 #SAY
 
-<Use./@main-1> Shop moving function in village
+<使用./@main-1> 城镇传送
 
 [@main-1]
 #SAY
-<Weapon shop/@weap>   <Armour shop/@cloth>
-<Accessory shop/@jewel>   <Reagent store/@pot>
-<Book store/@book>   <Grocery store/@ped>
-I will be back <later/@exit>
+<武器店/@weap>   <衣服店/@cloth>
+<首饰店/@jewel>   <药店/@pot>
+<书店/@book>   <杂货店/@ped>
+我想下次 <再使用/@exit>
 
 [@book]
 #ACT
