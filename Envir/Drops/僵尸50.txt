@@ -146,8 +146,8 @@
 ;Fish
 
 ;Quest
-1/5 ZombieEye Q
-1/5 RareCopperOre Q
+1/2 ZombieEye Q
+1/2 RareCopperOre Q
 
 ;Awakening
 
