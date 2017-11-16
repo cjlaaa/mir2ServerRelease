@@ -6,5 +6,5 @@
 1/10 MaggotPill 
 
 ;Quest
-1/4 Relics Q
+1/2 Relics Q
 1/10 OliviasRing Q

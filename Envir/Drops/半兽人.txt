@@ -61,5 +61,5 @@
 1/600 SunPotion 
 
 ;Quest
-1/3 OmaTeeth Q
+1/2 OmaTeeth Q
 
