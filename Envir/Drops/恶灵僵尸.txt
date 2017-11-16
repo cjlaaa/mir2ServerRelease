@@ -80,4 +80,4 @@
 1/150 HalfMoon
 
 ;Quest
-1/7 CorpsFlower Q
+1/2 CorpsFlower Q
