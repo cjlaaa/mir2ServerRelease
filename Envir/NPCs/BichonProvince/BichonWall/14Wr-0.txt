@@ -40,7 +40,7 @@ CHECKITEM PremiumPass[15d]
 #ACT
 GOTO @PremCaveMenu
 #ELSESAY
-你并没有 {Premium Pass/LightSteelBlue}.
+你并没有 {远古英雄之证/LightSteelBlue}.
 
 ;;Premium Cave Menu.
 [@PremCaveMenu]

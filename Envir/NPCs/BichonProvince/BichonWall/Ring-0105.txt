@@ -14,7 +14,7 @@ GOTO @Main-1
 你好旅行者，你需要点什么?
  
 <浏览/@BuySell> 商店.
-<R修理/@Repair> 戒指.
+<修理/@Repair> 戒指.
  
 <关闭/@Exit>
 
