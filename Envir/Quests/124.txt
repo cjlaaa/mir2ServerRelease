@@ -20,7 +20,7 @@ CleanSkull 10
 [@SelectRewards]
 
 [@ExpReward]
-185000
+385000
 
 [@GoldReward]
 185000

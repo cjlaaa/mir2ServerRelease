@@ -23,7 +23,7 @@ BoneSpearman 10
 [@SelectRewards]
 
 [@ExpReward]
-195000
+395000
 
 [@GoldReward]
 195000

@@ -20,7 +20,7 @@ BoneBlademan 10
 [@SelectRewards]
 
 [@ExpReward]
-190000
+390000
 
 [@GoldReward]
 190000

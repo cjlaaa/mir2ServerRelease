@@ -18,7 +18,7 @@ Minotaur 15
 [@SelectRewards]
 
 [@ExpReward]
-480000
+600000
 
 [@GoldReward]
-480000
+600000

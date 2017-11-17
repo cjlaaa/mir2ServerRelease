@@ -18,7 +18,7 @@ BatPoison 10
 [@SelectRewards]
 
 [@ExpReward]
-330000
+550000
 
 [@GoldReward]
 330000

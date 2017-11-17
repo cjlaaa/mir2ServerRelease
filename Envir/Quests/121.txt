@@ -20,7 +20,7 @@ RoninGhoul 5
 [@SelectRewards]
 
 [@ExpReward]
-185000
+385000
 
 [@GoldReward]
 185000

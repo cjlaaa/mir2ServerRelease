@@ -18,7 +18,7 @@ EvilBigApe 1
 [@SelectRewards]
 
 [@ExpReward]
-400000
+600000
 
 [@GoldReward]
 400000

@@ -20,7 +20,7 @@ PrajnaHistory 1
 [@SelectRewards]
 
 [@ExpReward]
-260000
+460000
 
 [@GoldReward]
 200000
