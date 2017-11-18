@@ -12,7 +12,7 @@ GOTO @Main-1
 
 [@Main-1]
 #IF
-CHECKITEM PremiumPass[1d]
+CHECKITEM 远古英雄之证[1d]
 #ACT
 GOTO @PremCaveMenu
 #ELSEACT
@@ -20,7 +20,7 @@ GOTO @CHECKPASS2
 
 [@CHECKPASS2]
 #IF
-CHECKITEM PremiumPass[3d]
+CHECKITEM 远古英雄之证[3d]
 #ACT
 GOTO @PremCaveMenu
 #ELSEACT
@@ -28,7 +28,7 @@ GOTO @CHECKPASS3
 
 [@CHECKPASS3]
 #IF
-CHECKITEM PremiumPass[7d]
+CHECKITEM 远古英雄之证[7d]
 #ACT
 GOTO @PremCaveMenu
 #ELSEACT
@@ -36,7 +36,7 @@ GOTO @CHECKPASS4
 
 [@CHECKPASS4]
 #IF
-CHECKITEM PremiumPass[15d]
+CHECKITEM 远古英雄之证[15d]
 #ACT
 GOTO @PremCaveMenu
 #ELSESAY
