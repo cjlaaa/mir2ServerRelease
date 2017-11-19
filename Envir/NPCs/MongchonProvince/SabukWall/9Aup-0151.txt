@@ -21,13 +21,7 @@ GOTO @Main-1
 #SAY
 我可以为你升级武器. 升级需要消耗 {黑铁矿/LightSteelBlue}, 首饰, 
 武器 和 {金币/Gold}. 你准备好升级了吗? 
-<准备好了/@REFINE> <关闭/@exit>
-
-[@REFINE]
-#SAY
-请将要升级的武器，首饰和黑铁矿放到指定位置.
-全部准备好后按ok键，每次升级时间为20分钟.
-<Ok/@exit>
+<返回/@main> <关闭/@exit>
 
 [@RefineCollect]
 #SAY
