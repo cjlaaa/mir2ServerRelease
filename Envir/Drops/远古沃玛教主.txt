@@ -59,13 +59,13 @@
 1/5 SkeletonHelmet
 1/10 SteelHelmet
 1/145 BlackIronHelmet
-1/160 SpiritHelmet
+1/160 祈祷头盔
 
 ;Sets
-1/85 RecallHelmet
-1/70 RecallNecklace
-1/85 RecallBracelet
-1/100 RecallRing
+1/85 记忆头盔
+1/70 记忆项链
+1/85 记忆手镯
+1/100 记忆戒指
 
 ;Weapons
 1/30 GreatAxe
@@ -95,7 +95,7 @@
 1/100 PowerRing
 1/100 VioletRing
 1/100 TitanRing
-1/80 SpiritRing
+1/80 祈祷戒指
 
 ;Bracelets
 1/95 KnightBracelet

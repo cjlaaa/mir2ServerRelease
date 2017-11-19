@@ -26,7 +26,7 @@
 1/600 SoulSpringWand
 1/600 BladesofDarkness
 1/600 FiendBow
-1/1200 WarSpiritBlade
+1/1200 War祈祷之剑
 1/1200 MagicScythe
 1/1200 StoneBambooFan
 1/1200 FreezingBlades

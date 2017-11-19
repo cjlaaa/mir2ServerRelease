@@ -38,7 +38,7 @@
 1/500 MagicBracelet 
 1/750 HardGlove 
 1/1000 SpellBracelet
-1/3000 FiveStringBracelet
+1/3000 五玄手镯
 
 ;Rings
 1/400 BlueRing 

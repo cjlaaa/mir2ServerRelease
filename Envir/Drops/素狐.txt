@@ -10,8 +10,8 @@
 ;Necklaces
 1/120 BlueFoxCollar
 1/1180 HeroNecklace
-1/780 PurityNecklace
-1/780 HwanDevilNecklace
+1/780 灵玉项链
+1/780 青魔项链
 
 ;Bracelets
 1/120 BlueFoxBracelet

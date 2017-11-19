@@ -60,8 +60,8 @@
 1/750 ExpelRing
 1/750 CoralRing
 1/10000 GaleRing
-1/750 SmashRing
-1/7500 HwanDevilRing
+1/750 破碎戒指
+1/7500 青魔戒指
 1/250 JadeSnowRing
 1/500 EvilSlayerRing
 
@@ -73,8 +73,8 @@
 1/150 DeathGauntlet
 1/100 GoldBracelet
 1/700 BronzeGlove
-1/850 SmashWheel
-1/8000 HwanDevilBracelet
+1/850 破碎手镯
+1/8000 青魔手镯
 
 ;Necklaces
 1/100 LanternNecklace
@@ -84,8 +84,8 @@
 1/150 BambooPipe
 1/150 ConvexLens
 1/2000 GaleNecklace
-1/80000 SmashPendulum
-1/8000 HwanDevilNecklace
+1/80000 破碎项链
+1/8000 青魔项链
 
 ;Stones
 1/10000 DCStone(L)

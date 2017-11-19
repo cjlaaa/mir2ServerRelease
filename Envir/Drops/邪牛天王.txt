@@ -47,7 +47,7 @@
 1/45 SoulSpringWand
 1/45 BladesOfDarkness
 1/45 FiendBow
-1/125 WarSpiritBlade
+1/125 War祈祷之剑
 1/125 MagicScythe
 1/125 StoneBambooFan
 1/125 FreezingBlades
@@ -136,7 +136,7 @@
 1/50 PowerRing
 1/50 VioletRing
 1/50 TitanRing
-1/100 OmaSpiritRing
+1/100 Oma祈祷戒指
 1/100 NobleRing
 1/100 SoulRing
 1/250 BoundlessRing

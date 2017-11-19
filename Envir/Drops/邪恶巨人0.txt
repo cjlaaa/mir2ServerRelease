@@ -43,12 +43,12 @@
 1/300 LightLeatherArmour(F)
 
 ;Sets
-1/200 RedOrchidRing
-1/200 RedOrchidNecklace
-1/200 RedOrchidBracelet
-1/200 RedFlowerRing
-1/200 RedFlowerNecklace
-1/200 RedFlowerBracelet
+1/200 虹魔戒指
+1/200 虹魔项链
+1/200 虹魔手镯
+1/200 魔血戒指
+1/200 魔血项链
+1/200 魔血手镯
 
 ;Weapons
 1/400 GreatAxe

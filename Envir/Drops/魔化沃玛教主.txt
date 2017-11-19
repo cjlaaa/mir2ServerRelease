@@ -40,7 +40,7 @@
 1/150 WarMageStaff 
 1/150 BladesOfDarkness
 1/150 MaleficBow
-1/220 WarSpiritBlade
+1/220 War祈祷之剑
 1/220 MagicScythe
 1/220 StoneBambooFan
 1/220 FreezingBlades
@@ -106,7 +106,7 @@
 1/65 DragonBracelet
 1/65 SoulSpringBracelet
 1/45 BlackIronBracelet
-1/15 FiveStringBracelet
+1/15 五玄手镯
 
 ;Necklaces
 1/25 AmethystNecklace

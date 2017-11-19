@@ -44,7 +44,7 @@
 1/35 TemperedArmour(F) 
 
 ;Helmets
-1/55 RecallHelmet 
+1/55 记忆头盔 
 1/30 SkeletonHelmet 
 1/30 ShamanHelmet 
 

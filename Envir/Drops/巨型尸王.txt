@@ -59,7 +59,7 @@
 1/10 MagicBracelet 
 1/100 3rdEyeBracelet
 1/500 BronzeGlove
-1/300 FiveStringBracelet
+1/300 五玄手镯
 1/100 SpellBracelet
 1/300 SteelGlove
 1/300 TaoPowerBracelet

@@ -50,7 +50,7 @@
 1/30 StuddedArmour(F)
 
 ;Weapons
-1/600 WarSpiritBlade
+1/600 War祈祷之剑
 1/600 MagicScythe
 1/600 StoneBambooFan
 1/600 FreezingBlades
@@ -74,7 +74,7 @@
 ;Rings
 1/40 NobleRing
 1/40 SoulRing
-1/40 OmaSpiritRing
+1/40 Oma祈祷戒指
 1/40 TaeGukRing
 1/40 ThunderRing
 1/40 BoundlessRing

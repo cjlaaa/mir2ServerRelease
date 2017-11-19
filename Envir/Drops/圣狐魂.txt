@@ -3,7 +3,7 @@
 
 ;Weapons
 1/15 DragonSword
-1/40 WarSpiritBlade
+1/40 War祈祷之剑
 1/40 StoneBambooFan
 1/40 MagicScythe
 1/40 FreezingBlades

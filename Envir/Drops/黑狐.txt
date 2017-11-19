@@ -10,14 +10,14 @@
 ;Necklaces
 1/640  RequiemNecklace
 1/640  RedJadeNecklace
-1/640  FiveStringNecklace
+1/640  五玄项链
 
 ;Bracelets
 1/540  TaoPowerBracelet
 
 ;Rings
 1/560  RedJadeRing
-1/560  NokChiRing
+1/560  天音戒指
 
 ;Shoes
 1/380  BlackBoots

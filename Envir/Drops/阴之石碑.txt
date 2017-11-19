@@ -20,7 +20,7 @@
 1/100 StormDrug(S)
 
 ;Weapons
-1/2000 WarSpiritBlade
+1/2000 War祈祷之剑
 1/2000 MagicScythe
 1/2000 StoneBambooFan
 1/2000 FreezingBlades

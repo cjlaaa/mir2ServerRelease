@@ -45,15 +45,15 @@
 1/1500 TwinGoldRing
 1/1500 JadeSnowRing
 1/1500 EvilSlayerRing
-1/8000 HwanDevilRing
-1/7500 SmashRing
+1/8000 青魔戒指
+1/7500 破碎戒指
 1/5000 DragonRing
 1/5000 RubyRing
 1/5000 PlatinumRing
 1/11000 VioletRing
 1/11000 PowerRing
 1/11000 TitanRing
-1/2000 PurityRing
+1/2000 灵玉戒指
 
 ;Bracelet
 1/180 HardGlove
@@ -64,8 +64,8 @@
 1/450 DeathGauntlet
 1/400 GoldBracelet
 1/750 BronzeGlove
-1/7500 SmashWheel
-1/8000 HwanDevilBracelet
+1/7500 破碎手镯
+1/8000 青魔手镯
 1/2500 TaoPowerBracelet
 
 ;Necklaces
@@ -76,8 +76,8 @@
 1/450 BambooPipe
 1/450 ConvexLens
 1/3000 GaleNecklace
-1/7500 SmashPendulum
-1/8000 HwanDevilNecklace
+1/7500 破碎项链
+1/8000 青魔项链
 1/3900 ClawNecklace
 1/3900 LifeNecklace
 1/3900 PearlNecklace

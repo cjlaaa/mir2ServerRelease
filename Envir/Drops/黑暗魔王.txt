@@ -37,7 +37,7 @@
 1/25 WarMageStaff 
 1/25 BladesOfDarkness
 1/25 MaleficBow
-1/110 WarSpiritBlade
+1/110 War祈祷之剑
 1/110 MagicScythe
 1/110 StoneBambooFan
 1/110 FreezingBlades
