@@ -28,12 +28,12 @@
 1/5 LightLeatherArmour(F) 
 
 ;Helmets
-1/100 RecallHelmet 
+1/100 记忆头盔 
 1/10 SkeletonHelmet 
 1/10 ShamanHelmet 
 
 ;Necklaces
-1/100 RecallNecklace 
+1/100 记忆项链 
 1/10 LanternNecklace 
 1/10 TigerNecklace 
 1/10 PlatinumNecklace 
@@ -49,7 +49,7 @@
 1/5000 SkillNecklace 
 
 ;Bracelets
-1/100 RecallBracelet 
+1/100 记忆手镯 
 1/8 StrainBracelet 
 1/8 MagicBracelet 
 1/8 HardGlove 
@@ -66,7 +66,7 @@
 1/400 SoulSpringBracelet 
 
 ;Rings
-1/300 RecallRing 
+1/300 记忆戒指 
 1/15 SkeletonRing 
 1/10 CharmRing 
 1/10 MoralRing 

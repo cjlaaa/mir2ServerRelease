@@ -2,7 +2,7 @@
 1/10 Gold 8500
 
 ;Weapons
-1/75 SpiritBlade 
+1/75 祈祷之剑 
 1/5 PrinceDagger 
 1/5 MartialSword 
 1/5 HookedSpear 
@@ -17,7 +17,7 @@
 1/100 DoubleBlades 
 1/100 SilverBow 
 1/500 BloodStealerSword 
-1/2000 WarSpiritBlade 
+1/2000 War祈祷之剑 
 1/2000 MagicScythe 
 1/2000 StoneBambooFan 
 1/2000 FreezingBlades 
@@ -36,13 +36,13 @@
 1/6 LightLeatherArmour(F) 
 
 ;Helmets
-1/100 SpiritHelmet 
+1/100 祈祷头盔 
 1/15 SkeletonHelmet 
 1/10 ShamanHelmet 
-1/350 RecallHelmet 
+1/350 记忆头盔 
 
 ;Necklaces
-1/75 SpiritNecklace 
+1/75 祈祷项链 
 1/10 LanternNecklace 
 1/10 TigerNecklace 
 1/30 PlatinumNecklace 
@@ -54,7 +54,7 @@
 1/35 PearlNecklace 
 
 ;Bracelets
-1/50 SpiritBracelet 
+1/50 祈祷手镯 
 1/8 StrainBracelet 
 1/8 MagicBracelet 
 1/8 HardGlove 
@@ -65,7 +65,7 @@
 1/50 BronzeGlove 
 
 ;Rings
-1/250 SpiritRing 
+1/250 祈祷戒指 
 1/25 SkeletonRing 
 1/25 IronRing 
 1/30 CharmRing 

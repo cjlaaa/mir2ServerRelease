@@ -26,31 +26,31 @@
 1/50 BlackIronHelmet 
 
 ;Necklaces
-1/500 RedOrchidNecklace 
-1/500 RedFlowerNecklace 
+1/500 虹魔项链 
+1/500 魔血项链 
 1/50 GreenBead 
 1/50 DemonicBells 
 1/50 SoulNecklace 
 1/35 ClawNecklace 
 1/35 PearlNecklace 
 1/35 LifeNecklace 
-1/50 SpiritNecklace 
+1/50 祈祷项链 
 1/50 GaleNecklace 
 
 ;Bracelets
-1/500 RedOrchidBracelet 
-1/500 RedFlowerBracelet 
+1/500 虹魔手镯 
+1/500 魔血手镯 
 1/35 KnightBracelet 
 1/35 SoulSpringBracelet 
 1/35 DragonBracelet 
 
 ;Rings
-1/500 RedOrchidRing 
-1/500 RedFlowerRing 
+1/500 虹魔戒指 
+1/500 魔血戒指 
 1/10 DragonRing 
 1/10 RubyRing 
 1/10 PlatinumRing 
-1/35 SpiritRing 
+1/35 祈祷戒指 
 1/35 PowerRing 
 1/35 VioletRing 
 1/35 TitanRing 

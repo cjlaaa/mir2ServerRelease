@@ -2,7 +2,7 @@
 1/10 Gold 5500
 
 ;Weapons
-1/3500 WarSpiritBlade
+1/3500 War祈祷之剑
 1/3500 MagicScythe
 1/3500 StoneBambooFan
 1/3500 FreezingBlades

@@ -27,7 +27,7 @@ Sell.
 13
 
 [Trade]
-MysteryWater
+神水
 SmallGobby
 Tinker
 Gobby

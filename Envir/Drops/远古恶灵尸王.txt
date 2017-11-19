@@ -12,7 +12,7 @@
 1/500 GreyPoison
 
 ;Weapon
-1/4000 WarSpiritBlade
+1/4000 War祈祷之剑
 1/4000 StoneBambooFan
 1/4000 MagicScythe
 1/4000 FreezingBlades
@@ -37,19 +37,19 @@
 1/2000 PlatinumRing
 1/2000 DragonRing
 1/2000 RubyRing
-1/500 NokChiRing
-1/500 MundaneRing
-1/500 TaoProtectRing
+1/500 天音戒指
+1/500 平凡戒指
+1/500 道力戒指
 
 ;Bracelets
 1/400 3rdEyeBracelet
-1/1900 FiveStringBracelet
-1/500 NokChiWheel
-1/500 MundaneGlove
-1/500 TaoProtectBracelet
+1/1900 五玄手镯
+1/500 天音轮
+1/500 平凡护腕
+1/500 道力手镯
 
 ;Necklaces
-1/1900 FiveStringNecklace
+1/1900 五玄项链
 1/900 SpiritPowerNecklace
 1/900 BlueThunderNecklace
 1/900 AmethystNecklace

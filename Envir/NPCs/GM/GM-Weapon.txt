@@ -37,9 +37,9 @@ Buy.
 1
 
 [Trade]
-SpiritBlade
+祈祷之剑
 天龙神型夺命剑
-BoneDecapitator
+龙骨刀
 PickAxe
 WoodenSword
 Dagger
@@ -66,7 +66,7 @@ JudgementMace
 DragonSword
 BlackDragonSlayer
 FateSword
-WarSpiritBlade
+War祈祷之剑
 DragonSlayer
 SwordOfWarGod
 BurstSword

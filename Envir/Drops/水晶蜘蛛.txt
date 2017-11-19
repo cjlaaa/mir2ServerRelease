@@ -73,12 +73,12 @@
 1/15 SkeletonHelmet
 
 ;Sets
-1/50 RedOrchidRing
-1/50 RedOrchidNecklace
-1/50 RedOrchidBracelet
-1/50 RedFlowerRing
-1/50 RedFlowerNecklace
-1/50 RedFlowerBracelet
+1/50 虹魔戒指
+1/50 虹魔项链
+1/50 虹魔手镯
+1/50 魔血戒指
+1/50 魔血项链
+1/50 魔血手镯
 
 ;Rings
 1/25 SkeletonRing

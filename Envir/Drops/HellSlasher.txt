@@ -21,7 +21,7 @@
 1/50 LongBow
 1/100 PowerAxe
 1/200 PurifierSword
-1/10000 WarSpiritBlade
+1/10000 War祈祷之剑
 1/10000 MagicScythe
 1/10000 StoneBambooFan
 1/10000 FreezingBlades
@@ -65,8 +65,8 @@
 1/750 ExpelRing
 1/750 CoralRing
 1/1000 GaleRing
-1/75000 SmashRing
-1/75000 HwanDevilRing
+1/75000 破碎戒指
+1/75000 青魔戒指
 
 ;Bracelets
 1/80 HardGlove

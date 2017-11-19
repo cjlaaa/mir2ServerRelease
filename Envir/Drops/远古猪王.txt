@@ -62,11 +62,11 @@
 ;Helmets
 1/10 SkeletonHelmet 
 1/10 ShamanHelmet 
-1/100 RecallHelmet 
-1/80 SpiritHelmet 
+1/100 记忆头盔 
+1/80 祈祷头盔 
 
 ;Necklaces
-1/100 RecallNecklace 
+1/100 记忆项链 
 1/10 LanternNecklace 
 1/10 TigerNecklace 
 1/15 BlueJadeNecklace 
@@ -81,7 +81,7 @@
 1/550 SkillNecklace 
 
 ;Bracelets
-1/100 RecallBracelet 
+1/100 记忆手镯 
 1/8 StrainBracelet 
 1/8 MagicBracelet 
 1/8 HardGlove 
@@ -98,7 +98,7 @@
 1/200 SoulSpringBracelet 
 
 ;Rings
-1/500 RecallRing 
+1/500 记忆戒指 
 1/10 SkeletonRing 
 1/5 IronRing 
 1/15 CharmRing 

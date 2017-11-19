@@ -38,14 +38,14 @@ Special repair.
 2
 
 [Trade]
-MirArmour(M)
-MirArmour(F)
-BoneRobe(M)
-BoneRobe(F)
-TarragonArmour(M)
-TarragonArmour(F)
-RaidersArmour(M)
-RaidersArmour(F)
+天龙不死衣(男)
+天龙不死衣(女)
+龙骨甲(男)
+龙骨甲(女)
+血龙盔甲(男)
+血龙盔甲(女)
+监视者铠甲(男)
+监视者铠甲(女)
 BaseDress(M)
 BaseDress(F)
 LightArmour(M)

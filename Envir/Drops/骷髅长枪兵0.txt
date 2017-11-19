@@ -20,7 +20,7 @@
 1/30 AntidoteMarble
 
 ;Weapons
-1/9000 WarSpiritBlade
+1/9000 War祈祷之剑
 1/9000 MagicScythe
 1/9000 StoneBambooFan
 1/9000 FreezingBlades
@@ -68,8 +68,8 @@
 1/20 SkeletonRing
 1/45 CoralRing
 1/45 ExpelRing
-1/120 RedOrchidRing
-1/800 FiveStringRing
+1/120 虹魔戒指
+1/800 五玄戒指
 
 ;Bracelet
 1/9 HardGlove

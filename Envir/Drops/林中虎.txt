@@ -20,7 +20,7 @@
 1/2500 SoulSpringWand 
 1/2500 BladesOfDarkness 
 1/2500 FiendBow 
-1/10000 WarSpiritBlade 
+1/10000 War祈祷之剑 
 1/10000 MagicScythe 
 1/10000 StoneBambooFan 
 1/10000 FreezingBlades 

@@ -39,7 +39,7 @@
 1/100 RubyRing
 1/100 PlatinumRing
 1/500 NobleRing
-1/500 OmaSpiritRing
+1/500 Oma祈祷戒指
 1/500 SoulRing
 
 

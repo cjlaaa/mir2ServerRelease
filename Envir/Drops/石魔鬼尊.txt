@@ -58,7 +58,7 @@
 1/350 StealthArmour(F)
 
 ;Weapons
-1/60 WarSpiritBlade
+1/60 War祈祷之剑
 1/60 MagicScythe
 1/60 StoneBambooFan
 1/60 FreezingBlades
@@ -86,7 +86,7 @@
 ;Rings
 1/40 NobleRing
 1/40 SoulRing
-1/40 OmaSpiritRing
+1/40 Oma祈祷戒指
 1/40 TaeGukRing
 1/40 ThunderRing
 1/40 BoundlessRing

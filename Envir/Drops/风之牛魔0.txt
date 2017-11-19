@@ -41,7 +41,7 @@
 1/20 LongBow
 1/55 PowerAxe
 1/60 PurifierSword
-1/10000 WarSpiritBlade
+1/10000 War祈祷之剑
 1/10000 MagicScythe
 1/10000 StoneBambooFan
 1/10000 FreezingBlades
@@ -59,8 +59,8 @@
 1/150 TwinGoldRing
 1/150 JadeSnowRing
 1/150 EvilSlayerRing
-1/800 HwanDevilRing
-1/750 SmashRing
+1/800 青魔戒指
+1/750 破碎戒指
 
 ;Bracelet
 1/18 HardGlove
@@ -71,8 +71,8 @@
 1/45 DeathGauntlet
 1/40 GoldBracelet
 1/75 BronzeGlove
-1/750 SmashWheel
-1/800 HwanDevilBracelet
+1/750 破碎手镯
+1/800 青魔手镯
 1/250 TaoPowerBracelet
 
 ;Necklaces
@@ -83,8 +83,8 @@
 1/45 BambooPipe
 1/45 ConvexLens
 1/300 GaleNecklace
-1/750 SmashPendulum
-1/800 HwanDevilNecklace
+1/750 破碎项链
+1/800 青魔项链
 1/390 ClawNecklace
 1/390 LifeNecklace
 1/390 PearlNecklace

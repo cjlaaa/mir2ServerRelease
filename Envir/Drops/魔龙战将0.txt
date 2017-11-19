@@ -59,7 +59,7 @@
 1/120 VioletRing
 1/120 TitanRing
 1/400 NobleRing
-1/400 OmaSpiritRing
+1/400 Oma祈祷戒指
 1/400 SoulRing
 1/500 ThunderRing
 1/500 BoundlessRing
