@@ -15,9 +15,9 @@
 [@FixedRewards]
 
 [@SelectRewards]
-SolidGreatAxe
+Solid炼狱
 SolidBronzeStaff
-SolidSerpentSword
+Solid银蛇
 SolidTwinBlades
 SolidSilverBow
 

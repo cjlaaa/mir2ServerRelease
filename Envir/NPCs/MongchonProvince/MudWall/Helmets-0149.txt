@@ -39,12 +39,12 @@ GOTO @Main-1
 9
 
 [Trade]
-BronzeHelmet
-MagicHelmet
-BrassHelmet
-GoldenTiara
-SkeletonHelmet
-ShamanHelmet
+青铜头盔
+魔法头盔
+黄铜头盔
+黄金头盔
+骷髅头盔
+道士头盔
 
 
 

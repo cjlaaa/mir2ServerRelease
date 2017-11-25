@@ -2,80 +2,80 @@
 1/10 Gold 450
 
 ;Weapons
-1/160 PrinceDagger 
-1/160 MartialSword 
-1/160 HookedSpear 
-1/160 KrissSword 
-1/160 IronBlades 
+1/160 破魂 
+1/160 斩马刀 
+1/160 偃月 
+1/160 降魔 
+1/160 墨铁刀 
 1/160 LongBow 
-1/500 PowerAxe 
-1/1000 PurifierSword 
+1/500 修罗 
+1/1000 凝霜 
 
 ;Armours
-1/800 HeavyArmour(M) 
-1/800 HeavyArmour(F) 
-1/800 MagicRobe(M) 
-1/800 MagicRobe(F) 
-1/800 SoulArmour(M) 
-1/800 SoulArmour(F) 
-1/800 RelicArmour(M) 
-1/800 RelicArmour(F) 
-1/800 LightLeatherArmour(M) 
-1/800 LightLeatherArmour(F) 
+1/800 重盔甲(男) 
+1/800 重盔甲(女) 
+1/800 魔法长袍(男) 
+1/800 魔法长袍(女) 
+1/800 灵魂战衣(男) 
+1/800 灵魂战衣(女) 
+1/800 残影魔衣(男) 
+1/800 残影魔衣(女) 
+1/800 LightLeatherArmour(男) 
+1/800 LightLeatherArmour(女) 
 
 ;Necklaces
-1/200 LanternNecklace 
-1/200 TigerNecklace 
-1/600 PlatinumNecklace 
-1/1500 BlueJadeNecklace 
-1/1500 ConvexLens 
-1/1500 BambooPipe 
+1/200 灯笼项链 
+1/200 白色虎齿项链 
+1/600 白金项链 
+1/1500 蓝翡翠项链 
+1/1500 放大镜 
+1/1500 竹笛 
 
 ;Bracelets
-1/160 StrainBracelet 
-1/160 MagicBracelet 
-1/160 HardGlove 
-1/500 EbonyBracelet 
-1/500 MonkBracelet 
-1/900 DeathGauntlet 
-1/400 GoldBracelet 
-1/20000 SteelGlove 
+1/160 尽力手镯 
+1/160 魔法手镯 
+1/160 坚固手套 
+1/500 黑檀手镯 
+1/500 道士手镯 
+1/900 死神手套 
+1/400 金手镯 
+1/20000 阎罗手套 
 
 ;Rings
-1/160 BlackRing 
-1/160 SerpentEyeRing 
-1/160 PearlRing 
-1/200 GoldRing 
-1/500 SkeletonRing 
-1/500 IronRing 
-1/600 CharmRing 
-1/600 MoralRing 
-1/6000 ExpelRing 
-1/6000 CoralRing 
+1/160 黑色水晶戒指 
+1/160 蛇眼戒指 
+1/160 珍珠戒指 
+1/200 金戒指 
+1/500 骷髅戒指 
+1/500 生铁戒指 
+1/600 魅力戒指 
+1/600 道德戒指 
+1/6000 降妖除魔戒指 
+1/6000 珊瑚戒指 
 
 ;Stones
-1/1500 HealthStone(M) 
-1/1500 MagicStone(M) 
-1/1500 PowerStone(M)
-1/1500 DCStone(M) 
-1/1500 MCStone(M) 
-1/1500 SCStone(M) 
-1/2000 HealthStone(L) 
-1/2000 MagicStone(L) 
-1/2000 PowerStone(L) 
-1/2000 DCStone(L) 
-1/2000 MCStone(L) 
-1/2000 SCStone(L) 
+1/1500 生命守护石(中) 
+1/1500 魔力守护石(中) 
+1/1500 能力守护石(中)
+1/1500 攻击守护石(中) 
+1/1500 魔法守护石(中) 
+1/1500 道术守护石(中) 
+1/2000 生命守护石(大) 
+1/2000 魔力守护石(大) 
+1/2000 能力守护石(大) 
+1/2000 攻击守护石(大) 
+1/2000 魔法守护石(大) 
+1/2000 道术守护石(大) 
 
 ;Potions
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/100 SunPotion 
-1/200 SunPotion 
-1/400 SunPotion 
-1/600 SunPotion(M) 
-1/1000 OldGinseng 
-1/2000 StormDrug(S) 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/100 太阳水 
+1/200 太阳水 
+1/400 太阳水 
+1/600 强效太阳水 
+1/1000 万年雪霜 
+1/2000 疾风药水(小) 
 
 ;Crafting Materials
 1/15 BugShell 

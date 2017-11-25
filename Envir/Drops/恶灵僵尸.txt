@@ -2,53 +2,53 @@
 1/5 Gold 800
 
 ;Potions
-1/10 (HP)DrugMedium
-1/10 (MP)DrugMedium
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/50 SunPotion
-1/100 SunPotion(M)
+1/10 金疮药(中量)
+1/10 魔法药(中量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/50 太阳水
+1/100 强效太阳水
 1/170 RepairOil
 1/350 WarGodOil
 
 ;Weapon
-1/140 PurifierSword
-1/4000 War祈祷之剑
-1/4000 StoneBambooFan
-1/4000 MagicScythe
-1/4000 FreezingBlades
+1/140 凝霜
+1/4000 龙牙
+1/4000 逍遥扇
+1/4000 怒斩
+1/4000 冷月刀
 1/4000 LitheBow
 
 ;Armour
-1/200 HeavyArmour(M)
-1/200 HeavyArmour(F)
-1/200 SoulArmour(M)
-1/200 SoulArmour(F)
-1/200 MagicRobe(M)
-1/200 MagicRobe(F)
-1/200 RelicArmour(M)
-1/200 RelicArmour(F)
-1/200 LightLeatherArmour(M)
-1/200 LightLeatherArmour(F)
+1/200 重盔甲(男)
+1/200 重盔甲(女)
+1/200 灵魂战衣(男)
+1/200 灵魂战衣(女)
+1/200 魔法长袍(男)
+1/200 魔法长袍(女)
+1/200 残影魔衣(男)
+1/200 残影魔衣(女)
+1/200 LightLeatherArmour(男)
+1/200 LightLeatherArmour(女)
 
 ;Belts 
-1/100 LeatherBelt
-1/1600 GoldBelt
+1/100 兽皮腰带
+1/1600 黄金腰带
 
 ;Ring
-1/400 ExpelRing
-1/400 CoralRing
-1/100 MoralRing
-1/2000 PlatinumRing
-1/2000 DragonRing
-1/2000 RubyRing
+1/400 降妖除魔戒指
+1/400 珊瑚戒指
+1/100 道德戒指
+1/2000 铂金戒指
+1/2000 龙之戒指
+1/2000 红宝石戒指
 1/500 天音戒指
 1/500 平凡戒指
 1/500 道力戒指
 1/1600 五玄戒指
 
 ;Bracelets
-1/400 3rdEyeBracelet
+1/400 三眼手镯
 1/1900 五玄手镯
 1/500 天音轮
 1/500 平凡护腕
@@ -56,22 +56,22 @@
 
 ;Necklaces
 1/1900 五玄项链
-1/900 SpiritPowerNecklace
-1/900 BlueThunderNecklace
-1/900 AmethystNecklace
-1/200 WarriorNecklace
+1/900 灵力项链
+1/900 青雷项链
+1/900 紫晶项链
+1/200 勇士项链
 
 ;Scroll
 1/10 RandomTeleport
 1/50 TownTeleport
 
 ;Stones
-1/250 DCStone(L)
-1/500 DCStone(XL)
-1/250 MCStone(L)
-1/500 MCStone(XL)
-1/250 SCStone(L)
-1/500 SCStone(XL)
+1/250 攻击守护石(大)
+1/500 攻击守护石(特大)
+1/250 魔法守护石(大)
+1/500 魔法守护石(特大)
+1/250 道术守护石(大)
+1/500 道术守护石(特大)
 
 ;Books
 1/190 MassHealing

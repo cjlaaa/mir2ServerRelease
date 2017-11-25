@@ -2,9 +2,9 @@
 1/1 Gold 2000
 
 ;Potion
-1/1 (HP)DrugMedium
-1/1 (HP)DrugMedium
-1/1 (MP)DrugMedium
-1/1 (MP)DrugMedium
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
+1/1 金疮药(中量)
+1/1 金疮药(中量)
+1/1 魔法药(中量)
+1/1 魔法药(中量)
+1/2 金疮药(大量)
+1/2 魔法药(大量)

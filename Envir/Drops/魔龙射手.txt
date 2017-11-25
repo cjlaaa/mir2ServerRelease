@@ -2,71 +2,71 @@
 1/5 Gold 700
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/20 (HP)DrugXL
-1/20 (MP)DrugXL
-1/10 (HP)DrugLarge
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/10 (MP)DrugLarge
-1/10 SunPotion
-1/20 SunPotion(M)
-1/100 TaoistDrug(M)
-1/100 ImpactDrug(M)
-1/100 MagicDrug(M)
-1/100 StormDrug(S)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/20 金疮药(特大)
+1/20 魔法药(特大)
+1/10 金疮药(大量)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/10 魔法药(大量)
+1/10 太阳水
+1/20 强效太阳水
+1/100 道力药水(中)
+1/100 攻击药水(中)
+1/100 魔法药水(中)
+1/100 疾风药水(小)
 
 ;Weapons
-1/1000 PowerAxe
+1/1000 修罗
 
 ;Armours
-1/1000 SteelArmour(M)
-1/1000 SteelArmour(F)
-1/1000 DragonRobe(M)
-1/1000 DragonRobe(F)
-1/1000 TitanArmour(M)
-1/1000 TitanArmour(F)
-1/1000 RoyalArmour(M)
-1/1000 RoyalArmour(F)
-1/1000 StuddedArmour(M)
-1/1000 StuddedArmour(F)
+1/1000 鬼面甲胄(男)
+1/1000 鬼面甲胄(女)
+1/1000 火龙魔衣(男)
+1/1000 火龙魔衣(女)
+1/1000 玄天宝衣(男)
+1/1000 玄天宝衣(女)
+1/1000 修罗血衣(男)
+1/1000 修罗血衣(女)
+1/1000 StuddedArmour(男)
+1/1000 StuddedArmour(女)
 
 ;Rings
-1/120 ExpelRing
-1/120 CoralRing
-1/1000 DragonRing
-1/1000 RubyRing
-1/1000 PlatinumRing
-1/5000 NobleRing
-1/5000 Oma祈祷戒指
-1/5000 SoulRing
+1/120 降妖除魔戒指
+1/120 珊瑚戒指
+1/1000 龙之戒指
+1/1000 红宝石戒指
+1/1000 铂金戒指
+1/5000 鬼刃环
+1/5000 奥玛环
+1/5000 心意环
 
 
 ;Bracelets
-1/4000 HangMaWheel
-1/4000 BokMaWheel
-1/4000 8TrigramWheel
-1/300 EvadeBracelet
-1/300 GoldBracelet
+1/4000 抗魔轮
+1/4000 伏魔轮
+1/4000 八极轮
+1/300 辟邪手镯
+1/300 金手镯
 
 ;Necklaces
-1/140 ElusionNecklace
-1/1300 PearlNecklace
-1/1300 LifeNecklace
-1/1300 ClawNecklace
-1/200 ConvexLens
-1/200 BambooPipe
-1/200 BlueJadeNecklace
-1/400 AmethystNecklace
+1/140 躲避手链
+1/1300 天珠项链
+1/1300 生命项链
+1/1300 幽灵项链
+1/200 放大镜
+1/200 竹笛
+1/200 蓝翡翠项链
+1/400 紫晶项链
 
 ;Stones
-1/80 HealthStone(L)
-1/80 MagicStone(L)
-1/80 PowerStone(L)
-1/250 DCStone(XL)
-1/250 MCStone(XL)
-1/250 SCStone(XL)
+1/80 生命守护石(大)
+1/80 魔力守护石(大)
+1/80 能力守护石(大)
+1/250 攻击守护石(特大)
+1/250 魔法守护石(特大)
+1/250 道术守护石(特大)
 
 ;Crafting Material
 1/350 EvasionMarble

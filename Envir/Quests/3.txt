@@ -17,8 +17,8 @@
 [@FixedRewards]
 
 [@SelectRewards]
-SharpDagger
-ToughHoaSword
+Sharp匕首
+猛虎刀
 StiffWoodenBow
 
 [@ExpReward]

@@ -35,19 +35,19 @@ GOTO @Main-1
 13
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 20
-(MP)DrugSmall 1
-(MP)DrugSmall 20
-(HP)DrugMedium 1
-(HP)DrugMedium 20
-(MP)DrugMedium 1
-(MP)DrugMedium 20
-(HP)DrugLarge 1
-(HP)DrugLarge 20
-(MP)DrugLarge 1
-(MP)DrugLarge 20
-(HP)DrugXL 1
-(HP)DrugXL 20
-(MP)DrugXL 1
-(MP)DrugXL 20
+金疮药(小量) 1
+金疮药(小量) 20
+魔法药(小量) 1
+魔法药(小量) 20
+金疮药(中量) 1
+金疮药(中量) 20
+魔法药(中量) 1
+魔法药(中量) 20
+金疮药(大量) 1
+金疮药(大量) 20
+魔法药(大量) 1
+魔法药(大量) 20
+金疮药(特大) 1
+金疮药(特大) 20
+魔法药(特大) 1
+魔法药(特大) 20

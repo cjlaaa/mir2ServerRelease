@@ -21,7 +21,7 @@ GreatSpider 3
 
 [@SelectRewards]
 ThickArmour
-FireMagicRobe
+Fire魔法长袍
 TaoArmour
 SpiritRobe
 LeatherArmour

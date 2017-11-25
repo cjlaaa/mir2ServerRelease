@@ -16,7 +16,7 @@ DeerMeat 5
 [@CarryItems]
 
 [@FixedRewards]
-OldCopperRing
+Old古铜戒指
 
 [@SelectRewards]
 

@@ -18,7 +18,7 @@ PrajnaHistory 1
 [@FixedRewards]
 
 [@SelectRewards]
-FineIronArmour
+Fine战神盔甲
 FireRobe
 YingYangRobe
 FlamingRedArmour

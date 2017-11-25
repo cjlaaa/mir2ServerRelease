@@ -2,43 +2,43 @@
 1/20 Gold 2500
 
 ;Weapons
-1/600  GreatAxe
-1/600  SerpentSword
-1/600  MageStaff
-1/600  DoubleBlades
+1/600  炼狱
+1/600  银蛇
+1/600  魔杖
+1/600  双极刀
 
 ;Necklaces
-1/640  RequiemNecklace
-1/640  RedJadeNecklace
+1/640  镇魂项链
+1/640  Red翡翠项链
 1/640  五玄项链
 
 ;Bracelets
-1/540  TaoPowerBracelet
+1/540  雪玉手镯
 
 ;Rings
 1/560  RedJadeRing
 1/560  天音戒指
 
 ;Shoes
-1/380  BlackBoots
-1/580  DragonBoots
+1/380  避魂靴
+1/580  龙靴
 
 ;Belts
-1/500  BronzeBelt
-1/500  SteelBelt
+1/500  青铜腰带
+1/500  钢铁腰带
 
 ;Potions
-1/10    (HP)DrugLarge
-1/10    (MP)DrugLarge
-1/10    (HP)DrugLarge
-1/10    (MP)DrugLarge
-1/20   SunPotion(M)
-1/20   SunPotion(M)
-1/20   SunPotion(M)
-1/20   SunPotion(M)
-1/100  ImpactDrug(S)
-1/100  StaminaAid(S)
-1/100  StormDrug(S)
+1/10    金疮药(大量)
+1/10    魔法药(大量)
+1/10    金疮药(大量)
+1/10    魔法药(大量)
+1/20   强效太阳水
+1/20   强效太阳水
+1/20   强效太阳水
+1/20   强效太阳水
+1/100  攻击药水(小)
+1/100  体力药水(小)
+1/100  疾风药水(小)
 
 ;Nothing
 1/100  AdmissionOrb

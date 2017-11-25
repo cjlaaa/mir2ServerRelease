@@ -65,10 +65,10 @@ NephriteShoes(H)
 青宝靴(机敏)
 CheongboBoots(ARCH)
 RottenShoes
-LowShoes
-LeatherBoots
-SilkBoots
-BlackBoots
-DragonBoots
-RedScaleBoots
-GoldPatternBoots
+布鞋
+鹿皮靴
+紫绸靴
+避魂靴
+龙靴
+赤鳞靴
+黄金宝靴

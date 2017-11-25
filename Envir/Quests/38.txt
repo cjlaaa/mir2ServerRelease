@@ -15,7 +15,7 @@ Ebony(Fruit) 5
 [@CarryItems]
 
 [@FixedRewards]
-SuperiorBronzeHelmet
+Superior青铜头盔
 
 [@SelectRewards]
 

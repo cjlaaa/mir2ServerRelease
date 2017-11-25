@@ -2,93 +2,93 @@
 1/5 Gold 5000
 
 ;Potions
-1/1 (HP)DrugMedium
-1/1 (MP)DrugMedium
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugMedium
-1/1 (MP)DrugMedium
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugMedium
-1/1 (MP)DrugMedium
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion(M)
-1/1 SunPotion
-1/1 SunPotion(M)
-1/10 OldGinseng
-1/20 StormDrug(S)
-1/20 StaminaAid(S)
-1/20 MagicAid(S)
-1/20 ImpactDrug(S)
-1/20 MagicDrug(S)
-1/20 TaoistDrug(S)
+1/1 金疮药(中量)
+1/1 魔法药(中量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(中量)
+1/1 魔法药(中量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(中量)
+1/1 魔法药(中量)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 强效太阳水
+1/10 万年雪霜
+1/20 疾风药水(小)
+1/20 体力药水(小)
+1/20 魔力药水(小)
+1/20 攻击药水(小)
+1/20 魔法药水(小)
+1/20 道力药水(小)
 
 ;Armours
-1/20 HeavyArmour(M)
-1/20 HeavyArmour(F)
-1/20 MagicRobe(M)
-1/20 MagicRobe(F)
-1/20 SoulArmour(M)
-1/20 SoulArmour(F)
-1/20 RelicArmour(M)
-1/20 RelicArmour(F)
-1/20 LightLeatherArmour(M)
-1/20 LightLeatherArmour(F)
+1/20 重盔甲(男)
+1/20 重盔甲(女)
+1/20 魔法长袍(男)
+1/20 魔法长袍(女)
+1/20 灵魂战衣(男)
+1/20 灵魂战衣(女)
+1/20 残影魔衣(男)
+1/20 残影魔衣(女)
+1/20 LightLeatherArmour(男)
+1/20 LightLeatherArmour(女)
 
 ;Helmets
-1/40 ShamanHelmet
-1/70 SkeletonHelmet
+1/40 道士头盔
+1/70 骷髅头盔
 
 ;Weapons
-1/8 PrinceDagger
-1/8 MartialSword
-1/8 HookedSpear
-1/8 KrissSword
-1/8 IronBlades
+1/8 破魂
+1/8 斩马刀
+1/8 偃月
+1/8 降魔
+1/8 墨铁刀
 1/8 LongBow
-1/20 PowerAxe
-1/30 PurifierSword
-1/200 GreatAxe
-1/200 MageStaff
-1/200 SerpentSword
-1/200 DoubleBlades
+1/20 修罗
+1/30 凝霜
+1/200 炼狱
+1/200 魔杖
+1/200 银蛇
+1/200 双极刀
 1/200 SilverBow
 
 ;Rings
-1/6 BlackRing
-1/6 SerpentEyeRing
-1/6 PearlRing
-1/8 GoldRing
-1/8 SkeletonRing
-1/6 IronRing
-1/6 MoralRing
-1/6 CharmRing
-1/40 ExpelRing
-1/40 CoralRing
-1/80 GaleRing
-1/100 EvilSlayerRing
+1/6 黑色水晶戒指
+1/6 蛇眼戒指
+1/6 珍珠戒指
+1/8 金戒指
+1/8 骷髅戒指
+1/6 生铁戒指
+1/6 道德戒指
+1/6 魅力戒指
+1/40 降妖除魔戒指
+1/40 珊瑚戒指
+1/80 狂风戒指
+1/100 屠魔戒指
 
 ;Bracelets
-1/6 StrainBracelet
-1/6 MagicBracelet
-1/6 HardGlove
-1/8 MonkBracelet
-1/8 EbonyBracelet
-1/10 DeathGauntlet
-1/10 GoldBracelet
+1/6 尽力手镯
+1/6 魔法手镯
+1/6 坚固手套
+1/8 道士手镯
+1/8 黑檀手镯
+1/10 死神手套
+1/10 金手镯
 
 ;Necklace
-1/6 PlatinumNecklace
-1/8 LanternNecklace
-1/8 TigerNecklace
-1/10 BlueJadeNecklace
-1/16 BambooPipe
-1/16 ConvexLens
+1/6 白金项链
+1/8 灯笼项链
+1/8 白色虎齿项链
+1/10 蓝翡翠项链
+1/16 竹笛
+1/16 放大镜
 
 ;Crafting Materals
 1/3 BlackThread

@@ -4,7 +4,7 @@
 你能帮我找找吗?
 
 [@TaskDescription]
-杀掉 {SpiderFrog's/Crimson} 并收集 {BluJadeNecklace/LightSteelBlue}.
+杀掉 {SpiderFrog's/Crimson} 并收集 {Blu翡翠项链/LightSteelBlue}.
 
 [@Completion]
 

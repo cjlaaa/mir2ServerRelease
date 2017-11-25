@@ -21,7 +21,7 @@ StolenGold 1
 [@SelectRewards]
 BlackCrystalRing
 EyeofGoldenSnake
-BlackPearlRing 
+Black珍珠戒指 
 
 [@ExpReward]
 48000

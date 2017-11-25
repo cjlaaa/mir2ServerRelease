@@ -17,11 +17,11 @@
 OldNecklace 1
 
 [@FixedRewards]
-SolidBlackBoots
+Solid避魂靴
 
 [@SelectRewards]
 ClawPendant
-FireConvexLens
+Fire放大镜
 StrongBambooFlute
 
 [@ExpReward]

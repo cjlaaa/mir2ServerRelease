@@ -2,59 +2,59 @@
 1/10 Gold 200
 
 ;Weapons
-1/60 BronzeSword 
+1/60 青铜剑 
 1/60 ShortBow 
-1/60 SharpHoaSword 
-1/90 IronSword 
+1/60 暴虎刀 
+1/90 铁剑 
 1/90 BoneBow 
-1/100 ShortSword 
-1/150 BronzeAxe 
-1/150 SteelAxe 
-1/160 HookedSword 
-1/160 Trident 
-1/160 Scimitar 
-1/160 BladesOfVelocity 
+1/100 短剑 
+1/150 青铜斧 
+1/150 钢斧 
+1/160 八荒 
+1/160 海魂 
+1/160 半月 
+1/160 音速刀 
 1/160 CompoundBow 
-1/200 SteelSword 
+1/200 凌风 
 
 ;Armours
-1/200 LightArmour(M) 
-1/200 LightArmour(F) 
+1/200 轻型盔甲(男) 
+1/200 轻型盔甲(女) 
 
 ;Helmets
-1/100 BronzeHelmet 
-1/150 MagicHelmet 
+1/100 青铜头盔 
+1/150 魔法头盔 
 
 ;Necklaces
-1/80 BlackNecklace 
-1/80 EbonyNecklace 
-1/80 YellowNecklace 
-1/150 NagaNecklace 
-1/150 AmberNecklace 
-1/150 PhoenixBead 
-1/200 LanternNecklace 
+1/80 黑色水晶项链 
+1/80 黑檀项链 
+1/80 黄色水晶项链 
+1/150 魔鬼项链 
+1/150 琥珀项链 
+1/150 凤凰明珠 
+1/200 灯笼项链 
 
 ;Bracelets
-1/80 ThinBracelet 
-1/150 SilverBracelet 
-1/150 LargeBracelet 
-1/400 MagicBracelet 
-1/500 HardGlove 
+1/80 小手镯 
+1/150 银手镯 
+1/150 大手镯 
+1/400 魔法手镯 
+1/500 坚固手套 
 
 ;Rings
-1/60 CopperRing 
-1/80 HornRing 
-1/80 HexagonalRing 
-1/80 GlassRing 
-1/200 BlueRing 
-1/300 BlackRing 
-1/300 SerpentEyeRing 
-1/300 PearlRing 
+1/60 古铜戒指 
+1/80 牛角戒指 
+1/80 六角戒指 
+1/80 玻璃戒指 
+1/200 蓝色水晶戒指 
+1/300 黑色水晶戒指 
+1/300 蛇眼戒指 
+1/300 珍珠戒指 
 
 ;Potions
-1/200 (HP)DrugMedium 
-1/200 (MP)DrugMedium 
-1/300 SunPotion 
+1/200 金疮药(中量) 
+1/200 魔法药(中量) 
+1/300 太阳水 
 
 ;Crafting Materials
 1/25 Bone 

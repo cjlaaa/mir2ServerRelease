@@ -41,9 +41,9 @@ GOTO @Main-1
 6
 
 [Trade]
-IronBracelet
-ThinBracelet
-LeatherGlove
-SilverBracelet
-SteelBracelet
-LargeBracelet
+铁手镯
+小手镯
+皮制手套
+银手镯
+钢手镯
+大手镯

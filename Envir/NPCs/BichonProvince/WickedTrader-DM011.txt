@@ -30,40 +30,40 @@
 10
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-WoodenSword
+金疮药(小量) 1
+金疮药(小量) 5
+金疮药(小量) 10
+魔法药(小量) 1
+魔法药(小量) 5
+魔法药(小量) 10
+金疮药(中量) 1
+金疮药(中量) 5
+金疮药(中量) 10
+魔法药(中量) 1
+魔法药(中量) 5
+魔法药(中量) 10
+木剑
 WoodenBow
-Dagger
-EbonySword
+匕首
+乌木剑
 EbonyBow
-BronzeSword
+青铜剑
 ShortBow
-ShortSword
-SharpHoaSword
+短剑
+暴虎刀
 BoneBow
-IronSword
-BronzeAxe
-Trident
-HookedSword
-Scimitar
-BladesOfVelocity
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
 CompoundBow
-SteelSword
+凌风
 Candle
 DungeonEscape
 RandomTeleport
-BaseDress(M)
-BaseDress(F)
-LightArmour(M)
-LightArmour(F)
+布衣(男)
+布衣(女)
+轻型盔甲(男)
+轻型盔甲(女)

@@ -3,109 +3,109 @@
 1/50 GoldBar
 
 ;Weapons
-1/160 GreatAxe
-1/160 MageStaff
-1/160 SerpentSword
-1/160 DoubleBlades
+1/160 炼狱
+1/160 魔杖
+1/160 银蛇
+1/160 双极刀
 1/160 SilverBow
-1/400 DragonSword
-1/240 BloodStealerSword
-1/475 JudgementMace
-1/475 WarMageStaff
-1/475 SoulSpringWand
-1/475 BladesOfDarkness
+1/400 井中月
+1/240 血饮
+1/475 裁决之杖
+1/475 骨玉权杖
+1/475 无极棍
+1/475 暗黑刀
 1/475 FiendBow
-1/550 War祈祷之剑
-1/550 MagicScythe
-1/550 StoneBambooFan
-1/550 FreezingBlades
+1/550 龙牙
+1/550 怒斩
+1/550 逍遥扇
+1/550 冷月刀
 1/550 LitheBow
-1/2000 DragonSlayer
-1/2000 DragonStaff
-1/2000 SoulSabre
-1/2000 RoyalBlades
+1/2000 屠龙
+1/2000 噬魂法杖
+1/2000 龙纹剑
+1/2000 修罗刀
 1/2000 MaleficBow
 
 ;Armours
-1/25 HeavyArmour(M) 
-1/25 HeavyArmour(F) 
-1/25 MagicRobe(M) 
-1/25 MagicRobe(F) 
-1/25 SoulArmour(M) 
-1/25 SoulArmour(F) 
-1/25 RelicArmour(M) 
-1/25 RelicArmour(F) 
-1/25 LightLeatherArmour(M) 
-1/25 LightLeatherArmour(F) 
+1/25 重盔甲(男) 
+1/25 重盔甲(女) 
+1/25 魔法长袍(男) 
+1/25 魔法长袍(女) 
+1/25 灵魂战衣(男) 
+1/25 灵魂战衣(女) 
+1/25 残影魔衣(男) 
+1/25 残影魔衣(女) 
+1/25 LightLeatherArmour(男) 
+1/25 LightLeatherArmour(女) 
 
 ;Helmets
-1/5 BrassHelmet
-1/5 ShamanHelmet
-1/5 SkeletonHelmet
-1/35 SteelHelmet
+1/5 黄铜头盔
+1/5 道士头盔
+1/5 骷髅头盔
+1/35 钢铁头盔
 
 ;Bracelets
-1/50 KnightBracelet
+1/50 骑士手镯
 
 ;Necklaces
-1/600 SkillNecklace
-1/35 LifeNecklace
-1/35 PearlNecklace
-1/35 ClawNecklace
+1/600 技巧项链
+1/35 生命项链
+1/35 天珠项链
+1/35 幽灵项链
 
 ;Rings
-1/500 MuscleRing
-1/500 RecoveryRing
-1/3000 TeleportRing
-1/2000 ProtectionRing 
-1/2000 ParalysisRing
-1/5000 RevivalRing 
-1/3000 ClearRing
-1/30 DragonRing
-1/30 RubyRing
-1/30 PlatinumRing
+1/500 超负载戒指
+1/500 治愈戒指
+1/3000 传送戒指
+1/2000 护身戒指 
+1/2000 麻痹戒指
+1/5000 复活戒指 
+1/3000 隐身戒指
+1/30 龙之戒指
+1/30 红宝石戒指
+1/30 铂金戒指
 
 ;Belts
-1/10 BronzeBelt
-1/10 ChainBelt
-1/20 GoldBelt
-1/100 AdamantineBelt
+1/10 青铜腰带
+1/10 铁腰带
+1/20 黄金腰带
+1/100 金刚腰带
 
 ;Shoes
-1/20 BlackBoots
-1/25 SilkBoots
-1/100 DragonBoots
-1/200 RedScaleBoots
+1/20 避魂靴
+1/25 紫绸靴
+1/100 龙靴
+1/200 赤鳞靴
 
 ;Potions
-1/1 (HP)DrugLarge
-1/2 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (MP)DrugLarge
-1/1 (HP)DrugLarge
-1/2 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (MP)DrugLarge
-1/1 Sunpotion(M)
-1/1 Sunpotion(M)
-1/1 Sunpotion
-1/1 Sunpotion
-1/2 Sunpotion(M)
-1/2 Sunpotion(M)
-1/2 Sunpotion
-1/2 Sunpotion
-1/1 (HP)DrugXL
-1/2 (HP)DrugXL
-1/1 (MP)DrugXL
-1/2 (MP)DrugXL
+1/1 金疮药(大量)
+1/2 金疮药(大量)
+1/1 魔法药(大量)
+1/2 魔法药(大量)
+1/1 金疮药(大量)
+1/2 金疮药(大量)
+1/1 魔法药(大量)
+1/2 魔法药(大量)
+1/1 强效太阳水
+1/1 强效太阳水
+1/1 太阳水
+1/1 太阳水
+1/2 强效太阳水
+1/2 强效太阳水
+1/2 太阳水
+1/2 太阳水
+1/1 金疮药(特大)
+1/2 金疮药(特大)
+1/1 魔法药(特大)
+1/2 魔法药(特大)
 
 1/2 BenedictionOil
 1/2 BenedictionOil
 1/8 BenedictionOil
 
-1/30 TaoistDrug(S)
-1/30 MagicDrug(S)
-1/30 StormDrug(S)
+1/30 道力药水(小)
+1/30 魔法药水(小)
+1/30 疾风药水(小)
 
 ;Ore
 1/20 BlackIronOre

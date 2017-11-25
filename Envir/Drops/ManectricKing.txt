@@ -3,63 +3,63 @@
 1/30 GoldBar
 
 ;Potions
-2/1 (HP)DrugLarge
-2/1 (MP)DrugLarge
-2/2 (HP)DrugLarge
-2/2 (MP)DrugLarge
-2/1 (HP)DrugXL
-2/2 (HP)DrugXL
-2/1 (MP)DrugXL
-2/2 (MP)DrugXL
-2/1 SunPotion
-2/2 SunPotion
-2/1 SunPotion(M)
-2/2 SunPotion(M)
+2/1 金疮药(大量)
+2/1 魔法药(大量)
+2/2 金疮药(大量)
+2/2 魔法药(大量)
+2/1 金疮药(特大)
+2/2 金疮药(特大)
+2/1 魔法药(特大)
+2/2 魔法药(特大)
+2/1 太阳水
+2/2 太阳水
+2/1 强效太阳水
+2/2 强效太阳水
 1/2 BenedictionOil
 1/5 BenedictionOil
 1/5 WarGodOil
 
 ;Weapons
-1/400 BlackTigerHammer
-1/500 StaffOfLotus
-1/500 FanOfCrane
-1/450 ButcheringBlades
+1/400 黑虎斧
+1/500 火莲杖
+1/500 鹤羽扇
+1/450 黑乌刀
 1/500 LethalBow
 
 ;Armour
-1/200 BlackTigerArmour(M)
-1/200 BlackTigerArmour(F)
-1/200 LotusArmour(M)
-1/200 LotusArmour(F)
-1/200 CraneArmour(M)
-1/200 CraneArmour(F)
-1/200 StealthArmour(M)
-1/200 StealthArmour(F)
-1/200 LightTemperedArmour(M)
-1/200 LightTemperedArmour(F)
+1/200 黑虎甲胄(男)
+1/200 黑虎甲胄(女)
+1/200 莲盛魔衣(男)
+1/200 莲盛魔衣(女)
+1/200 鹤羽圣衣(男)
+1/200 鹤羽圣衣(女)
+1/200 黑乌飞甲(男)
+1/200 黑乌飞甲(女)
+1/200 LightTemperedArmour(男)
+1/200 LightTemperedArmour(女)
 
 ;Rings
-1/3000 TeleportRing
-1/3500 ProtectionRing
-1/3500 ParalysisRing
-1/5000 RevivalRing
-1/3000 ClearRing
-1/500 MuscleRing
-1/500 RecoveryRing
-1/250 FlameRing
-1/100 PledgeRing
-1/100 CrimsonRubyRing
-1/100 FiveElementRing
+1/3000 传送戒指
+1/3500 护身戒指
+1/3500 麻痹戒指
+1/5000 复活戒指
+1/3000 隐身戒指
+1/500 超负载戒指
+1/500 治愈戒指
+1/250 火焰戒指
+1/100 盟约戒指
+1/100 血玉环
+1/100 五行连环
 
 ;Bracelets
-1/100 DualTitanAmulet
-1/100 EvilWhispAmulet
-1/100 SacredAngelAmulet
+1/100 铁魔双轮
+1/100 曜火虹轮
+1/100 玉女天使
 
 ;Necklaces
-1/100 DemonMask
-1/100 VioletOrb
-1/100 KunroonTear
+1/100 魔神鬼影
+1/100 魔玉电影
+1/100 昆仑眼泪
 
 ;Gems
 1/250 BraveryOrb

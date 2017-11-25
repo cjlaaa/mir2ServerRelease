@@ -2,78 +2,78 @@
 1/5 Gold 15000
 
 ;Potions
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/1 (HP)DrugXL
-1/1 (MP)DrugXL
-1/1 (HP)DrugLarge
-1/1 (MP)DrugLarge
-1/2 (HP)DrugXL
-1/2 (MP)DrugXL
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/2 (HP)DrugXL
-1/2 (MP)DrugXL
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/1 金疮药(特大)
+1/1 魔法药(特大)
+1/1 金疮药(大量)
+1/1 魔法药(大量)
+1/2 金疮药(特大)
+1/2 魔法药(特大)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/2 金疮药(特大)
+1/2 魔法药(特大)
 
 ;Armours
-1/300 SteelArmour(M)
-1/300 SteelArmour(F)
-1/300 DragonRobe(M)
-1/300 DragonRobe(F)
-1/300 TitanArmour(M)
-1/300 TitanArmour(F)
-1/300 RoyalArmour(M)
-1/300 RoyalArmour(F)
-1/300 StuddedArmour(M)
-1/300 StuddedArmour(F)
+1/300 鬼面甲胄(男)
+1/300 鬼面甲胄(女)
+1/300 火龙魔衣(男)
+1/300 火龙魔衣(女)
+1/300 玄天宝衣(男)
+1/300 玄天宝衣(女)
+1/300 修罗血衣(男)
+1/300 修罗血衣(女)
+1/300 StuddedArmour(男)
+1/300 StuddedArmour(女)
 
 ;Weapons
-1/600 War祈祷之剑
-1/600 MagicScythe
-1/600 StoneBambooFan
-1/600 FreezingBlades
+1/600 龙牙
+1/600 怒斩
+1/600 逍遥扇
+1/600 冷月刀
 1/600 LitheBow
 
 ;Belts
-1/100 GoldBelt
-1/300 AdamantineBelt
+1/100 黄金腰带
+1/300 金刚腰带
 
 ;Shoes
-1/50 BlackBoots
-1/150 DragonBoots
-1/200 RedScaleBoots
+1/50 避魂靴
+1/150 龙靴
+1/200 赤鳞靴
 
 ;Helmets
-1/400 GreatHelmet
-1/400 TaoCoronet
-1/400 WisdomCoronet
-1/400 RoyalHelmet
+1/400 英雄头盔
+1/400 通天冠
+1/400 贤者帽
+1/400 修罗头盔
 
 ;Rings
-1/150 NobleRing
-1/150 SoulRing
-1/150 Oma祈祷戒指
-1/300 TaeGukRing
-1/300 ThunderRing
-1/300 BoundlessRing
+1/150 鬼刃环
+1/150 心意环
+1/150 奥玛环
+1/300 太极环
+1/300 雷霆环
+1/300 无极环
 
 ;Bracelets
-1/80 SteelGauntlet
-1/190 8TrigramWheel
-1/190 HangMaWheel
-1/190 BokMaWheel
-1/350 BaekTaGlove
-1/350 SpiritReformer
-1/350 HolyTaoWheel
+1/80 精钢手镯
+1/190 八极轮
+1/190 抗魔轮
+1/190 伏魔轮
+1/350 白驼手套
+1/350 魂锁轮
+1/350 太极轮
 
 ;Necklaces
-1/500 HeroNecklace
-1/500 AdamantineNecklace
-1/500 RequiemNecklace
+1/500 水波颈饰
+1/500 金刚铃项链
+1/500 镇魂项链
 
 ;Crafting Materials
 1/5 SpiderWeb

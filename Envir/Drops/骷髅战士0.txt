@@ -2,70 +2,70 @@
 1/1 Gold 2000
 
 ;Weapons
-1/6 BronzeSword 
+1/6 青铜剑 
 1/6 ShortBow 
-1/6 SharpHoaSword 
-1/9 IronSword 
+1/6 暴虎刀 
+1/9 铁剑 
 1/9 BoneBow 
-1/10 ShortSword 
-1/15 BronzeAxe 
-1/15 SteelAxe 
-1/16 HookedSword 
-1/16 Trident 
-1/16 Scimitar 
-1/16 BladesOfVelocity 
+1/10 短剑 
+1/15 青铜斧 
+1/15 钢斧 
+1/16 八荒 
+1/16 海魂 
+1/16 半月 
+1/16 音速刀 
 1/16 CompoundBow 
-1/20 SteelSword 
+1/20 凌风 
 
 ;Armours
-1/20 LightArmour(M) 
-1/20 LightArmour(F) 
+1/20 轻型盔甲(男) 
+1/20 轻型盔甲(女) 
 
 ;Helmets
-1/10 BronzeHelmet 
-1/15 MagicHelmet 
+1/10 青铜头盔 
+1/15 魔法头盔 
 
 ;Necklaces
-1/8 BlackNecklace 
-1/8 EbonyNecklace 
-1/8 YellowNecklace 
-1/9 NagaNecklace 
-1/9 AmberNecklace 
-1/9 PhoenixBead 
-1/20 LanternNecklace 
+1/8 黑色水晶项链 
+1/8 黑檀项链 
+1/8 黄色水晶项链 
+1/9 魔鬼项链 
+1/9 琥珀项链 
+1/9 凤凰明珠 
+1/20 灯笼项链 
 
 ;Bracelets
-1/8 ThinBracelet 
-1/9 SilverBracelet 
-1/9 LargeBracelet 
-1/40 MagicBracelet 
-1/50 HardGlove 
+1/8 小手镯 
+1/9 银手镯 
+1/9 大手镯 
+1/40 魔法手镯 
+1/50 坚固手套 
 
 ;Rings
-1/6 CopperRing 
-1/8 HornRing 
-1/8 HexagonalRing 
-1/80 GlassRing 
-1/20 BlueRing 
-1/30 BlackRing 
-1/30 SerpentEyeRing 
-1/30 PearlRing 
+1/6 古铜戒指 
+1/8 牛角戒指 
+1/8 六角戒指 
+1/80 玻璃戒指 
+1/20 蓝色水晶戒指 
+1/30 黑色水晶戒指 
+1/30 蛇眼戒指 
+1/30 珍珠戒指 
 
 ;Stones
-1/100 HealthStone(S) 
-1/100 MagicStone(S)  
-1/100 DCStone(S) 
-1/100 MCStone(S) 
-1/100 SCStone(S) 
+1/100 生命守护石(小) 
+1/100 魔力守护石(小)  
+1/100 攻击守护石(小) 
+1/100 魔法守护石(小) 
+1/100 道术守护石(小) 
 
 ;Potions
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/30 SunPotion 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/30 太阳水 
 
 ;Crafting Materials
 1/2 Bone 

@@ -2,11 +2,11 @@
 1/30 Gold 2500
 
 ;Potions
-1/40   (HP)DrugLarge
-1/40   (MP)DrugLarge
-1/40   (HP)DrugLarge
-1/40   (MP)DrugLarge
-1/40   SunPotion(M)
-1/40   SunPotion(M)
-1/40   SunPotion(M)
-1/40   SunPotion(M)
+1/40   金疮药(大量)
+1/40   魔法药(大量)
+1/40   金疮药(大量)
+1/40   魔法药(大量)
+1/40   强效太阳水
+1/40   强效太阳水
+1/40   强效太阳水
+1/40   强效太阳水

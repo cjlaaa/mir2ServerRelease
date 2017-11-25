@@ -15,7 +15,7 @@ PoisonSack 1
 [@CarryItems]
 
 [@FixedRewards]
-StrongLeatherBelt
+Strong兽皮腰带
 
 [@SelectRewards]
 

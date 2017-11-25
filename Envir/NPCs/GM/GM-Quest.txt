@@ -53,7 +53,7 @@ GatheringGlove
 GatheringTool
 GreenHerb
 MobBlood
-RedDagger
+Red匕首
 OldRobe
 StolenGold
 HiddenScroll

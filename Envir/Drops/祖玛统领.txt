@@ -2,136 +2,136 @@
 1/2 Gold 8500
 
 ;Weapons
-1/25 PowerAxe 
-1/30 PurifierSword 
-1/100 GreatAxe 
-1/100 MageStaff 
-1/100 SerpentSword 
-1/100 DoubleBlades 
+1/25 修罗 
+1/30 凝霜 
+1/100 炼狱 
+1/100 魔杖 
+1/100 银蛇 
+1/100 双极刀 
 1/100 SilverBow 
-1/250 JudgementMace 
-1/250 WarMageStaff 
-1/250 SoulSpringWand 
-1/250 BladesOfDarkness 
+1/250 裁决之杖 
+1/250 骨玉权杖 
+1/250 无极棍 
+1/250 暗黑刀 
 1/250 FiendBow 
-1/10000 SwordOfWarGod 
-1/10000 BladeOfSorcery 
-1/10000 HeavenSword 
-1/10000 BladesOfMagi 
+1/10000 开天 
+1/10000 镇天 
+1/10000 玄天 
+1/10000 暗真魔刀 
 1/10000 BowOfForce 
 
 ;Armours
-1/30 IronArmour(M) 
-1/30 IronArmour(F) 
-1/30 WizardRobe(M) 
-1/30 WitchRobe(F) 
-1/30 PearlArmour(M) 
-1/30 PearlArmour(F) 
-1/30 AncientArmour(M) 
-1/30 AncientArmour(F) 
-1/30 TemperedArmour(M) 
-1/30 TemperedArmour(F) 
-1/55 SteelArmour(M) 
-1/55 SteelArmour(F) 
-1/55 DragonRobe(M) 
-1/55 DragonRobe(F) 
-1/55 TitanArmour(M) 
-1/55 TitanArmour(F) 
-1/55 RoyalArmour(M) 
-1/55 RoyalArmour(F) 
-1/55 StuddedArmour(M) 
-1/55 StuddedArmour(F) 
+1/30 战神盔甲(男) 
+1/30 战神盔甲(女) 
+1/30 恶魔长袍(男) 
+1/30 恶魔长袍(女) 
+1/30 幽灵战衣(男) 
+1/30 幽灵战衣(女) 
+1/30 炎红战衣(男) 
+1/30 炎红战衣(女) 
+1/30 TemperedArmour(男) 
+1/30 TemperedArmour(女) 
+1/55 鬼面甲胄(男) 
+1/55 鬼面甲胄(女) 
+1/55 火龙魔衣(男) 
+1/55 火龙魔衣(女) 
+1/55 玄天宝衣(男) 
+1/55 玄天宝衣(女) 
+1/55 修罗血衣(男) 
+1/55 修罗血衣(女) 
+1/55 StuddedArmour(男) 
+1/55 StuddedArmour(女) 
 
 ;Helmets
-1/10 ShamanHelmet 
-1/15 SkeletonHelmet 
-1/500 BlackIronHelmet 
+1/10 道士头盔 
+1/15 骷髅头盔 
+1/500 黑铁头盔 
 
 ;Necklaces
-1/10 LanternNecklace 
-1/10 TigerNecklace 
-1/75 BlueJadeNecklace 
-1/75 ConvexLens 
-1/75 BambooPipe 
-1/120 ClawNecklace 
-1/120 LifeNecklace 
-1/120 PearlNecklace 
+1/10 灯笼项链 
+1/10 白色虎齿项链 
+1/75 蓝翡翠项链 
+1/75 放大镜 
+1/75 竹笛 
+1/120 幽灵项链 
+1/120 生命项链 
+1/120 天珠项链 
 
 ;Bracelets
-1/45 DeathGauntlet 
-1/25 GoldBracelet 
-1/50 BronzeGlove 
+1/45 死神手套 
+1/25 金手镯 
+1/50 幽灵手套 
 
 ;Rings
-1/25 SkeletonRing 
-1/25 IronRing 
-1/30 CharmRing 
-1/30 MoralRing 
-1/20 ExpelRing 
-1/20 CoralRing 
-1/60 GaleRing 
-1/35 DragonRing 
-1/35 RubyRing 
-1/35 PlatinumRing 
-1/4000 FlameRing 
-1/4000 RecoveryRing 
-1/40000 RevivalRing 
-1/40000 ProtectionRing 
-1/40000 ProtectionRing 
-1/40000 ParalysisRing 
-1/4000 ClearRing 
-1/250 PowerRing 
-1/250 VioletRing 
-1/250 TitanRing 
+1/25 骷髅戒指 
+1/25 生铁戒指 
+1/30 魅力戒指 
+1/30 道德戒指 
+1/20 降妖除魔戒指 
+1/20 珊瑚戒指 
+1/60 狂风戒指 
+1/35 龙之戒指 
+1/35 红宝石戒指 
+1/35 铂金戒指 
+1/4000 火焰戒指 
+1/4000 治愈戒指 
+1/40000 复活戒指 
+1/40000 护身戒指 
+1/40000 护身戒指 
+1/40000 麻痹戒指 
+1/4000 隐身戒指 
+1/250 力量戒指 
+1/250 紫碧螺 
+1/250 泰坦戒指 
 
 ;Amulets
 
 ;Belts
-1/150 SteelBelt 
-1/550 GoldBelt 
+1/150 钢铁腰带 
+1/550 黄金腰带 
 
 ;Boots
-1/300 SilkBoots 
-1/700 BlackBoots 
-1/1200 DragonBoots 
+1/300 紫绸靴 
+1/700 避魂靴 
+1/1200 龙靴 
 
 ;Stones
-1/250 HealthStone(XL) 
-1/250 MagicStone(XL) 
-1/250 PowerStone(XL) 
-1/250 DCStone(XL) 
-1/250 MCStone(XL) 
-1/250 SCStone(XL) 
-1/600 HealthStone 
-1/600 MagicStone 
-1/600 PowerStone 
-1/600 DCStone 
-1/600 MCStone 
-1/600 SCStone 
+1/250 生命守护石(特大) 
+1/250 魔力守护石(特大) 
+1/250 能力守护石(特大) 
+1/250 攻击守护石(特大) 
+1/250 魔法守护石(特大) 
+1/250 道术守护石(特大) 
+1/600 生命守护石 
+1/600 魔力守护石 
+1/600 能力守护石 
+1/600 攻击守护石 
+1/600 魔法守护石 
+1/600 道术守护石 
 
 ;Torches
 
 ;Potions
-1/1 (HP)DrugLarge 
-1/1 (MP)DrugLarge 
-1/1 (HP)DrugXL 
-1/1 (MP)DrugXL 
-1/2 (HP)DrugLarge 
-1/2 (MP)DrugLarge 
-1/2 (HP)DrugXL 
-1/2 (MP)DrugXL 
-1/2 (HP)DrugLarge 
-1/2 (MP)DrugLarge 
-1/2 (HP)DrugXL 
-1/2 (MP)DrugXL 
-1/1 SunPotion(M) 
-1/1 SunPotion(M) 
-1/1 SunPotion(M) 
-1/2 SunPotion(M) 
-1/2 SunPotion(M) 
-1/2 SunPotion(M) 
-1/30 MagicDrug(S) 
-1/30 MagicAid(S) 
+1/1 金疮药(大量) 
+1/1 魔法药(大量) 
+1/1 金疮药(特大) 
+1/1 魔法药(特大) 
+1/2 金疮药(大量) 
+1/2 魔法药(大量) 
+1/2 金疮药(特大) 
+1/2 魔法药(特大) 
+1/2 金疮药(大量) 
+1/2 魔法药(大量) 
+1/2 金疮药(特大) 
+1/2 魔法药(特大) 
+1/1 强效太阳水 
+1/1 强效太阳水 
+1/1 强效太阳水 
+1/2 强效太阳水 
+1/2 强效太阳水 
+1/2 强效太阳水 
+1/30 魔法药水(小) 
+1/30 魔力药水(小) 
 
 ;Ores
 

@@ -2,12 +2,12 @@
 1/1 Gold 6000
 
 ;Potions
-1/1 (HP)DrugMedium
-1/1 (MP)DrugMedium
-1/3 (HP)DrugLarge
-1/3 (MP)DrugLarge
-1/2 SunPotion
-1/6 SunPotion(M)
+1/1 金疮药(中量)
+1/1 魔法药(中量)
+1/3 金疮药(大量)
+1/3 魔法药(大量)
+1/2 太阳水
+1/6 强效太阳水
 
 ;Scrolls
 1/20 TownTeleport
@@ -19,32 +19,32 @@
 1/40 EvasionMarble
 
 ;Rings
-1/8 GoldRing
-1/6 SkeletonRing
-1/11 CoralRing
-1/10 ExpelRing
-1/50 TwinGoldRing
-1/50 EvilSlayerRing
-1/50 JadeSnowRing
+1/8 金戒指
+1/6 骷髅戒指
+1/11 珊瑚戒指
+1/10 降妖除魔戒指
+1/50 虎威戒指
+1/50 屠魔戒指
+1/50 雪玉戒指
 
 ;Bracelet
-1/30 MagicBracelet
-1/6 GoldBracelet
-1/4 HardGlove
-1/30 SpellBracelet
-1/40 TaoPowerBracelet
-1/40 BracerOfMagic
-1/60 SteelGauntlet
-1/6 DeathGauntlet
+1/30 魔法手镯
+1/6 金手镯
+1/4 坚固手套
+1/30 思贝尔手镯
+1/40 雪玉手镯
+1/40 魔鬼手镯
+1/60 精钢手镯
+1/6 死神手套
 
 ;Necklace
-1/8 BlueJadeNecklace
-1/8 BambooPipe
-1/8 ConvexLens
+1/8 蓝翡翠项链
+1/8 竹笛
+1/8 放大镜
 
 ;Helmet
-1/12 SkeletonHelmet
-1/10 ShamanHelmet
+1/12 骷髅头盔
+1/10 道士头盔
 
 ;Quest
 1/10 CleanSkull Q

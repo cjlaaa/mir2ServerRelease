@@ -26,6 +26,6 @@ GOTO @Main-1
 36
 
 [Trade]
-WonderBox(L)
-WonderBox(M)
+WonderBox(大)
+奇异宝盒(中)
 WonderBox(H)

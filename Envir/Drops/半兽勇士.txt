@@ -2,94 +2,94 @@
 1/1 Gold 3500
 
 ;Weapons
-1/20 Dagger 
-1/20 EbonySword 
+1/20 匕首 
+1/20 乌木剑 
 1/20 EbonyBow 
-1/20 BronzeSword 
+1/20 青铜剑 
 1/20 ShortBow 
-1/20 IronSword 
+1/20 铁剑 
 1/20 BoneBow 
-1/20 SharpHoaSword 
-1/20 ShortSword 
-1/30 HookedSword 
-1/30 Trident 
-1/30 Scimitar 
-1/30 BladesOfVelocity 
+1/20 暴虎刀 
+1/20 短剑 
+1/30 八荒 
+1/30 海魂 
+1/30 半月 
+1/30 音速刀 
 1/30 CompoundBow 
 
 ;Armours
-1/20 BaseDress(M) 
-1/20 BaseDress(F) 
-1/30 LightArmour(M) 
-1/30 LightArmour(F) 
-1/3500 MediumArmour(M) 
-1/3500 MediumArmour(F) 
+1/20 布衣(男) 
+1/20 布衣(女) 
+1/30 轻型盔甲(男) 
+1/30 轻型盔甲(女) 
+1/3500 中型盔甲(男) 
+1/3500 中型盔甲(女) 
 
 ;Helmets
-1/20 BronzeHelmet 
-1/30 MagicHelmet 
+1/20 青铜头盔 
+1/30 魔法头盔 
 
 ;Necklaces
-1/20 GoldNecklace 
-1/20 PrecisionNecklace 
-1/20 BlackNecklace 
-1/20 EbonyNecklace 
-1/20 YellowNecklace 
-1/30 NagaNecklace 
-1/30 AmberNecklace 
-1/30 PhoenixBead 
+1/20 金项链 
+1/20 传统项链 
+1/20 黑色水晶项链 
+1/20 黑檀项链 
+1/20 黄色水晶项链 
+1/30 魔鬼项链 
+1/30 琥珀项链 
+1/30 凤凰明珠 
 
 ;Bracelets
-1/20 IronBracelet 
-1/20 LeatherGlove 
-1/20 ThinBracelet 
-1/20 SilverBracelet 
-1/20 SteelBracelet 
-1/20 LargeBracelet 
-1/20 HardGlove 
-1/20 MagicBracelet 
+1/20 铁手镯 
+1/20 皮制手套 
+1/20 小手镯 
+1/20 银手镯 
+1/20 钢手镯 
+1/20 大手镯 
+1/20 坚固手套 
+1/20 魔法手镯 
 
 ;Rings
-1/20 CopperRing 
-1/20 HornRing 
-1/20 HexagonalRing 
-1/20 GlassRing 
-1/30 BlueRing 
-1/50 BlackRing 
-1/50 SerpentEyeRing 
-1/50 PearlRing 
-1/50 GoldRing 
-1/70 SkeletonRing 
+1/20 古铜戒指 
+1/20 牛角戒指 
+1/20 六角戒指 
+1/20 玻璃戒指 
+1/30 蓝色水晶戒指 
+1/50 黑色水晶戒指 
+1/50 蛇眼戒指 
+1/50 珍珠戒指 
+1/50 金戒指 
+1/70 骷髅戒指 
 
 ;Potions
-1/1 SunPotion(M) 
-1/1 SunPotion(M) 
-1/1 SunPotion(M) 
-1/2 SunPotion(M) 
-1/2 SunPotion(M) 
-1/2 SunPotion(M) 
-1/1 SunPotion 
-1/1 SunPotion 
-1/1 SunPotion 
-1/2 SunPotion 
-1/2 SunPotion 
-1/2 SunPotion 
-1/2 SunPotion 
-1/2 SunPotion 
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
-1/1 (HP)DrugMedium 
-1/1 (MP)DrugMedium 
-1/10 (HP)DrugLarge 
-1/10 (MP)DrugLarge 
-1/60 StormDrug(S) 
-1/60 MagicDrug(S) 
-1/60 ImpactDrug(S) 
-1/60 TaoistDrug(S) 
-1/60 StaminaAid(S) 
-1/60 MagicAid(S) 
+1/1 强效太阳水 
+1/1 强效太阳水 
+1/1 强效太阳水 
+1/2 强效太阳水 
+1/2 强效太阳水 
+1/2 强效太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/1 太阳水 
+1/2 太阳水 
+1/2 太阳水 
+1/2 太阳水 
+1/2 太阳水 
+1/2 太阳水 
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
+1/1 金疮药(中量) 
+1/1 魔法药(中量) 
+1/10 金疮药(大量) 
+1/10 魔法药(大量) 
+1/60 疾风药水(小) 
+1/60 魔法药水(小) 
+1/60 攻击药水(小) 
+1/60 道力药水(小) 
+1/60 体力药水(小) 
+1/60 魔力药水(小) 
 
 ;Books
 1/10 Fencing 

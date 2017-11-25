@@ -2,85 +2,85 @@
 1/1 Gold 4000
 
 ;Weapons
-1/6 BronzeSword 
+1/6 青铜剑 
 1/6 ShortBow 
-1/6 SharpHoaSword 
-1/9 IronSword 
+1/6 暴虎刀 
+1/9 铁剑 
 1/9 BoneBow 
-1/10 ShortSword 
-1/15 BronzeAxe 
-1/15 SteelAxe 
-1/16 HookedSword 
-1/16 Trident 
-1/16 Scimitar 
-1/16 BladesOfVelocity 
+1/10 短剑 
+1/15 青铜斧 
+1/15 钢斧 
+1/16 八荒 
+1/16 海魂 
+1/16 半月 
+1/16 音速刀 
 1/16 CompoundBow 
-1/20 SteelSword 
+1/20 凌风 
 
 ;Armours
-1/20 LightArmour(M) 
-1/20 LightArmour(F) 
+1/20 轻型盔甲(男) 
+1/20 轻型盔甲(女) 
 
 ;Helmets
-1/10 BronzeHelmet 
-1/15 MagicHelmet 
-1/20 BrassHelmet 
-1/20 GoldenTiara 
-1/30 SkeletonHelmet 
-1/24 ShamanHelmet 
+1/10 青铜头盔 
+1/15 魔法头盔 
+1/20 黄铜头盔 
+1/20 黄金头盔 
+1/30 骷髅头盔 
+1/24 道士头盔 
 
 ;Necklaces
-1/8 BlackNecklace 
-1/8 EbonyNecklace 
-1/8 YellowNecklace 
-1/15 NagaNecklace 
-1/15 AmberNecklace 
-1/15 PhoenixBead 
-1/20 LanternNecklace 
-1/580 GreenBead 
-1/580 GaleNecklace 
-1/580 SoulNecklace 
-1/580 DemonicBells 
+1/8 黑色水晶项链 
+1/8 黑檀项链 
+1/8 黄色水晶项链 
+1/15 魔鬼项链 
+1/15 琥珀项链 
+1/15 凤凰明珠 
+1/20 灯笼项链 
+1/580 绿色项链 
+1/580 狂风项链 
+1/580 灵魂项链 
+1/580 恶魔铃铛 
 
 ;Bracelets
-1/8 ThinBracelet 
-1/15 SilverBracelet 
-1/15 LargeBracelet 
-1/15 SteelBracelet 
-1/40 MagicBracelet 
-1/50 HardGlove 
-1/30 EbonyBracelet 
-1/30 StrainBracelet 
-1/40 SharpBracelet 
+1/8 小手镯 
+1/15 银手镯 
+1/15 大手镯 
+1/15 钢手镯 
+1/40 魔法手镯 
+1/50 坚固手套 
+1/30 黑檀手镯 
+1/30 尽力手镯 
+1/40 夏普儿手镯 
 
 ;Rings
-1/5 CopperRing 
-1/8 HornRing 
-1/8 HexagonalRing 
-1/8 GlassRing 
-1/20 BlueRing 
-1/30 BlackRing 
-1/30 SerpentEyeRing 
-1/30 PearlRing 
-1/30 SkeletonRing 
-1/300 RubyRing 
-1/300 DragonRing 
-1/300 PlatinumRing 
+1/5 古铜戒指 
+1/8 牛角戒指 
+1/8 六角戒指 
+1/8 玻璃戒指 
+1/20 蓝色水晶戒指 
+1/30 黑色水晶戒指 
+1/30 蛇眼戒指 
+1/30 珍珠戒指 
+1/30 骷髅戒指 
+1/300 红宝石戒指 
+1/300 龙之戒指 
+1/300 铂金戒指 
 
 ;Stones
-1/100 HealthStone(S) 
-1/100 MagicStone(S) 
-1/140 HealthStone(M) 
-1/140 MagicStone(M) 
+1/100 生命守护石(小) 
+1/100 魔力守护石(小) 
+1/140 生命守护石(中) 
+1/140 魔力守护石(中) 
 
 ;Potions
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/20 (HP)DrugMedium 
-1/20 (MP)DrugMedium 
-1/30 SunPotion 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/20 金疮药(中量) 
+1/20 魔法药(中量) 
+1/30 太阳水 
 
 ;Crafting Materials
 1/2 Bone 

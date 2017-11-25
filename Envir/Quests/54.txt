@@ -22,7 +22,7 @@ ShamanZombie 2
 [@FixedRewards]
 
 [@SelectRewards]
-OldNagaNecklace
+Old魔鬼项链
 AmberPendant
 WornBeadofPhoenix
 

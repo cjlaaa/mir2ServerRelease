@@ -45,11 +45,11 @@ GOTO @Main-1
 10
 
 [Trade]
-BaseDress(M)
-BaseDress(F)
-LightArmour(M)
-LightArmour(F)
-BronzeHelmet
-MagicHelmet
-LeatherBelt
-LowShoes
+布衣(男)
+布衣(女)
+轻型盔甲(男)
+轻型盔甲(女)
+青铜头盔
+魔法头盔
+兽皮腰带
+布鞋

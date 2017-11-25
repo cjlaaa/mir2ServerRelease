@@ -43,10 +43,10 @@ GOTO @Main-1
 7
 
 [Trade]
-CopperRing
-HexagonalRing
-GlassRing
-HornRing
-IronRing
-WhiteJadeRing
-BlueRing
+古铜戒指
+六角戒指
+玻璃戒指
+牛角戒指
+生铁戒指
+白玉戒指
+蓝色水晶戒指

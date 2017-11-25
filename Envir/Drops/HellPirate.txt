@@ -2,86 +2,86 @@
 1/10 Gold 2250
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/30 SunPotion
-1/50 SunPotion(M)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/30 太阳水
+1/50 强效太阳水
 
 ;Weapons
-1/50 PrinceDagger
-1/50 MartialSword
-1/50 KrissSword
-1/50 HookedSpear
-1/50 IronBlades
+1/50 破魂
+1/50 斩马刀
+1/50 降魔
+1/50 偃月
+1/50 墨铁刀
 1/50 LongBow
-1/100 PowerAxe
-1/200 PurifierSword
+1/100 修罗
+1/200 凝霜
 
 ;Armours
-1/550 HeavyArmour(M)
-1/550 HeavyArmour(F)
-1/550 MagicRobe(M)
-1/550 MagicRobe(F)
-1/550 SoulArmour(M)
-1/550 SoulArmour(F)
-1/550 RelicArmour(M)
-1/550 RelicArmour(F)
-1/550 LightLeatherArmour(M)
-1/550 LightLeatherArmour(F)
+1/550 重盔甲(男)
+1/550 重盔甲(女)
+1/550 魔法长袍(男)
+1/550 魔法长袍(女)
+1/550 灵魂战衣(男)
+1/550 灵魂战衣(女)
+1/550 残影魔衣(男)
+1/550 残影魔衣(女)
+1/550 LightLeatherArmour(男)
+1/550 LightLeatherArmour(女)
 
 ;Helmets
-1/500 ShamanHelmet
-1/500 SkeletonHelmet
+1/500 道士头盔
+1/500 骷髅头盔
 
 ;Rings
-1/100 BlackRing
-1/100 SerpentEyeRing
-1/100 PearlRing
-1/100 GoldRing
-1/150 SkeletonRing
-1/50 IronRing
-1/100 CharmRing
-1/100 MoralRing
-1/750 ExpelRing
-1/750 CoralRing
-1/5000 GaleRing
+1/100 黑色水晶戒指
+1/100 蛇眼戒指
+1/100 珍珠戒指
+1/100 金戒指
+1/150 骷髅戒指
+1/50 生铁戒指
+1/100 魅力戒指
+1/100 道德戒指
+1/750 降妖除魔戒指
+1/750 珊瑚戒指
+1/5000 狂风戒指
 1/75000 破碎戒指
 1/65000 青魔戒指
-1/250 JadeSnowRing
-1/500 EvilSlayerRing
+1/250 雪玉戒指
+1/500 屠魔戒指
 
 ;Bracelets
-1/80 HardGlove
-1/100 MagicBracelet
-1/150 MonkBracelet
-1/150 EbonyBracelet
-1/150 DeathGauntlet
-1/100 GoldBracelet
-1/700 BronzeGlove
+1/80 坚固手套
+1/100 魔法手镯
+1/150 道士手镯
+1/150 黑檀手镯
+1/150 死神手套
+1/100 金手镯
+1/700 幽灵手套
 1/65000 破碎手镯
 
 ;Necklaces
-1/100 LanternNecklace
-1/100 TigerNecklace
-1/100 PlatinumNecklace
-1/150 BlueJadeNecklace
-1/150 BambooPipe
-1/150 ConvexLens
-1/2500 GaleNecklace
+1/100 灯笼项链
+1/100 白色虎齿项链
+1/100 白金项链
+1/150 蓝翡翠项链
+1/150 竹笛
+1/150 放大镜
+1/2500 狂风项链
 1/65000 破碎项链
 
 ;Stones
-1/7000 HealthStone(L)
-1/7000 MagicStone(L)
-1/7000 PowerStone(L)
-1/7500 DCStone(L)
-1/7500 MCStone(L)
-1/7500 SCStone(L)
-1/11000 DCStone
-1/11000 MCStone
-1/11000 SCStone
+1/7000 生命守护石(大)
+1/7000 魔力守护石(大)
+1/7000 能力守护石(大)
+1/7500 攻击守护石(大)
+1/7500 魔法守护石(大)
+1/7500 道术守护石(大)
+1/11000 攻击守护石
+1/11000 魔法守护石
+1/11000 道术守护石
 
 ;Books
 1/9000 Hallucination

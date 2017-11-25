@@ -15,7 +15,7 @@
 CannibalLeaves 5
 
 [@FixedRewards]
-(HP)DrugSmall
+金疮药(小量)
 
 [@SelectRewards]
 

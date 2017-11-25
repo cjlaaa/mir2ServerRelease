@@ -2,28 +2,28 @@
 1/10 Gold 700
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/10 (MP)DrugLarge
-1/20 (HP)DrugLarge
-1/20 (MP)DrugLarge
-1/30 SunPotion
-1/60 SunPotion
-1/50 SunPotion(M)
-1/100 SunPotion(M)
-1/150 ImpactDrug(M)
-1/150 MagicDrug(M)
-1/150 TaoistDrug(M)
-1/150 StormDrug(S)
+1/10 金疮药(大量)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/10 魔法药(大量)
+1/20 金疮药(大量)
+1/20 魔法药(大量)
+1/30 太阳水
+1/60 太阳水
+1/50 强效太阳水
+1/100 强效太阳水
+1/150 攻击药水(中)
+1/150 魔法药水(中)
+1/150 道力药水(中)
+1/150 疾风药水(小)
 
 ;Necklaces
-1/50000 SkillNecklace
+1/50000 技巧项链
 
 ;Belts
-1/1000 SteelBelt
-1/3000 GoldBelt
-1/3500 AdamantineBelt
+1/1000 钢铁腰带
+1/3000 黄金腰带
+1/3500 金刚腰带
 
 ;Books
 1/10000 LionRoar

@@ -58,10 +58,10 @@ NephriteBelt(H)
 青宝腰带(仙界)
 青宝腰带(机敏)
 CheongboBelt(ARCH)
-LeatherBelt
-ChainBelt
-BronzeBelt
-SteelBelt
-GoldBelt
-AdamantineBelt
+兽皮腰带
+铁腰带
+青铜腰带
+钢铁腰带
+黄金腰带
+金刚腰带
 FlamingGrasp

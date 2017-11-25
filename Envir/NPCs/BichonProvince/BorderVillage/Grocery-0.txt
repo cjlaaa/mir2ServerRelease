@@ -36,18 +36,18 @@ GOTO @Main-1
 13
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
+金疮药(小量) 1
+金疮药(小量) 5
+金疮药(小量) 10
+魔法药(小量) 1
+魔法药(小量) 5
+魔法药(小量) 10
+金疮药(中量) 1
+金疮药(中量) 5
+金疮药(中量) 10
+魔法药(中量) 1
+魔法药(中量) 5
+魔法药(中量) 10
 Candle
 Torch
 RandomTeleport 1

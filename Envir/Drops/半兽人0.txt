@@ -2,67 +2,67 @@
 1/2 Gold 2000
 
 ;Weapons
-1/6 WoodenSword 
-1/6 HoaSword 
+1/6 木剑 
+1/6 虎牙刀 
 1/6 WoodenBow 
-1/9 Dagger 
-1/9 EbonySword 
+1/9 匕首 
+1/9 乌木剑 
 1/9 EbonyBow 
-1/14 BronzeSword 
+1/14 青铜剑 
 1/14 ShortBow 
-1/14 SharpHoaSword 
-1/18 IronSword 
+1/14 暴虎刀 
+1/18 铁剑 
 1/18 BoneBow 
-1/22 ShortSword 
-1/40 HookedSword 
-1/40 Trident 
-1/40 Scimitar 
-1/40 BladesOfVelocity 
+1/22 短剑 
+1/40 八荒 
+1/40 海魂 
+1/40 半月 
+1/40 音速刀 
 1/40 CompoundBow 
 
 ;Armours
-1/10 BaseDress(M) 
-1/10 BaseDress(F) 
-1/30 LightArmour(M) 
-1/30 LightArmour(F) 
+1/10 布衣(男) 
+1/10 布衣(女) 
+1/30 轻型盔甲(男) 
+1/30 轻型盔甲(女) 
 
 ;Helmets
-1/15 BronzeHelmet 
-1/20 MagicHelmet 
+1/15 青铜头盔 
+1/20 魔法头盔 
 
 ;Necklaces
-1/6 GoldNecklace 
-1/8 PrecisionNecklace 
-1/20 BlackNecklace 
-1/20 EbonyNecklace 
-1/20 YellowNecklace 
+1/6 金项链 
+1/8 传统项链 
+1/20 黑色水晶项链 
+1/20 黑檀项链 
+1/20 黄色水晶项链 
 
 ;Bracelets
-1/8 IronBracelet 
-1/30 ThinBracelet 
-1/30 LeatherGlove 
-1/40 SteelBracelet 
-1/40 SilverBracelet 
-1/40 LargeBracelet 
+1/8 铁手镯 
+1/30 小手镯 
+1/30 皮制手套 
+1/40 钢手镯 
+1/40 银手镯 
+1/40 大手镯 
 
 ;Rings
-1/6 CopperRing 
-1/11 HornRing 
-1/11 HexagonalRing 
-1/11 GlassRing 
-1/20 BlueRing 
+1/6 古铜戒指 
+1/11 牛角戒指 
+1/11 六角戒指 
+1/11 玻璃戒指 
+1/20 蓝色水晶戒指 
 
 ;Stones
-1/40 PowerStone(S) 
+1/40 能力守护石(小) 
 
 ;Potions
-1/6 (HP)DrugSmall
-1/6 (MP)DrugSmall
-1/6 (HP)DrugSmall
-1/6 (MP)DrugSmall
-1/6 (HP)DrugSmall
-1/6 (MP)DrugSmall 
-1/60 SunPotion 
+1/6 金疮药(小量)
+1/6 魔法药(小量)
+1/6 金疮药(小量)
+1/6 魔法药(小量)
+1/6 金疮药(小量)
+1/6 魔法药(小量) 
+1/60 太阳水 
 
 ;Quest
 1/2 OmaTeeth Q

@@ -2,80 +2,80 @@
 1/30 Gold 400
 
 ;Potions
-1/30 (HP)DrugMedium
-1/30 (MP)DrugMedium
-1/70 (HP)DrugLarge
-1/70 (MP)DrugLarge
-1/50 SunPotion
-1/100 SunPotion
-1/150 SunPotion(M)
-1/500 OldGinseng
+1/30 金疮药(中量)
+1/30 魔法药(中量)
+1/70 金疮药(大量)
+1/70 魔法药(大量)
+1/50 太阳水
+1/100 太阳水
+1/150 强效太阳水
+1/500 万年雪霜
 
 ;Armours
-1/400 HeavyArmour(M) 
-1/400 HeavyArmour(F) 
-1/400 MagicRobe(M) 
-1/400 MagicRobe(F) 
-1/400 SoulArmour(M) 
-1/400 SoulArmour(F) 
-1/400 RelicArmour(M) 
-1/400 RelicArmour(F) 
-1/400 LightLeatherArmour(M) 
-1/400 LightLeatherArmour(F) 
+1/400 重盔甲(男) 
+1/400 重盔甲(女) 
+1/400 魔法长袍(男) 
+1/400 魔法长袍(女) 
+1/400 灵魂战衣(男) 
+1/400 灵魂战衣(女) 
+1/400 残影魔衣(男) 
+1/400 残影魔衣(女) 
+1/400 LightLeatherArmour(男) 
+1/400 LightLeatherArmour(女) 
 
 ;Helmets
-1/250 MagicHelmet
-1/700 BrassHelmet
-1/1000 ShamanHelmet
-1/1000 SkeletonHelmet
-1/4000 GoldenTiara
+1/250 魔法头盔
+1/700 黄铜头盔
+1/1000 道士头盔
+1/1000 骷髅头盔
+1/4000 黄金头盔
 
 ;Weapons
-1/150 PrinceDagger
-1/150 MartialSword
-1/150 HookedSpear
-1/150 KrissSword
-1/150 IronBlades
+1/150 破魂
+1/150 斩马刀
+1/150 偃月
+1/150 降魔
+1/150 墨铁刀
 1/150 LongBow
-1/250 PowerAxe
-1/400 PurifierSword
-1/10000 FireBloodSword
-1/1000000 GreatAxe
-1/1000000 MageStaff
-1/1000000 SerpentSword
-1/1000000 DoubleBlades
+1/250 修罗
+1/400 凝霜
+1/10000 血火之匕
+1/1000000 炼狱
+1/1000000 魔杖
+1/1000000 银蛇
+1/1000000 双极刀
 1/1000000 SilverBow
 
 ;Rings
-1/1000 BlackRing
-1/1000 SerpentEyeRing
-1/1000 PearlRing
-1/1000 GoldRing
-1/1250 SkeletonRing
-1/1000 IronRing
-1/1500 CharmRing
-1/1500 MoralRing
+1/1000 黑色水晶戒指
+1/1000 蛇眼戒指
+1/1000 珍珠戒指
+1/1000 金戒指
+1/1250 骷髅戒指
+1/1000 生铁戒指
+1/1500 魅力戒指
+1/1500 道德戒指
 
 ;Bracelets
-1/800 HardGlove
-1/800 MagicBracelet
-1/900 StrainBracelet
-1/1000 MonkBracelet
-1/1000 EbonyBracelet
-1/1400 DeathGauntlet
-1/1500 GoldBracelet
+1/800 坚固手套
+1/800 魔法手镯
+1/900 尽力手镯
+1/1000 道士手镯
+1/1000 黑檀手镯
+1/1400 死神手套
+1/1500 金手镯
 
 ;Necklaces
-1/700 LanternNecklace
-1/700 TigerNecklace
-1/1000 ElusionNecklace
-1/600 PlatinumNecklace
-1/1250 BlueJadeNecklace
-1/1250 BambooPipe
-1/1250 ConvexLens
+1/700 灯笼项链
+1/700 白色虎齿项链
+1/1000 躲避手链
+1/600 白金项链
+1/1250 蓝翡翠项链
+1/1250 竹笛
+1/1250 放大镜
 
 ;Belts
-1/2500 BronzeBelt
+1/2500 青铜腰带
 
 ;Quest
 1/350 WoomaHeart 

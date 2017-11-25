@@ -2,15 +2,15 @@
 1/15    Gold 2000
 
 ;Potions
-1/10     (HP)DrugLarge
-1/10     (MP)DrugLarge
-1/10     (HP)DrugLarge
-1/10     (MP)DrugLarge
-1/20    SunPotion(M)
-1/20    SunPotion(M)
-1/20    SunPotion(M)
-1/20    SunPotion(M)
-1/100 MagicDrug(S)
+1/10     金疮药(大量)
+1/10     魔法药(大量)
+1/10     金疮药(大量)
+1/10     魔法药(大量)
+1/20    强效太阳水
+1/20    强效太阳水
+1/20    强效太阳水
+1/20    强效太阳水
+1/100 魔法药水(小)
 
 ;Nothing
 1/50    AdmissionOrb
@@ -18,12 +18,12 @@
 ;Belts
 1/420 NephriteBelt
 1/420 RedJadeBelt
-1/420 SteelBelt
+1/420 钢铁腰带
 
 ;Shoes
 1/440 NephriteShoes
 1/440 RedJadeShoes
-1/440 RedScaleBoots
+1/440 赤鳞靴
 
 ;Books
 1/200 flamedisruptor

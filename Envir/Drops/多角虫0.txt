@@ -2,65 +2,65 @@
 1/1 Gold 2000
 
 ;Weapons
-1/6 WoodenSword 
-1/6 HoaSword 
+1/6 木剑 
+1/6 虎牙刀 
 1/6 WoodenBow 
-1/9 Dagger 
-1/9 EbonySword 
+1/9 匕首 
+1/9 乌木剑 
 1/9 EbonyBow 
-1/10 BronzeSword 
+1/10 青铜剑 
 1/10 ShortBow 
-1/10 SharpHoaSword 
-1/12 IronSword 
+1/10 暴虎刀 
+1/12 铁剑 
 1/12 BoneBow 
-1/22 ShortSword 
-1/40 HookedSword
-1/40 Scimitar
-1/40 Trident
-1/40 BladesOfVelocity
+1/22 短剑 
+1/40 八荒
+1/40 半月
+1/40 海魂
+1/40 音速刀
 1/40 CompoundBow
 
 ;Armours
-1/10 BaseDress(M) 
-1/10 BaseDress(F) 
-1/30 LightArmour(M) 
-1/30 LightArmour(F) 
+1/10 布衣(男) 
+1/10 布衣(女) 
+1/30 轻型盔甲(男) 
+1/30 轻型盔甲(女) 
 
 ;Helmets
-1/15 BronzeHelmet 
-1/20 MagicHelmet 
+1/15 青铜头盔 
+1/20 魔法头盔 
 
 ;Necklaces
-1/6 GoldNecklace 
-1/8 PrecisionNecklace 
-1/20 BlackNecklace 
-1/20 EbonyNecklace 
-1/20 YellowNecklace 
-1/70 NagaNecklace
-1/70 AmberNecklace
-1/70 PhoenixBead
+1/6 金项链 
+1/8 传统项链 
+1/20 黑色水晶项链 
+1/20 黑檀项链 
+1/20 黄色水晶项链 
+1/70 魔鬼项链
+1/70 琥珀项链
+1/70 凤凰明珠
 
 ;Bracelets
-1/8 IronBracelet 
-1/30 ThinBracelet 
-1/30 LeatherGlove 
-1/40 SilverBracelet 
-1/40 SteelBracelet 
-1/40 LargeBracelet 
+1/8 铁手镯 
+1/30 小手镯 
+1/30 皮制手套 
+1/40 银手镯 
+1/40 钢手镯 
+1/40 大手镯 
 
 ;Rings
-1/6 CopperRing 
-1/11 HornRing 
-1/11 HexagonalRing 
-1/11 GlassRing 
-1/20 BlueRing 
+1/6 古铜戒指 
+1/11 牛角戒指 
+1/11 六角戒指 
+1/11 玻璃戒指 
+1/20 蓝色水晶戒指 
 
 ;Potions
-1/6 (HP)DrugSmall 
-1/6 (MP)DrugSmall 
-1/10 (HP)DrugMedium 
-1/10 (MP)DrugMedium 
-1/20 SunPotion 
+1/6 金疮药(小量) 
+1/6 魔法药(小量) 
+1/10 金疮药(中量) 
+1/10 魔法药(中量) 
+1/20 太阳水 
 
 ;Books
 1/14 Fencing

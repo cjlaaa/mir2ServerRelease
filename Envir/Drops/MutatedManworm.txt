@@ -2,19 +2,19 @@
 1/15 Gold 4500
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/25 SunPotion
-1/50 SunPotion(M)
-1/100 OldGinseng
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/25 太阳水
+1/50 强效太阳水
+1/100 万年雪霜
 
 ;Rings
-1/2200 RedDemonRing
-1/2200 CloudRing
-1/2100 PoisonRing
+1/2200 战魔戒指
+1/2200 柔云戒指
+1/2100 毒素戒指

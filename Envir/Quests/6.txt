@@ -18,7 +18,7 @@ HookingCat 5
 
 [@SelectRewards]
 BronzeWarriorSword
-StrongHoaSword
+Strong虎牙刀
 StrongWoodenBow
 
 [@ExpReward]

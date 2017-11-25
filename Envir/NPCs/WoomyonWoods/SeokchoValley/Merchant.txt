@@ -49,74 +49,74 @@ GOTO @Main-1
 14
 
 [Trade]
-(HP)DrugSmall 1
-(HP)DrugSmall 5
-(HP)DrugSmall 10
-(MP)DrugSmall 1
-(MP)DrugSmall 5
-(MP)DrugSmall 10
-(HP)DrugMedium 1
-(HP)DrugMedium 5
-(HP)DrugMedium 10
-(MP)DrugMedium 1
-(MP)DrugMedium 5
-(MP)DrugMedium 10
-WoodenSword
+金疮药(小量) 1
+金疮药(小量) 5
+金疮药(小量) 10
+魔法药(小量) 1
+魔法药(小量) 5
+魔法药(小量) 10
+金疮药(中量) 1
+金疮药(中量) 5
+金疮药(中量) 10
+魔法药(中量) 1
+魔法药(中量) 5
+魔法药(中量) 10
+木剑
 WoodenBow
-Dagger
-EbonySword
+匕首
+乌木剑
 EbonyBow
-BronzeSword
+青铜剑
 ShortBow
-ShortSword
-SharpHoaSword
+短剑
+暴虎刀
 BoneBow
-IronSword
-BronzeAxe
-Trident
-HookedSword
-Scimitar
-BladesOfVelocity
+铁剑
+青铜斧
+海魂
+八荒
+半月
+音速刀
 CompoundBow
-SteelAxe
-SteelSword
-PrinceDagger
-MartialSword
-KrissSword
-HookedSpear
-LightArmour(M)
-LightArmour(F)
-HeavyArmour(M)
-HeavyArmour(F)
-SoulArmour(M)
-SoulArmour(F)
-MagicRobe(M)
-MagicRobe(F)
-RelicArmour(M)
-RelicArmour(F)
-LightLeatherArmour(M)
-LightLeatherArmour(F)
-BronzeHelmet
-MagicHelmet
-BrassHelmet
-LeatherBelt
-ChainBelt
-LowShoes
-LeatherBoots
-NagaNecklace
+钢斧
+凌风
+破魂
+斩马刀
+降魔
+偃月
+轻型盔甲(男)
+轻型盔甲(女)
+重盔甲(男)
+重盔甲(女)
+灵魂战衣(男)
+灵魂战衣(女)
+魔法长袍(男)
+魔法长袍(女)
+残影魔衣(男)
+残影魔衣(女)
+LightLeatherArmour(男)
+LightLeatherArmour(女)
+青铜头盔
+魔法头盔
+黄铜头盔
+兽皮腰带
+铁腰带
+布鞋
+鹿皮靴
+魔鬼项链
 PheonixBead
-AmberNecklace
-LanternNecklace
-HornRing
-IronRing
-WhiteJadeRing
-BlueRing
-BlackRing
-SerpentEyeRing
-PearlRing
-GoldRing
-SteelBracelet
-LargeBracelet
-StrainBracelet
-MonkBracelet
-EbonyBracelet
+琥珀项链
+灯笼项链
+牛角戒指
+生铁戒指
+白玉戒指
+蓝色水晶戒指
+黑色水晶戒指
+蛇眼戒指
+珍珠戒指
+金戒指
+钢手镯
+大手镯
+尽力手镯
+道士手镯
+黑檀手镯

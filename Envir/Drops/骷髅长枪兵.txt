@@ -1,17 +1,17 @@
 ;Gold
 1/10 Gold 2000
 
-1/10 (HP)DrugMedium
-1/10 (MP)DrugMedium
-1/30 (HP)DrugLarge
-1/30 (MP)DrugLarge
-1/20 SunPotion
-1/60 SunPotion(M)
+1/10 金疮药(中量)
+1/10 魔法药(中量)
+1/30 金疮药(大量)
+1/30 魔法药(大量)
+1/20 太阳水
+1/60 强效太阳水
 1/300 RepairOil
 1/500 WarGodOil
-1/100 ImpactDrug(S)
-1/100 TaoistDrug(S)
-1/100 MagicDrug(S)
+1/100 攻击药水(小)
+1/100 道力药水(小)
+1/100 魔法药水(小)
 
 ;Crafting Material
 1/10 Bone
@@ -20,62 +20,62 @@
 1/300 AntidoteMarble
 
 ;Weapons
-1/90000 War祈祷之剑
-1/90000 MagicScythe
-1/90000 StoneBambooFan
-1/90000 FreezingBlades
+1/90000 龙牙
+1/90000 怒斩
+1/90000 逍遥扇
+1/90000 冷月刀
 1/90000 LitheBow
 
 ;Armours
-1/150 HeavyArmour(M)
-1/150 HeavyArmour(F)
-1/150 MagicRobe(M)
-1/150 MagicRobe(F)
-1/150 SoulArmour(M)
-1/150 SoulArmour(F)
-1/150 RelicArmour(M)
-1/150 RelicArmour(F)
-1/150 LightLeatherArmour(M)
-1/150 LightLeatherArmour(F)
-1/500 IronArmour(M)
-1/500 IronArmour(F)
-1/500 WizardRobe(M)
-1/500 WitchRobe(F)
-1/500 PearlArmour(M)
-1/500 PearlArmour(F)
-1/500 AncientArmour(M)
-1/500 AncientArmour(F)
-1/500 TemperedArmour(M)
-1/500 TemperedArmour(F)
+1/150 重盔甲(男)
+1/150 重盔甲(女)
+1/150 魔法长袍(男)
+1/150 魔法长袍(女)
+1/150 灵魂战衣(男)
+1/150 灵魂战衣(女)
+1/150 残影魔衣(男)
+1/150 残影魔衣(女)
+1/150 LightLeatherArmour(男)
+1/150 LightLeatherArmour(女)
+1/500 战神盔甲(男)
+1/500 战神盔甲(女)
+1/500 恶魔长袍(男)
+1/500 恶魔长袍(女)
+1/500 幽灵战衣(男)
+1/500 幽灵战衣(女)
+1/500 炎红战衣(男)
+1/500 炎红战衣(女)
+1/500 TemperedArmour(男)
+1/500 TemperedArmour(女)
 
 ;Helmets
-1/200 SkeletonHelmet
-1/180 ShamanHelmet
-1/1000 SteelHelmet
+1/200 骷髅头盔
+1/180 道士头盔
+1/1000 钢铁头盔
 
 ;Necklace
-1/150 AmberNecklace
-1/150 NagaNecklace
-1/150 PhoenixBead
-1/200 BlueJadeNecklace
-1/200 ConvexLens
-1/200 BambooPipe
+1/150 琥珀项链
+1/150 魔鬼项链
+1/150 凤凰明珠
+1/200 蓝翡翠项链
+1/200 放大镜
+1/200 竹笛
 
 ;Rings
-1/100 BlackRing
-1/100 SerpentEyeRing
-1/100 PearlRing
-1/200 SkeletonRing
-1/450 CoralRing
-1/450 ExpelRing
+1/100 黑色水晶戒指
+1/100 蛇眼戒指
+1/100 珍珠戒指
+1/200 骷髅戒指
+1/450 珊瑚戒指
+1/450 降妖除魔戒指
 1/1200 虹魔戒指
 1/8000 五玄戒指
 
 ;Bracelet
-1/90 HardGlove
-1/90 MagicBracelet
-1/430 DeathGauntlet
-1/550 BronzeGlove
+1/90 坚固手套
+1/90 魔法手镯
+1/430 死神手套
+1/550 幽灵手套
 
 ;Quest
 1/7 CleanSkull Q

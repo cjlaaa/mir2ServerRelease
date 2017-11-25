@@ -2,33 +2,33 @@
 1/10 Gold 5500
 
 ;Weapons
-1/3500 War祈祷之剑
-1/3500 MagicScythe
-1/3500 StoneBambooFan
-1/3500 FreezingBlades
+1/3500 龙牙
+1/3500 怒斩
+1/3500 逍遥扇
+1/3500 冷月刀
 1/3500 LitheBow
-1/8000 DragonSlayer
-1/8000 DragonStaff
-1/8000 SoulSabre
-1/8000 Dragon'sRoyalBlades
+1/8000 屠龙
+1/8000 噬魂法杖
+1/8000 龙纹剑
+1/8000 暗之修罗刀
 1/8000 MaleficBow
 
 ;Helmets
-1/3000 BlackIronHelmet
-1/400 SteelHelmet
+1/3000 黑铁头盔
+1/400 钢铁头盔
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/20 SunPotion
-1/50 SunPotion(M)
-1/100 OldGinseng
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/20 太阳水
+1/50 强效太阳水
+1/100 万年雪霜
 
 ;Gems
 1/1000 BraveryGem

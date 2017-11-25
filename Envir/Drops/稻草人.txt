@@ -2,30 +2,30 @@
 1/10 Gold 50
 
 ;Weapons
-1/50 WoodenSword 
-1/50 HoaSword 
+1/50 木剑 
+1/50 虎牙刀 
 1/50 WoodenBow 
-1/100 Dagger 
-1/100 EbonySword 
+1/100 匕首 
+1/100 乌木剑 
 1/100 EbonyBow 
 
 ;Armours
-1/100 BaseDress(M) 
-1/100 BaseDress(F) 
+1/100 布衣(男) 
+1/100 布衣(女) 
 
 ;Helmets
 
 ;Necklaces
-1/80 GoldNecklace 
-1/100 PrecisionNecklace 
+1/80 金项链 
+1/100 传统项链 
 
 ;Bracelets
 
 ;Rings
-1/200 CopperRing 
-1/200 HornRing 
-1/200 GlassRing 
-1/200 HexagonalRing 
+1/200 古铜戒指 
+1/200 牛角戒指 
+1/200 玻璃戒指 
+1/200 六角戒指 
 
 ;Amulets
 
@@ -38,9 +38,9 @@
 ;Torches
 
 ;Potions
-1/40 (HP)DrugSmall 
-1/60 (MP)DrugSmall 
-1/400 SunPotion 
+1/40 金疮药(小量) 
+1/60 魔法药(小量) 
+1/400 太阳水 
 
 ;Ores
 

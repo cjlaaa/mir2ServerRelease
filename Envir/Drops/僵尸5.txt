@@ -2,51 +2,51 @@
 1/5 Gold 175
 
 ;Weapons
-1/150 BronzeSword 
+1/150 青铜剑 
 1/150 ShortBow 
-1/150 SharpHoaSword 
-1/150 ShortSword 
-1/150 IronSword 
+1/150 暴虎刀 
+1/150 短剑 
+1/150 铁剑 
 1/150 BoneBow 
-1/150 BronzeAxe 
-1/250 HookedSword 
-1/250 Trident 
-1/250 Scimitar 
-1/250 BladesOfVelocity 
+1/150 青铜斧 
+1/250 八荒 
+1/250 海魂 
+1/250 半月 
+1/250 音速刀 
 1/250 CompoundBow 
-1/300 SteelAxe 
-1/350 SteelSword 
-1/350 MartialSword 
-1/350 HookedSpear 
-1/350 KrissSword 
-1/350 IronBlades 
+1/300 钢斧 
+1/350 凌风 
+1/350 斩马刀 
+1/350 偃月 
+1/350 降魔 
+1/350 墨铁刀 
 1/350 LongBow 
 
 ;Armours
-1/250 LightArmour(M) 
-1/250 LightArmour(F) 
+1/250 轻型盔甲(男) 
+1/250 轻型盔甲(女) 
 
 ;Helmets
-1/150 BronzeHelmet 
-1/175 MagicHelmet 
+1/150 青铜头盔 
+1/175 魔法头盔 
 
 ;Necklaces
-1/500 LanternNecklace 
-1/500 TigerNecklace 
-1/500 PlatinumNecklace 
-1/500 NagaNecklace 
-1/500 AmberNecklace 
-1/500 PhoenixBead 
+1/500 灯笼项链 
+1/500 白色虎齿项链 
+1/500 白金项链 
+1/500 魔鬼项链 
+1/500 琥珀项链 
+1/500 凤凰明珠 
 
 ;Bracelets
-1/500 MagicBracelet 
-1/750 HardGlove 
+1/500 魔法手镯 
+1/750 坚固手套 
 
 ;Rings
-1/400 BlueRing 
-1/500 BlackRing 
-1/500 SerpentEyeRing 
-1/500 PearlRing 
+1/400 蓝色水晶戒指 
+1/500 黑色水晶戒指 
+1/500 蛇眼戒指 
+1/500 珍珠戒指 
 
 ;Amulets
 
@@ -59,9 +59,9 @@
 ;Torches
 
 ;Potions
-1/30 (HP)DrugMedium 
-1/30 (MP)DrugMedium 
-1/100 SunPotion 
+1/30 金疮药(中量) 
+1/30 魔法药(中量) 
+1/100 太阳水 
 
 ;Ores
 

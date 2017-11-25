@@ -15,60 +15,60 @@
 
 ;Level1 
 ;Potions
-1/1 (HP)DrugXL  1
-1/1 (HP)DrugXL  1
-1/1 (MP)DrugXL  1
-1/1 (MP)DrugXL  1
-1/1 SunPotion(M)  1
-1/1 SunPotion(M)  1
-1/1 SunPotion(M)  1
-1/1 SunPotion(M)  1
+1/1 金疮药(特大)  1
+1/1 金疮药(特大)  1
+1/1 魔法药(特大)  1
+1/1 魔法药(特大)  1
+1/1 强效太阳水  1
+1/1 强效太阳水  1
+1/1 强效太阳水  1
+1/1 强效太阳水  1
 1/1 BenedictionOil  1
 1/5 AmuletOfRevival  1
 
 ;Weapons 
-1/200 SwordOfWarGod  1
-1/200 BladeOfSorcery  1
-1/200 HeavenSword  1
-1/200 BladesOfMagi  1
+1/200 开天  1
+1/200 镇天  1
+1/200 玄天  1
+1/200 暗真魔刀  1
 1/200 BowOfForce  1
 
 ;Helmet
-1/40 BlackIronHelmet  1
-1/30 HelmetOfHero  1
-1/75 GreatHelmet  1
-1/75 WisdomCoronet  1
-1/75 TaoCoronet  1
+1/40 黑铁头盔  1
+1/30 勇士头盔  1
+1/75 英雄头盔  1
+1/75 贤者帽  1
+1/75 通天冠  1
 
 ;Rings
-1/65 PowerRing  1
-1/65 VioletRing  1
-1/65 TitanRing  1
-1/75 Oma祈祷戒指  1
-1/75 NobleRing  1
-1/75 SoulRing  1
-1/95 BoundlessRing  1
-1/95 ThunderRing  1
-1/95 TaeGukRing  1
+1/65 力量戒指  1
+1/65 紫碧螺  1
+1/65 泰坦戒指  1
+1/75 奥玛环  1
+1/75 鬼刃环  1
+1/75 心意环  1
+1/95 无极环  1
+1/95 雷霆环  1
+1/95 太极环  1
 
 ;Bracelets
-1/75 8TrigramWheel  1
-1/75 HangMaWheel  1
-1/75 BokMaWheel  1
-1/75 BaekTaGlove  1
-1/75 SpiritReformer  1
-1/75 HolyTaoWheel  1
+1/75 八极轮  1
+1/75 抗魔轮  1
+1/75 伏魔轮  1
+1/75 白驼手套  1
+1/75 魂锁轮  1
+1/75 太极轮  1
 
 ;Necklace
-1/300 SkillNecklace  1
-1/75 HeroNecklace  1
-1/75 RequiemNecklace  1
-1/75 AdamantineNecklace  1
+1/300 技巧项链  1
+1/75 水波颈饰  1
+1/75 镇魂项链  1
+1/75 金刚铃项链  1
 
 ;Stones
-1/80 DCStone  1
-1/80 MCStone  1
-1/80 SCStone  1
+1/80 攻击守护石  1
+1/80 魔法守护石  1
+1/80 道术守护石  1
 
 ;Gems
 1/5 MagicGem  1
@@ -126,64 +126,64 @@
 
 ;Level2 
 ;Potions
-1/1 (HP)DrugXL  2
-1/1 (HP)DrugXL  2
-1/1 (MP)DrugXL  2
-1/1 (MP)DrugXL  2
-1/1 SunPotion(M)  2
-1/1 SunPotion(M)  2
-1/1 SunPotion(M)  2
-1/1 SunPotion(M)  2
+1/1 金疮药(特大)  2
+1/1 金疮药(特大)  2
+1/1 魔法药(特大)  2
+1/1 魔法药(特大)  2
+1/1 强效太阳水  2
+1/1 强效太阳水  2
+1/1 强效太阳水  2
+1/1 强效太阳水  2
 1/1 BenedictionOil  2
 1/5 AmuletOfRevival  2
 
 ;Weapons 
-1/200 SwordOfWarGod  2
-1/200 BladeOfSorcery  2
-1/200 HeavenSword  2
-1/200 BladesOfMagi  2
+1/200 开天  2
+1/200 镇天  2
+1/200 玄天  2
+1/200 暗真魔刀  2
 1/200 BowOfForce  2
 
 ;Helmet
-1/20 BlackIronHelmet  2
-1/10 HelmetOfHero  2
-1/35 GreatHelmet  2
-1/35 WisdomCoronet  2
-1/35 TaoCoronet  2
+1/20 黑铁头盔  2
+1/10 勇士头盔  2
+1/35 英雄头盔  2
+1/35 贤者帽  2
+1/35 通天冠  2
 
 ;Rings
-1/35 PowerRing  2
-1/35 VioletRing  2
-1/35 TitanRing  2
-1/65 Oma祈祷戒指  2
-1/65 NobleRing  2
-1/65 SoulRing  2
-1/75 BoundlessRing  2
-1/75 ThunderRing  2
-1/75 TaeGukRing  2
-1/85 PledgeRing  2
-1/85 CrimsonRubyRing  2
+1/35 力量戒指  2
+1/35 紫碧螺  2
+1/35 泰坦戒指  2
+1/65 奥玛环  2
+1/65 鬼刃环  2
+1/65 心意环  2
+1/75 无极环  2
+1/75 雷霆环  2
+1/75 太极环  2
+1/85 盟约戒指  2
+1/85 血玉环  2
 
 ;Bracelets
-1/65 8TrigramWheel  2
-1/65 HangMaWheel  2
-1/65 BokMaWheel  2
-1/75 BaekTaGlove  2
-1/75 SpiritReformer  2
-1/75 HolyTaoWheel  2
-1/85 EvilWhispAmulet  2
+1/65 八极轮  2
+1/65 抗魔轮  2
+1/65 伏魔轮  2
+1/75 白驼手套  2
+1/75 魂锁轮  2
+1/75 太极轮  2
+1/85 曜火虹轮  2
 
 ;Necklace
-1/300 SkillNecklace  2
-1/35 HeroNecklace  2
-1/35 RequiemNecklace  2
-1/35 AdamantineNecklace  2
-1/85 KunroonTear  2
+1/300 技巧项链  2
+1/35 水波颈饰  2
+1/35 镇魂项链  2
+1/35 金刚铃项链  2
+1/85 昆仑眼泪  2
 
 ;Stones
-1/80 DCStone  2
-1/80 MCStone  2
-1/80 SCStone  2
+1/80 攻击守护石  2
+1/80 魔法守护石  2
+1/80 道术守护石  2
 
 ;Gems
 1/5 MagicGem  2
@@ -237,65 +237,65 @@
 
 ;Level3 
 ;Potions
-1/1 (HP)DrugXL  3
-1/1 (HP)DrugXL  3
-1/1 (MP)DrugXL  3
-1/1 (MP)DrugXL  3
-1/1 SunPotion(M)  3
-1/1 SunPotion(M)  3
-1/1 SunPotion(M)  3
-1/1 SunPotion(M)  3
+1/1 金疮药(特大)  3
+1/1 金疮药(特大)  3
+1/1 魔法药(特大)  3
+1/1 魔法药(特大)  3
+1/1 强效太阳水  3
+1/1 强效太阳水  3
+1/1 强效太阳水  3
+1/1 强效太阳水  3
 1/1 BenedictionOil  3
 1/5 AmuletOfRevival  3
 1/5 AmuletOfRevival  3
 
 ;Weapons 
-1/200 SwordOfWarGod  3
-1/200 BladeOfSorcery  3
-1/200 HeavenSword  3
-1/200 BladesOfMagi  3
+1/200 开天  3
+1/200 镇天  3
+1/200 玄天  3
+1/200 暗真魔刀  3
 1/200 BowOfForce  3
 
 ;Helmet
-1/20 BlackIronHelmet  3
-1/10 HelmetOfHero  3
-1/35 GreatHelmet  3
-1/35 WisdomCoronet  3
-1/35 TaoCoronet  3
+1/20 黑铁头盔  3
+1/10 勇士头盔  3
+1/35 英雄头盔  3
+1/35 贤者帽  3
+1/35 通天冠  3
 
 ;Rings
-1/35 PowerRing  3
-1/35 VioletRing  3
-1/35 TitanRing  3
-1/65 Oma祈祷戒指  3
-1/65 NobleRing  3
-1/65 SoulRing  3
-1/75 BoundlessRing  3
-1/75 ThunderRing  3
-1/75 TaeGukRing  3
-1/85 PledgeRing  3
-1/85 CrimsonRubyRing  3
+1/35 力量戒指  3
+1/35 紫碧螺  3
+1/35 泰坦戒指  3
+1/65 奥玛环  3
+1/65 鬼刃环  3
+1/65 心意环  3
+1/75 无极环  3
+1/75 雷霆环  3
+1/75 太极环  3
+1/85 盟约戒指  3
+1/85 血玉环  3
 
 ;Bracelets
-1/65 8TrigramWheel  3
-1/65 HangMaWheel  3
-1/65 BokMaWheel  3
-1/75 BaekTaGlove  3
-1/75 SpiritReformer  3
-1/75 HolyTaoWheel  3
-1/85 EvilWhispAmulet  3
+1/65 八极轮  3
+1/65 抗魔轮  3
+1/65 伏魔轮  3
+1/75 白驼手套  3
+1/75 魂锁轮  3
+1/75 太极轮  3
+1/85 曜火虹轮  3
 
 ;Necklace
-1/300 SkillNecklace  3
-1/35 HeroNecklace  3
-1/35 RequiemNecklace  3
-1/35 AdamantineNecklace  3
-1/85 KunroonTear  3
+1/300 技巧项链  3
+1/35 水波颈饰  3
+1/35 镇魂项链  3
+1/35 金刚铃项链  3
+1/85 昆仑眼泪  3
 
 ;Stones
-1/80 DCStone  3
-1/80 MCStone  3
-1/80 SCStone  3
+1/80 攻击守护石  3
+1/80 魔法守护石  3
+1/80 道术守护石  3
 
 ;Gems
 1/5 MagicGem  3
@@ -349,65 +349,65 @@
 
 ;Level4
 ;Potions
-1/1 (HP)DrugXL  4
-1/1 (HP)DrugXL  4
-1/1 (MP)DrugXL  4
-1/1 (MP)DrugXL  4
-1/1 SunPotion(M)  4
-1/1 SunPotion(M)  4
-1/1 SunPotion(M)  4
-1/1 SunPotion(M)  4
+1/1 金疮药(特大)  4
+1/1 金疮药(特大)  4
+1/1 魔法药(特大)  4
+1/1 魔法药(特大)  4
+1/1 强效太阳水  4
+1/1 强效太阳水  4
+1/1 强效太阳水  4
+1/1 强效太阳水  4
 1/1 BenedictionOil  4
 1/5 AmuletOfRevival  4
 1/5 AmuletOfRevival  4
 
 ;Weapons 
-1/200 SwordOfWarGod  4
-1/200 BladeOfSorcery  4
-1/200 HeavenSword  4
-1/200 BladesOfMagi  4
+1/200 开天  4
+1/200 镇天  4
+1/200 玄天  4
+1/200 暗真魔刀  4
 1/200 BowOfForce  4
 
 ;Helmet
-1/20 BlackIronHelmet  4
-1/10 HelmetOfHero  4
-1/35 GreatHelmet  4
-1/35 WisdomCoronet  4
-1/35 TaoCoronet  4
+1/20 黑铁头盔  4
+1/10 勇士头盔  4
+1/35 英雄头盔  4
+1/35 贤者帽  4
+1/35 通天冠  4
 
 ;Rings
-1/35 PowerRing  4
-1/35 VioletRing  4
-1/35 TitanRing  4
-1/65 Oma祈祷戒指  4
-1/65 NobleRing  4
-1/65 SoulRing  4
-1/75 BoundlessRing  4
-1/75 ThunderRing  4
-1/75 TaeGukRing  4
-1/75 PledgeRing  4
-1/75 CrimsonRubyRing  4
+1/35 力量戒指  4
+1/35 紫碧螺  4
+1/35 泰坦戒指  4
+1/65 奥玛环  4
+1/65 鬼刃环  4
+1/65 心意环  4
+1/75 无极环  4
+1/75 雷霆环  4
+1/75 太极环  4
+1/75 盟约戒指  4
+1/75 血玉环  4
 
 ;Bracelets
-1/65 8TrigramWheel  4
-1/65 HangMaWheel  4
-1/65 BokMaWheel  4
-1/75 BaekTaGlove  4
-1/75 SpiritReformer  4
-1/75 HolyTaoWheel  4
-1/75 EvilWhispAmulet  4
+1/65 八极轮  4
+1/65 抗魔轮  4
+1/65 伏魔轮  4
+1/75 白驼手套  4
+1/75 魂锁轮  4
+1/75 太极轮  4
+1/75 曜火虹轮  4
 
 ;Necklace
-1/300 SkillNecklace  4
-1/35 HeroNecklace  4
-1/35 RequiemNecklace  4
-1/35 AdamantineNecklace  4
-1/75 KunroonTear  4
+1/300 技巧项链  4
+1/35 水波颈饰  4
+1/35 镇魂项链  4
+1/35 金刚铃项链  4
+1/75 昆仑眼泪  4
 
 ;Stones
-1/80 DCStone  4
-1/80 MCStone  4
-1/80 SCStone  4
+1/80 攻击守护石  4
+1/80 魔法守护石  4
+1/80 道术守护石  4
 
 ;Gems
 1/5 MagicGem  4
@@ -461,65 +461,65 @@
 
 ;Level5 
 ;Potions
-1/1 (HP)DrugXL  5
-1/1 (HP)DrugXL  5
-1/1 (MP)DrugXL  5
-1/1 (MP)DrugXL  5
-1/1 SunPotion(M)  5
-1/1 SunPotion(M)  5
-1/1 SunPotion(M)  5
-1/1 SunPotion(M)  5
+1/1 金疮药(特大)  5
+1/1 金疮药(特大)  5
+1/1 魔法药(特大)  5
+1/1 魔法药(特大)  5
+1/1 强效太阳水  5
+1/1 强效太阳水  5
+1/1 强效太阳水  5
+1/1 强效太阳水  5
 1/1 BenedictionOil  5
 1/5 AmuletOfRevival  5
 1/5 AmuletOfRevival  5
 
 ;Weapons 
-1/200 SwordOfWarGod  5
-1/200 BladeOfSorcery  5
-1/200 HeavenSword  5
-1/200 BladesOfMagi  5
+1/200 开天  5
+1/200 镇天  5
+1/200 玄天  5
+1/200 暗真魔刀  5
 1/200 BowOfForce  5
 
 ;Helmet
-1/20 BlackIronHelmet  5
-1/10 HelmetOfHero  5
-1/35 GreatHelmet  5
-1/35 WisdomCoronet  5
-1/35 TaoCoronet  5
+1/20 黑铁头盔  5
+1/10 勇士头盔  5
+1/35 英雄头盔  5
+1/35 贤者帽  5
+1/35 通天冠  5
 
 ;Rings
-1/35 PowerRing  5
-1/35 VioletRing  5
-1/35 TitanRing  5
-1/65 Oma祈祷戒指  5
-1/65 NobleRing  5
-1/65 SoulRing  5
-1/75 BoundlessRing  5
-1/75 ThunderRing  5
-1/75 TaeGukRing  5
-1/75 PledgeRing  5
-1/75 CrimsonRubyRing  5
+1/35 力量戒指  5
+1/35 紫碧螺  5
+1/35 泰坦戒指  5
+1/65 奥玛环  5
+1/65 鬼刃环  5
+1/65 心意环  5
+1/75 无极环  5
+1/75 雷霆环  5
+1/75 太极环  5
+1/75 盟约戒指  5
+1/75 血玉环  5
 
 ;Bracelets
-1/65 8TrigramWheel  5
-1/65 HangMaWheel  5
-1/65 BokMaWheel  5
-1/75 BaekTaGlove  5
-1/75 SpiritReformer  5
-1/75 HolyTaoWheel  5
-1/75 EvilWhispAmulet  5
+1/65 八极轮  5
+1/65 抗魔轮  5
+1/65 伏魔轮  5
+1/75 白驼手套  5
+1/75 魂锁轮  5
+1/75 太极轮  5
+1/75 曜火虹轮  5
 
 ;Necklace
-1/300 SkillNecklace  5
-1/35 HeroNecklace  5
-1/35 RequiemNecklace  5
-1/35 AdamantineNecklace  5
-1/75 KunroonTear  5
+1/300 技巧项链  5
+1/35 水波颈饰  5
+1/35 镇魂项链  5
+1/35 金刚铃项链  5
+1/75 昆仑眼泪  5
 
 ;Stones
-1/80 DCStone  5
-1/80 MCStone  5
-1/80 SCStone  5
+1/80 攻击守护石  5
+1/80 魔法守护石  5
+1/80 道术守护石  5
 
 ;Gems
 1/5 MagicGem  5
@@ -573,65 +573,65 @@
 
 ;Level6
 ;Potions
-1/1 (HP)DrugXL  6
-1/1 (HP)DrugXL  6
-1/1 (MP)DrugXL  6
-1/1 (MP)DrugXL  6
-1/1 SunPotion(M)  6
-1/1 SunPotion(M)  6
-1/1 SunPotion(M)  6
-1/1 SunPotion(M)  6
+1/1 金疮药(特大)  6
+1/1 金疮药(特大)  6
+1/1 魔法药(特大)  6
+1/1 魔法药(特大)  6
+1/1 强效太阳水  6
+1/1 强效太阳水  6
+1/1 强效太阳水  6
+1/1 强效太阳水  6
 1/1 BenedictionOil  6
 1/5 AmuletOfRevival  6
 1/5 AmuletOfRevival  6
 
 ;Weapons 
-1/200 SwordOfWarGod  6
-1/200 BladeOfSorcery  6
-1/200 HeavenSword  6
-1/200 BladesOfMagi  6
+1/200 开天  6
+1/200 镇天  6
+1/200 玄天  6
+1/200 暗真魔刀  6
 1/200 BowOfForce  6
 
 ;Helmet
-1/20 BlackIronHelmet  6
-1/10 HelmetOfHero  6
-1/35 GreatHelmet  6
-1/35 WisdomCoronet  6
-1/35 TaoCoronet  6
+1/20 黑铁头盔  6
+1/10 勇士头盔  6
+1/35 英雄头盔  6
+1/35 贤者帽  6
+1/35 通天冠  6
 
 ;Rings
-1/35 PowerRing  6
-1/35 VioletRing  6
-1/35 TitanRing  6
-1/65 Oma祈祷戒指  6
-1/65 NobleRing  6
-1/65 SoulRing  6
-1/75 BoundlessRing  6
-1/75 ThunderRing  6
-1/75 TaeGukRing  6
-1/75 PledgeRing  6
-1/75 CrimsonRubyRing  6
+1/35 力量戒指  6
+1/35 紫碧螺  6
+1/35 泰坦戒指  6
+1/65 奥玛环  6
+1/65 鬼刃环  6
+1/65 心意环  6
+1/75 无极环  6
+1/75 雷霆环  6
+1/75 太极环  6
+1/75 盟约戒指  6
+1/75 血玉环  6
 
 ;Bracelets
-1/65 8TrigramWheel  6
-1/65 HangMaWheel  6
-1/65 BokMaWheel  6
-1/75 BaekTaGlove  6
-1/75 SpiritReformer  6
-1/75 HolyTaoWheel  6
-1/75 EvilWhispAmulet  6
+1/65 八极轮  6
+1/65 抗魔轮  6
+1/65 伏魔轮  6
+1/75 白驼手套  6
+1/75 魂锁轮  6
+1/75 太极轮  6
+1/75 曜火虹轮  6
 
 ;Necklace
-1/300 SkillNecklace  6
-1/35 HeroNecklace  6
-1/35 RequiemNecklace  6
-1/35 AdamantineNecklace  6
-1/75 KunroonTear  6
+1/300 技巧项链  6
+1/35 水波颈饰  6
+1/35 镇魂项链  6
+1/35 金刚铃项链  6
+1/75 昆仑眼泪  6
 
 ;Stones
-1/80 DCStone  6
-1/80 MCStone  6
-1/80 SCStone  6
+1/80 攻击守护石  6
+1/80 魔法守护石  6
+1/80 道术守护石  6
 
 ;Gems
 1/5 MagicGem  6
@@ -685,87 +685,87 @@
 
 ;Level7
 ;Potions
-1/1 (HP)DrugXL  7
-1/1 (HP)DrugXL  7
-1/1 (MP)DrugXL  7
-1/1 (MP)DrugXL  7
-1/1 SunPotion(M)  7
-1/1 SunPotion(M)  7
-1/1 SunPotion(M)  7
-1/1 SunPotion(M)  7
+1/1 金疮药(特大)  7
+1/1 金疮药(特大)  7
+1/1 魔法药(特大)  7
+1/1 魔法药(特大)  7
+1/1 强效太阳水  7
+1/1 强效太阳水  7
+1/1 强效太阳水  7
+1/1 强效太阳水  7
 1/1 BenedictionOil  7
 1/5 AmuletOfRevival  7
 1/5 AmuletOfRevival  7
 
 ;Weapons 
-1/150 War祈祷之剑  7
-1/150 MagicScythe  7
-1/150 StoneBambooFan  7
-1/150 FreezingBlades  7
+1/150 龙牙  7
+1/150 怒斩  7
+1/150 逍遥扇  7
+1/150 冷月刀  7
 1/150 LitheBow  7
-1/650 DragonSlayer  7
-1/650 DragonStaff  7
-1/650 SoulSabre  7
-1/650 RoyalBlades  7
+1/650 屠龙  7
+1/650 噬魂法杖  7
+1/650 龙纹剑  7
+1/650 修罗刀  7
 1/650 MaleficBow  7
-1/800 SwordOfWarGod  7
-1/800 BladeOfSorcery  7
-1/800 HeavenSword  7
-1/800 BladesOfMagi  7
+1/800 开天  7
+1/800 镇天  7
+1/800 玄天  7
+1/800 暗真魔刀  7
 1/800 BowOfForce  7
 
 ;Armours
-1/3 SteelArmour(M)  7
-1/3 SteelArmour(F)  7
-1/3 DragonRobe(M)  7
-1/3 DragonRobe(F)  7
-1/3 TitanArmour(M)  7
-1/3 TitanArmour(F)  7
-1/3 RoyalArmour(M)  7
-1/3 RoyalArmour(F)  7
-1/3 StuddedArmour(M)  7
-1/3 StuddedArmour(F)  7
+1/3 鬼面甲胄(男)  7
+1/3 鬼面甲胄(女)  7
+1/3 火龙魔衣(男)  7
+1/3 火龙魔衣(女)  7
+1/3 玄天宝衣(男)  7
+1/3 玄天宝衣(女)  7
+1/3 修罗血衣(男)  7
+1/3 修罗血衣(女)  7
+1/3 StuddedArmour(男)  7
+1/3 StuddedArmour(女)  7
 
 ;Helmet
-1/20 BlackIronHelmet  7
-1/10 HelmetOfHero  7
-1/35 GreatHelmet  7
-1/35 WisdomCoronet  7
-1/35 TaoCoronet  7
+1/20 黑铁头盔  7
+1/10 勇士头盔  7
+1/35 英雄头盔  7
+1/35 贤者帽  7
+1/35 通天冠  7
 
 ;Rings
-1/35 PowerRing  7
-1/35 VioletRing  7
-1/35 TitanRing  7
-1/65 Oma祈祷戒指  7
-1/65 NobleRing  7
-1/65 SoulRing  7
-1/75 BoundlessRing  7
-1/75 ThunderRing  7
-1/75 TaeGukRing  7
-1/2000 TeleportRing  7
-1/2000 ParalysisRing  7
-1/2000 ProtectionRing  7
-1/2000 ClearRing  7
+1/35 力量戒指  7
+1/35 紫碧螺  7
+1/35 泰坦戒指  7
+1/65 奥玛环  7
+1/65 鬼刃环  7
+1/65 心意环  7
+1/75 无极环  7
+1/75 雷霆环  7
+1/75 太极环  7
+1/2000 传送戒指  7
+1/2000 麻痹戒指  7
+1/2000 护身戒指  7
+1/2000 隐身戒指  7
 
 ;Bracelets
-1/65 8TrigramWheel  7
-1/65 HangMaWheel  7
-1/65 BokMaWheel  7
-1/75 BaekTaGlove  7
-1/75 SpiritReformer  7
-1/75 HolyTaoWheel  7
+1/65 八极轮  7
+1/65 抗魔轮  7
+1/65 伏魔轮  7
+1/75 白驼手套  7
+1/75 魂锁轮  7
+1/75 太极轮  7
 
 ;Necklace
-1/300 SkillNecklace  7
-1/35 HeroNecklace  7
-1/35 RequiemNecklace  7
-1/35 AdamantineNecklace  7
+1/300 技巧项链  7
+1/35 水波颈饰  7
+1/35 镇魂项链  7
+1/35 金刚铃项链  7
 
 ;Stones
-1/80 DCStone  7
-1/80 MCStone  7
-1/80 SCStone  7
+1/80 攻击守护石  7
+1/80 魔法守护石  7
+1/80 道术守护石  7
 
 ;Gems
 1/5 MagicGem  7
@@ -825,87 +825,87 @@
 
 ;Level8
 ;Potions
-1/1 (HP)DrugXL  8
-1/1 (HP)DrugXL  8
-1/1 (MP)DrugXL  8
-1/1 (MP)DrugXL  8
-1/1 SunPotion(M)  8
-1/1 SunPotion(M)  8
-1/1 SunPotion(M)  8
-1/1 SunPotion(M)  8
+1/1 金疮药(特大)  8
+1/1 金疮药(特大)  8
+1/1 魔法药(特大)  8
+1/1 魔法药(特大)  8
+1/1 强效太阳水  8
+1/1 强效太阳水  8
+1/1 强效太阳水  8
+1/1 强效太阳水  8
 1/1 BenedictionOil  8
 1/5 AmuletOfRevival  8
 1/5 AmuletOfRevival  8
 
 ;Weapons 
-1/150 War祈祷之剑  8
-1/150 MagicScythe  8
-1/150 StoneBambooFan  8
-1/150 FreezingBlades  8
+1/150 龙牙  8
+1/150 怒斩  8
+1/150 逍遥扇  8
+1/150 冷月刀  8
 1/150 LitheBow  8
-1/650 DragonSlayer  8
-1/650 DragonStaff  8
-1/650 SoulSabre  8
-1/650 RoyalBlades  8
+1/650 屠龙  8
+1/650 噬魂法杖  8
+1/650 龙纹剑  8
+1/650 修罗刀  8
 1/650 MaleficBow  8
-1/800 SwordOfWarGod  8
-1/800 BladeOfSorcery  8
-1/800 HeavenSword  8
-1/800 BladesOfMagi  8
+1/800 开天  8
+1/800 镇天  8
+1/800 玄天  8
+1/800 暗真魔刀  8
 1/800 BowOfForce  8
 
 ;Armours
-1/3 SteelArmour(M)  8
-1/3 SteelArmour(F)  8
-1/3 DragonRobe(M)  8
-1/3 DragonRobe(F)  8
-1/3 TitanArmour(M)  8
-1/3 TitanArmour(F)  8
-1/3 RoyalArmour(M)  8
-1/3 RoyalArmour(F)  8
-1/3 StuddedArmour(M)  8
-1/3 StuddedArmour(F)  8
+1/3 鬼面甲胄(男)  8
+1/3 鬼面甲胄(女)  8
+1/3 火龙魔衣(男)  8
+1/3 火龙魔衣(女)  8
+1/3 玄天宝衣(男)  8
+1/3 玄天宝衣(女)  8
+1/3 修罗血衣(男)  8
+1/3 修罗血衣(女)  8
+1/3 StuddedArmour(男)  8
+1/3 StuddedArmour(女)  8
 
 ;Helmet
-1/20 BlackIronHelmet  8
-1/10 HelmetOfHero  8
-1/35 GreatHelmet  8
-1/35 WisdomCoronet  8
-1/35 TaoCoronet  8
+1/20 黑铁头盔  8
+1/10 勇士头盔  8
+1/35 英雄头盔  8
+1/35 贤者帽  8
+1/35 通天冠  8
 
 ;Rings
-1/35 PowerRing  8
-1/35 VioletRing  8
-1/35 TitanRing  8
-1/65 Oma祈祷戒指  8
-1/65 NobleRing  8
-1/65 SoulRing  8
-1/75 BoundlessRing  8
-1/75 ThunderRing  8
-1/75 TaeGukRing  8
-1/2000 TeleportRing  8
-1/2000 ParalysisRing  8
-1/2000 ProtectionRing  8
-1/2000 ClearRing  8
+1/35 力量戒指  8
+1/35 紫碧螺  8
+1/35 泰坦戒指  8
+1/65 奥玛环  8
+1/65 鬼刃环  8
+1/65 心意环  8
+1/75 无极环  8
+1/75 雷霆环  8
+1/75 太极环  8
+1/2000 传送戒指  8
+1/2000 麻痹戒指  8
+1/2000 护身戒指  8
+1/2000 隐身戒指  8
 
 ;Bracelets
-1/65 8TrigramWheel  8
-1/65 HangMaWheel  8
-1/65 BokMaWheel  8
-1/75 BaekTaGlove  8
-1/75 SpiritReformer  8
-1/75 HolyTaoWheel  8
+1/65 八极轮  8
+1/65 抗魔轮  8
+1/65 伏魔轮  8
+1/75 白驼手套  8
+1/75 魂锁轮  8
+1/75 太极轮  8
 
 ;Necklace
-1/300 SkillNecklace  8
-1/35 HeroNecklace  8
-1/35 RequiemNecklace  8
-1/35 AdamantineNecklace  8
+1/300 技巧项链  8
+1/35 水波颈饰  8
+1/35 镇魂项链  8
+1/35 金刚铃项链  8
 
 ;Stones
-1/80 DCStone  8
-1/80 MCStone  8
-1/80 SCStone  8
+1/80 攻击守护石  8
+1/80 魔法守护石  8
+1/80 道术守护石  8
 
 ;Gems
 1/5 MagicGem  8
@@ -965,87 +965,87 @@
 
 ;Level9
 ;Potions
-1/1 (HP)DrugXL  9
-1/1 (HP)DrugXL  9
-1/1 (MP)DrugXL  9
-1/1 (MP)DrugXL  9
-1/1 SunPotion(M)  9
-1/1 SunPotion(M)  9
-1/1 SunPotion(M)  9
-1/1 SunPotion(M)  9
+1/1 金疮药(特大)  9
+1/1 金疮药(特大)  9
+1/1 魔法药(特大)  9
+1/1 魔法药(特大)  9
+1/1 强效太阳水  9
+1/1 强效太阳水  9
+1/1 强效太阳水  9
+1/1 强效太阳水  9
 1/1 BenedictionOil  9
 1/5 AmuletOfRevival  9
 1/5 AmuletOfRevival  9
 
 ;Weapons 
-1/150 War祈祷之剑  9
-1/150 MagicScythe  9
-1/150 StoneBambooFan  9
-1/150 FreezingBlades  9
+1/150 龙牙  9
+1/150 怒斩  9
+1/150 逍遥扇  9
+1/150 冷月刀  9
 1/150 LitheBow  9
-1/650 DragonSlayer  9
-1/650 DragonStaff  9
-1/650 SoulSabre  9
-1/650 RoyalBlades  9
+1/650 屠龙  9
+1/650 噬魂法杖  9
+1/650 龙纹剑  9
+1/650 修罗刀  9
 1/650 MaleficBow  9
-1/800 SwordOfWarGod  9
-1/800 BladeOfSorcery  9
-1/800 HeavenSword  9
-1/800 BladesOfMagi  9
+1/800 开天  9
+1/800 镇天  9
+1/800 玄天  9
+1/800 暗真魔刀  9
 1/800 BowOfForce  9
 
 ;Armours
-1/3 SteelArmour(M)  9
-1/3 SteelArmour(F)  9
-1/3 DragonRobe(M)  9
-1/3 DragonRobe(F)  9
-1/3 TitanArmour(M)  9
-1/3 TitanArmour(F)  9
-1/3 RoyalArmour(M)  9
-1/3 RoyalArmour(F)  9
-1/3 StuddedArmour(M)  9
-1/3 StuddedArmour(F)  9
+1/3 鬼面甲胄(男)  9
+1/3 鬼面甲胄(女)  9
+1/3 火龙魔衣(男)  9
+1/3 火龙魔衣(女)  9
+1/3 玄天宝衣(男)  9
+1/3 玄天宝衣(女)  9
+1/3 修罗血衣(男)  9
+1/3 修罗血衣(女)  9
+1/3 StuddedArmour(男)  9
+1/3 StuddedArmour(女)  9
 
 ;Helmet
-1/20 BlackIronHelmet  9
-1/10 HelmetOfHero  9
-1/35 GreatHelmet  9
-1/35 WisdomCoronet  9
-1/35 TaoCoronet  9
+1/20 黑铁头盔  9
+1/10 勇士头盔  9
+1/35 英雄头盔  9
+1/35 贤者帽  9
+1/35 通天冠  9
 
 ;Rings
-1/35 PowerRing  9
-1/35 VioletRing  9
-1/35 TitanRing  9
-1/65 Oma祈祷戒指  9
-1/65 NobleRing  9
-1/65 SoulRing  9
-1/75 BoundlessRing  9
-1/75 ThunderRing  9
-1/75 TaeGukRing  9
-1/2000 TeleportRing  9
-1/2000 ParalysisRing  9
-1/2000 ProtectionRing  9
-1/2000 ClearRing  9
+1/35 力量戒指  9
+1/35 紫碧螺  9
+1/35 泰坦戒指  9
+1/65 奥玛环  9
+1/65 鬼刃环  9
+1/65 心意环  9
+1/75 无极环  9
+1/75 雷霆环  9
+1/75 太极环  9
+1/2000 传送戒指  9
+1/2000 麻痹戒指  9
+1/2000 护身戒指  9
+1/2000 隐身戒指  9
 
 ;Bracelets
-1/65 8TrigramWheel  9
-1/65 HangMaWheel  9
-1/65 BokMaWheel  9
-1/75 BaekTaGlove  9
-1/75 SpiritReformer  9
-1/75 HolyTaoWheel  9
+1/65 八极轮  9
+1/65 抗魔轮  9
+1/65 伏魔轮  9
+1/75 白驼手套  9
+1/75 魂锁轮  9
+1/75 太极轮  9
 
 ;Necklace
-1/300 SkillNecklace  9
-1/35 HeroNecklace  9
-1/35 RequiemNecklace  9
-1/35 AdamantineNecklace  9
+1/300 技巧项链  9
+1/35 水波颈饰  9
+1/35 镇魂项链  9
+1/35 金刚铃项链  9
 
 ;Stones
-1/80 DCStone  9
-1/80 MCStone  9
-1/80 SCStone  9
+1/80 攻击守护石  9
+1/80 魔法守护石  9
+1/80 道术守护石  9
 
 ;Gems
 1/5 MagicGem  9
@@ -1105,87 +1105,87 @@
 
 ;Level10
 ;Potions
-1/1 (HP)DrugXL  10
-1/1 (HP)DrugXL  10
-1/1 (MP)DrugXL  10
-1/1 (MP)DrugXL  10
-1/1 SunPotion(M)  10
-1/1 SunPotion(M)  10
-1/1 SunPotion(M)  10
-1/1 SunPotion(M)  10
+1/1 金疮药(特大)  10
+1/1 金疮药(特大)  10
+1/1 魔法药(特大)  10
+1/1 魔法药(特大)  10
+1/1 强效太阳水  10
+1/1 强效太阳水  10
+1/1 强效太阳水  10
+1/1 强效太阳水  10
 1/1 BenedictionOil  10
 1/5 AmuletOfRevival  10
 1/5 AmuletOfRevival  10
 
 ;Weapons 
-1/150 War祈祷之剑  10
-1/150 MagicScythe  10
-1/150 StoneBambooFan  10
-1/150 FreezingBlades  10
+1/150 龙牙  10
+1/150 怒斩  10
+1/150 逍遥扇  10
+1/150 冷月刀  10
 1/150 LitheBow  10
-1/650 DragonSlayer  10
-1/650 DragonStaff  10
-1/650 SoulSabre  10
-1/650 RoyalBlades  10
+1/650 屠龙  10
+1/650 噬魂法杖  10
+1/650 龙纹剑  10
+1/650 修罗刀  10
 1/650 MaleficBow  10
-1/800 SwordOfWarGod  10
-1/800 BladeOfSorcery  10
-1/800 HeavenSword  10
-1/800 BladesOfMagi  10
+1/800 开天  10
+1/800 镇天  10
+1/800 玄天  10
+1/800 暗真魔刀  10
 1/800 BowOfForce  10
 
 ;Armours
-1/3 SteelArmour(M)  10
-1/3 SteelArmour(F)  10
-1/3 DragonRobe(M)  10
-1/3 DragonRobe(F)  10
-1/3 TitanArmour(M)  10
-1/3 TitanArmour(F)  10
-1/3 RoyalArmour(M)  10
-1/3 RoyalArmour(F)  10
-1/3 StuddedArmour(M)  10
-1/3 StuddedArmour(F)  10
+1/3 鬼面甲胄(男)  10
+1/3 鬼面甲胄(女)  10
+1/3 火龙魔衣(男)  10
+1/3 火龙魔衣(女)  10
+1/3 玄天宝衣(男)  10
+1/3 玄天宝衣(女)  10
+1/3 修罗血衣(男)  10
+1/3 修罗血衣(女)  10
+1/3 StuddedArmour(男)  10
+1/3 StuddedArmour(女)  10
 
 ;Helmet
-1/20 BlackIronHelmet  10
-1/10 HelmetOfHero  10
-1/35 GreatHelmet  10
-1/35 WisdomCoronet  10
-1/35 TaoCoronet  10
+1/20 黑铁头盔  10
+1/10 勇士头盔  10
+1/35 英雄头盔  10
+1/35 贤者帽  10
+1/35 通天冠  10
 
 ;Rings
-1/35 PowerRing  10
-1/35 VioletRing  10
-1/35 TitanRing  10
-1/65 Oma祈祷戒指  10
-1/65 NobleRing  10
-1/65 SoulRing  10
-1/75 BoundlessRing  10
-1/75 ThunderRing  10
-1/75 TaeGukRing  10
-1/2000 TeleportRing  10
-1/2000 ParalysisRing  10
-1/2000 ProtectionRing  10
-1/2000 ClearRing  10
+1/35 力量戒指  10
+1/35 紫碧螺  10
+1/35 泰坦戒指  10
+1/65 奥玛环  10
+1/65 鬼刃环  10
+1/65 心意环  10
+1/75 无极环  10
+1/75 雷霆环  10
+1/75 太极环  10
+1/2000 传送戒指  10
+1/2000 麻痹戒指  10
+1/2000 护身戒指  10
+1/2000 隐身戒指  10
 
 ;Bracelets
-1/65 8TrigramWheel  10
-1/65 HangMaWheel  10
-1/65 BokMaWheel  10
-1/75 BaekTaGlove  10
-1/75 SpiritReformer  10
-1/75 HolyTaoWheel  10
+1/65 八极轮  10
+1/65 抗魔轮  10
+1/65 伏魔轮  10
+1/75 白驼手套  10
+1/75 魂锁轮  10
+1/75 太极轮  10
 
 ;Necklace
-1/300 SkillNecklace  10
-1/35 HeroNecklace  10
-1/35 RequiemNecklace  10
-1/35 AdamantineNecklace  10
+1/300 技巧项链  10
+1/35 水波颈饰  10
+1/35 镇魂项链  10
+1/35 金刚铃项链  10
 
 ;Stones
-1/80 DCStone  10
-1/80 MCStone  10
-1/80 SCStone  10
+1/80 攻击守护石  10
+1/80 魔法守护石  10
+1/80 道术守护石  10
 
 ;Gems
 1/5 MagicGem  10
@@ -1245,87 +1245,87 @@
 
 ;Level11
 ;Potions
-1/1 (HP)DrugXL  11
-1/1 (HP)DrugXL  11
-1/1 (MP)DrugXL  11
-1/1 (MP)DrugXL  11
-1/1 SunPotion(M)  11
-1/1 SunPotion(M)  11
-1/1 SunPotion(M)  11
-1/1 SunPotion(M)  11
+1/1 金疮药(特大)  11
+1/1 金疮药(特大)  11
+1/1 魔法药(特大)  11
+1/1 魔法药(特大)  11
+1/1 强效太阳水  11
+1/1 强效太阳水  11
+1/1 强效太阳水  11
+1/1 强效太阳水  11
 1/1 BenedictionOil  11
 1/5 AmuletOfRevival  11
 1/5 AmuletOfRevival  11
 
 ;Weapons 
-1/150 War祈祷之剑  11
-1/150 MagicScythe  11
-1/150 StoneBambooFan  11
-1/150 FreezingBlades  11
+1/150 龙牙  11
+1/150 怒斩  11
+1/150 逍遥扇  11
+1/150 冷月刀  11
 1/150 LitheBow  11
-1/650 DragonSlayer  11
-1/650 DragonStaff  11
-1/650 SoulSabre  11
-1/650 RoyalBlades  11
+1/650 屠龙  11
+1/650 噬魂法杖  11
+1/650 龙纹剑  11
+1/650 修罗刀  11
 1/650 MaleficBow  11
-1/800 SwordOfWarGod  11
-1/800 BladeOfSorcery  11
-1/800 HeavenSword  11
-1/800 BladesOfMagi  11
+1/800 开天  11
+1/800 镇天  11
+1/800 玄天  11
+1/800 暗真魔刀  11
 1/800 BowOfForce  11
 
 ;Armours
-1/3 SteelArmour(M)  11
-1/3 SteelArmour(F)  11
-1/3 DragonRobe(M)  11
-1/3 DragonRobe(F)  11
-1/3 TitanArmour(M)  11
-1/3 TitanArmour(F)  11
-1/3 RoyalArmour(M)  11
-1/3 RoyalArmour(F)  11
-1/3 StuddedArmour(M)  11
-1/3 StuddedArmour(F)  11
+1/3 鬼面甲胄(男)  11
+1/3 鬼面甲胄(女)  11
+1/3 火龙魔衣(男)  11
+1/3 火龙魔衣(女)  11
+1/3 玄天宝衣(男)  11
+1/3 玄天宝衣(女)  11
+1/3 修罗血衣(男)  11
+1/3 修罗血衣(女)  11
+1/3 StuddedArmour(男)  11
+1/3 StuddedArmour(女)  11
 
 ;Helmet
-1/20 BlackIronHelmet  11
-1/10 HelmetOfHero  11
-1/35 GreatHelmet  11
-1/35 WisdomCoronet  11
-1/35 TaoCoronet  11
+1/20 黑铁头盔  11
+1/10 勇士头盔  11
+1/35 英雄头盔  11
+1/35 贤者帽  11
+1/35 通天冠  11
 
 ;Rings
-1/35 PowerRing  11
-1/35 VioletRing  11
-1/35 TitanRing  11
-1/65 Oma祈祷戒指  11
-1/65 NobleRing  11
-1/65 SoulRing  11
-1/75 BoundlessRing  11
-1/75 ThunderRing  11
-1/75 TaeGukRing  11
-1/2000 TeleportRing  11
-1/2000 ParalysisRing  11
-1/2000 ProtectionRing  11
-1/2000 ClearRing  11
+1/35 力量戒指  11
+1/35 紫碧螺  11
+1/35 泰坦戒指  11
+1/65 奥玛环  11
+1/65 鬼刃环  11
+1/65 心意环  11
+1/75 无极环  11
+1/75 雷霆环  11
+1/75 太极环  11
+1/2000 传送戒指  11
+1/2000 麻痹戒指  11
+1/2000 护身戒指  11
+1/2000 隐身戒指  11
 
 ;Bracelets
-1/65 8TrigramWheel  11
-1/65 HangMaWheel  11
-1/65 BokMaWheel  11
-1/75 BaekTaGlove  11
-1/75 SpiritReformer  11
-1/75 HolyTaoWheel  11
+1/65 八极轮  11
+1/65 抗魔轮  11
+1/65 伏魔轮  11
+1/75 白驼手套  11
+1/75 魂锁轮  11
+1/75 太极轮  11
 
 ;Necklace
-1/300 SkillNecklace  11
-1/35 HeroNecklace  11
-1/35 RequiemNecklace  11
-1/35 AdamantineNecklace  11
+1/300 技巧项链  11
+1/35 水波颈饰  11
+1/35 镇魂项链  11
+1/35 金刚铃项链  11
 
 ;Stones
-1/80 DCStone  11
-1/80 MCStone  11
-1/80 SCStone  11
+1/80 攻击守护石  11
+1/80 魔法守护石  11
+1/80 道术守护石  11
 
 ;Gems
 1/5 MagicGem  11
@@ -1385,87 +1385,87 @@
 
 ;Level12
 ;Potions
-1/1 (HP)DrugXL  12
-1/1 (HP)DrugXL  12
-1/1 (MP)DrugXL  12
-1/1 (MP)DrugXL  12
-1/1 SunPotion(M)  12
-1/1 SunPotion(M)  12
-1/1 SunPotion(M)  12
-1/1 SunPotion(M)  12
+1/1 金疮药(特大)  12
+1/1 金疮药(特大)  12
+1/1 魔法药(特大)  12
+1/1 魔法药(特大)  12
+1/1 强效太阳水  12
+1/1 强效太阳水  12
+1/1 强效太阳水  12
+1/1 强效太阳水  12
 1/1 BenedictionOil  12
 1/5 AmuletOfRevival  12
 1/5 AmuletOfRevival  12
 
 ;Weapons 
-1/150 War祈祷之剑  12
-1/150 MagicScythe  12
-1/150 StoneBambooFan  12
-1/150 FreezingBlades  12
+1/150 龙牙  12
+1/150 怒斩  12
+1/150 逍遥扇  12
+1/150 冷月刀  12
 1/150 LitheBow  12
-1/650 DragonSlayer  12
-1/650 DragonStaff  12
-1/650 SoulSabre  12
-1/650 RoyalBlades  12
+1/650 屠龙  12
+1/650 噬魂法杖  12
+1/650 龙纹剑  12
+1/650 修罗刀  12
 1/650 MaleficBow  12
-1/800 SwordOfWarGod  12
-1/800 BladeOfSorcery  12
-1/800 HeavenSword  12
-1/800 BladesOfMagi  12
+1/800 开天  12
+1/800 镇天  12
+1/800 玄天  12
+1/800 暗真魔刀  12
 1/800 BowOfForce  12
 
 ;Armours
-1/3 SteelArmour(M)  12
-1/3 SteelArmour(F)  12
-1/3 DragonRobe(M)  12
-1/3 DragonRobe(F)  12
-1/3 TitanArmour(M)  12
-1/3 TitanArmour(F)  12
-1/3 RoyalArmour(M)  12
-1/3 RoyalArmour(F)  12
-1/3 StuddedArmour(M)  12
-1/3 StuddedArmour(F)  12
+1/3 鬼面甲胄(男)  12
+1/3 鬼面甲胄(女)  12
+1/3 火龙魔衣(男)  12
+1/3 火龙魔衣(女)  12
+1/3 玄天宝衣(男)  12
+1/3 玄天宝衣(女)  12
+1/3 修罗血衣(男)  12
+1/3 修罗血衣(女)  12
+1/3 StuddedArmour(男)  12
+1/3 StuddedArmour(女)  12
 
 ;Helmet
-1/20 BlackIronHelmet  12
-1/10 HelmetOfHero  12
-1/35 GreatHelmet  12
-1/35 WisdomCoronet  12
-1/35 TaoCoronet  12
+1/20 黑铁头盔  12
+1/10 勇士头盔  12
+1/35 英雄头盔  12
+1/35 贤者帽  12
+1/35 通天冠  12
 
 ;Rings
-1/35 PowerRing  12
-1/35 VioletRing  12
-1/35 TitanRing  12
-1/65 Oma祈祷戒指  12
-1/65 NobleRing  12
-1/65 SoulRing  12
-1/75 BoundlessRing  12
-1/75 ThunderRing  12
-1/75 TaeGukRing  12
-1/2000 TeleportRing  12
-1/2000 ParalysisRing  12
-1/2000 ProtectionRing  12
-1/2000 ClearRing  12
+1/35 力量戒指  12
+1/35 紫碧螺  12
+1/35 泰坦戒指  12
+1/65 奥玛环  12
+1/65 鬼刃环  12
+1/65 心意环  12
+1/75 无极环  12
+1/75 雷霆环  12
+1/75 太极环  12
+1/2000 传送戒指  12
+1/2000 麻痹戒指  12
+1/2000 护身戒指  12
+1/2000 隐身戒指  12
 
 ;Bracelets
-1/65 8TrigramWheel  12
-1/65 HangMaWheel  12
-1/65 BokMaWheel  12
-1/75 BaekTaGlove  12
-1/75 SpiritReformer  12
-1/75 HolyTaoWheel  12
+1/65 八极轮  12
+1/65 抗魔轮  12
+1/65 伏魔轮  12
+1/75 白驼手套  12
+1/75 魂锁轮  12
+1/75 太极轮  12
 
 ;Necklace
-1/300 SkillNecklace  12
-1/35 HeroNecklace  12
-1/35 RequiemNecklace  12
-1/35 AdamantineNecklace  12
+1/300 技巧项链  12
+1/35 水波颈饰  12
+1/35 镇魂项链  12
+1/35 金刚铃项链  12
 
 ;Stones
-1/80 DCStone  12
-1/80 MCStone  12
-1/80 SCStone  12
+1/80 攻击守护石  12
+1/80 魔法守护石  12
+1/80 道术守护石  12
 
 ;Gems
 1/5 MagicGem  12
@@ -1525,87 +1525,87 @@
 
 ;Level13
 ;Potions
-1/1 (HP)DrugXL  13
-1/1 (HP)DrugXL  13
-1/1 (MP)DrugXL  13
-1/1 (MP)DrugXL  13
-1/1 SunPotion(M)  13
-1/1 SunPotion(M)  13
-1/1 SunPotion(M)  13
-1/1 SunPotion(M)  13
+1/1 金疮药(特大)  13
+1/1 金疮药(特大)  13
+1/1 魔法药(特大)  13
+1/1 魔法药(特大)  13
+1/1 强效太阳水  13
+1/1 强效太阳水  13
+1/1 强效太阳水  13
+1/1 强效太阳水  13
 1/1 BenedictionOil  13
 1/5 AmuletOfRevival  13
 1/5 AmuletOfRevival  13
 
 ;Weapons 
-1/150 War祈祷之剑  13
-1/150 MagicScythe  13
-1/150 StoneBambooFan  13
-1/150 FreezingBlades  13
+1/150 龙牙  13
+1/150 怒斩  13
+1/150 逍遥扇  13
+1/150 冷月刀  13
 1/150 LitheBow  13
-1/650 DragonSlayer  13
-1/650 DragonStaff  13
-1/650 SoulSabre  13
-1/650 RoyalBlades  13
+1/650 屠龙  13
+1/650 噬魂法杖  13
+1/650 龙纹剑  13
+1/650 修罗刀  13
 1/650 MaleficBow  13
-1/800 SwordOfWarGod  13
-1/800 BladeOfSorcery  13
-1/800 HeavenSword  13
-1/800 BladesOfMagi  13
+1/800 开天  13
+1/800 镇天  13
+1/800 玄天  13
+1/800 暗真魔刀  13
 1/800 BowOfForce  13
 
 ;Armours
-1/3 SteelArmour(M)  13
-1/3 SteelArmour(F)  13
-1/3 DragonRobe(M)  13
-1/3 DragonRobe(F)  13
-1/3 TitanArmour(M)  13
-1/3 TitanArmour(F)  13
-1/3 RoyalArmour(M)  13
-1/3 RoyalArmour(F)  13
-1/3 StuddedArmour(M)  13
-1/3 StuddedArmour(F)  13
+1/3 鬼面甲胄(男)  13
+1/3 鬼面甲胄(女)  13
+1/3 火龙魔衣(男)  13
+1/3 火龙魔衣(女)  13
+1/3 玄天宝衣(男)  13
+1/3 玄天宝衣(女)  13
+1/3 修罗血衣(男)  13
+1/3 修罗血衣(女)  13
+1/3 StuddedArmour(男)  13
+1/3 StuddedArmour(女)  13
 
 ;Helmet
-1/20 BlackIronHelmet  13
-1/10 HelmetOfHero  13
-1/35 GreatHelmet  13
-1/35 WisdomCoronet  13
-1/35 TaoCoronet  13
+1/20 黑铁头盔  13
+1/10 勇士头盔  13
+1/35 英雄头盔  13
+1/35 贤者帽  13
+1/35 通天冠  13
 
 ;Rings
-1/35 PowerRing  13
-1/35 VioletRing  13
-1/35 TitanRing  13
-1/65 Oma祈祷戒指  13
-1/65 NobleRing  13
-1/65 SoulRing  13
-1/75 BoundlessRing  13
-1/75 ThunderRing  13
-1/75 TaeGukRing  13
-1/2000 TeleportRing  13
-1/2000 ParalysisRing  13
-1/2000 ProtectionRing  13
-1/2000 ClearRing  13
+1/35 力量戒指  13
+1/35 紫碧螺  13
+1/35 泰坦戒指  13
+1/65 奥玛环  13
+1/65 鬼刃环  13
+1/65 心意环  13
+1/75 无极环  13
+1/75 雷霆环  13
+1/75 太极环  13
+1/2000 传送戒指  13
+1/2000 麻痹戒指  13
+1/2000 护身戒指  13
+1/2000 隐身戒指  13
 
 ;Bracelets
-1/65 8TrigramWheel  13
-1/65 HangMaWheel  13
-1/65 BokMaWheel  13
-1/75 BaekTaGlove  13
-1/75 SpiritReformer  13
-1/75 HolyTaoWheel  13
+1/65 八极轮  13
+1/65 抗魔轮  13
+1/65 伏魔轮  13
+1/75 白驼手套  13
+1/75 魂锁轮  13
+1/75 太极轮  13
 
 ;Necklace
-1/300 SkillNecklace  13
-1/35 HeroNecklace  13
-1/35 RequiemNecklace  13
-1/35 AdamantineNecklace  13
+1/300 技巧项链  13
+1/35 水波颈饰  13
+1/35 镇魂项链  13
+1/35 金刚铃项链  13
 
 ;Stones
-1/80 DCStone  13
-1/80 MCStone  13
-1/80 SCStone  13
+1/80 攻击守护石  13
+1/80 魔法守护石  13
+1/80 道术守护石  13
 
 ;Gems
 1/5 MagicGem  13

@@ -44,11 +44,11 @@ GOTO @Main-1
 
 
 [Trade]
-GoldNecklace
-PrecisionNecklace
-BlackNecklace
-EbonyNecklace
-YellowNecklace
+金项链
+传统项链
+黑色水晶项链
+黑檀项链
+黄色水晶项链
 
 [Quests]
 

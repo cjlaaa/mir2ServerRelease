@@ -2,31 +2,31 @@
 1/1 Gold 2000
 
 ;Weapons
-1/4 WoodenSword 
-1/4 HoaSword 
+1/4 木剑 
+1/4 虎牙刀 
 1/4 WoodenBow 
-1/4 Dagger 
-1/4 EbonySword 
+1/4 匕首 
+1/4 乌木剑 
 1/4 EbonyBow 
 
 ;Armours
-1/4 BaseDress(M) 
-1/4 BaseDress(F) 
+1/4 布衣(男) 
+1/4 布衣(女) 
 
 ;Necklaces
-1/4 GoldNecklace 
-1/4 PrecisionNecklace 
+1/4 金项链 
+1/4 传统项链 
 
 ;Bracelets
-1/4 IronBracelet 
+1/4 铁手镯 
 
 ;Rings
-1/4 CopperRing 
+1/4 古铜戒指 
 
 ;Potions
-1/4 (HP)DrugSmall
-1/4 (MP)DrugSmall
-1/4 (HP)DrugSmall
-1/4 (MP)DrugSmall
-1/4 (HP)DrugSmall
-1/4 (MP)DrugSmall 
+1/4 金疮药(小量)
+1/4 魔法药(小量)
+1/4 金疮药(小量)
+1/4 魔法药(小量)
+1/4 金疮药(小量)
+1/4 魔法药(小量) 

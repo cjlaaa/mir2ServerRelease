@@ -1,7 +1,7 @@
 ;;Location			  X:Y		Start - Finish
 ;;BorderVillage 		287:606 	07:30 - 08:30
 ;;BichonWall 			325:250 	09:00 - 10:01
-;;WoomyonWoods(S) Fortress 	316:82 		10:30 - 11:30
+;;WoomyonWoods(小) Fortress 	316:82 		10:30 - 11:30
 ;;CastleGI-Ryoong 		234:197 	12:00 - 13:01
 ;;WoomyonWoods(N) TaoVillage 	192:300 	13:30 - 14:30
 ;;SeokchoValley 		136:170 	15:00 - 16:01

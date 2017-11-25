@@ -2,96 +2,96 @@
 1/10 Gold 2250
 
 ;Potions
-1/10 (HP)DrugLarge
-1/10 (MP)DrugLarge
-1/25 (HP)DrugLarge
-1/25 (MP)DrugLarge
-1/30 SunPotion
-1/50 SunPotion(M)
-1/100 (HP)DrugLarge 6
-1/120 (MP)DrugLarge 6
+1/10 金疮药(大量)
+1/10 魔法药(大量)
+1/25 金疮药(大量)
+1/25 魔法药(大量)
+1/30 太阳水
+1/50 强效太阳水
+1/100 金疮药(大量) 6
+1/120 魔法药(大量) 6
 1/500 WarGodOil
 
 ;Weapons
-1/50 PrinceDagger
-1/50 MartialSword
-1/50 KrissSword
-1/50 HookedSpear
-1/50 IronBlades
+1/50 破魂
+1/50 斩马刀
+1/50 降魔
+1/50 偃月
+1/50 墨铁刀
 1/50 LongBow
-1/100 PowerAxe
-1/200 PurifierSword
-1/10000 War祈祷之剑
-1/10000 MagicScythe
-1/10000 StoneBambooFan
-1/10000 FreezingBlades
+1/100 修罗
+1/200 凝霜
+1/10000 龙牙
+1/10000 怒斩
+1/10000 逍遥扇
+1/10000 冷月刀
 1/10000 LitheBow
 
 ;Armours
-1/150 HeavyArmour(M)
-1/150 HeavyArmour(F)
-1/150 MagicRobe(M)
-1/150 MagicRobe(F)
-1/150 SoulArmour(M)
-1/150 SoulArmour(F)
-1/150 RelicArmour(M)
-1/150 RelicArmour(F)
-1/150 LightLeatherArmour(M)
-1/150 LightLeatherArmour(F)
-1/5000 SteelArmour(M)
-1/5000 SteelArmour(F)
-1/5000 DragonRobe(M)
-1/5000 DragonRobe(F)
-1/5000 TitanArmour(M)
-1/5000 TitanArmour(F)
-1/5000 RoyalArmour(M)
-1/5000 RoyalArmour(F)
-1/5000 StuddedArmour(M)
-1/5000 StuddedArmour(F)
+1/150 重盔甲(男)
+1/150 重盔甲(女)
+1/150 魔法长袍(男)
+1/150 魔法长袍(女)
+1/150 灵魂战衣(男)
+1/150 灵魂战衣(女)
+1/150 残影魔衣(男)
+1/150 残影魔衣(女)
+1/150 LightLeatherArmour(男)
+1/150 LightLeatherArmour(女)
+1/5000 鬼面甲胄(男)
+1/5000 鬼面甲胄(女)
+1/5000 火龙魔衣(男)
+1/5000 火龙魔衣(女)
+1/5000 玄天宝衣(男)
+1/5000 玄天宝衣(女)
+1/5000 修罗血衣(男)
+1/5000 修罗血衣(女)
+1/5000 StuddedArmour(男)
+1/5000 StuddedArmour(女)
 
 ;Helmets
-1/500 ShamanHelmet
-1/500 SkeletonHelmet
+1/500 道士头盔
+1/500 骷髅头盔
 
 ;Rings
-1/100 BlackRing
-1/100 SerpentEyeRing
-1/100 PearlRing
-1/100 GoldRing
-1/150 SkeletonRing
-1/50 IronRing
-1/100 CharmRing
-1/100 MoralRing
-1/750 ExpelRing
-1/750 CoralRing
-1/1000 GaleRing
+1/100 黑色水晶戒指
+1/100 蛇眼戒指
+1/100 珍珠戒指
+1/100 金戒指
+1/150 骷髅戒指
+1/50 生铁戒指
+1/100 魅力戒指
+1/100 道德戒指
+1/750 降妖除魔戒指
+1/750 珊瑚戒指
+1/1000 狂风戒指
 1/75000 破碎戒指
 1/75000 青魔戒指
 
 ;Bracelets
-1/80 HardGlove
-1/100 MagicBracelet
-1/150 MonkBracelet
-1/150 EbonyBracelet
-1/150 DeathGauntlet
-1/100 GoldBracelet
-1/700 BronzeGlove
+1/80 坚固手套
+1/100 魔法手镯
+1/150 道士手镯
+1/150 黑檀手镯
+1/150 死神手套
+1/100 金手镯
+1/700 幽灵手套
 
 ;Necklaces
-1/100 LanternNecklace
-1/100 TigerNecklace
-1/100 PlatinumNecklace
-1/150 BlueJadeNecklace
-1/150 BambooPipe
-1/150 ConvexLens
-1/2000 GaleNecklace
-1/9000 ClawNecklace
-1/9000 PearlNecklace
-1/9000 LifeNecklace
+1/100 灯笼项链
+1/100 白色虎齿项链
+1/100 白金项链
+1/150 蓝翡翠项链
+1/150 竹笛
+1/150 放大镜
+1/2000 狂风项链
+1/9000 幽灵项链
+1/9000 天珠项链
+1/9000 生命项链
 
 ;Stones
-1/19000 MagicStone
-1/19000 HealthStone
+1/19000 魔力守护石
+1/19000 生命守护石
 
 ;Books
 1/500 UltimateEnhancer

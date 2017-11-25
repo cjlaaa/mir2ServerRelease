@@ -20,7 +20,7 @@ HeartOfDead 1
 [@SelectRewards]
 MartialSabre
 SpearWithHook
-KeenKrissSword
+Keen降魔
 BlackIronCrowSwords
 ToughLongBow
 

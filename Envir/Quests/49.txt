@@ -17,7 +17,7 @@ Skeleton 10
 [@CarryItems]
 
 [@FixedRewards]
-SuperiorMagicHelmet
+Superior魔法头盔
 
 [@SelectRewards]
 

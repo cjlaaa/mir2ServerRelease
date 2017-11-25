@@ -2,54 +2,54 @@
 1/1 Gold 3750
 
 ;Weapons
-1/15 BronzeAxe 
-1/25 HookedSword 
-1/25 Trident 
-1/25 Scimitar 
-1/25 BladesOfVelocity 
+1/15 青铜斧 
+1/25 八荒 
+1/25 海魂 
+1/25 半月 
+1/25 音速刀 
 1/25 CompoundBow 
-1/30 SteelAxe 
-1/35 SteelSword 
-1/35 MartialSword 
-1/35 HookedSpear 
-1/35 KrissSword 
-1/35 IronBlades 
+1/30 钢斧 
+1/35 凌风 
+1/35 斩马刀 
+1/35 偃月 
+1/35 降魔 
+1/35 墨铁刀 
 1/35 LongBow 
 
 ;Armours
-1/25 LightArmour(M) 
-1/25 LightArmour(F) 
+1/25 轻型盔甲(男) 
+1/25 轻型盔甲(女) 
 
 ;Helmets
-1/15 BronzeHelmet 
-1/17 MagicHelmet 
+1/15 青铜头盔 
+1/17 魔法头盔 
 
 ;Necklaces
-1/50 LanternNecklace 
-1/50 TigerNecklace 
-1/50 PlatinumNecklace 
-1/50 NagaNecklace 
-1/50 AmberNecklace 
-1/50 PhoenixBead 
+1/50 灯笼项链 
+1/50 白色虎齿项链 
+1/50 白金项链 
+1/50 魔鬼项链 
+1/50 琥珀项链 
+1/50 凤凰明珠 
 
 ;Bracelets
-1/50 MagicBracelet 
-1/75 HardGlove 
+1/50 魔法手镯 
+1/75 坚固手套 
 
 ;Rings
-1/40 BlueRing 
-1/50 BlackRing 
-1/50 SerpentEyeRing 
-1/50 PearlRing 
+1/40 蓝色水晶戒指 
+1/50 黑色水晶戒指 
+1/50 蛇眼戒指 
+1/50 珍珠戒指 
 
 ;Potions
-1/3 (HP)DrugMedium 
-1/3 (MP)DrugMedium 
-1/3 (HP)DrugMedium 
-1/3 (MP)DrugMedium 
-1/3 (HP)DrugMedium 
-1/3 (MP)DrugMedium 
-1/10 SunPotion 
+1/3 金疮药(中量) 
+1/3 魔法药(中量) 
+1/3 金疮药(中量) 
+1/3 魔法药(中量) 
+1/3 金疮药(中量) 
+1/3 魔法药(中量) 
+1/10 太阳水 
 
 ;Books
 1/10 Fencing 

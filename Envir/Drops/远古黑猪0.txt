@@ -2,73 +2,73 @@
 1/1 Gold 5000
 
 ;Weapons
-1/16 PrinceDagger 
-1/16 MartialSword 
-1/16 HookedSpear 
-1/16 KrissSword 
-1/16 IronBlades 
+1/16 破魂 
+1/16 斩马刀 
+1/16 偃月 
+1/16 降魔 
+1/16 墨铁刀 
 1/16 LongBow 
-1/50 PowerAxe 
-1/60 PurifierSword 
-1/800 GreatAxe 
-1/800 MageStaff 
-1/800 SerpentSword 
-1/800 DoubleBlades 
+1/50 修罗 
+1/60 凝霜 
+1/800 炼狱 
+1/800 魔杖 
+1/800 银蛇 
+1/800 双极刀 
 1/800 SilverBow 
 
 ;Armours
-1/80 HeavyArmour(M) 
-1/80 HeavyArmour(F) 
-1/80 MagicRobe(M) 
-1/80 MagicRobe(F) 
-1/80 SoulArmour(M) 
-1/80 SoulArmour(F) 
-1/80 RelicArmour(M) 
-1/80 RelicArmour(F) 
-1/80 LightLeatherArmour(M) 
-1/80 LightLeatherArmour(F) 
+1/80 重盔甲(男) 
+1/80 重盔甲(女) 
+1/80 魔法长袍(男) 
+1/80 魔法长袍(女) 
+1/80 灵魂战衣(男) 
+1/80 灵魂战衣(女) 
+1/80 残影魔衣(男) 
+1/80 残影魔衣(女) 
+1/80 LightLeatherArmour(男) 
+1/80 LightLeatherArmour(女) 
 
 ;Helmets
-1/300 SkeletonHelmet 
-1/150 ShamanHelmet 
+1/300 骷髅头盔 
+1/150 道士头盔 
 
 ;Necklaces
-1/20 LanternNecklace 
-1/20 TigerNecklace 
-1/20 PlatinumNecklace 
-1/40 BlueJadeNecklace 
-1/40 ConvexLens 
-1/40 BambooPipe 
+1/20 灯笼项链 
+1/20 白色虎齿项链 
+1/20 白金项链 
+1/40 蓝翡翠项链 
+1/40 放大镜 
+1/40 竹笛 
 
 ;Bracelets
-1/20 StrainBracelet 
-1/20 MagicBracelet 
-1/20 HardGlove 
-1/20 EbonyBracelet 
-1/20 MonkBracelet 
-1/30 DeathGauntlet 
-1/20 GoldBracelet 
-1/400 BronzeGlove 
+1/20 尽力手镯 
+1/20 魔法手镯 
+1/20 坚固手套 
+1/20 黑檀手镯 
+1/20 道士手镯 
+1/30 死神手套 
+1/20 金手镯 
+1/400 幽灵手套 
 
 ;Rings
-1/20 BlackRing 
-1/20 SerpentEyeRing 
-1/20 PearlRing 
-1/20 GoldRing 
-1/30 IronRing 
-1/30 SkeletonRing 
-1/40 CharmRing 
-1/40 MoralRing 
-1/150 ExpelRing 
-1/150 CoralRing 
-1/800 GaleRing 
+1/20 黑色水晶戒指 
+1/20 蛇眼戒指 
+1/20 珍珠戒指 
+1/20 金戒指 
+1/30 生铁戒指 
+1/30 骷髅戒指 
+1/40 魅力戒指 
+1/40 道德戒指 
+1/150 降妖除魔戒指 
+1/150 珊瑚戒指 
+1/800 狂风戒指 
 
 ;Potions
-1/2 (HP)DrugMedium 
-1/2 (MP)DrugMedium 
-1/5 SunPotion 
-1/20 SunPotion(M) 
-1/60 SunPotion(M) 
+1/2 金疮药(中量) 
+1/2 魔法药(中量) 
+1/5 太阳水 
+1/20 强效太阳水 
+1/60 强效太阳水 
 
 ;Crafting Materials
 1/15 BlackThread 

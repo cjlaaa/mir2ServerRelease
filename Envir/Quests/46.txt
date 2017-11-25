@@ -20,8 +20,8 @@ SkeletonBone 5
 
 [@SelectRewards]
 SharpSword
-SharpTrident
-SharpScimitar
+Sharp海魂
+Sharp半月
 SharpSabre
 ToughBow
 

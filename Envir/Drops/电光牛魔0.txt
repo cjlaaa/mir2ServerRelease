@@ -2,80 +2,80 @@
 1/1 Gold 5250
 
 ;Potions
-1/2 (HP)DrugLarge
-1/2 (MP)DrugLarge
-1/5 (HP)DrugLarge
-1/5 (MP)DrugLarge
-1/4 SunPotion
-1/5 SunPotion(M)
+1/2 金疮药(大量)
+1/2 魔法药(大量)
+1/5 金疮药(大量)
+1/5 魔法药(大量)
+1/4 太阳水
+1/5 强效太阳水
 
 ;Armours
-1/65 HeavyArmour(M)
-1/65 HeavyArmour(F)
-1/65 MagicRobe(M)
-1/65 MagicRobe(F)
-1/65 SoulArmour(M)
-1/65 SoulArmour(F)
-1/65 RelicArmour(M)
-1/65 RelicArmour(F)
-1/65 LightLeatherArmour(M)
-1/65 LightLeatherArmour(F)
-1/700 SteelArmour(M)
-1/700 SteelArmour(F)
-1/700 DragonRobe(M)
-1/700 DragonRobe(F)
-1/700 TitanArmour(M)
-1/700 TitanArmour(F)
-1/700 RoyalArmour(M)
-1/700 RoyalArmour(F)
-1/700 StuddedArmour(M)
-1/700 StuddedArmour(F)
+1/65 重盔甲(男)
+1/65 重盔甲(女)
+1/65 魔法长袍(男)
+1/65 魔法长袍(女)
+1/65 灵魂战衣(男)
+1/65 灵魂战衣(女)
+1/65 残影魔衣(男)
+1/65 残影魔衣(女)
+1/65 LightLeatherArmour(男)
+1/65 LightLeatherArmour(女)
+1/700 鬼面甲胄(男)
+1/700 鬼面甲胄(女)
+1/700 火龙魔衣(男)
+1/700 火龙魔衣(女)
+1/700 玄天宝衣(男)
+1/700 玄天宝衣(女)
+1/700 修罗血衣(男)
+1/700 修罗血衣(女)
+1/700 StuddedArmour(男)
+1/700 StuddedArmour(女)
 
 ;Weapons
-1/20 PrinceDagger
-1/20 MartialSword
-1/20 HookedSpear
-1/20 KrissSword
-1/20 IronBlades
+1/20 破魂
+1/20 斩马刀
+1/20 偃月
+1/20 降魔
+1/20 墨铁刀
 1/20 LongBow
-1/55 PowerAxe
-1/60 PurifierSword
+1/55 修罗
+1/60 凝霜
 
 ;Rings
-1/10 IronRing
-1/35 GoldRing
-1/40 SkeletonRing
-1/75 ExpelRing
-1/75 CoralRing
-1/10 MoralRing
-1/10 CharmRing
-1/100 GaleRing
-1/150 TwinGoldRing
-1/150 JadeSnowRing
-1/150 EvilSlayerRing
+1/10 生铁戒指
+1/35 金戒指
+1/40 骷髅戒指
+1/75 降妖除魔戒指
+1/75 珊瑚戒指
+1/10 道德戒指
+1/10 魅力戒指
+1/100 狂风戒指
+1/150 虎威戒指
+1/150 雪玉戒指
+1/150 屠魔戒指
 1/800 青魔戒指
 1/750 破碎戒指
 
 ;Bracelet
-1/18 HardGlove
-1/18 MagicBracelet
-1/75 BronzeGlove
-1/30 MonkBracelet
-1/30 EbonyBracelet
-1/45 DeathGauntlet
-1/40 GoldBracelet
-1/75 BronzeGlove
+1/18 坚固手套
+1/18 魔法手镯
+1/75 幽灵手套
+1/30 道士手镯
+1/30 黑檀手镯
+1/45 死神手套
+1/40 金手镯
+1/75 幽灵手套
 1/750 破碎手镯
 1/800 青魔手镯
-1/250 TaoPowerBracelet
+1/250 雪玉手镯
 
 ;Necklaces
-1/20 LanternNecklace
-1/20 TigerNecklace
-1/15 PlatinumNecklace
-1/45 BlueJadeNecklace
-1/45 BambooPipe
-1/45 ConvexLens
-1/300 GaleNecklace
+1/20 灯笼项链
+1/20 白色虎齿项链
+1/15 白金项链
+1/45 蓝翡翠项链
+1/45 竹笛
+1/45 放大镜
+1/300 狂风项链
 1/750 破碎项链
 1/800 青魔项链

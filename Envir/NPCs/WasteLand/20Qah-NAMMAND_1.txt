@@ -10,7 +10,7 @@ What can I help you with?
 #SAY
 The following are the items i can forge.
 
-- AncientHeavyArmour  <Forge/@arm1>
+- Ancient重盔甲  <Forge/@arm1>
 - AncientRobe         <Forge/@arm2>
 - AncientPlate        <Forge/@arm3>
 - AncientSuit         <Forge/@arm4>
@@ -22,7 +22,7 @@ The following are the items i can forge.
 
 [@arm1]
 #SAY
-* AncientHeavyArmour
+* Ancient重盔甲
 * Defense stats : Ac 6-20 - Amc 3-7 - Dc 0-1 - Hp +10.
 * Items required for forging,
 - 40 RustyArmour
@@ -55,8 +55,8 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientHeavyArmour(M) 1
-LINEMESSAGE "You have forged AncientHeavyArmour." Hint
+GIVEITEM Ancient重盔甲(男) 1
+LINEMESSAGE "You have forged Ancient重盔甲." Hint
 BREAK
 CLOSE
 
@@ -82,14 +82,14 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientHeavyArmour(F) 1
-LINEMESSAGE "You have forged AncientHeavyArmour." Hint
+GIVEITEM Ancient重盔甲(女) 1
+LINEMESSAGE "You have forged Ancient重盔甲." Hint
 BREAK
 CLOSE
 
 #ELSESAY
 You don't have enough ingredients.
-Please check again.In order to make the AncientHeavyArmour,
+Please check again.In order to make the Ancient重盔甲,
 * Items required for forging,
 - 40 RustyArmour
 - 34 RhinoLeather
@@ -137,7 +137,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientRobe(M) 1
+GIVEITEM AncientRobe(男) 1
 LINEMESSAGE "You have forged AncientRobe." Hint
 BREAK
 CLOSE
@@ -164,7 +164,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientRobe(F) 1
+GIVEITEM AncientRobe(女) 1
 LINEMESSAGE "You have forged AncientRobe." Hint
 BREAK
 CLOSE
@@ -220,7 +220,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBookSC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEitem AncientPlate(M) 1
+GIVEitem AncientPlate(男) 1
 LINEMESSAGE "You have forged AncientPlate." Hint
 BREAK
 CLOSE
@@ -247,7 +247,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(SC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientPlate(F) 1
+GIVEITEM AncientPlate(女) 1
 LINEMESSAGE "You have forged AncientPlate." Hint
 BREAK
 CLOSE
@@ -303,7 +303,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientSuit(M) 1
+GIVEITEM AncientSuit(男) 1
 LINEMESSAGE "You have forged AncientSuit." Hint
 BREAK
 CLOSE
@@ -330,7 +330,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(DC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientSuit(F) 1 
+GIVEITEM AncientSuit(女) 1 
 LINEMESSAGE "You have forged AncientSuit." Hint
 BREAK
 CLOSE
@@ -385,7 +385,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientLeather(M) 1
+GIVEITEM AncientLeather(男) 1
 LINEMESSAGE "You have forged AncientLeather." Hint
 BREAK
 CLOSE
@@ -412,7 +412,7 @@ TAKEITEM LargeBone 30
 TAKEITEM ArmourBook(MC) 12
 TAKEITEM Platinum 10
 TAKEITEM StrongRope 5
-GIVEITEM AncientLeather(F) 1
+GIVEITEM AncientLeather(女) 1
 LINEMESSAGE "You have forged AncientLeather." Hint
 BREAK
 CLOSE

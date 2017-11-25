@@ -19,8 +19,8 @@ OmaTeeth 5
 [@FixedRewards]
 
 [@SelectRewards]
-BronzeShortSword
-BronzeHoaSword
+Bronze短剑
+Bronze虎牙刀
 ElkWoodenBow
 
 [@ExpReward]
