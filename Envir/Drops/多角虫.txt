@@ -63,12 +63,12 @@
 1/200 太阳水 
 
 ;Books
-1/140 Fencing
-1/140 FireBall
-1/140 Healing
-1/140 FatalSword
+1/140 基本剑术
+1/140 火球术
+1/140 治愈术
+1/140 绝命剑法
 1/140 Focus
-1/140 SpiritSword
-1/240 Repulsion
-1/240 Poisoning
+1/140 精神力战法
+1/240 抗拒火环
+1/240 施毒术
 1/240 StraightShot

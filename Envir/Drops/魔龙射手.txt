@@ -69,9 +69,9 @@
 1/250 道术守护石(特大)
 
 ;Crafting Material
-1/350 EvasionMarble
-1/350 FocusMarble
-1/40 DragonScale
+1/350 避魂珠
+1/350 准确珠
+1/40 龙鳞
 
 ;Books
-1/1000 TwinDrakeBlade
+1/1000 双龙斩

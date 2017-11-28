@@ -39,9 +39,9 @@
 1/100  疾风药水(小)
 
 ;Books
-1/200 LionRoar
-1/200 Vampirism
-1/2000 SummonHolyDeva
-1/800 Hallucination
-1/800 Purification
-1/800 swiftfeet
+1/200 狮子吼
+1/200 嗜血术
+1/2000 召唤月灵
+1/800 迷魂术
+1/800 净化术
+1/800 轻身步

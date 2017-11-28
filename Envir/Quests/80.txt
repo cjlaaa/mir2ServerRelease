@@ -2,7 +2,7 @@
 一张卷轴，看起来很重要.
 
 [@TaskDescription]
-带 {HiddenScroll/LightSteelBlue} 给 {Dr.Kim/LimeGreen}.
+带 {隐藏的卷轴/LightSteelBlue} 给 {Dr.Kim/LimeGreen}.
 
 [@Completion]
 
@@ -11,7 +11,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-HiddenScroll 2 
+隐藏的卷轴 2 
 
 [@FixedRewards]
 

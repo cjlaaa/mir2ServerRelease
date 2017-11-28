@@ -78,13 +78,13 @@
 1/2000 疾风药水(小) 
 
 ;Crafting Materials
-1/15 BugShell 
+1/15 虫壳 
 
 ;Books
-1/2000 FrostCrunch 
-1/1400 EnergyRepulsor 
+1/2000 寒冰掌 
+1/1400 气功波 
 
 
 ;Quest
-1/5 CharleySword Q
+1/5 龙之宝剑 Q
 

@@ -30,6 +30,6 @@ Welcome traveller,
 
 [Trade]
 BengalTiger
-Saddle
-RawMeat
-LeanMeat
+马鞍
+生肉
+烤肉

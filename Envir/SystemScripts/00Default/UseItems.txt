@@ -1,13 +1,13 @@
-;;Test Server Scroll
+﻿;;Test Server Scroll
 [@_UseItem(1)]
 #INCLUDE [SystemScripts\00Default\TestServerScroll.txt] @Main
 
-;;PK Point Reduction
+;;PK点数清洗卷
 [@_UseItem(2)]
 #ACT
 REDUCEPKPOINT 100
 
-;;Sex Change
+;;变性卷轴
 [@_UseItem(5)]
 #IF
 CHECKGENDER Male
@@ -18,45 +18,41 @@ LocalMessage "Gender Changed to Female. Please relog to take effect." Hint
 CHANGEGENDER
 LocalMessage "Gender Changed to Male. Please relog to take effect." Hint
 
-;;ExtraDrop 24Hour
+;;100%爆率卷 24Hour
 [@_UseItem(6)]
 #ACT
-GIVEBUFF Drop 86400 20
-LocalMessage "Drop Increased by 20% for 1 Day." Hint
+GIVEBUFF Drop 86400 50
+LocalMessage "爆率增加 100% 持续一天." Hint
 
-;;BlueOctagonalBox
+;;深蓝六角盒
 [@_UseItem(7)]
 #ACT
-GIVEITEM EXP30%(3) 1
-GIVEITEM HealthWine 1
-GIVEITEM DestructionLiquor 1
-GIVEITEM DCTorch1 1
-GIVEITEM GalePotion 1
-GIVEITEM ResurrectionScroll 1
+GIVEITEM EXP30%3 1
+GIVEITEM 鸡腿 1
+GIVEITEM 破坏圣水 1
+GIVEITEM 复活卷轴 1
 
-;;RedOctagonalBox
+;;赤色六角盒
 [@_UseItem(8)]
 #ACT
-GIVEITEM EXP30%(3) 1
-GIVEITEM HealthWine 1
-GIVEITEM MagicalLiquor 1
-GIVEITEM MCTorch1 1
-GIVEITEM ResurrectionScroll 1
+GIVEITEM EXP30%3 1
+GIVEITEM 鸡腿 1
+GIVEITEM 魔法圣水 1
+GIVEITEM 复活卷轴 1
 
-;;GreenOctagonalBox
+;;深绿六角盒
 [@_UseItem(9)]
 #ACT
-GIVEITEM EXP30%(3) 1
-GIVEITEM HealthWine 1
-GIVEITEM SoulLiquor 1
-GIVEITEM SCTorch1 1
-GIVEITEM ResurrectionScroll 1
+GIVEITEM EXP30%3 1
+GIVEITEM 鸡腿 1
+GIVEITEM 道术圣水 1
+GIVEITEM 复活卷轴 1
 
 [@_UseItem(10)]
 #ACT
-GIVEITEM AMULET 3000
+GIVEITEM 护身符 3000
 
-;;PK Point Medicine
+;;PK Point 中药
 [@_UseItem(11)]
 #ACT
 REDUCEPKPOINT 10
@@ -66,7 +62,7 @@ REDUCEPKPOINT 10
 #ACT
 GIVEITEM ElixirOfMight[1d] 1
 GIVEITEM ElixirOfDefensive[1d] 1
-GIVEITEM ElixirOfGinseng[1d] 1
+GIVEITEM ElixirOf千年雪霜[1d] 1
 GIVEITEM EXP20%[1d] 1
 
 ;;FishingPackage

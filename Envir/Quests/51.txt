@@ -1,7 +1,7 @@
 ﻿[@Description]
-你知道 {CanniTea?/LightSteelBlue} 这是最好的茶了. 
+你知道 {食人花茶?/LightSteelBlue} 这是最好的茶了. 
 我想弄一些来, 但是这可不容易. 
-你能向 {CraftLady/LimeGreen} 要一杯  {CanniTea/LightSteelBlue} 给我吗? 
+你能向 {CraftLady/LimeGreen} 要一杯  {食人花茶/LightSteelBlue} 给我吗? 
  
 [@TaskDescription]
 

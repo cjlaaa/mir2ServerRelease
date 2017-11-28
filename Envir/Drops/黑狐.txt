@@ -41,13 +41,13 @@
 1/100  疾风药水(小)
 
 ;Nothing
-1/100  AdmissionOrb
+1/100  狐月神珠
 
 ;Books
-1/400 ProtectionField
-1/600 Entrapment
-1/200 TwinDrakeBlade
-1/600 LionRoar
-1/200 moonlight
-1/800 BladeAvalanche
-1/800  mpeater
+1/400 护身气幕
+1/600 捕绳剑
+1/200 双龙斩
+1/600 狮子吼
+1/200 月影术
+1/800 攻破斩
+1/800  吸气

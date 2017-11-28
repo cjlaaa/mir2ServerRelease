@@ -12,7 +12,7 @@ GOTO @Main-1
 #SAY
 Hello traveller. How can i help you?
  
-<打开/@Storage> 仓库
+<打开/@Sto剑气爆> 仓库
 <货币/@mbind> 转换
 <购买/@Buy>
 你有 <$PARCELAMOUNT> 个邮件在等待收取.
@@ -20,7 +20,7 @@ Hello traveller. How can i help you?
 <收取/@CollectParcel> 邮件
 
 
-[@Storage]
+[@Sto剑气爆]
 #SAY
 看看你需要存取什么东西?
  
@@ -44,9 +44,9 @@ Hello traveller. How can i help you?
 
 [@GBar]
 #IF
-CHECKITEM GoldBar 1
+CHECKITEM 金条 1
 #ACT
-TAKEITEM GoldBar 1
+TAKEITEM 金条 1
 GIVEGOLD 998000
 #ELSESAY
 你没有需要转换的金条，当你有了再来找我吧.
@@ -56,9 +56,9 @@ GIVEGOLD 998000
 
 [@GBBundle]
 #IF
-CHECKITEM GoldBarBundle 1
+CHECKITEM 金砖 1
 #ACT
-TAKEITEM GoldBarBundle 1
+TAKEITEM 金砖 1
 GIVEGOLD 4990000
 #ELSESAY
 你没有需要转换的金砖，当你有了再来找我吧.
@@ -67,9 +67,9 @@ GIVEGOLD 4990000
 
 [@GChest]
 #IF
-CHECKITEM GoldChest 1
+CHECKITEM 金盒 1
 #ACT
-TAKEITEM GoldChest 1
+TAKEITEM 金盒 1
 GIVEGOLD 9980000
 #ELSESAY
 你没有需要转换的金盒，当你有了再来找我吧.
@@ -82,6 +82,6 @@ GIVEGOLD 9980000
 
 [Trade]
 Stamp
-GoldBar
-GoldBarBundle
-GoldChest
+金条
+金砖
+金盒

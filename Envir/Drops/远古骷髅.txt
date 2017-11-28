@@ -79,25 +79,25 @@
 1/300 太阳水 
 
 ;Crafting Materials
-1/25 Bone 
-1/50 LargeBone 
+1/25 骨头 
+1/50 大骨头 
 
 ;Books
-1/140 Poisoning 
-1/140 Repulsion 
-1/140 HellFire 
-1/140 ThunderBolt 
-1/140 FatalSword 
-1/84 ElectricShock 
-1/84 Slaying 
-1/84 GreatFireBall 
-1/84 SoulFireBall 
-1/100 Hiding 
-1/100 Teleport 
-1/100 SummonSkeleton 
-1/200 HalfMoon 
-1/400 FlashDash 
-1/400 LightBody 
+1/140 施毒术 
+1/140 抗拒火环 
+1/140 地狱火 
+1/140 雷电术 
+1/140 绝命剑法 
+1/84 诱惑之光 
+1/84 攻杀剑术 
+1/84 大火球 
+1/84 灵魂火符 
+1/100 隐身术 
+1/100 瞬息移动 
+1/100 召唤骷髅 
+1/200 半月弯刀 
+1/400 拔刀术 
+1/400 风身术 
 1/300 ExplosiveTrap 
 1/400 Meditation 
 1/500 SummonVampire 

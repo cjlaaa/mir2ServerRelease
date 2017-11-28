@@ -79,11 +79,11 @@
 1/160 放大镜
 
 ;Crafting Materals
-1/5 BlackThread
-1/5 RedThread
-1/5 SpiderWeb
+1/5 黑线
+1/5 红线
+1/5 蜘蛛网
 
 ;Quest
-1/2 TraineeRing Q
-1/2 RedThread Q
-1/2 BlackThread Q 
+1/2 见习戒指 Q
+1/2 红线 Q
+1/2 黑线 Q 

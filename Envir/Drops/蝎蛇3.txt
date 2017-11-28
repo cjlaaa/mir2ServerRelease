@@ -73,10 +73,10 @@
 1/300 万年雪霜 
 
 ;Crafting Materials
-1/25 BugShell 
+1/25 虫壳 
 
 ;Books
-1/800 TwinDrakeBlade 
-1/1200 FlameDisruptor 
-1/750 UltimateEnhancer 
-1/750 Trap 
+1/800 双龙斩 
+1/1200 火龙术 
+1/750 无极真气 
+1/750 捕缚术 

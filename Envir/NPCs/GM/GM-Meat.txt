@@ -2,8 +2,8 @@
 #Say
 Hello {<$USERNAME>/KHAKI}, my name is {<$NPCNAME>/KHAKI}.
  
-<Buy/@Buy> Meat
-<Sell/@Sell> Meat
+<Buy/@Buy> 肉
+<Sell/@Sell> 肉
 
 [@Sell]
 #SAY
@@ -22,7 +22,7 @@ Buy.
 15
 
 [Trade]
-Chicken
-Meat
+鸡肉
+肉
 Jerk
-DeerMeat
+野鹿肉

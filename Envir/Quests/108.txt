@@ -5,14 +5,14 @@
 
 [@TaskDescription]
 找到 {SabukWall/Yellow} 密道 
-然后找到 {BichonTales/LightSteelBlue}.
+然后找到 {比奇令牌/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BichonTales(3) 1
+比奇令牌(3) 1
 
 [@CarryItems]
 

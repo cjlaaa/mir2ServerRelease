@@ -15,10 +15,10 @@
 [@FixedRewards]
 
 [@SelectRewards]
-Solid炼狱
-SolidBronzeStaff
-Solid银蛇
-SolidTwinBlades
+精锐炼狱
+精锐魔杖
+精锐银蛇
+精锐双极刀
 SolidSilverBow
 
 [@ExpReward]

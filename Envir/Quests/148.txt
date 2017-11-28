@@ -1,11 +1,11 @@
 [@Description]
-Bring me {RedMoonChip/LightSteelBlue}.
+Bring me {恶魔碎片/LightSteelBlue}.
 It's a ominous demonic sword.
 You should seek out the sword before someone 
 else gets it.
 
 [@TaskDescription]
-Kill {RedEvilApe's/Crimson} to find the {RedMoonChip/LightSteelBlue}.
+Kill {RedEvilApe's/Crimson} to find the {恶魔碎片/LightSteelBlue}.
 at 11:27 Walk in the corner and you will get through 
 the hidden door.
 [@Completion]
@@ -13,7 +13,7 @@ the hidden door.
 [@KillTasks]
 
 [@ItemTasks]
-RedMoonChip 1
+恶魔碎片 1
 
 [@FlagTasks]
 

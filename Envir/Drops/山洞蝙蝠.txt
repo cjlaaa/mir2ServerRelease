@@ -6,10 +6,10 @@
 1/5 魔法药(小量) 
 
 ;Scrolls
-1/50 TownTeleport 
-1/40 TownTeleport 
-1/50 TownTeleport 
+1/50 回城卷 
+1/40 回城卷 
+1/50 回城卷 
 
 ;Quest
-1/2 BatTeeth Q
-1/2 BatWings Q
+1/2 蝙蝠牙 Q
+1/2 蝙蝠翅膀 Q

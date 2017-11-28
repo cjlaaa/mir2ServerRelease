@@ -22,88 +22,88 @@ Buy.
 
 [@Warrior]
 #Act
-GIVESKILL Fencing 3
-GIVESKILL Slaying 3
-GIVESKILL Thrusting 3
-GIVESKILL HalfMoon 3
-GIVESKILL ShoulderDash 3
-GIVESKILL TwinDrakeBlade 3
-GIVESKILL Entrapment 3
-GIVESKILL FlamingSword 3
-GIVESKILL LionRoar 3
-GIVESKILL CrossHalfMoon 3
-GIVESKILL BladeAvalanche 3
-GIVESKILL ProtectionField 3
-GIVESKILL Rage 3
-GIVESKILL CounterAttack 3
-GIVESKILL SlashingBurst 3
-GIVESKILL Fury 3
+GIVESKILL 基本剑术 3
+GIVESKILL 攻杀剑术 3
+GIVESKILL 刺杀剑术 3
+GIVESKILL 半月弯刀 3
+GIVESKILL 野蛮冲撞 3
+GIVESKILL 双龙斩 3
+GIVESKILL 捕绳剑 3
+GIVESKILL 烈火剑法 3
+GIVESKILL 狮子吼 3
+GIVESKILL 圆月弯刀 3
+GIVESKILL 攻破斩 3
+GIVESKILL 护身气幕 3
+GIVESKILL 剑气爆 3
+GIVESKILL 反击 3
+GIVESKILL 日闪 3
+GIVESKILL 血龙剑法 3
 [@Wizard]
 #ACT
-GIVESKILL FireBall 3
-GIVESKILL Repulsion 3
-GIVESKILL ElectricShock 3
-GIVESKILL GreatFireBall 3
-GIVESKILL HellFire 3
-GIVESKILL ThunderBolt 3
-GIVESKILL Teleport 3
-GIVESKILL FireBang 3
-GIVESKILL FireWall 3
-GIVESKILL Lightning 3
-GIVESKILL FrostCrunch 3
-GIVESKILL ThunderStorm 3
-GIVESKILL MagicShield 3
-GIVESKILL TurnUndead 3
-GIVESKILL Vampirism 3
-GIVESKILL IceStorm 3
-GIVESKILL FlameDisruptor 3
-GIVESKILL Mirroring 3
-GIVESKILL FlameField 3
-GIVESKILL Blizzard 3
-GIVESKILL MagicBooster 3
-GIVESKILL MeteorStrike 3
-GIVESKILL IceThrust 3
+GIVESKILL 火球术 3
+GIVESKILL 抗拒火环 3
+GIVESKILL 诱惑之光 3
+GIVESKILL 大火球 3
+GIVESKILL 地狱火 3
+GIVESKILL 雷电术 3
+GIVESKILL 瞬息移动 3
+GIVESKILL 爆裂火焰 3
+GIVESKILL 火墙 3
+GIVESKILL 疾光电影 3
+GIVESKILL 寒冰掌 3
+GIVESKILL 地狱雷光 3
+GIVESKILL 魔法盾 3
+GIVESKILL 圣言术 3
+GIVESKILL 嗜血术 3
+GIVESKILL 冰咆哮 3
+GIVESKILL 火龙术 3
+GIVESKILL 分身术 3
+GIVESKILL 火龙气焰 3
+GIVESKILL 天霜冰环 3
+GIVESKILL 深延术 3
+GIVESKILL 流星火雨 3
+GIVESKILL 冰焰术 3
 [@Taoist]
 #ACT
-GIVESKILL Healing 3
-GIVESKILL SpiritSword 3
-GIVESKILL Poisoning 3
-GIVESKILL SoulFireBall 3
-GIVESKILL SummonSkeleton 3
-GIVESKILL Hiding 3
-GIVESKILL MassHiding 3
-GIVESKILL SoulShield 3
-GIVESKILL Revelation 3
-GIVESKILL BlessedArmour 3
-GIVESKILL EnergyRepulsor 3
-GIVESKILL TrapHexagon 3
-GIVESKILL Purification 3
-GIVESKILL MassHealing 3
-GIVESKILL Hallucination 3
-GIVESKILL UltimateEnhancer 3
-GIVESKILL SummonShinsu 3
-GIVESKILL Reincarnation 3
-GIVESKILL SummonHolyDeva 3
-GIVESKILL Curse 3
-GIVESKILL Plague 3
-GIVESKILL PoisonCloud 3
-GIVESKILL EnergyShield 3
+GIVESKILL 治愈术 3
+GIVESKILL 精神力战法 3
+GIVESKILL 施毒术 3
+GIVESKILL 灵魂火符 3
+GIVESKILL 召唤骷髅 3
+GIVESKILL 隐身术 3
+GIVESKILL 集体隐身术 3
+GIVESKILL 幽灵盾 3
+GIVESKILL 心灵启示 3
+GIVESKILL 神圣战甲术 3
+GIVESKILL 气功波 3
+GIVESKILL 困魔咒 3
+GIVESKILL 净化术 3
+GIVESKILL 群体治疗术 3
+GIVESKILL 迷魂术 3
+GIVESKILL 无极真气 3
+GIVESKILL 召唤神兽 3
+GIVESKILL 复活术 3
+GIVESKILL 召唤月灵 3
+GIVESKILL 诅咒术 3
+GIVESKILL 瘟疫 3
+GIVESKILL 毒云 3
+GIVESKILL 阴阳盾 3
 [@Assassin]
 #ACT
-GIVESKILL FatalSword 3
-GIVESKILL DoubleSlash 3
-GIVESKILL Haste 3
-GIVESKILL FlashDash 3
-GIVESKILL LightBody 3
-GIVESKILL HeavenlySword 3
-GIVESKILL FireBurst 3
-GIVESKILL Trap 3
-GIVESKILL PoisonSword 3
-GIVESKILL MoonLight 3
-GIVESKILL MPEater 3
-GIVESKILL SwiftFeet 3
-GIVESKILL DarkBody 3
-GIVESKILL Hemorrhage 3
+GIVESKILL 绝命剑法 3
+GIVESKILL 双刀术 3
+GIVESKILL 体迅风 3
+GIVESKILL 拔刀术 3
+GIVESKILL 风身术 3
+GIVESKILL 迁移剑 3
+GIVESKILL 烈风击 3
+GIVESKILL 捕缚术 3
+GIVESKILL 猛毒剑气 3
+GIVESKILL 月影术 3
+GIVESKILL 吸气 3
+GIVESKILL 轻身步 3
+GIVESKILL 烈火身 3
+GIVESKILL 血风击 3
 GIVESKILL CrescentSlash 3
 [@Archer]
 #ACT
@@ -130,88 +130,88 @@ GIVESKILL OneWithNature 3
 20
 
 [Trade]
-Fencing
-Slaying
-Thrusting
-HalfMoon
-ShoulderDash
-TwinDrakeBlade
-Entrapment
-FlamingSword
-LionRoar
-CrossHalfMoon
-BladeAvalanche
-ProtectionField
-Rage
-CounterAttack
-SlashingBurst
-Fury
+基本剑术
+攻杀剑术
+刺杀剑术
+半月弯刀
+野蛮冲撞
+双龙斩
+捕绳剑
+烈火剑法
+狮子吼
+圆月弯刀
+攻破斩
+护身气幕
+剑气爆
+反击
+日闪
+血龙剑法
 NewWarrior2
-FireBall
-Repulsion
-ElectricShock
-GreatFireBall
-HellFire
-ThunderBolt
-Teleport
-FireBang
-FireWall
-Lightning
-FrostCrunch
-ThunderStorm
-MagicShield
-TurnUndead
-Vampirism
-IceStorm
-FlameDisruptor
-Mirroring
-FlameField
-Blizzard
-MagicBooster
-MeteorStrike
-IceThrust
+火球术
+抗拒火环
+诱惑之光
+大火球
+地狱火
+雷电术
+瞬息移动
+爆裂火焰
+火墙
+疾光电影
+寒冰掌
+地狱雷光
+魔法盾
+圣言术
+嗜血术
+冰咆哮
+火龙术
+分身术
+火龙气焰
+天霜冰环
+深延术
+流星火雨
+冰焰术
 NewWizard1
 NewWizard2
-Healing
-SpiritSword
-Poisoning
-SoulFireBall
-SummonSkeleton
-Hiding
-MassHiding
-SoulShield
-Revelation
-BlessedArmour
-EnergyRepulsor
-TrapHexagon
-Purification
-MassHealing
-Hallucination
-UltimateEnhancer
-SummonShinsu
-Reincarnation
-SummonHolyDeva
-Curse
-Plague
-PoisonCloud
-EnergyShield
+治愈术
+精神力战法
+施毒术
+灵魂火符
+召唤骷髅
+隐身术
+集体隐身术
+幽灵盾
+心灵启示
+神圣战甲术
+气功波
+困魔咒
+净化术
+群体治疗术
+迷魂术
+无极真气
+召唤神兽
+复活术
+召唤月灵
+诅咒术
+瘟疫
+毒云
+阴阳盾
 NewTaoist1
 NewTaoist2
-FatalSword
-DoubleSlash
-Haste
-FlashDash
-LightBody
-HeavenlySword
-FireBurst
-Trap
-PoisonSword
-MoonLight
-MPEater
-SwiftFeet
-DarkBody
-Hemorrhage
-CresentSlash
+绝命剑法
+双刀术
+体迅风
+拔刀术
+风身术
+迁移剑
+烈风击
+捕缚术
+猛毒剑气
+月影术
+吸气
+轻身步
+烈火身
+血风击
+猫舌兰
 NewAssassin1
 NewAssassin2
 Focus

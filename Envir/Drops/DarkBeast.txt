@@ -11,4 +11,4 @@
 
 ;Crafting Material
 1/30 BeastLeather
-1/40 LargeBone
+1/40 大骨头

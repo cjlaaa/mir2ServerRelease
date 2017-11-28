@@ -37,10 +37,10 @@
 1/10 道力药水(小)
 
 ;Crafting Materials
-1/2 BugLeg
-1/3 BugEye
-1/4 Mandible
+1/2 虫腿
+1/3 虫眼
+1/4 颚骨
 
 ;Quest
-1/5 BluJadePendant Q
+1/5 蓝翡翠吊坠 Q
 

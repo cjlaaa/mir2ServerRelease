@@ -75,6 +75,6 @@
 1/140 躲避手链
 
 ;Crafting Material
-1/350 PoisonMarble
-1/400 IceMarble
-1/25 DragonScale
+1/350 毒素珠
+1/400 寒冰珠
+1/25 龙鳞

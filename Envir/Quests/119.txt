@@ -13,7 +13,7 @@
 [@CarryItems]
 
 [@FixedRewards]
-BlackIronBangle
+黑铁之镯
 
 [@SelectRewards]
 

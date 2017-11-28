@@ -96,25 +96,25 @@
 1/30 魔力药水(小) 
 
 ;Crafting Materials
-1/5 Bone 
-1/5 Bone 
-1/10 LargeBone 
+1/5 骨头 
+1/5 骨头 
+1/10 大骨头 
 
 ;Books
-1/12 Slaying 
-1/50 Thrusting 
-1/7 Repulsion 
-1/12 ElectricShock 
-1/25 HellFire 
-1/25 ThunderBolt 
-1/50 Teleport 
-1/15 GreatFireBall 
-1/15 SoulFireBall 
-1/50 Hiding 
-1/50 SummonSkeleton 
-1/10 Poisoning 
-1/15 DoubleSlash 
-1/60 Haste 
+1/12 攻杀剑术 
+1/50 刺杀剑术 
+1/7 抗拒火环 
+1/12 诱惑之光 
+1/25 地狱火 
+1/25 雷电术 
+1/50 瞬息移动 
+1/15 大火球 
+1/15 灵魂火符 
+1/50 隐身术 
+1/50 召唤骷髅 
+1/10 施毒术 
+1/15 双刀术 
+1/60 体迅风 
 1/15 ExplosiveTrap
 1/20 Meditation
 1/25 SummonVampire

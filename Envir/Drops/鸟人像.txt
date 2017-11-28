@@ -34,8 +34,8 @@
 1/2 强效太阳水
 1/2 太阳水
 1/2 强效太阳水
-1/5 BenedictionOil
-1/5 BenedictionOil
+1/5 祝福油
+1/5 祝福油
 
 ;Armours
 1/30 鬼面甲胄(男)
@@ -94,20 +94,20 @@
 1/110 镇魂项链
 
 ;Books
-1/300 ProtectionField
-1/100 BladeAvalanche 
-1/100 Vampirism
-1/200 Mirroring
-1/500 Blizzard
-1/300 Reincarnation
-1/300 PoisonCloud
-1/100 UltimateEnhancer
-1/100 EnergyRepulsor
-1/100 SoulShield
-1/100 FireBurst
-1/100 Trap
-1/200 PoisonSword
-1/200 Moonlight
-1/300 MPEater
-1/500 SwiftFeet
+1/300 护身气幕
+1/100 攻破斩 
+1/100 嗜血术
+1/200 分身术
+1/500 天霜冰环
+1/300 复活术
+1/300 毒云
+1/100 无极真气
+1/100 气功波
+1/100 幽灵盾
+1/100 烈风击
+1/100 捕缚术
+1/200 猛毒剑气
+1/200 月影术
+1/300 吸气
+1/500 轻身步
 

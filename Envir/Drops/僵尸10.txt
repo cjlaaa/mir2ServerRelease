@@ -58,35 +58,35 @@
 1/10 太阳水 
 
 ;Books
-1/10 Fencing 
-1/10 FireBall 
-1/10 Healing 
-1/10 FatalSword 
+1/10 基本剑术 
+1/10 火球术 
+1/10 治愈术 
+1/10 绝命剑法 
 1/10 Focus 
-1/10 Repulsion 
-1/10 ElectricShock 
-1/10 SpiritSword 
-1/10 Poisoning 
+1/10 抗拒火环 
+1/10 诱惑之光 
+1/10 精神力战法 
+1/10 施毒术 
 1/20 StraightShot 
-1/20 ThunderBolt 
-1/20 GreatFireBall 
-1/20 SoulFireBall 
-1/20 SummonSkeleton 
-1/20 Teleport 
-1/20 Slaying 
-1/20 HellFire 
-1/20 DoubleSlash 
-1/25 Hiding 
-1/25 MassHiding 
-1/25 FireBang 
-1/25 FireWall 
-1/25 SoulShield 
-1/25 Haste 
-1/50 Thrusting 
-1/50 Lightning 
-1/50 Revelation 
-1/50 BlessedArmour 
-1/50 FlashDash 
+1/20 雷电术 
+1/20 大火球 
+1/20 灵魂火符 
+1/20 召唤骷髅 
+1/20 瞬息移动 
+1/20 攻杀剑术 
+1/20 地狱火 
+1/20 双刀术 
+1/25 隐身术 
+1/25 集体隐身术 
+1/25 爆裂火焰 
+1/25 火墙 
+1/25 幽灵盾 
+1/25 体迅风 
+1/50 刺杀剑术 
+1/50 疾光电影 
+1/50 心灵启示 
+1/50 神圣战甲术 
+1/50 拔刀术 
 1/15 ExplosiveTrap 
 1/20 Meditation 
 1/25 SummonVampire 
@@ -96,5 +96,5 @@
 1/40 DoubleShot 
 
 ;Quest
-1/2 ZombieEye Q
-1/2 RareCopperOre Q
+1/2 僵尸之眼 Q
+1/2 稀有铜矿 Q

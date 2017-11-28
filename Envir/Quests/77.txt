@@ -11,7 +11,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-OldRobe 1
+旧法袍 1
 
 [@FixedRewards]
 

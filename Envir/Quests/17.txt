@@ -18,8 +18,8 @@ RakingCat 5
 [@CarryItems]
 
 [@FixedRewards]
-OldLoafer
-FatalSword
+旧布鞋
+绝命剑法
 
 [@SelectRewards]
 

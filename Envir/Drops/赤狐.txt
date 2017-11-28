@@ -13,18 +13,18 @@
 1/100 魔法药水(小)
 
 ;Nothing
-1/50    AdmissionOrb
+1/50    狐月神珠
 
 ;Belts
-1/420 NephriteBelt
+1/420 软玉矿Belt
 1/420 RedJadeBelt
 1/420 钢铁腰带
 
 ;Shoes
-1/440 NephriteShoes
+1/440 软玉矿Shoes
 1/440 RedJadeShoes
 1/440 赤鳞靴
 
 ;Books
-1/200 flamedisruptor
-1/200 FrostCrunch
+1/200 火龙术
+1/200 寒冰掌

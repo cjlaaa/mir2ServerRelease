@@ -3,7 +3,7 @@
 我在{OmaCave/Yellow}冒险时把妹妹的戒指遗失了，请帮帮我. 
 
 [@TaskDescription]
-找到 {OliviasRing/LightSteelBlue} 在 {OmaCave/Yellow}
+找到 {水晶戒指/LightSteelBlue} 在 {OmaCave/Yellow}
 
 [@Completion]
 
@@ -11,7 +11,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-OliviasRing 1
+水晶戒指 1
 
 [@CarryItems]
 

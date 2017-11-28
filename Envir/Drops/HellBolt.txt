@@ -86,9 +86,9 @@
 1/2500 道术守护石(大)
 
 ;Books
-1/100000 SummonHolyDeva
-1/700 Hallucination
-1/1700000 Curse
-1/700 lightbody
-1/1000 FrostCrunch
-1/1000 MagicShield
+1/100000 召唤月灵
+1/700 迷魂术
+1/1700000 诅咒术
+1/700 风身术
+1/1000 寒冰掌
+1/1000 魔法盾

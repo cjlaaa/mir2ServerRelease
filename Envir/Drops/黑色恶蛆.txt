@@ -75,5 +75,5 @@
 1/600 万年雪霜 
 
 ;Crafting Materials
-1/15 BugShell 
-1/30 BlackThread 
+1/15 虫壳 
+1/30 黑线 

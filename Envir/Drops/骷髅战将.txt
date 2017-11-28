@@ -64,9 +64,9 @@
 1/300 太阳水 
 
 ;Crafting Materials
-1/25 Bone 
-1/50 LargeBone 
+1/25 骨头 
+1/50 大骨头 
 
 ;Quest
-1/2 SkeletonBone Q
-1/2 Skull Q
+1/2 骷髅骨 Q
+1/2 骷髅头 Q

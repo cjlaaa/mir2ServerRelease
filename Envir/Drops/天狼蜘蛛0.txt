@@ -91,11 +91,11 @@
 1/16 放大镜
 
 ;Crafting Materals
-1/3 BlackThread
-1/3 RedThread
-1/3 SpiderWeb
+1/3 黑线
+1/3 红线
+1/3 蜘蛛网
 
 ;Quest
-1/2 TraineeRing Q
-1/2 RedThread Q
-1/2 BlackThread Q 
+1/2 见习戒指 Q
+1/2 红线 Q
+1/2 黑线 Q 

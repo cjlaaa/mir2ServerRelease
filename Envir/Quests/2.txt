@@ -3,19 +3,19 @@
 但这会儿我实在是忙的不可开交。
 
 [@TaskDescription]
-在{Scarecrows/Crimson}身上找到{GingerTea/LightSteelBlue}带给{BorderVillage/Yellow}的{Assistant Jane/LimeGreen}。
+在{Scarecrows/Crimson}身上找到{姜茶/LightSteelBlue}带给{BorderVillage/Yellow}的{Assistant Jane/LimeGreen}。
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-GingerTea 1 
+姜茶 1 
 
 [@CarryItems]
 
 [@FixedRewards]
-GoldenPendant
+黄金吊坠
 
 [@SelectRewards]
 

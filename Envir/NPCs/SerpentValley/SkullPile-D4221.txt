@@ -18,13 +18,13 @@
 
 [@Enter]
 #IF
-CHECKITEM ScrollOfSeal 1
+CHECKITEM 凭证 1
 #ACT
-TAKEITEM ScrollOfSeal 1
+TAKEITEM 凭证 1
 MOVE LABY01 
 
 #ELSESAY
-你需要 {ScrollOfSeal/LightSteelBlue} 才能进入!
+你需要 {凭证/LightSteelBlue} 才能进入!
  
 <关闭/@Exit>
 

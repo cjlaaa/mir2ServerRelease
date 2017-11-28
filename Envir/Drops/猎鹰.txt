@@ -6,10 +6,10 @@
 1/5 魔法药(小量) 
 
 ;Scrolls
-1/50 TownTeleport 
-1/40 TownTeleport 
-1/50 TownTeleport 
+1/50 回城卷 
+1/40 回城卷 
+1/50 回城卷 
 
 ;Crafting Materials
-1/100 SkyStingerEgg
-1/100 SkyStingerEgg
+1/100 猎鹰蛋
+1/100 猎鹰蛋

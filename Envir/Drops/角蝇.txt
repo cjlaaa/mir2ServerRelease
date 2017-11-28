@@ -8,4 +8,4 @@
 1/40 强效太阳水 
 
 ;Crafting Materials
-1/10 BugEye 
+1/10 虫眼 

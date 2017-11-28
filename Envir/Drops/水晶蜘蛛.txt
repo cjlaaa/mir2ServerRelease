@@ -121,31 +121,31 @@
 1/600 道术守护石
 
 ;Gems
-1/155 BraveryOrb
-1/155 MagicOrb
-1/155 SoulOrb
-1/160 AccuracyOrb
-1/160 DisillusionOrb
-1/200 StormOrb
+1/155 勇猛神珠
+1/155 魔性神珠
+1/155 仙界神珠
+1/160 集中神珠
+1/160 觉醒神珠
+1/200 疾风神珠
 
 ;Books
-1/100 TrapHexagon
-1/100 ThunderStorm
-1/100 ShoulderDash
-1/100 fireburst
-1/300 Entrapment
-1/200 trap
-1/500 Lionroar
-1/300 icestorm
-1/300 flamingsword
-1/300 poisonsword
-1/500 Curse
-1/500 SummonHolyDeva
-1/500 Mirroring
-1/1500 Fury
-1/500 mpeater
-1/400 TwinDrakeBlade
+1/100 困魔咒
+1/100 地狱雷光
+1/100 野蛮冲撞
+1/100 烈风击
+1/300 捕绳剑
+1/200 捕缚术
+1/500 狮子吼
+1/300 冰咆哮
+1/300 烈火剑法
+1/300 猛毒剑气
+1/500 诅咒术
+1/500 召唤月灵
+1/500 分身术
+1/1500 血龙剑法
+1/500 吸气
+1/400 双龙斩
 
 ;Crafting Materials
-1/15 SpiderWeb
-1/10 RedThread
+1/15 蜘蛛网
+1/10 红线

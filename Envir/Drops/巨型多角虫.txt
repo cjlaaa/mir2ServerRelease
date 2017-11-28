@@ -78,17 +78,17 @@
 1/2 强效太阳水 
 
 ;Crafting Materials
-1/5 BugShell 
+1/5 虫壳 
 
 ;Books
-1/10 Slaying 
-1/10 ThunderBolt 
-1/10 HellFire 
-1/5 ElectricShock 
-1/15 Teleport 
-1/10 Poisoning 
-1/15 SoulFireBall 
-1/15 SummonSkeleton 
-1/15 DoubleSlash 
-1/15 Haste 
+1/10 攻杀剑术 
+1/10 雷电术 
+1/10 地狱火 
+1/5 诱惑之光 
+1/15 瞬息移动 
+1/10 施毒术 
+1/15 灵魂火符 
+1/15 召唤骷髅 
+1/15 双刀术 
+1/15 体迅风 
 1/10 StraightShot 

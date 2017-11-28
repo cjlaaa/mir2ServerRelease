@@ -54,8 +54,8 @@ Special repair.
 雷霆战戒(H)
 RedJadeRing
 RedJadeRing(H)
-NephriteRing
-NephriteRing(H)
+软玉矿Ring
+软玉矿Ring(H)
 神秘戒指
 血龙戒指
 痛苦戒指

@@ -1,17 +1,17 @@
 ﻿[@Description]
 {BlueHoroBlaster/Crimson} 生活在 {InsectCave/Yellow}. 这种昆虫的血
-可以提升药物的疗效. 你能帮我带6份 {BugBlood/LightSteelBlue}吗?
+可以提升药物的疗效. 你能帮我带6份 {虫血/LightSteelBlue}吗?
 
 [@TaskDescription]
 杀掉 {BlueHoroBlaster's/Crimson} 在 {InsectCave/Yellow} 然后收集 12 
-{BugBlood/LightSteelBlue}
+{虫血/LightSteelBlue}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BugBlood 6
+虫血 6
 
 [@CarryItems]
 

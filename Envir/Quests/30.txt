@@ -1,18 +1,18 @@
 ﻿[@Description]
 你好冒险家，我在从{MongchonProvince/Yellow}回{SerpentValley/Yellow}的路上
 遭到了{Currish/Crimson}的袭击，慌乱之中我的背包丢了， 
-我最珍贵的{JadeRing/LightSteelBlue}还在包里。
+我最珍贵的{翡翠戒指/LightSteelBlue}还在包里。
 你能帮我找回来吗？
 
 [@TaskDescription]
-在{Currish/Crimson}身上找到{JadeRing/LightSteelBlue}。
+在{Currish/Crimson}身上找到{翡翠戒指/LightSteelBlue}。
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-JadeRing 1
+翡翠戒指 1
 
 [@CarryItems]
 

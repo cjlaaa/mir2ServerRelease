@@ -15,7 +15,7 @@ ForestYeti 5
 [@CarryItems]
 
 [@FixedRewards]
-PrecisionPendant
+精密吊坠
 
 [@SelectRewards]
 

@@ -75,8 +75,8 @@
 1/200 万年雪霜 
 
 ;Crafting Materials
-1/15 Mandible 
+1/15 颚骨 
 
 ;Quest
-1/2 OldNecklace Q
+1/2 老旧的项链 Q
 

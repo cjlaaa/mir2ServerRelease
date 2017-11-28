@@ -40,7 +40,7 @@ GOTO @Main-1
 [Type]
 
 [Trade]
-LotteryTicket
+彩票
 
 [Quests]
 65

@@ -5,22 +5,22 @@
 你能帮我们消除威胁吗？
 
 [@TaskDescription]
-请消灭一些{Oma/Crimson}并带回5个{OmaTeeth/LightSteelBlue}。
+请消灭一些{Oma/Crimson}并带回5个{兽人牙齿/LightSteelBlue}。
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-OmaTeeth 5
+兽人牙齿 5
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-Bronze短剑
-Bronze虎牙刀
+青铜短剑
+青铜虎牙刀
 ElkWoodenBow
 
 [@ExpReward]

@@ -1,5 +1,5 @@
 [@Main]
-To teleport back to this map: {@MOVE R001 100 100/LimeGreen}
+To Teleport back to this map: {@MOVE R001 100 100/LimeGreen}
 Tip: {@observer/LIMEGREEN} if you want to be invisible to other players.
  
 Teleport to <Town/@TeleTownMain> , <Dungeon Entrance/@TeleDungeonEntranceMain> , <Dungeon Boss/@TeleDungeonBossMain>

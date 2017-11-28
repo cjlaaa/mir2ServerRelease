@@ -74,7 +74,7 @@
 1/250 道术守护石(特大)
 
 ;Crafting Material
-1/350 WillMarble
+1/350 避水珠
 
 ;Books
-1/200 Purification
+1/200 净化术

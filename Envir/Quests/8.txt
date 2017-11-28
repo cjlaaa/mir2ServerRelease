@@ -18,8 +18,8 @@ RakingCat 5
 [@CarryItems]
 
 [@FixedRewards]
-OldLoafer
-Fencing
+旧布鞋
+基本剑术
 
 [@SelectRewards]
 

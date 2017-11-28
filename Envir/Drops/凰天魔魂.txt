@@ -1,8 +1,8 @@
 ;Gold
 1/1 Gold 35000
-1/10 GoldBar
-1/50 GoldBarBundle
-1/500 GoldChest
+1/10 金条
+1/50 金砖
+1/500 金盒
 
 ;Potions
 1/1 金疮药(大量)
@@ -31,13 +31,13 @@
 1/2 强效太阳水
 1/10 苹果
 1/15 苹果
-1/2 BenedictionOil
-1/5 BenedictionOil
+1/2 祝福油
+1/5 祝福油
 1/10 攻击药水(大)
 1/10 魔法药水(大)
 1/10 道力药水(大)
 1/10 疾风药水(大)
-1/20 RedEyeSkull
+1/20 邪眼骷髅
 
 ;Weapons
 1/35 裁决之杖
@@ -156,30 +156,30 @@
 1/500 技巧项链
 
 ;Gems
-1/100 BraveryOrb
-1/100 SoulOrb
-1/100 MagicOrb
-1/130 DurabilityOrb
-1/140 AccuracyOrb
-1/140 AgilityOrb
-1/300 PoisonOrb
-1/300 FreezingOrb
-1/200 EnduranceOrb
-1/200 DisillusionOrb
+1/100 勇猛神珠
+1/100 仙界神珠
+1/100 魔性神珠
+1/130 强化神珠
+1/140 集中神珠
+1/140 回避神珠
+1/300 中毒神珠
+1/300 酷寒神珠
+1/200 忍耐神珠
+1/200 觉醒神珠
 
 ;Books
-1/100 CrossHalfMoon
-1/100 FlameDisruptor
-1/100 UltimateEnhancer
-1/50 EnergyRepulsor
-1/100 TwinDrakeBlade
-1/50 Purification
-1/50 LionRoar
-1/120 SummonHolyDeva
-1/120 Mirroring
-1/160 Entrapment
-1/160 Hallucination
-1/160 Vampirism
-1/200 FlameField
-1/200 BladeAvalanche
-1/200 Curse
+1/100 圆月弯刀
+1/100 火龙术
+1/100 无极真气
+1/50 气功波
+1/100 双龙斩
+1/50 净化术
+1/50 狮子吼
+1/120 召唤月灵
+1/120 分身术
+1/160 捕绳剑
+1/160 迷魂术
+1/160 嗜血术
+1/200 火龙气焰
+1/200 攻破斩
+1/200 诅咒术

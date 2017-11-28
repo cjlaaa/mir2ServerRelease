@@ -4,7 +4,7 @@
 {Melissa/LimeGreen}. 她也需要一些帮助.
 
 [@TaskDescription]
-把 {JadeRing/LightSteelBlue} 带给 {Melissa/LimeGreen}.
+把 {翡翠戒指/LightSteelBlue} 带给 {Melissa/LimeGreen}.
 
 [@Completion]
 
@@ -13,7 +13,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-JadeRing 1
+翡翠戒指 1
 
 [@FixedRewards]
 

@@ -11,7 +11,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-BluJadePendant 1
+蓝翡翠吊坠 1
 
 [@CarryItems]
 

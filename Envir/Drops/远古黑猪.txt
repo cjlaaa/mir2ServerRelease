@@ -71,7 +71,7 @@
 1/600 强效太阳水 
 
 ;Crafting Materials
-1/15  BlackThread 
+1/15  黑线 
 
 ;Quest
-1/6 RelicRock Q
+1/6 岩石标本 Q

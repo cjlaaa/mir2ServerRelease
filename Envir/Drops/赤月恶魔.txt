@@ -141,47 +141,47 @@
 1/5 万年雪霜 
 1/1 苹果 
 1/1 苹果 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
 
 ;Ores
 
 ;Meat
 
 ;Crafting Materials
-1/15 SpiderWeb 
-1/10 RedThread 
+1/15 蜘蛛网 
+1/10 红线 
 
 ;Scrolls
 
 ;Gems
-1/55 BraveryOrb 
-1/55 MagicOrb 
-1/55 SoulOrb 
-1/60 AccuracyOrb 
-1/60 DisillusionOrb 
-1/100 StormOrb 
+1/55 勇猛神珠 
+1/55 魔性神珠 
+1/55 仙界神珠 
+1/60 集中神珠 
+1/60 觉醒神珠 
+1/100 疾风神珠 
 
 ;Mount
 
 ;Books
-1/100 TrapHexagon 
-1/100 ThunderStorm 
-1/100 ShoulderDash 
-1/100 fireburst 
-1/300 Entrapment 
-1/200 trap 
-1/500 Lionroar 
-1/300 icestorm 
-1/300 flamingsword 
-1/300 poisonsword 
-1/500 Curse 
-1/500 SummonHolyDeva 
-1/500 Mirroring 
-1/500 Fury 
-1/500 mpeater 
-1/400 TwinDrakeBlade 
+1/100 困魔咒 
+1/100 地狱雷光 
+1/100 野蛮冲撞 
+1/100 烈风击 
+1/300 捕绳剑 
+1/200 捕缚术 
+1/500 狮子吼 
+1/300 冰咆哮 
+1/300 烈火剑法 
+1/300 猛毒剑气 
+1/500 诅咒术 
+1/500 召唤月灵 
+1/500 分身术 
+1/500 血龙剑法 
+1/500 吸气 
+1/400 双龙斩 
 
 ;Nothing
 

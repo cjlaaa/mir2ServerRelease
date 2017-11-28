@@ -15,7 +15,7 @@ CrawlerZombie 5
 [@CarryItems]
 
 [@FixedRewards]
-ExorcistRing 
+降魔环 
 
 [@SelectRewards]
 

@@ -20,10 +20,10 @@ GreatSpider 3
 [@FixedRewards]
 
 [@SelectRewards]
-ThickArmour
-Fire魔法长袍
-TaoArmour
-SpiritRobe
+重盔
+焰火魔袍
+灵魂道袍
+残影魔甲
 LeatherArmour
 
 [@ExpReward]

@@ -117,7 +117,7 @@
 1/10 狂风戒指 
 
 ;Amulets
-1/5 AmuletOfRevival 
+1/5 复活符 
 
 ;Belts
 1/100 黄金腰带 
@@ -160,55 +160,55 @@
 1/2 魔法药(特大) 
 
 ;Crafting Materials
-1/10 ZumaRelic 
+1/10 祖玛头像 
 
 ;Scrolls
-1/2 BenedictionOil 
-1/5 BenedictionOil 
+1/2 祝福油 
+1/5 祝福油 
 
 ;Gems
-1/350 BraveryOrb 
-1/350 MagicOrb 
-1/350 SoulOrb 
+1/350 勇猛神珠 
+1/350 魔性神珠 
+1/350 仙界神珠 
 
 ;Books
-1/50 TwinDrakeBlade 
-1/50 Entrapment 
-1/25 FlamingSword 
-1/50 LionRoar 
-1/30 CrossHalfMoon 
-1/50 BladeAvalanche 
-1/400 ProtectionField 
-1/400 Rage 
-1/50 Vampirism 
-1/25 IceStorm 
-1/30 FlameDisruptor 
-1/50 Mirroring 
-1/200 FlameField 
-1/400 MeteorStrike 
-1/600 Blizzard 
-1/50 Hallucination 
-1/50 Purification 
-1/30 UltimateEnhancer 
-1/30 EnergyRepulsor 
-1/25 SummonShinsu 
-1/200 SummonHolyDeva 
-1/200 Curse 
-1/200 Reincarnation 
-1/400 PoisonCloud
-1/600 EnergyShield 
-1/175 FlashDash 
-1/50 PoisonSword 
-1/50 MoonLight 
-1/50 MPEater 
-1/200 DarkBody 
-1/400 SwiftFeet 
-1/400 FireBurst 
+1/50 双龙斩 
+1/50 捕绳剑 
+1/25 烈火剑法 
+1/50 狮子吼 
+1/30 圆月弯刀 
+1/50 攻破斩 
+1/400 护身气幕 
+1/400 剑气爆 
+1/50 嗜血术 
+1/25 冰咆哮 
+1/30 火龙术 
+1/50 分身术 
+1/200 火龙气焰 
+1/400 流星火雨 
+1/600 天霜冰环 
+1/50 迷魂术 
+1/50 净化术 
+1/30 无极真气 
+1/30 气功波 
+1/25 召唤神兽 
+1/200 召唤月灵 
+1/200 诅咒术 
+1/200 复活术 
+1/400 毒云
+1/600 阴阳盾 
+1/175 拔刀术 
+1/50 猛毒剑气 
+1/50 月影术 
+1/50 吸气 
+1/200 烈火身 
+1/400 轻身步 
+1/400 烈风击 
 
 ;Nothing
-1/100 GoldBar 
+1/100 金条 
 
 ;Quest
-1/20 ZumaHeart 
+1/20 祖玛之心 
 
 

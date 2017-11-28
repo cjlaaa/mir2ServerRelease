@@ -22,7 +22,7 @@ break
 
 [@checkorb]
 #IF
-CHECKITEM AdmissionOrb 1
+CHECKITEM 狐月神珠 1
 #SAY
 (*你听到了风中呜咽的低语:*)
 很好，冒险者，去前往面对那未知的恐惧吧！
@@ -33,10 +33,10 @@ CHECKITEM AdmissionOrb 1
 
 [@pass]
 #IF
-CHECKITEM AdmissionOrb 1
+CHECKITEM 狐月神珠 1
 #ACT
-TAKEITEM AdmissionOrb 1
-GROUPTELEPORT FOX03 47 21
+TAKEITEM 狐月神珠 1
+GROUP瞬息移动 FOX03 47 21
 break
 #ELSESAY
 (*你听到了风中呜咽的低语:*)

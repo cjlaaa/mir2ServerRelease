@@ -76,5 +76,5 @@
 1/500 镇魂项链
 
 ;Crafting Materials
-1/5 SpiderWeb
-1/5 BlackThread
+1/5 蜘蛛网
+1/5 黑线

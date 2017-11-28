@@ -75,8 +75,8 @@
 1/1000 魔力守护石
 
 ;Crafting Materials
-1/10 BlackThread
-1/10 RedThread
+1/10 黑线
+1/10 红线
 
 ;Helmets
 1/600 黑铁头盔

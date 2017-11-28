@@ -135,23 +135,23 @@ Level 48: 阴阳盾
 
 [@Assa1]
 #SAY
-Level  7: FatalSword
-Level 15: DoubleSlash
-Level 20: Haste
-Level 25: FlashDash
-Level 27: LightBody
-Level 30: HeavenlySword
-Level 33: FireBurst
+Level  7: 绝命剑法
+Level 15: 双刀术
+Level 20: 体迅风
+Level 25: 拔刀术
+Level 27: 风身术
+Level 30: 迁移剑
+Level 33: 烈风击
 <More/@Assa2> <Back/@helpBooks>
 
 [@Assa2]
 #SAY
-Level 33: Trap
-Level 34: PoisonSword
-Level 36: MoonLight
-Level 38: MPEater
-Level 40: SwiftFeet
-Level 46: DarkBody
+Level 33: 捕缚术
+Level 34: 猛毒剑气
+Level 36: 月影术
+Level 38: 吸气
+Level 40: 轻身步
+Level 46: 烈火身
 Level 50: MoonBlade
 <Back/@helpBooks>
 
@@ -192,22 +192,22 @@ Level 50: OneWithNature
 20
 
 [Trade]
-Fencing
-Slaying
-FireBall
-Repulsion
-ElectricShock
-GreatFireBall
-HellFire
-ThunderBolt
-Teleport
-Healing
-SpiritSword
-Poisoning
-SoulFireBall
-SummonSkeleton
-FatalSword
-DoubleSlash
+基本剑术
+攻杀剑术
+火球术
+抗拒火环
+诱惑之光
+大火球
+地狱火
+雷电术
+瞬息移动
+治愈术
+精神力战法
+施毒术
+灵魂火符
+召唤骷髅
+绝命剑法
+双刀术
 Focus
 StraightShot
 MentalState

@@ -5,14 +5,14 @@
 
 [@TaskDescription]
 杀掉 {HoroBlaster/Crimson} 和 {BluHoroBlaster/Crimson} 收集 
-6 {BugEye/LightSteelBlue}
+6 {虫眼/LightSteelBlue}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BugEye 6
+虫眼 6
 
 [@CarryItems]
 

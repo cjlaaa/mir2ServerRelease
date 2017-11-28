@@ -48,16 +48,16 @@
 1/100 道力药水(小)
 
 ;Crafting Materials
-1/25 BugLeg
-1/30 BugEye
-1/45 Mandible
+1/25 虫腿
+1/30 虫眼
+1/45 颚骨
 
 ;Other
-1/100 WarGodOil
-1/50 RepairOil
+1/100 战神油
+1/50 修复油
 
 ;Quest
-1/2 Antidote Q
-1/2 GatheringGlove Q
-1/2 GatheringTool Q
-1/2 GreenHerb Q
+1/2 解毒剂 Q
+1/2 采药手套 Q
+1/2 采药工具 Q
+1/2 绿草药 Q

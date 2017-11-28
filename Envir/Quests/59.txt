@@ -1,17 +1,17 @@
 ﻿[@Description]
-我正在以 {RareCopperOre/LightSteelBlue}为材料制作一个特殊的盔甲.
+我正在以 {稀有铜矿/LightSteelBlue}为材料制作一个特殊的盔甲.
 你能帮我从 {Zombies/Crimson}身上找到一些材料吗？它们生活在
 {Dead mine/Yellow}. 
 
 [@TaskDescription]
-找到 5 {RareCopperOre/LightSteelBlue} 通过猎杀 {Zombies/Crimson}.
+找到 5 {稀有铜矿/LightSteelBlue} 通过猎杀 {Zombies/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-RareCopperOre 5
+稀有铜矿 5
 
 [@CarryItems]
 

@@ -16,7 +16,7 @@ VioletKekTal 5
 [@CarryItems]
 
 [@FixedRewards]
-BronzeStrap
+青铜束带
 
 [@SelectRewards]
 

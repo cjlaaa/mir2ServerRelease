@@ -4,8 +4,8 @@
 {Caves/Yellow} ， {Bichon/Yellow}附近的山洞。
 
 [@TaskDescription]
-收集 5 {BatTeeth/LightSteelBlue} 和 {Skull's/LightSteelBlue} 从 
-{OmaCave/Yellow}, 还有 {ZombieEye/LightSteelBlue} 从 {BichonDeadMine/Yellow}.
+收集 5 {蝙蝠牙/LightSteelBlue} 和 {骷髅头's/LightSteelBlue} 从 
+{OmaCave/Yellow}, 还有 {僵尸之眼/LightSteelBlue} 从 {BichonDeadMine/Yellow}.
 
 [@Completion]
 谢谢你，勇敢的冒险者.
@@ -13,9 +13,9 @@
 [@KillTasks]
 
 [@ItemTasks]
-BatTeeth 5
-Skull 5
-ZombieEye 5
+蝙蝠牙 5
+骷髅头 5
+僵尸之眼 5
 
 [@CarryItems]
 

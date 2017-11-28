@@ -35,20 +35,20 @@ GOTO @Main-1
 
 [@Ask]
 #SAY
-我这里出售 <蜡烛/candle>,<地牢逃脱卷/dungeonescape>,
-<随机传送卷/randomteleport>,<修复油/repairoil> 等杂货.
-我听说 <回城卷/townteleport> 只能从某些怪物身上获得
+我这里出售 <蜡烛/蜡烛>,<地牢逃脱卷/地牢逃脱卷>,
+<随机传送卷/随机传送卷>,<修复油/修复油> 等杂货.
+我听说 <回城卷/回城卷> 只能从某些怪物身上获得
  
 <返回/@Main>
 
-[@candle]
+[@蜡烛]
 #SAY
 蜡烛在黑暗的山洞是里必需品. 如果不佩戴蜡烛，
 在黑暗的山洞里什么都看不见.
  
 <返回/@Ask>
 
-[@dungeonescape]
+[@地牢逃脱卷]
 #SAY
 地牢逃脱卷是一种附加了魔法之力的卷轴，它可以瞬间将你传送
 出山洞，来到你最后一次拜访的主城地图上.
@@ -57,7 +57,7 @@ GOTO @Main-1
  
 <返回/@Ask>
 
-[@randomteleport]
+[@随机传送卷]
 #SAY
 随机传送卷是一种附加了魔法之力的卷轴，他可以瞬间将你移动到
 同地图上的随机一点.
@@ -66,7 +66,7 @@ GOTO @Main-1
  
 <返回/@Ask>
 
-[@repairoil]
+[@修复油]
 #SAY
 修复油可以修复你手中武器的持久上限，但是这种
 修复是普通修理，在修复时可能减少1-3点持久上限.
@@ -75,7 +75,7 @@ GOTO @Main-1
  
 <返回/@Ask>
 
-[@townteleport]
+[@回城卷]
 #SAY
 由于远古配方的失传，回城卷无法被制作出来.... 然而....
 我听说一些怪物身上仍然携带着这种宝物...
@@ -88,15 +88,15 @@ GOTO @Main-1
 12
 
 [Trade]
-Candle
-Torch
-RandomTeleport 1
-RandomTeleport 20
-DungeonEscape
-Amulet 500
-Amulet 5000
-TeleportHome
-RepairOil
+蜡烛
+火把
+随机传送卷 1
+随机传送卷 20
+地牢逃脱卷
+护身符 500
+护身符 5000
+行会回城卷
+修复油
 
 [Quests]
 -110

@@ -81,9 +81,9 @@
 1/110000 道术守护石
 
 ;Crafting Material
-1/300 IceMarble
-1/340 WindMarble
+1/300 寒冰珠
+1/340 疾风珠
 
-1/19000 Hallucination
-1/19000 Vampirism
-1/19000 Trap
+1/19000 迷魂术
+1/19000 嗜血术
+1/19000 捕缚术

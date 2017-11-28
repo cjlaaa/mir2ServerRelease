@@ -52,14 +52,14 @@ These are the items still available to purchase back.
 金疮药(特大) 20
 魔法药(特大) 1
 魔法药(特大) 20
-Candle
-Torch
-RandomTeleport 1
-RandomTeleport 20
-DungeonEscape
-Amulet 500
-Amulet 5000
-GreyPoison 500
-GreyPoison 5000
-YellowPoison 500
-YellowPoison 5000
+蜡烛
+火把
+随机传送卷 1
+随机传送卷 20
+地牢逃脱卷
+护身符 500
+护身符 5000
+灰色药粉 500
+灰色药粉 5000
+黄色药粉 500
+黄色药粉 5000

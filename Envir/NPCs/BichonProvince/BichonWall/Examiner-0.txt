@@ -39,7 +39,7 @@ GOTO @Main-1
 
 
 [Trade]
-BichonToken
+比奇通用币
 
 [Quests]
 60

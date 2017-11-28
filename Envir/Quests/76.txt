@@ -10,7 +10,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-Red匕首 1
+血匕 1
 
 [@CarryItems]
 

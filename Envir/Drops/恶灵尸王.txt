@@ -9,7 +9,7 @@
 1/50 太阳水
 1/100 强效太阳水
 
-1/500 GreyPoison
+1/500 灰色药粉
 
 ;Weapon
 1/4000 龙牙
@@ -54,8 +54,8 @@
 1/900 紫晶项链
 
 ;Scroll
-1/10 RandomTeleport
-1/50 TownTeleport
+1/10 随机传送卷
+1/50 回城卷
 
 ;Stones
 1/250 攻击守护石(大)
@@ -66,6 +66,6 @@
 1/500 道术守护石(特大)
 
 ;Books
-1/190 MassHealing
-1/150 MagicShield
-1/200 FrostCrunch
+1/190 群体治疗术
+1/150 魔法盾
+1/200 寒冰掌

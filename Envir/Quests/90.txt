@@ -3,14 +3,14 @@
 {Materials/LightSteelBlue}.
 
 [@TaskDescription]
-找到 2 {AncientTree/LightSteelBlue} 通过猎杀 {RootSpider's/Crimson}.
+找到 2 {老树根/LightSteelBlue} 通过猎杀 {RootSpider's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-AncientTree 2
+老树根 2
 
 [@CarryItems]
 

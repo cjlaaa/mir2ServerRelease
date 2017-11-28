@@ -1,6 +1,6 @@
 ;Gold
 1/1 Gold 60000
-1/30 GoldBar
+1/30 金条
 
 ;Potions
 2/1 金疮药(大量)
@@ -15,6 +15,6 @@
 2/2 太阳水
 2/1 强效太阳水
 2/2 强效太阳水
-1/2 BenedictionOil
-1/5 BenedictionOil
-1/5 WarGodOil
+1/2 祝福油
+1/5 祝福油
+1/5 战神油

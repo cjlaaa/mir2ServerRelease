@@ -1,6 +1,6 @@
 ﻿[@MAIN]
 #IF
-CHECKITEM Wine 1
+CHECKITEM 二锅头 1
 #ACT
 GOTO @MAIN-1
 #ELSEACT
@@ -10,7 +10,7 @@ GOTO @MAIN-2
 #IF
 CHECK [537] 1
 #ACT
-TAKEITEM Wine 1
+TAKEITEM 二锅头 1
 #SAY
 哈哈... 这是Mogu给你的吗...
 这些符号... 我也解读不出更多的含义了.

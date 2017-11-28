@@ -100,19 +100,19 @@ stole the HolySword went forward in to the Redmoon Valley across a
 Tree path. Then a big group of heroes went there to pursue him but
 no one came back. By perfroming magical astrology I found out there
 was a very strong demon in Redmoon valley and that it seemed to be
-related to the tragedy.
+related to the t剑气爆dy.
 <I see and appreciate your answer/@next_quest3>
 
 [@next_quest3]
 #IF
 #SAY
-A long time ago, the Redmoon valley was a the habitat of the JadeCrystal
+A long time ago, the Redmoon valley was a the habitat of the 翡翠晶
 Before the demonic power came there. If a certain special power got into
 the JadeStick then taoistic defenses will come out of it,  It requires a
-JadeCrystal holding. Some special taoistic power to pass there, Only a
-taoist of the highest order is able to make a key JadeCrystal. It is 
+翡翠晶 holding. Some special taoistic power to pass there, Only a
+taoist of the highest order is able to make a key 翡翠晶. It is 
 Possible that the heroes who went into the Redmoon Valley left a sign 
-with a JadeCrystal there. Keep this in mind.
+with a 翡翠晶 there. Keep this in mind.
 <Close/@exit>
 #ACT
 SET [529] 1
@@ -162,7 +162,7 @@ School, his name was Abel
 
 [@next2]
 As the damage grew, many heroes struggled to arrest
-Abel and together decided to catch him in a trap. But
+Abel and together decided to catch him in a 捕缚术. But
 we all made a mistake and underestimated him
 we never dreamed that he would have
 mastered the best martial art skill of all. 

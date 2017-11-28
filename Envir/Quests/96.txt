@@ -3,7 +3,7 @@
 新店，他似乎需要一些帮助. 
 
 [@TaskDescription]
-收集 5 {BeefRib/LightSteelBlue} 通过猎杀 {WoomaSoldier's/Crimson}
+收集 5 {牛肋排/LightSteelBlue} 通过猎杀 {WoomaSoldier's/Crimson}
 然后带给 {Butcher/LimeGreen} 在 {WoomyonWoods/Yellow}
 
 [@Completion]
@@ -11,7 +11,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-BeefRib 5
+牛肋排 5
 
 [@CarryItems]
 

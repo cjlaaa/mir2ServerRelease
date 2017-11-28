@@ -117,17 +117,17 @@
 1/30 魔力药水(小)
 
 ;Crafting Materials
-1/5 BugShell 
-1/10 BugShell 
+1/5 虫壳 
+1/10 虫壳 
 
 ;Books
-1/400 HalfMoon 
-1/400 FlamingSword 
-1/400 ThunderStorm 
-1/400 IceStorm 
-1/400 TrapHexagon 
-1/400 SummonShinsu 
-1/400 ShoulderDash 
-1/400 MagicShield 
-1/400 HeavenlySword 
-1/400 PoisonSword 
+1/400 半月弯刀 
+1/400 烈火剑法 
+1/400 地狱雷光 
+1/400 冰咆哮 
+1/400 困魔咒 
+1/400 召唤神兽 
+1/400 野蛮冲撞 
+1/400 魔法盾 
+1/400 迁移剑 
+1/400 猛毒剑气 

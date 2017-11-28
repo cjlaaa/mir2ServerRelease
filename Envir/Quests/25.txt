@@ -7,7 +7,7 @@
 我们需要消灭它们以确保来往商队的安全。
 
 [@TaskDescription]
-从{CannibalPlant/Crimson}的尸体上收集10个{CannibalStem/LightSteelBlue}和10个{CannibalLeafs/LightSteelBlue}，
+从{CannibalPlant/Crimson}的尸体上收集10个{食人花茎/LightSteelBlue}和10个{CannibalLeafs/LightSteelBlue}，
 并交给{BichonWall/Yellow}的{MirGuide/LimeGreen}。
 
 [@Completion]
@@ -15,13 +15,13 @@
 [@KillTasks]
 
 [@ItemTasks]
-CannibalStem 1
-CannibalLeaf 1
+食人花茎 1
+食人花叶 1
 
 [@CarryItems]
 
 [@FixedRewards]
-SteelBangle
+纯钢手镯
 
 [@SelectRewards]
 

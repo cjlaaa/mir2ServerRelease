@@ -1,17 +1,17 @@
 ﻿[@Description]
- {Prajna Island/Yellow} {VillageChief/LimeGreen} 需要 {PrajnaHistory/LightSteelBlue} ..
+ {Prajna Island/Yellow} {VillageChief/LimeGreen} 需要 {苍月史书/LightSteelBlue} ..
 我很抱歉，之前我被怪物袭击，很多东西都遗失了
 袭击我的怪物是 {Blue BigApe/Crimson}
 
 [@TaskDescription]
-杀掉 {EvilApeSobo/Crimson} 然后取得 {PrajnaHistory/LightSteelBlue}.
+杀掉 {EvilApeSobo/Crimson} 然后取得 {苍月史书/LightSteelBlue}.
 前往 {RedValley/Yellow} .
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-PrajnaHistory 1
+苍月史书 1
 
 [@CarryItems]
 

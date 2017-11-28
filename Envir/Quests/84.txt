@@ -3,7 +3,7 @@
 请去那里帮我收集一些材料回来.
 
 [@TaskDescription]
-收集 5 {RedThread's/LightSteelBlue} 和 {BlackThread's/LightSteelBlue}
+收集 5 {红线's/LightSteelBlue} 和 {黑线's/LightSteelBlue}
 通过猎杀 {VenomSpider's/Crimson} 和 {GreatSpider's/Crimson}
 
 [@Completion]
@@ -11,8 +11,8 @@
 [@KillTasks]
 
 [@ItemTasks]
-RedThread 5
-BlackThread 5
+红线 5
+黑线 5
 
 [@CarryItems]
 

@@ -10,7 +10,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-BoarTooth 25 
+野猪牙 25 
 
 [@FlagTasks]
 

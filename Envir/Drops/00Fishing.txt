@@ -20,16 +20,16 @@
 1/200 ArmourCastTool
 
 ;Gems
-1/10000 BraveryGem
-1/10000 MagicGem
-1/10000 SoulGem
-1/10000 ProtectionGem
-1/10000 EvilSlayerGem
-1/10000 DurabilityGem
-1/10000 StormGem
-1/10000 AgilityGem
-1/10000 AccuracyGem
-1/10000 PoisonGem
-1/10000 FreezingGem
-1/10000 DisillusionGem
-1/10000 EnduranceGem
+1/10000 勇猛宝玉
+1/10000 魔性宝玉
+1/10000 仙界宝玉
+1/10000 守护宝玉
+1/10000 制魔宝玉
+1/10000 强化宝玉
+1/10000 疾风宝玉
+1/10000 回避宝玉
+1/10000 集中宝玉
+1/10000 中毒宝玉
+1/10000 酷寒宝玉
+1/10000 觉醒宝玉
+1/10000 忍耐宝玉

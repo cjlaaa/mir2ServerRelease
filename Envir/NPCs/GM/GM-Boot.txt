@@ -43,8 +43,8 @@ Special repair.
 雷霆战靴(H)
 RedJadeShoes
 RedJadeShoes(H)
-NephriteShoes
-NephriteShoes(H)
+软玉矿Shoes
+软玉矿Shoes(H)
 强身靴子1
 强身靴子2
 强身靴子3

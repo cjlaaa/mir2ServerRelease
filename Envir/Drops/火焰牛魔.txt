@@ -8,8 +8,8 @@
 1/50 魔法药(大量)
 1/40 太阳水
 1/50 强效太阳水
-1/1000 RepairOil
-1/1700 TimeStonePiece
+1/1000 修复油
+1/1700 时间之石
 
 ;Armours
 1/650 重盔甲(男)
@@ -83,12 +83,12 @@
 1/3900 天珠项链
 
 ;Crafting Materials
-1/900 EvasionMarble
-1/900 FocusMarble
+1/900 避魂珠
+1/900 准确珠
 
 ;Books
-1/1000 UltimateEnhancer
-1/800000 FlameField
+1/1000 无极真气
+1/800000 火龙气焰
 
 ;Stones
 1/1000 攻击守护石(特大)

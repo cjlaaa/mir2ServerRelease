@@ -7,17 +7,17 @@
 1/30 魔法药(大量)
 1/20 太阳水
 1/60 强效太阳水
-1/300 RepairOil
-1/500 WarGodOil
+1/300 修复油
+1/500 战神油
 1/100 攻击药水(小)
 1/100 道力药水(小)
 1/100 魔法药水(小)
 
 ;Crafting Material
-1/10 Bone
-1/20 LargeBone
-1/300 PoisonMarble
-1/300 AntidoteMarble
+1/10 骨头
+1/20 大骨头
+1/300 毒素珠
+1/300 避毒珠
 
 ;Weapons
 1/90000 龙牙

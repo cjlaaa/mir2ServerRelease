@@ -1,5 +1,5 @@
 ﻿[@Description]
-你已经去过 {Ancient Layer/Yellow} 了? 能帮我再去收集 12 {BloodPill/LightSteelBlue} 通过击杀 
+你已经去过 {Ancient Layer/Yellow} 了? 能帮我再去收集 12 {血之药/LightSteelBlue} 通过击杀 
 {AncientSnakeScorpion's/Crimson} 吗
 
 [@TaskDescription]
@@ -9,7 +9,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-BloodPill 12
+血之药 12
 
 [@CarryItems]
 

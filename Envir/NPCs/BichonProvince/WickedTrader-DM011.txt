@@ -60,9 +60,9 @@ BoneBow
 音速刀
 CompoundBow
 凌风
-Candle
-DungeonEscape
-RandomTeleport
+蜡烛
+地牢逃脱卷
+随机传送卷
 布衣(男)
 布衣(女)
 轻型盔甲(男)

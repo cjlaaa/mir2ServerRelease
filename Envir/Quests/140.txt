@@ -2,7 +2,7 @@
 比奇省赏金任务：收集栗子.
 
 [@TaskDescription]
-收集 {5 GoldChestnuts/LightSteelBlue}. 
+收集 {5 金盒nuts/LightSteelBlue}. 
 通过击杀栗子树
 
 [@Completion]
@@ -10,7 +10,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-GoldChestnut 5
+金栗子 5
 
 [@FlagTasks]
 

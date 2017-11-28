@@ -5,13 +5,13 @@
 
 [@TaskDescription]
 猎杀 {WhimperingBee's/Crimson} 去收集 
-{BugSpecimen/LightSteelBlue} 它们生活在 {Death Valley/Yellow}
+{昆虫标本/LightSteelBlue} 它们生活在 {Death Valley/Yellow}
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BugSpecimen 5
+昆虫标本 5
 
 [@CarryItems]
 

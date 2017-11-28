@@ -10,19 +10,19 @@
 [@KillTasks]
 
 [@ItemTasks]
-GatheringGlove 1
-GatheringTool 1
-GreenHerb 5
+采药手套 1
+采药工具 1
+绿草药 5
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-HardSteelSword
-EbonyBangle
-MonkBangle
-SilkShoes
+坚硬凌风
+黑檀神镯
+道士神镯
+丝绸宝鞋
 
 [@ExpReward]
 38000

@@ -1,9 +1,9 @@
 ﻿[@Description]
-你听说过 {SnakeWine/LightSteelBlue}吗? 这种酒是用 {Red Snake/Crimson} 和 {Striped Snakes/Crimson}做的. 
+你听说过 {蛇酒/LightSteelBlue}吗? 这种酒是用 {Red Snake/Crimson} 和 {Striped Snakes/Crimson}做的. 
 我曾经在 {SerpentValley/Yellow} 买到过一次，至今回味不已啊！
 
 [@TaskDescription]
-请购买 {SnakeWine/LightSteelBlue} 从 {Robert/LimeGreen}
+请购买 {蛇酒/LightSteelBlue} 从 {Robert/LimeGreen}
 
 [@Completion]
 

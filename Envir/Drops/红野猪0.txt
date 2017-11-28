@@ -71,7 +71,7 @@
 1/60 强效太阳水 
 
 ;Crafting Materials
-1/15 RedThread 
+1/15 红线 
 
 ;Quest
-1/2 BoarTooth Q
+1/2 野猪牙 Q

@@ -83,5 +83,5 @@
 1/20 万年雪霜 
 
 ;Crafting Materials
-1/5 BugShell 
+1/5 虫壳 
 

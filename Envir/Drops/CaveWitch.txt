@@ -1,6 +1,6 @@
 ;Gold 
 1/1 Gold 15000
-1/60 GoldBar
+1/60 金条
 
 ;Potions
 1/1 金疮药(大量)
@@ -33,9 +33,9 @@
 1/1 强效太阳水 
 1/2 强效太阳水 
 1/2 强效太阳水
-1/10 AmuletOfRevival
-1/1 BenedictionOil
-1/10 BenedictionOil
+1/10 复活符
+1/1 祝福油
+1/10 祝福油
 1/30 攻击药水(大)
 1/30 魔法药水(大)
 1/30 道力药水(大)
@@ -104,41 +104,41 @@
 1/500 技巧项链
 
 ;Orbs
-1/300 BraveryOrb
-1/300 MagicOrb
-1/300 SoulOrb
-1/250 ProtectionOrb
-1/250 EvilSlayerOrb
-1/200 DurabilityOrb
-1/300 PoisonOrb
-1/300 FreezingOrb
-1/300 AccuracyOrb
-1/300 StormOrb
-1/300 EnduranceOrb
+1/300 勇猛神珠
+1/300 魔性神珠
+1/300 仙界神珠
+1/250 守护神珠
+1/250 制魔神珠
+1/200 强化神珠
+1/300 中毒神珠
+1/300 酷寒神珠
+1/300 集中神珠
+1/300 疾风神珠
+1/300 忍耐神珠
 
 ;Books
-1/25 IceStorm
-1/25 SummonShinsu
-1/25 FlamingSword
-1/25 PoisonSword
-1/55 CrossHalfMoon
-1/60 MoonLight
-1/60 UltimateEnhancer
-1/60 FlameDisruptor
-1/200 SummonHolyDeva
-1/200 Mirroring
-1/200 BladeAvalanche
-1/200 MPEater
-1/500 ProtectionField
-1/500 Reincarnation
-1/500 MeteorStrike
-1/500 PoisonCloud
-1/500 DarkBody
-1/500 Rage
-1/550 Blizzard
-1/1000 FlameField
-1/1000 Curse
-1/1000 Hemorrhage
-1/1000 Plague
-1/1000 MagicBooster
-1/1000 CounterAttack
+1/25 冰咆哮
+1/25 召唤神兽
+1/25 烈火剑法
+1/25 猛毒剑气
+1/55 圆月弯刀
+1/60 月影术
+1/60 无极真气
+1/60 火龙术
+1/200 召唤月灵
+1/200 分身术
+1/200 攻破斩
+1/200 吸气
+1/500 护身气幕
+1/500 复活术
+1/500 流星火雨
+1/500 毒云
+1/500 烈火身
+1/500 剑气爆
+1/550 天霜冰环
+1/1000 火龙气焰
+1/1000 诅咒术
+1/1000 血风击
+1/1000 瘟疫
+1/1000 深延术
+1/1000 反击

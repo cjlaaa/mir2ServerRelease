@@ -2,11 +2,11 @@
 1/10 Gold 100
 
 ;Crafting Materials
-1/4 CannibalLeaf 
-1/5 CannibalFruit 
+1/4 食人花叶 
+1/5 食人花果 
 1/20 CannibalPoison 
 
 ;Quest
-1/3 CannibalStem Q
-1/3 CannibalSeed Q
+1/3 食人花茎 Q
+1/3 食人花果实 Q
 

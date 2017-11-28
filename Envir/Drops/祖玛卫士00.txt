@@ -140,10 +140,10 @@
 1/30 魔力药水(小) 
 
 ;Books
-1/20 Slaying 
-1/60 ThunderStorm 
-1/90 MagicShield 
-1/60 ShoulderDash 
-1/40 TrapHexagon 
-1/90 UltimateEnhancer 
-1/90 HeavenlySword 
+1/20 攻杀剑术 
+1/60 地狱雷光 
+1/90 魔法盾 
+1/60 野蛮冲撞 
+1/40 困魔咒 
+1/90 无极真气 
+1/90 迁移剑 

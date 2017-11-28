@@ -10,7 +10,7 @@
 1/50 强效太阳水
 1/100 金疮药(大量) 6
 1/120 魔法药(大量) 6
-1/500 WarGodOil
+1/500 战神油
 
 ;Weapons
 1/50 破魂
@@ -94,7 +94,7 @@
 1/19000 生命守护石
 
 ;Books
-1/500 UltimateEnhancer
+1/500 无极真气
 
 ;Crafting Material
-1/200 WindMarble
+1/200 疾风珠

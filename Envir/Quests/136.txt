@@ -1,16 +1,16 @@
 ﻿[@Description]
-进入 {Ancient Layer/Yellow} 在 {Stone Temple/Yellow} 然后收集 {RelicRock's/LightSteelBlue} 
+进入 {Ancient Layer/Yellow} 在 {Stone Temple/Yellow} 然后收集 {岩石标本's/LightSteelBlue} 
 
 [@TaskDescription]
 杀死 {AncientRedBoars/Crimson}, {AncientBlackBoars/Crimson} 和 
-{AncientWhiteBoar's/Crimson} 取得 {RelicRock's/LightSteelBlue}.
+{AncientWhiteBoar's/Crimson} 取得 {岩石标本's/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-RelicRock 10
+岩石标本 10
 
 [@CarryItems]
 

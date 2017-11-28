@@ -86,9 +86,9 @@
 1/250 能力守护石(大)
 
 ;Books
-1/10000 SummonHolyDeva
-1/70 Hallucination
-1/170000 Curse
-1/70 lightbody
-1/100 FrostCrunch
-1/100 MagicShield
+1/10000 召唤月灵
+1/70 迷魂术
+1/170000 诅咒术
+1/70 风身术
+1/100 寒冰掌
+1/100 魔法盾

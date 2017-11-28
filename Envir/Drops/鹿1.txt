@@ -1,6 +1,6 @@
 ;Meat
-1/5 Venison 
-1/10 Venison 
+1/5 鹿肉 
+1/10 鹿肉 
 
 ;Mystery Items
 1/5 神秘戒指
@@ -9,5 +9,5 @@
 1/20 神水
 
 ;Potions
-1/10 DeerHorn
-1/50 DeerBlood
+1/10 鹿茸
+1/50 鹿血

@@ -41,7 +41,7 @@ Ah friend, Will you take my orders and get through the hard way?
 [@Quest1]
 #SAY
 Well. This is my duty. This is why i have waited for you instead of
-leaving here You came here with a JadeCrystal.. My name is Abel,
+leaving here You came here with a 翡翠晶.. My name is Abel,
 and my nickname was Thunderman before i died. Originally I had
 striven for martial art training since I was 5 years old When I was
 30 years old I was never scared of anyone in the world Then I was 
@@ -90,7 +90,7 @@ I stabbed the RedMoonEvil I was showered with its blood and
 promptly demon energy made me a demon of a man Because the 
 HolySword could not protect me any more due to demon energy growning 
 in my mind The HolySword also became a demon sword, a 
-RedMoonSword. Ugh everything was my fault.
+赤血魔剑. Ugh everything was my fault.
 <Then how can I killed the RedMoonEvil/@Quest6>
 
 [@Quest6]
@@ -107,12 +107,12 @@ We should get rid of it absolutely. Now keep in mind what I say
 [@Quest7]
 #SAY
 Since I became a demon of a man due to the blood of RedMoonEvil...
-The RedMoonSword led me to wander over RedMoon Valley and 
-Murder. Fighting and slaying for over 100 years when i faught against
-a certain RedEvilApe the RedMoonSword was finally broken I recovered
+The 赤血魔剑 led me to wander over RedMoon Valley and 
+Murder. Fighting and 攻杀剑术 for over 100 years when i faught against
+a certain RedEvilApe the 赤血魔剑 was finally broken I recovered
 my spirit from grasp of the huge demonic power and I aquired a
 skill to let my soul remain even after my body Died. Now I would
-like to ask you, get back the RedMoonChip and bring it to me
+like to ask you, get back the 恶魔碎片 and bring it to me
 If left alone, other person will become a victim like me....
 <Close/@Quest8>
 

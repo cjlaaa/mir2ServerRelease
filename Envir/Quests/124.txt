@@ -1,9 +1,9 @@
 ﻿[@Description]
 我需要你的帮助. 你能前往洞窟帮我收集一些 
-{CleanSkull's/LightSteelBlue}吗.
+{雪白的骷髅's/LightSteelBlue}吗.
 
 [@TaskDescription]
-收集 10 {CleanSkull's/LightSteelBlue} 通过猎杀 {BoneArcher's/Crimson}, 
+收集 10 {雪白的骷髅's/LightSteelBlue} 通过猎杀 {BoneArcher's/Crimson}, 
 {BoneBlademan/Crimson} 和 {BoneSpearman/Crimson}.
 
 [@Completion]
@@ -11,7 +11,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-CleanSkull 10
+雪白的骷髅 10
 
 [@CarryItems]
 

@@ -1,17 +1,17 @@
 ﻿[@Description]
 我的老师希望我找些草药来，但是它们只能在
 {RoninGhoul/Crimson}身上发现, 我无法靠近它们. 
-你能帮我弄点 {CorpsFlower/LightSteelBlue} 吗?
+你能帮我弄点 {雪莲花/LightSteelBlue} 吗?
 
 [@TaskDescription]
-前往苍月岛，并收集 5 {CorpsFlower/LightSteelBlue} 通过猎杀 {RoninGhoul's/Crimson}
+前往苍月岛，并收集 5 {雪莲花/LightSteelBlue} 通过猎杀 {RoninGhoul's/Crimson}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-CorpsFlower 5
+雪莲花 5
 
 [@CarryItems]
 

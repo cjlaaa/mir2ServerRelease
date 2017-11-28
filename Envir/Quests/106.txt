@@ -3,13 +3,13 @@
 我返回的原因. 请找回我的 {LifeStone/LightSteelBlue}.
 
 [@TaskDescription]
-猎杀 {GiantWorm's/Crimson} 然后找回 {OldNecklace/LightSteelBlue}.
+猎杀 {GiantWorm's/Crimson} 然后找回 {老旧的项链/LightSteelBlue}.
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-OldNecklace 1
+老旧的项链 1
 
 [@CarryItems]
 

@@ -23,14 +23,14 @@ Sell.
 0
 
 [Trade]
-GoldBar
-GoldBarBundle
-GoldChest
-GambleChip
-Dice
+金条
+金砖
+金盒
+筹码
+骰子
 UnknownOrb
-AdmissionOrb
-ScrollOfSeal
+狐月神珠
+凭证
 GuardianOrb
-BichonToken
-TimeStonePiece
+比奇通用币
+时间之石

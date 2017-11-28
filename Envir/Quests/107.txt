@@ -5,7 +5,7 @@
 谢谢你冒险者，现在我可以放心了.
 
 [@TaskDescription]
-把 {OldNecklace/LightSteelBlue} 带给 {Rachel/LimeGreen}.
+把 {老旧的项链/LightSteelBlue} 带给 {Rachel/LimeGreen}.
 她在 {MongchonProvince/Yellow}
 [@Completion]
 
@@ -14,15 +14,15 @@
 [@ItemTasks]
 
 [@CarryItems]
-OldNecklace 1
+老旧的项链 1
 
 [@FixedRewards]
-Solid避魂靴
+固魂靴
 
 [@SelectRewards]
-ClawPendant
-Fire放大镜
-StrongBambooFlute
+幽灵吊坠
+显微镜
+潇湘笛
 
 [@ExpReward]
 380100

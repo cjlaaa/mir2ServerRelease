@@ -10,7 +10,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-BatWings 5
+蝙蝠翅膀 5
 
 [@CarryItems]
 

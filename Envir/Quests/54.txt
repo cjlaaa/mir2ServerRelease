@@ -22,9 +22,9 @@ ShamanZombie 2
 [@FixedRewards]
 
 [@SelectRewards]
-Old魔鬼项链
-AmberPendant
-WornBeadofPhoenix
+恶魔项链
+琥珀吊坠
+凤凰珍珠
 
 [@ExpReward]
 13500

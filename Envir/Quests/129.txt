@@ -2,14 +2,14 @@
 请前往 {RedValley/Yellow} 然后收集一些材料. 
 
 [@TaskDescription]
-猎杀 {SpiderBat/Crimson} 然后收集 10 {BatPoison/LightSteelBlue}.
+猎杀 {SpiderBat/Crimson} 然后收集 10 {蝙蝠毒/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-BatPoison 10
+蝙蝠毒 10
 
 [@CarryItems]
 

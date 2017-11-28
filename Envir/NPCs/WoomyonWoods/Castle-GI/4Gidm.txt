@@ -27,7 +27,7 @@ GOTO @Main-1
 13
 
 [Trade]
-GreyPoison 500
-GreyPoison 5000
-YellowPoison 500
-YellowPoison 5000
+灰色药粉 500
+灰色药粉 5000
+黄色药粉 500
+黄色药粉 5000

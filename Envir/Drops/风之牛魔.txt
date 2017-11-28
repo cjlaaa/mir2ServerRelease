@@ -8,7 +8,7 @@
 1/50 魔法药(大量)
 1/40 太阳水
 1/50 强效太阳水
-1/1000 WarGodOil
+1/1000 战神油
 
 ;Armours
 1/650 重盔甲(男)
@@ -90,8 +90,8 @@
 1/3900 天珠项链
 
 ;Crafting Materials
-1/300 WindMarble
-1/300 IceMarble
+1/300 疾风珠
+1/300 寒冰珠
 
 ;Books
-1/1000 UltimateEnhancer
+1/1000 无极真气

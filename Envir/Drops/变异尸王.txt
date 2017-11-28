@@ -1,4 +1,4 @@
 
 ;Quest
-1/1 Red匕首 Q
-1/5 HeartOfDead Q
+1/1 血匕 Q
+1/5 死亡之心 Q

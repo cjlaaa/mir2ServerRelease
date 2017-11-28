@@ -2,9 +2,9 @@
 1/5 Gold 100
 
 ;Crafting Materials
-1/2 MaggotPill 
-1/10 MaggotPill 
+1/2 蛆卵 
+1/10 蛆卵 
 
 ;Quest
-1/2 Relics Q
-1/10 OliviasRing Q
+1/2 遗物 Q
+1/10 水晶戒指 Q

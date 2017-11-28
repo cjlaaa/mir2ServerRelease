@@ -29,4 +29,4 @@
 1/2    魔法药(大量)
 
 ;Scrolls
-1/15 ScrollOfSeal
+1/15 凭证

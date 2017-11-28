@@ -94,13 +94,13 @@
 1/90000 狂风项链
 
 ;Crafting Materals
-1/10 BlackThread
-1/10 SpiderWeb
+1/10 黑线
+1/10 蜘蛛网
 
 ;Books
-1/700 Purification
-1/1000 UltimateEnhancer
+1/700 净化术
+1/1000 无极真气
 
 
 ;Quests
-1/10 JadeCrystal Q
+1/10 翡翠晶 Q

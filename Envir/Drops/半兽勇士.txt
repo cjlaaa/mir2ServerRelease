@@ -92,22 +92,22 @@
 1/60 魔力药水(小) 
 
 ;Books
-1/10 Fencing 
-1/10 FireBall 
-1/10 Healing 
-1/10 FatalSword 
+1/10 基本剑术 
+1/10 火球术 
+1/10 治愈术 
+1/10 绝命剑法 
 1/10 Focus 
-1/16 SpiritSword 
+1/16 精神力战法 
 1/16 StraightShot 
-1/20 Poisoning 
-1/20 Repulsion 
-1/40 ElectricShock 
-1/40 Slaying 
-1/40 GreatFireBall 
-1/30 HellFire 
-1/40 ThunderBolt 
-1/40 DoubleSlash 
-1/110 Thrusting 
+1/20 施毒术 
+1/20 抗拒火环 
+1/40 诱惑之光 
+1/40 攻杀剑术 
+1/40 大火球 
+1/30 地狱火 
+1/40 雷电术 
+1/40 双刀术 
+1/110 刺杀剑术 
 1/30 ExplosiveTrap 
 1/40 Meditation 
 1/50 SummonVampire 

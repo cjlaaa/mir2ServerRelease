@@ -62,7 +62,7 @@ BoneBow
 半月
 音速刀
 CompoundBow
-PickAxe
+鹤嘴锄
 
 
 [Quests]

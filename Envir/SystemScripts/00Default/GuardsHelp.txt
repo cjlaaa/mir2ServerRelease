@@ -1,7 +1,7 @@
 [@Main]
 {
 #IF
-CHECKITEM GuardRental[7d]
+CHECKITEM ÀÊ…Ìª§Œ¿[7d]
 #ACT
 GOTO @Next-2
 #ELSEACT

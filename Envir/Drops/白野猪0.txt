@@ -33,5 +33,5 @@
 1/2 强效太阳水
 
 ;Crafting Materials
-1/10 WhiteThread 
-1/15 WhiteThread 
+1/10 白线 
+1/15 白线 

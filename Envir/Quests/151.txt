@@ -15,14 +15,14 @@ RedMoonEvil 1
 [@FlagTasks]
 
 [@CarryItems]
-EvilApeOil 2
-EvilApeHeart 2
+邪恶巨人油 2
+邪恶巨人心 2
 
 [@FixedRewards]
 
 [@SelectRewards]
-RedMoonSword
-RedMoonBlades
+赤血魔剑
+赤血魔刀
 RedMoonBow
 
 [@ExpReward]

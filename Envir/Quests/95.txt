@@ -2,7 +2,7 @@
 我很想我的父母，你能帮帮我吗?
 
 [@TaskDescription]
-带 {SkysLetter/LightSteelBlue} 给 {Sir.Mogu/LimeGreen} 在 {BichonWall/Yellow}.
+带 {飞鸽之书/LightSteelBlue} 给 {Sir.Mogu/LimeGreen} 在 {BichonWall/Yellow}.
 
 [@Completion]
 
@@ -11,7 +11,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-SkysLetter 2
+飞鸽之书 2
 
 [@FixedRewards]
 

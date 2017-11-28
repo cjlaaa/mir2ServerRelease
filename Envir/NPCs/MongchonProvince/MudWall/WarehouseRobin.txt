@@ -29,9 +29,9 @@ GOTO @Main-1
 
 [@GBar]
 #IF
-CHECKITEM GoldBar 1
+CHECKITEM 金条 1
 #ACT
-TAKEITEM GoldBar 1
+TAKEITEM 金条 1
 GIVEGOLD 998000
 #ELSESAY
 你没有需要转换的金条，当你有了再来找我吧.
@@ -40,9 +40,9 @@ GIVEGOLD 998000
 
 [@GBBundle]
 #IF
-CHECKITEM GoldBarBundle 1
+CHECKITEM 金砖 1
 #ACT
-TAKEITEM GoldBarBundle 1
+TAKEITEM 金砖 1
 GIVEGOLD 4990000
 #ELSESAY
 你没有需要转换的金砖，当你有了再来找我吧.
@@ -51,9 +51,9 @@ GIVEGOLD 4990000
 
 [@GChest]
 #IF
-CHECKITEM GoldChest 1
+CHECKITEM 金盒 1
 #ACT
-TAKEITEM GoldChest 1
+TAKEITEM 金盒 1
 GIVEGOLD 9980000
 #ELSESAY
 你没有需要转换的金盒，当你有了再来找我吧.

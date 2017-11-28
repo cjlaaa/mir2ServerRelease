@@ -15,9 +15,9 @@ goto @lowlevel
 #IF
 LEVEL > 32
 LEVEL < 40
-CHECKITEM TimeStonePiece 1
+CHECKITEM 时间之石 1
 #ACT
-TAKEITEM TimeStonePiece 1
+TAKEITEM 时间之石 1
 MOVE 6 63 247
 #ELSESAY
 很抱歉，你没有 {时间之石/LightSteelBlue}或者你的等级太低了.

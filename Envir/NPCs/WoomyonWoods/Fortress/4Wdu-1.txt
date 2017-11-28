@@ -52,13 +52,13 @@ GOTO @Main-1
 金疮药(特大) 20
 魔法药(特大) 1
 魔法药(特大) 20
-Candle
-Torch
-RandomTeleport 1
-RandomTeleport 20
-DungeonEscape
-Amulet 500
-Amulet 5000
+蜡烛
+火把
+随机传送卷 1
+随机传送卷 20
+地牢逃脱卷
+护身符 500
+护身符 5000
 
 [Quests]
 67

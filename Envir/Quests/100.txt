@@ -13,16 +13,16 @@ WoomaWarrior 5
 WoomaGuardian 1
 
 [@ItemTasks]
-WoomasHorn 1
+沃玛的号角 1
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-BlueJadePendant
-WizardRing
-RingOfMoral
+蓝翡翠吊坠
+法师之戒
+道德之戒
 
 [@ExpReward]
 110000

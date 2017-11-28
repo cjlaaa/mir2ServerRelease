@@ -3,7 +3,7 @@
 在开始你的旅途之前，能否先帮我个小忙? 
 
 [@TaskDescription]
-把{CannibalLeaves/LightSteelBlue}捎给{CraftLady/LimeGreen}。
+把{食人花叶/LightSteelBlue}捎给{CraftLady/LimeGreen}。
 
 [@Completion]
 
@@ -12,7 +12,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-CannibalLeaves 5
+食人花叶 5
 
 [@FixedRewards]
 金疮药(小量)

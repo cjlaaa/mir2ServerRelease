@@ -18,8 +18,8 @@ RakingCat 5
 [@CarryItems]
 
 [@FixedRewards]
-OldLoafer
-Healing
+旧布鞋
+治愈术
 
 [@SelectRewards]
 

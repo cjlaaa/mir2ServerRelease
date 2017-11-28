@@ -5,7 +5,7 @@
 
 
 [@TaskDescription]
-前往{WoomyonWoods/Yellow} 的北方，将 {CookBook/LightSteelBlue} 
+前往{WoomyonWoods/Yellow} 的北方，将 {菜谱/LightSteelBlue} 
 带给 {Jim/LimeGreen} 在 {CastleGi-Ryoong/Yellow}
 
 [@Completion]
@@ -15,7 +15,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-CookBook 2
+菜谱 2
 
 [@FixedRewards]
 

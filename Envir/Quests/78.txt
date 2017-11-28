@@ -2,7 +2,7 @@
 谢谢你旅行者. 
 从我儿子 {Robe/LightSteelBlue} 的回复中我发现了一个任务. 
 我儿子正在寻找埋藏在 {SerpentDeadMine/Yellow} 中的财宝
-这是在他法袍中发现的线索，请去取回 {StolenGold/LightSteelBlue}
+这是在他法袍中发现的线索，请去取回 {失窃的金币/LightSteelBlue}
 
 [@TaskDescription]
 杀死 {RotNdZombie/Crimson} 他就在 {SerpentDeadMine 2F/Yellow}
@@ -12,16 +12,16 @@
 [@KillTasks]
 
 [@ItemTasks]
-StolenGold 1
+失窃的金币 1
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-BlackCrystalRing
-EyeofGoldenSnake
-Black珍珠戒指 
+黑水晶戒指
+黄金蛇眼
+黑珍珠戒指 
 
 [@ExpReward]
 48000

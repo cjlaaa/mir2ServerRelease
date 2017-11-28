@@ -63,7 +63,7 @@
 1/20 太阳水 
 
 ;Scrolls
-1/50 WarGodOil 
+1/50 战神油 
 
 ;Quest
-1/2 SnakeBody Q
+1/2 蛇躯 Q

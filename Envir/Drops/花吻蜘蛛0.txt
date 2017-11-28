@@ -108,15 +108,15 @@
 1/9000 狂风项链
 
 ;Crafting Materals
-1/3 BlackThread
-1/3 SpiderWeb
+1/3 黑线
+1/3 蜘蛛网
 
 ;Books
-1/70 Purification
-1/100 UltimateEnhancer
-1/150 IceStorm
-1/150 FlamingSword
-1/150 SummonShinsu
+1/70 净化术
+1/100 无极真气
+1/150 冰咆哮
+1/150 烈火剑法
+1/150 召唤神兽
 
 ;Shoes
 1/80 避魂靴

@@ -1,6 +1,6 @@
 ;Gold
 1/1 Gold 15000
-1/50 GoldBar
+1/50 金条
 
 ;Potions
 1/1 金疮药(大量)
@@ -25,9 +25,9 @@
 1/2 强效太阳水
 1/2 强效太阳水
 
-1/5 BenedictionOil
-1/10 BenedictionOil
-1/40 WoomaHorn
+1/5 祝福油
+1/10 祝福油
+1/40 沃玛号角
 1/40 攻击药水(中)
 1/40 魔法药水(中)
 1/40 道力药水(中)
@@ -122,16 +122,16 @@
 1/70 道术守护石(特大)
 
 ;Spells
-1/30  CrossHalfMoon
-1/30  FlameDisruptor
-1/30  trap
-1/30  UltimateEnhancer
-1/30   EnergyRepulsor
-1/50  TwinDrakeBlade
-1/50   Purification
-1/200   LionRoar
-1/200  Mirroring
-1/200  moonlight
-1/200  Entrapment
+1/30  圆月弯刀
+1/30  火龙术
+1/30  捕缚术
+1/30  无极真气
+1/30   气功波
+1/50  双龙斩
+1/50   净化术
+1/200   狮子吼
+1/200  分身术
+1/200  月影术
+1/200  捕绳剑
 
 ;Other

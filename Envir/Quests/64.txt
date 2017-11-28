@@ -3,7 +3,7 @@
 这个项链和 {Vincent/LimeGreen} 所描述的高度吻合.
 
 [@TaskDescription]
-交还 {OldNecklace/LightSteelBlue} 给 {Vincent/LimeGreen}.
+交还 {老旧的项链/LightSteelBlue} 给 {Vincent/LimeGreen}.
 
 [@Completion]
 
@@ -12,13 +12,13 @@
 [@ItemTasks]
 
 [@CarryItems]
-OldNecklace 1
+老旧的项链 1
 
 [@FixedRewards]
 
 [@SelectRewards]
-ToughGlove
-MagicBangle
+坚韧手套
+魔法神镯
 
 [@ExpReward]
 18080

@@ -1,6 +1,6 @@
 [@Main]
 #SAY
-<Use./@main-1> teleport to the village stores
+<Use./@main-1> Teleport to the village stores
 
 
 [@main-1]
@@ -34,6 +34,6 @@ MOVE whitevillage 270 248
 #ACT
 MOVE whitevilage 334 248
 
-[@go-Storage]
+[@go-Sto剑气爆]
 #ACT
 MOVE WhiteVillage 312 278

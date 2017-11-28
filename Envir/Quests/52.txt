@@ -1,10 +1,10 @@
 ﻿[@Description]
-你想让我帮你做 {CanniTea/LightSteelBlue}? 嗯.. 
-我需要一些原料. 你能帮我找到5 {CannibalLeaf/LightSteelBlue} 
-和 5 {CannibalSeed/LightSteelBlue}吗?
+你想让我帮你做 {食人花茶/LightSteelBlue}? 嗯.. 
+我需要一些原料. 你能帮我找到5 {食人花叶/LightSteelBlue} 
+和 5 {食人花果实/LightSteelBlue}吗?
 
 [@TaskDescription]
-收集 1 {CannibalLeaf/LightSteelBlue} 和 {CannibalSeed's/LightSteelBlue} 从 
+收集 1 {食人花叶/LightSteelBlue} 和 {食人花果实's/LightSteelBlue} 从 
 {CannibalPlant's/Crimson}
 
 [@Completion]
@@ -12,8 +12,8 @@
 [@KillTasks]
 
 [@ItemTasks]
-CannibalLeaf 1
-CannibalSeed 1
+食人花叶 1
+食人花果实 1
 
 [@CarryItems]
 

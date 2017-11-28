@@ -1,8 +1,8 @@
 ﻿[@Description]
-这是酿好的 {SnakeWine/LightSteelBlue} 请带给 {MongchonScout/LimeGreen} 辛苦了！
+这是酿好的 {蛇酒/LightSteelBlue} 请带给 {MongchonScout/LimeGreen} 辛苦了！
 
 [@TaskDescription]
-带 {SnakeWine/LightSteelBlue} 给 {MongchonScout/LimeGreen}.
+带 {蛇酒/LightSteelBlue} 给 {MongchonScout/LimeGreen}.
 
 [@Completion]
 
@@ -11,7 +11,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-SnakeWine 2
+蛇酒 2
 
 [@FixedRewards]
 

@@ -101,16 +101,16 @@
 1/5 魔力药水(中) 
 
 ;Scrolls
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
-1/5 BenedictionOil 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
+1/5 祝福油 
 
 ;Nothing
-1/10 GoldBar 
-1/100 GoldBarBundle 
-1/1000 GoldChest 
+1/10 金条 
+1/100 金砖 
+1/1000 金盒 

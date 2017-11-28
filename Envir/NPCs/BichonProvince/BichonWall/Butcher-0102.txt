@@ -14,7 +14,7 @@ GOTO @Main-1
 欢迎，我能为你做些什么?
  
 <浏览/@BuySell> 商店.
-<询问/@Meathelp> 如何获得肉.
+<询问/@肉help> 如何获得肉.
  
 <关闭/@Exit>
 
@@ -34,7 +34,7 @@ GOTO @Main-1
  
 <返回/@Main>
 
-[@Meathelp]
+[@meathelp]
 #SAY
 你可以从 {鸡/Crimson}, {鹿/Crimson}, {羊/Crimson}, 和
  {狼/Crimson} 身上获得肉.
@@ -48,5 +48,5 @@ ALT键，同时点击鼠标左键，过几秒你就可以挖到肉了.
 15
 
 [Trade]
-Chicken
-Meat
+鸡肉
+肉

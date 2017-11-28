@@ -17,7 +17,7 @@
 [@FixedRewards]
 
 [@SelectRewards]
-Sharp匕首
+锋锐之匕
 猛虎刀
 StiffWoodenBow
 

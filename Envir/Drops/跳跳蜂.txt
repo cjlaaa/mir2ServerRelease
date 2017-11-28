@@ -87,8 +87,8 @@
 1/500 疾风药水(小) 
 
 ;Crafting Materials
-1/15 BugShell 
-1/20 WhiteThread 
+1/15 虫壳 
+1/20 白线 
 
 ;Quest
-1/2 BugSpecimen Q
+1/2 昆虫标本 Q

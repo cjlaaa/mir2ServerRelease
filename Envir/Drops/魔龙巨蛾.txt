@@ -67,5 +67,5 @@
 1/400 道术守护石(特大)
 
 ;Crafting Material
-1/350 WindMarble
-1/40 DragonScale
+1/350 疾风珠
+1/40 龙鳞

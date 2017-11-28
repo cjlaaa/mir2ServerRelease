@@ -48,13 +48,13 @@ GOTO @Main-1
 魔法药(中量) 1
 魔法药(中量) 5
 魔法药(中量) 10
-Candle
-Torch
-RandomTeleport 1
-RandomTeleport 20
-DungeonEscape
-Amulet 500
-Amulet 5000
+蜡烛
+火把
+随机传送卷 1
+随机传送卷 20
+地牢逃脱卷
+护身符 500
+护身符 5000
 
 [Quests]
 -48

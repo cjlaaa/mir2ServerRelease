@@ -12,8 +12,8 @@
 2/2 魔法药(大量)
 1/5 太阳水
 1/10 强效太阳水
-1/17 RepairOil
-1/35 WarGodOil
+1/17 修复油
+1/35 战神油
 
 ;Weapon
 1/14 凝霜
@@ -66,8 +66,8 @@
 1/20 勇士项链
 
 ;Scroll
-1/1 RandomTeleport
-1/5 TownTeleport
+1/1 随机传送卷
+1/5 回城卷
 
 ;Stones
 1/25 攻击守护石(大)
@@ -78,10 +78,10 @@
 1/50 道术守护石(特大)
 
 ;Books
-1/19 MassHealing
-1/15 MagicShield
-1/20 FrostCrunch
-1/15 HalfMoon
+1/19 群体治疗术
+1/15 魔法盾
+1/20 寒冰掌
+1/15 半月弯刀
 
 ;Quest
-1/2 CorpsFlower Q
+1/2 雪莲花 Q

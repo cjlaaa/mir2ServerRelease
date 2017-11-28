@@ -18,7 +18,7 @@ RakingCat 5
 [@CarryItems]
 
 [@FixedRewards]
-OldLoafer
+旧布鞋
 Focus
 
 [@SelectRewards]

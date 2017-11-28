@@ -16,7 +16,7 @@ What do you say?
 #SAY
 So, Is this what you want to refine?
 Ir will cost <$UPGRADEWEAPONFEE>gold and You definately
-need <BlackIronOre/@Biron>, <accessories/@Etc>, <money/@Gold> and
+need <黑铁矿/@Biron>, <accessories/@Etc>, <money/@Gold> and
 <Weapon/@Weapon> you wish to refine. The other materials can
 be procured from the things in your bag.
 You want to go for it? 
@@ -25,10 +25,10 @@ You want to go for it?
 
 [@Biron]
 #SAY
-BlackIronOre is a strong metal used for making weapons.
-BlackIronOre can be obtained from the mines, the higher
+黑铁矿 is a strong metal used for making weapons.
+黑铁矿 can be obtained from the mines, the higher
 the purity, the better chance of a good upgrade.
-My eyesight is poor, so i will take all BlackIronOre
+My eyesight is poor, so i will take all 黑铁矿
 that is in your Bag 
 <Back/@upgrade>
 
@@ -57,7 +57,7 @@ upgrade.
 #SAY
 I will take your <$USERWEAPON> from you to refine.
 My eyesight isn't very good so I will take 
-all the BlackIronOre and accessories in refinery window.
+all the 黑铁矿 and accessories in refinery window.
 Please place what you would like to use in there.
 <Cancel Upgrade/@main>
 
@@ -78,7 +78,7 @@ Come back later...
 #SAY
 Hey <$USERNAME>. Are you trying to confuse me?
 You are missing one or more of the vital ingredients
-Check you are wearing a weapon, have the BlackIronOre, accessories
+Check you are wearing a weapon, have the 黑铁矿, accessories
 and most importantly the money.
 Then try again 
 <Back/@main>

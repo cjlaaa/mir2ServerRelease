@@ -1,7 +1,7 @@
 ﻿[@Description]
 你最近要回 {Bichon/Yellow} 一趟吗? 如果你有这个打算，能帮忙把 {SercetRecipe/LightSteelBlue} 带给 {CraftsLady/LimeGreen}吗? 
 我听说 {CraftsLady/LimeGreen} 就在 {Bichon/Yellow} 
-她很想要 {SecretRecipe/LightSteelBlue}. 但我分身乏术。
+她很想要 {秘方/LightSteelBlue}. 但我分身乏术。
 
 [@TaskDescription]
 请将物品带给 {CraftsLady/LimeGreen} 在
@@ -14,7 +14,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-SecretRecipe 2
+秘方 2
 
 [@FixedRewards]
 

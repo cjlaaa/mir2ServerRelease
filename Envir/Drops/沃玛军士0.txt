@@ -82,6 +82,6 @@
 1/250 青铜腰带
 
 ;Quest
-1/2 BeefRib Q
-1/350 WoomaHeart 
+1/2 牛肋排 Q
+1/350 沃玛之心 
 

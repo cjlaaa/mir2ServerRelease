@@ -75,9 +75,9 @@
 1/160 放大镜
 
 ;Crafting Materals
-1/10 WhiteThread
-1/10 SpiderWeb
+1/10 白线
+1/10 蜘蛛网
 
 ;Quest
-1/2 AncientTree Q
+1/2 老树根 Q
 

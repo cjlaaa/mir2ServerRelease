@@ -12,7 +12,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonHead 1
+骷髅骨 1
 
 [@CarryItems]
 

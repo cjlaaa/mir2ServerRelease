@@ -2,4 +2,4 @@
 1/5 Gold 400
 
 ;Quest
-1/1 HeartOfDead Q
+1/1 死亡之心 Q

@@ -3,14 +3,14 @@
 现在时间紧急，你快去杀一些 {RedSnake's/Crimson} 收集点毒牙.
 
 [@TaskDescription]
-收集 {RedSnakeTeeth/LightSteelBlue} 
+收集 {红蛇牙/LightSteelBlue} 
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-RedSnakeTeeth 1
+红蛇牙 1
 
 [@CarryItems]
 

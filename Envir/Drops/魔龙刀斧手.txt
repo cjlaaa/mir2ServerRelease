@@ -68,8 +68,8 @@
 1/250 道术守护石(特大)
 
 ;Crafting Material
-1/350 FocusMarble
-1/400 AntidoteMarble
+1/350 准确珠
+1/400 避毒珠
 
 ;Books
-1/600 FrostCrunch
+1/600 寒冰掌

@@ -1,22 +1,22 @@
 ﻿[@Description]
 啊，你就是{Jane/LimeGreen}提到的冒险家吗。
-你能帮我猎几头{Deer/Crimson}并带回一些{Deer Meat/LightSteelBlue}吗？
+你能帮我猎几头{Deer/Crimson}并带回一些{Deer 肉/LightSteelBlue}吗？
 如果你想了解更多关于屠夫的帮助，请按"H"键。
 
 [@TaskDescription]
-猎杀{Deer/Crimson}并收集5块{Deer Meat/LightSteelBlue}。
+猎杀{Deer/Crimson}并收集5块{Deer 肉/LightSteelBlue}。
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-DeerMeat 5
+野鹿肉 5
 
 [@CarryItems]
 
 [@FixedRewards]
-Old古铜戒指
+古旧之戒
 
 [@SelectRewards]
 

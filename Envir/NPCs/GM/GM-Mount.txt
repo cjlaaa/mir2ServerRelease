@@ -48,7 +48,7 @@ BronzeBell
 SilverBell
 GoldBell
 GreenBell
-Saddle
+马鞍
 RedRibbon
 BlueRibbon
 BlackRibbon
@@ -57,5 +57,5 @@ WhiteMask
 BlackMask
 SilverMask
 TitaniumMask
-RawMeat
-LeanMeat
+生肉
+烤肉

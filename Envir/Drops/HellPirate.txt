@@ -84,9 +84,9 @@
 1/11000 道术守护石
 
 ;Books
-1/9000 Hallucination
-1/9000 Vampirism
-1/9000 Trap
+1/9000 迷魂术
+1/9000 嗜血术
+1/9000 捕缚术
 
 ;Crafting Material
-1/200 IceMarble
+1/200 寒冰珠

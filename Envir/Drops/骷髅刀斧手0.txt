@@ -8,15 +8,15 @@
 1/2 魔法药(大量)
 1/2 太阳水
 1/3 强效太阳水
-1/10 RepairOil
+1/10 修复油
 
 ;Crafting Material
-1/1 Bone
-1/2 LargeBone
+1/1 骨头
+1/2 大骨头
 
-1/40 WillMarble
-1/100 IceMarble
-1/20 TimeStonePiece
+1/40 避水珠
+1/100 寒冰珠
+1/20 时间之石
 
 ;Weapons
 1/7 凝霜
@@ -87,12 +87,12 @@
 1/100 天珠项链
 
 ;Books
-1/20 HalfMoon
-1/10 Thrusting
-1/50 TrapHexagon
-1/120 TwinDrakeBlade
-1/80 FireBurst
-1/200 Trap
+1/20 半月弯刀
+1/10 刺杀剑术
+1/50 困魔咒
+1/120 双龙斩
+1/80 烈风击
+1/200 捕缚术
 
 ;Quest
-1/8 CleanSkull Q
+1/8 雪白的骷髅 Q

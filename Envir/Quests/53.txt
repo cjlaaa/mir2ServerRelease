@@ -2,7 +2,7 @@
 这是你需要的茶，快些喝吧，别凉了.
 
 [@TaskDescription]
-带 {CanniTea/LightSteelBlue} 给 {MirGuide/LimeGreen}
+带 {食人花茶/LightSteelBlue} 给 {MirGuide/LimeGreen}
 
 [@Completion]
 
@@ -11,10 +11,10 @@
 [@ItemTasks]
 
 [@CarryItems]
-CanniTea 2
+食人花茶 2
 
 [@FixedRewards]
-SteelBuckle
+钢扣带
 
 [@SelectRewards]
 

@@ -69,7 +69,7 @@ CompoundBow
 偃月
 墨铁刀
 LongBow
-PickAxe
+鹤嘴锄
 
 [Quests]
 -24

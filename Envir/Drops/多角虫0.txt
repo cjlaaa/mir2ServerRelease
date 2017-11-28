@@ -63,12 +63,12 @@
 1/20 太阳水 
 
 ;Books
-1/14 Fencing
-1/14 FireBall
-1/14 Healing
-1/14 FatalSword
+1/14 基本剑术
+1/14 火球术
+1/14 治愈术
+1/14 绝命剑法
 1/14 Focus
-1/14 SpiritSword
-1/24 Repulsion
-1/24 Poisoning
+1/14 精神力战法
+1/24 抗拒火环
+1/24 施毒术
 1/24 StraightShot

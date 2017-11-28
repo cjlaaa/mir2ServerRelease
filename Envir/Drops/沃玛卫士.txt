@@ -112,5 +112,5 @@
 1/10 放大镜
 
 ;Quest
-1/1 WoomasHorn Q
-1/5 WoomaHeart 
+1/1 沃玛的号角 Q
+1/5 沃玛之心 

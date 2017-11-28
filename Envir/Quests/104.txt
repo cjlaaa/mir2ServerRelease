@@ -5,7 +5,7 @@
 
 
 [@TaskDescription]
-前往 {Death Valley/Yellow} 获取 {CharleySword/LightSteelBlue} 
+前往 {Death Valley/Yellow} 获取 {龙之宝剑/LightSteelBlue} 
 通过击杀 {Tongs/Crimson}.
 
 [@Completion]
@@ -13,7 +13,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-CharleySword 1
+龙之宝剑 1
 
 [@CarryItems]
 

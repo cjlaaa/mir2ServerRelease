@@ -3,7 +3,7 @@
 你能把这些信息送到{Bichon/Yellow}吗?
 
 [@TaskDescription]
-带 {CaveReport/LightSteelBlue} 给 {Kyle/LimeGreen}.
+带 {回复文书/LightSteelBlue} 给 {Kyle/LimeGreen}.
 
 [@Completion]
 
@@ -12,7 +12,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-CaveReport 2
+回复文书 2
 
 [@FixedRewards]
 

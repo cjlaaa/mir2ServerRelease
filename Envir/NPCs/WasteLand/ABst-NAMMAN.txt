@@ -22,32 +22,32 @@ These are the items still available to purchase back.
 
 [@Ask]
 #SAY
-I deal with <Candle/candle>,<Dungeonescape/dungeonescape>,
-<RandomTeleport/randomteleport>,<RepairOil/repairoil> and so on forth.
-I have heard that there are <Townteleport/townteleport> which come
+I deal with <蜡烛/蜡烛>,<地牢逃脱卷/地牢逃脱卷>,
+<随机传送卷/随机传送卷>,<修复油/修复油> and so on forth.
+I have heard that there are <回城卷/回城卷> which come
 from monsters only
  
 <Back/@Main>
 
-[@candle]
+[@蜡烛]
 #SAY
-Candles are needed when it's dark. without a candle
+蜡烛s are needed when it's dark. without a 蜡烛
 you can not see anything-even your foot for darkness.
  
 <Back/@Ask>
 
-[@dungeonescape]
+[@地牢逃脱卷]
 #SAY
-A Dungeonescape scroll is a magic paper that moves you promptly
+A 地牢逃脱卷 scroll is a magic paper that moves you promptly
 to certain fields near the last village you visited.
-The power of Dungeonescape scroll is weak compared with
-TownTeleport scrolls but it could still save your liefe.
+The power of 地牢逃脱卷 scroll is weak compared with
+回城卷 scrolls but it could still save your liefe.
  
 <Back/@Ask>
 
-[@randomteleport]
+[@随机传送卷]
 #SAY
-A Randomteleport scroll is a magic paper that can
+A 随机传送卷 scroll is a magic paper that can
 make you randonly move to another place in the same map.
 For example if you were in a dungeon 1st floor, you will
 move to another place on that floor by using the RT.
@@ -56,9 +56,9 @@ to help you out of a tight situation.
  
 <Back/@Ask>
 
-[@repairoil]
+[@修复油]
 #SAY
-A RepairOil makes the durabillity of you hand weapon rise,
+A 修复油 makes the durabillity of you hand weapon rise,
 but this oil doesn't special repair your weapon, so
 remember that then maximum durabillity of the weapon
 goes down as time goes by.
@@ -68,9 +68,9 @@ This will make hunts last longer.
  
 <Back/@Ask>
 
-[@townteleport]
+[@回城卷]
 #SAY
-TownTeleport scrolls carn't be made now because the ancient
+回城卷 scrolls carn't be made now because the ancient
 skill is lost.... however....
 I have heard that it may come randomly from Monsters
 and you can return to a village promptly by using it...
@@ -82,15 +82,15 @@ and you can return to a village promptly by using it...
 12
 
 [Trade]
-Candle
-Torch
-RandomTeleport 1
-RandomTeleport 20
-DungeonEscape
-Amulet 500
-Amulet 5000
-RepairOil
-GreyPoison 500
-GreyPoison 5000
-YellowPoison 500
-YellowPoison 5000
+蜡烛
+火把
+随机传送卷 1
+随机传送卷 20
+地牢逃脱卷
+护身符 500
+护身符 5000
+修复油
+灰色药粉 500
+灰色药粉 5000
+黄色药粉 500
+黄色药粉 5000

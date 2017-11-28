@@ -5,24 +5,24 @@
 
 [@TaskDescription]
 杀死 {Skeleton's/Crimson} 在 {OmaCave/Yellow} 并收集
-{SkeletonBone's/LightSteelBlue}
+{骷髅骨's/LightSteelBlue}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-SkeletonBone 5
+骷髅骨 5
 
 [@CarryItems]
 
 [@FixedRewards]
 
 [@SelectRewards]
-SharpSword
-Sharp海魂
-Sharp半月
-SharpSabre
+六合
+锋锐海魂
+锋锐半月
+锋锐军刀
 ToughBow
 
 [@ExpReward]

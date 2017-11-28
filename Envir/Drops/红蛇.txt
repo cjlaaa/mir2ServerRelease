@@ -71,7 +71,7 @@
 ;Crafting Materials
 
 ;Scrolls
-1/500 WarGodOil 
+1/500 战神油 
 
 ;Gems
 
@@ -108,8 +108,8 @@
 ;Fish
 
 ;Quest
-1/2 SnakeBody Q
-1/2 RedSnakeTeeth Q
+1/2 蛇躯 Q
+1/2 红蛇牙 Q
 
 ;Awakening
 

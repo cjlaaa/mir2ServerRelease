@@ -15,7 +15,7 @@ OmaWarrior 1
 [@CarryItems]
 
 [@FixedRewards]
-BlackIronBelt 
+黑铁之靴 
 
 [@SelectRewards]
 

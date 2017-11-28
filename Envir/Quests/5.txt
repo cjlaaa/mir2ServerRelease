@@ -17,7 +17,7 @@ Scarecrow 5
 [@CarryItems]
 
 [@FixedRewards]
-Worn铁手镯
+镔铁手镯
 
 [@SelectRewards]
 

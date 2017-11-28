@@ -13,7 +13,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-Algae 2
+海藻药 2
 
 [@FixedRewards]
 

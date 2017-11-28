@@ -1,4 +1,4 @@
-[@MAIN]
+﻿[@MAIN]
 {
 #SAY
 Here's the list of wines i have available. 
@@ -9,12 +9,12 @@ Here's the list of wines i have available.
 13
 
 [Trade]
-WhiteWine
-RedWine
-Wine
-SnakeWine
-CannibalWine
-SpiderWine
-MongchonWine
-BloodWine
+白酒
+葡萄酒
+酒
+蛇酒
+食人花酒
+蜘蛛酒
+梦河酒
+血酒
 }

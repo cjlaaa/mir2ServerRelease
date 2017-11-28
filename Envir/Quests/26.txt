@@ -1,21 +1,21 @@
 ﻿[@Description]
 村子附近的{SpittlingSpider/Crimson}越来越多，
-这种怪物的剧毒的解毒剂只能通过{PoisonSack/LightSteelBlue}来制作。
+这种怪物的剧毒的解毒剂只能通过{毒药袋/LightSteelBlue}来制作。
 
 [@TaskDescription]
-消灭{SpittingSpider/Crimson}并在它们的尸体上找到{PoisonSack/LightSteelBlue}
+消灭{SpittingSpider/Crimson}并在它们的尸体上找到{毒药袋/LightSteelBlue}
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-PoisonSack 1
+毒药袋 1
 
 [@CarryItems]
 
 [@FixedRewards]
-Strong兽皮腰带
+硬皮腰带
 
 [@SelectRewards]
 

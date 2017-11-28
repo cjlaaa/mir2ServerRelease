@@ -17,8 +17,8 @@ HookingCat 5
 [@FixedRewards]
 
 [@SelectRewards]
-BronzeWarriorSword
-Strong虎牙刀
+青铜战刀
+猛虎双刀
 StrongWoodenBow
 
 [@ExpReward]

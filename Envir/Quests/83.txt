@@ -4,7 +4,7 @@
 
 [@TaskDescription]
 前往 {WoomyonWoods/Yellow} 北方
-把 {TraineeSuit/LightSteelBlue} 带给 {Drapery Sam/LimeGreen}.
+把 {见习套装/LightSteelBlue} 带给 {Drapery Sam/LimeGreen}.
 
 [@Completion]
 
@@ -13,7 +13,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-TraineeSuit 2
+见习套装 2
 
 [@FixedRewards]
 

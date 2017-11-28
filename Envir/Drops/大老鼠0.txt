@@ -83,4 +83,4 @@
 1/200 疾风药水(小)
 
 ;Crafting Materials
-1/10 Mandible 
+1/10 颚骨 

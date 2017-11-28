@@ -3,7 +3,7 @@
 看起来这书已经略显残破了. 
 
 [@TaskDescription]
-将 {PrajnaHistory/LightSteelBlue} 书交还
+将 {苍月史书/LightSteelBlue} 书交还
 给 {VillageChief/LimeGreen} 他在 {PrajnaIsland/Yellow}.
 
 [@Completion]
@@ -13,16 +13,16 @@
 [@ItemTasks]
 
 [@CarryItems]
-PrajnaHistory 1
+苍月史书 1
 
 [@FixedRewards]
 
 [@SelectRewards]
-Fine战神盔甲
-FireRobe
-YingYangRobe
-FlamingRedArmour
-HardTemperedArmour
+战神宝盔
+火之法袍
+阴阳道袍
+远古战甲
+
 
 [@ExpReward]
 391200

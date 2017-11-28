@@ -3,7 +3,7 @@
 还活着我很高兴. 此外，我还有点别的事麻烦你.
 
 [@TaskDescription]
-运送 {MobBlood/LightSteelBlue} 给 {Dr.Kim/LimeGreen} 在 {SerpentValley/Yellow}
+运送 {怪物血/LightSteelBlue} 给 {Dr.Kim/LimeGreen} 在 {SerpentValley/Yellow}
 
 [@Completion]
 
@@ -12,7 +12,7 @@
 [@ItemTasks]
 
 [@CarryItems]
-MobBlood 2
+怪物血 2
 
 [@FixedRewards]
 

@@ -10,13 +10,13 @@
 1/6 强效太阳水
 
 ;Scrolls
-1/20 TownTeleport
+1/20 回城卷
 
 ;Crafting Material
-1/1 Bone
-1/2 LargeBone
-1/40 FocusMarble
-1/40 EvasionMarble
+1/1 骨头
+1/2 大骨头
+1/40 准确珠
+1/40 避魂珠
 
 ;Rings
 1/8 金戒指
@@ -47,4 +47,4 @@
 1/10 道士头盔
 
 ;Quest
-1/10 CleanSkull Q
+1/10 雪白的骷髅 Q

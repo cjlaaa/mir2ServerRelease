@@ -18,7 +18,7 @@ RedSnake 5
 [@FixedRewards]
 
 [@SelectRewards]
-SolidArmour
+坚实盔甲
 
 [@ExpReward]
 5000

@@ -1,12 +1,12 @@
 ﻿[@main]
 #IF
-CHECKITEM DragonScale 1 
+CHECKITEM 龙鳞 1 
 #ACT
-TAKEITEM DragonScale 1
+TAKEITEM 龙鳞 1
 #SAY
 <进入龙之巢穴./@tele>
 #ELSESAY
-你没有 {DragonScale/LightSteelBlue}!
+你没有 {龙鳞/LightSteelBlue}!
 <关闭/@exit>
 
 [@tele]

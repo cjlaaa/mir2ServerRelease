@@ -4,14 +4,14 @@ Myths 和 Rumours 说需要收集一些
 这会有助于我们击败它们.
 
 [@TaskDescription]
-收集 5 {ZombiesHeart/LightSteelBlue} 从 {CursedPriest's/Crimson}.
+收集 5 {僵尸之心/LightSteelBlue} 从 {CursedPriest's/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
 
 [@ItemTasks]
-ZombiesHeart 5
+僵尸之心 5
 
 [@CarryItems]
 

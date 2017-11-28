@@ -142,61 +142,61 @@
 ;Scrolls
 
 ;Gems
-1/500 BraveryOrb 
-1/500 MagicOrb 
-1/500 SoulOrb 
-1/400 ProtectionOrb 
-1/400 EvilSlayerOrb 
-1/300 DurabilityOrb 
-1/2500 PoisonOrb 
-1/2500 FreezingOrb 
-1/2500 StormOrb 
-1/2500 AgilityOrb 
-1/2500 AccuracyOrb 
+1/500 勇猛神珠 
+1/500 魔性神珠 
+1/500 仙界神珠 
+1/400 守护神珠 
+1/400 制魔神珠 
+1/300 强化神珠 
+1/2500 中毒神珠 
+1/2500 酷寒神珠 
+1/2500 疾风神珠 
+1/2500 回避神珠 
+1/2500 集中神珠 
 
 ;Mount
 
 ;Books
-1/100 ShoulderDash 
-1/75 TwinDrakeBlade 
-1/150 Entrapment 
-1/50 FlamingSword 
-1/100 LionRoar 
-1/60 CrossHalfMoon 
-1/100 BladeAvalanche 
-1/400 ProtectionField 
-1/800 Rage 
-1/100 ThunderStorm 
-1/50 IceStorm 
-1/100 Vampirism 
-1/60 FlameDisruptor 
-1/100 Mirroring 
-1/400 FlameField 
-1/800 MeteorStrike 
-1/1200 Blizzard 
-1/100 TrapHexagon 
-1/60 EnergyRepulsor 
-1/50 Purification 
-1/100 Hallucination 
-1/60 UltimateEnhancer 
-1/50 SummonShinsu 
-1/400 Reincarnation 
-1/400 SummonHolyDeva 
-1/400 Curse 
-1/800 PoisonCloud 
-1/1200 EnergyShield 
-1/275 FlashDash 
-1/1200 FireBurst 
-1/60 Trap 
-1/100 PoisonSword 
-1/100 MoonLight 
-1/300 MPEater 
-1/400 DarkBody 
-1/800 SwiftFeet 
-1/1200 Hemorrhage 
+1/100 野蛮冲撞 
+1/75 双龙斩 
+1/150 捕绳剑 
+1/50 烈火剑法 
+1/100 狮子吼 
+1/60 圆月弯刀 
+1/100 攻破斩 
+1/400 护身气幕 
+1/800 剑气爆 
+1/100 地狱雷光 
+1/50 冰咆哮 
+1/100 嗜血术 
+1/60 火龙术 
+1/100 分身术 
+1/400 火龙气焰 
+1/800 流星火雨 
+1/1200 天霜冰环 
+1/100 困魔咒 
+1/60 气功波 
+1/50 净化术 
+1/100 迷魂术 
+1/60 无极真气 
+1/50 召唤神兽 
+1/400 复活术 
+1/400 召唤月灵 
+1/400 诅咒术 
+1/800 毒云 
+1/1200 阴阳盾 
+1/275 拔刀术 
+1/1200 烈风击 
+1/60 捕缚术 
+1/100 猛毒剑气 
+1/100 月影术 
+1/300 吸气 
+1/400 烈火身 
+1/800 轻身步 
+1/1200 血风击 
 
 ;Nothing
-1/300 GoldBar 
+1/300 金条 
 
 ;Script
 

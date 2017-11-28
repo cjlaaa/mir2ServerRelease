@@ -1,17 +1,17 @@
 ;Crafting Materials
 
-1/1 BrownChestnut 
-1/2 BrownChestnut 
-1/3 BrownChestnut 
+1/1 棕栗子 
+1/2 棕栗子 
+1/3 棕栗子 
 
-1/3 BronzeChestnut 
-1/3 BronzeChestnut 
+1/3 铜栗子 
+1/3 铜栗子 
 
-1/7 SilverChestnut 
-1/7 SilverChestnut 
+1/7 银栗子 
+1/7 银栗子 
 
-1/1 GoldChestnut 
-1/1 GoldChestnut 
+1/1 金栗子 
+1/1 金栗子 
 
-1/8 Timber
-1/15 Timber
+1/8 木材
+1/15 木材

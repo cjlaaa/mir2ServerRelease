@@ -56,24 +56,24 @@ GOTO @PremCaveMenu
 [@AOC]
 #ACT
 MOVE D001A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@AWT]
 #ACT
 MOVE D021A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@AST]
 #ACT
 MOVE D710A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@AZT]
 #ACT
 MOVE 0157A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1
 
 [@APC]
 #ACT
 MOVE D2051A
-GIVEITEM TownTeleport 1
+GIVEITEM 回城卷 1

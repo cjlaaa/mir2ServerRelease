@@ -33,4 +33,4 @@
 1/40 太阳水 
 
 ;Quest
-1/5 GingerTea Q
+1/5 姜茶 Q

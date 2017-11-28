@@ -108,9 +108,9 @@
 1/9000 狂风项链
 
 ;Crafting Materals
-1/3 BlackThread
-1/3 SpiderWeb
+1/3 黑线
+1/3 蜘蛛网
 
 ;Books
-1/70 Purification
-1/100 UltimateEnhancer
+1/70 净化术
+1/100 无极真气

@@ -10,13 +10,13 @@
 1/60 强效太阳水
 
 ;Scrolls
-1/200 TownTeleport
+1/200 回城卷
 
 ;Crafting Material
-1/10 Bone
-1/20 LargeBone
-1/400 FocusMarble
-1/400 EvasionMarble
+1/10 骨头
+1/20 大骨头
+1/400 准确珠
+1/400 避魂珠
 
 ;Rings
 1/80 金戒指

@@ -150,16 +150,16 @@
 1/30 魔力药水(小) 
 
 ;Scrolls
-1/5 BenedictionOil 
-1/10 BenedictionOil 
+1/5 祝福油 
+1/10 祝福油 
 
 ;Books
-1/65 FlamingSword 
-1/65 IceStorm 
-1/65 SummonShinsu 
-1/65 PoisonSword 
-1/100 TwinDrakeBlade 
-1/300 CrossHalfMoon 
-1/300 FlameDisruptor 
-1/300 UltimateEnhancer 
-1/300 MPEater 
+1/65 烈火剑法 
+1/65 冰咆哮 
+1/65 召唤神兽 
+1/65 猛毒剑气 
+1/100 双龙斩 
+1/300 圆月弯刀 
+1/300 火龙术 
+1/300 无极真气 
+1/300 吸气 

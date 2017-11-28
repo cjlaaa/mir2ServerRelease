@@ -7,15 +7,15 @@
 1/3 魔法药(大量)
 1/2 太阳水
 1/6 强效太阳水
-1/10 RepairOil
-1/120 WarGodOil
-1/1000 BenedictionOil
+1/10 修复油
+1/120 战神油
+1/1000 祝福油
 
 ;Crafting Material
-1/1 Bone
-1/2 LargeBone
-1/40 WindMarble
-1/40 PoisonMarble
+1/1 骨头
+1/2 大骨头
+1/40 疾风珠
+1/40 毒素珠
 
 ;Weapons
 1/200 井中月
@@ -104,6 +104,6 @@
 1/2000 骑士手镯
 
 ;Books
-1/28 FlamingSword
-1/40 ShoulderDash
-1/1000 TwinDrakeBlade
+1/28 烈火剑法
+1/40 野蛮冲撞
+1/1000 双龙斩
