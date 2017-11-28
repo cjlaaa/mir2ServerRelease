@@ -1,4 +1,4 @@
-RedThread 1
-Bone 1
-Candle 1
-RepairOil 1
+红线 1
+骨头 1
+蜡烛 1
+修复油 1
