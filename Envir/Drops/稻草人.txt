@@ -1,13 +1,11 @@
-;Gold
+﻿;Gold
 1/10 Gold 50
 
 ;Weapons
 1/50 木剑 
-1/50 虎牙刀 
-1/50 WoodenBow 
+1/50 虎牙刀  
 1/100 匕首 
 1/100 乌木剑 
-1/100 EbonyBow 
 
 ;Armours
 1/100 布衣(男) 
@@ -85,7 +83,7 @@
 ;Fish
 
 ;Quest
-1/5 姜茶 Q
+1/2 姜茶 Q
 
 ;Awakening
 

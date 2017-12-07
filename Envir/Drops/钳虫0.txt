@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/1 Gold 4500
 
 ;Weapons
@@ -7,7 +7,6 @@
 1/16 偃月 
 1/16 降魔 
 1/16 墨铁刀 
-1/16 LongBow 
 1/50 修罗 
 1/100 凝霜 
 
@@ -20,8 +19,6 @@
 1/80 灵魂战衣(女) 
 1/80 残影魔衣(男) 
 1/80 残影魔衣(女) 
-1/80 LightLeatherArmour(男) 
-1/80 LightLeatherArmour(女) 
 
 ;Necklaces
 1/20 灯笼项链 
@@ -92,5 +89,5 @@
 
 
 ;Quest
-1/5 龙之宝剑 Q
+1/2 龙之宝剑 Q
 

@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/5 Gold 450
 
 ;Weapons
@@ -7,14 +7,12 @@
 1/250 海魂 
 1/250 半月 
 1/250 音速刀 
-1/250 CompoundBow 
 1/300 钢斧 
 1/350 凌风 
 1/350 斩马刀 
 1/350 偃月 
 1/350 降魔 
 1/350 墨铁刀 
-1/350 LongBow 
 
 ;Armours
 1/250 轻型盔甲(男) 
@@ -60,12 +58,10 @@
 1/100 火球术 
 1/100 治愈术 
 1/100 绝命剑法 
-1/100 Focus 
 1/100 抗拒火环 
 1/100 诱惑之光 
 1/100 精神力战法 
 1/100 施毒术 
-1/200 StraightShot 
 1/200 雷电术 
 1/200 大火球 
 1/200 灵魂火符 
@@ -85,13 +81,7 @@
 1/500 心灵启示 
 1/500 神圣战甲术 
 1/500 拔刀术 
-1/150 ExplosiveTrap 
-1/200 Meditation 
-1/250 SummonVampire 
-1/500 DelayedExplosion 
-1/700 BackStep 
-1/1000 ElementalShot 
-1/400 DoubleShot 
+
 
 ;Quest
 1/2 僵尸之眼 Q

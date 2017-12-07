@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/15    Gold 2000
 
 ;Potions
@@ -16,13 +16,9 @@
 1/50    狐月神珠
 
 ;Belts
-1/420 软玉矿Belt
-1/420 RedJadeBelt
 1/420 钢铁腰带
 
 ;Shoes
-1/440 软玉矿Shoes
-1/440 RedJadeShoes
 1/440 赤鳞靴
 
 ;Books

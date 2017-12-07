@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/1 Gold 2000
 
 ;Armours
@@ -12,8 +12,6 @@
 1/50 灵魂战衣(女)
 1/50 残影魔衣(男)
 1/50 残影魔衣(女)
-1/50 LightLeatherArmour(男) 
-1/50 LightLeatherArmour(男) 
 
 ;Helmets
 1/10 魔法头盔
@@ -42,7 +40,7 @@
 1/4 颚骨
 
 ;Quest
-1/8 采药手套 Q
-1/8 采药工具 Q
-1/8 绿草药 Q
+1/2 采药手套 Q
+1/2 采药工具 Q
+1/2 绿草药 Q
 

@@ -1,4 +1,4 @@
-;Gold 
+﻿;Gold 
 1/5 Gold 800
 
 ;Potions
@@ -17,7 +17,6 @@
 1/4000 逍遥扇
 1/4000 怒斩
 1/4000 冷月刀
-1/4000 LitheBow
 
 ;Armour
 1/200 重盔甲(男)
@@ -28,8 +27,6 @@
 1/200 魔法长袍(女)
 1/200 残影魔衣(男)
 1/200 残影魔衣(女)
-1/200 LightLeatherArmour(男)
-1/200 LightLeatherArmour(女)
 
 ;Belts 
 1/100 兽皮腰带

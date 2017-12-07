@@ -1,18 +1,14 @@
-;Gold
+﻿;Gold
 1/20 Gold 100
 
 ;Weapons
 1/60 木剑 
 1/60 虎牙刀 
-1/60 WoodenBow 
 1/90 匕首 
 1/100 乌木剑 
-1/100 EbonyBow 
 1/140 青铜剑 
 1/140 暴虎刀 
-1/140 ShortBow 
 1/180 铁剑 
-1/180 BoneBow 
 1/220 短剑 
 
 ;Armours

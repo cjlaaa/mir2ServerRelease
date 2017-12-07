@@ -1,18 +1,14 @@
-;Gold
+﻿;Gold
 1/5 Gold 200
 
 ;Weapons
 1/60 木剑 
 1/60 虎牙刀 
-1/60 WoodenBow 
 1/90 匕首 
 1/90 乌木剑 
-1/90 EbonyBow 
 1/100 青铜剑 
-1/100 ShortBow 
 1/100 暴虎刀 
 1/120 铁剑 
-1/120 BoneBow 
 1/220 短剑 
 
 ;Armours
@@ -71,7 +67,7 @@
 ;Crafting Materials
 
 ;Scrolls
-1/500 战神油 
+1/50 战神油 
 
 ;Gems
 

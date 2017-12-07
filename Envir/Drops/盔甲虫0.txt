@@ -1,18 +1,14 @@
-;Gold
+﻿;Gold
 1/5 Gold 2000
 
 ;Weapons
 1/6 木剑 
 1/6 虎牙刀 
-1/6 WoodenBow 
 1/9 匕首 
 1/9 乌木剑 
-1/9 EbonyBow 
 1/10 青铜剑 
-1/10 ShortBow 
 1/10 暴虎刀 
 1/12 铁剑 
-1/12 BoneBow 
 1/22 短剑 
 
 ;Armours

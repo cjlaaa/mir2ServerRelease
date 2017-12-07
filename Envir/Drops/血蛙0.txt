@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/1 Gold 2000
 
 ;Necklaces
@@ -42,5 +42,5 @@
 1/4 颚骨
 
 ;Quest
-1/5 蓝翡翠吊坠 Q
+1/2 蓝翡翠吊坠 Q
 

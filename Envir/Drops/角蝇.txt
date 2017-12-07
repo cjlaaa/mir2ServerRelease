@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/10 Gold 300
 
 ;Potions
@@ -8,4 +8,4 @@
 1/40 强效太阳水 
 
 ;Crafting Materials
-1/10 虫眼 
+1/2 虫眼 

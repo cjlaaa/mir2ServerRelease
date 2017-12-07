@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/15    gold 8500
 
 ;Potions
@@ -29,4 +29,3 @@
 1/2    魔法药(大量)
 
 ;Scrolls
-1/15 凭证

@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/15 Gold 2250
 
 ;Potions
@@ -20,8 +20,7 @@
 1/650 灵魂战衣(女)
 1/650 残影魔衣(男)
 1/650 残影魔衣(女)
-1/650 LightLeatherArmour(男)
-1/650 LightLeatherArmour(女)
+
 
 ;Weapons
 1/200 破魂
@@ -29,7 +28,6 @@
 1/200 偃月
 1/200 降魔
 1/200 墨铁刀
-1/200 LongBow
 1/550 修罗
 1/600 凝霜
 

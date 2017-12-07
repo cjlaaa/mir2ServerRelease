@@ -1,4 +1,4 @@
-;Gold 
+﻿;Gold 
 1/5 Gold 700
 
 ;Potions
@@ -29,8 +29,6 @@
 1/1000 玄天宝衣(女)
 1/1000 修罗血衣(男)
 1/1000 修罗血衣(女)
-1/1000 StuddedArmour(男)
-1/1000 StuddedArmour(女)
 
 ;Rings
 1/120 降妖除魔戒指

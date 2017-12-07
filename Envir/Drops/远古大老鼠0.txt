@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/1 Gold 3500
 
 ;Weapons
@@ -7,14 +7,12 @@
 1/16 偃月 
 1/16 降魔 
 1/16 墨铁刀 
-1/16 LongBow 
 1/50 修罗 
 1/50 凝霜 
 1/600 炼狱 
 1/600 魔杖 
 1/600 银蛇 
 1/600 双极刀 
-1/600 SilverBow 
 
 ;Armours
 1/80 重盔甲(男) 
@@ -25,8 +23,6 @@
 1/80 灵魂战衣(女) 
 1/80 残影魔衣(男) 
 1/80 残影魔衣(女) 
-1/80 LightLeatherArmour(男) 
-1/80 LightLeatherArmour(女) 
 
 ;Helmets
 1/40 骷髅头盔 

@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/1 Gold 8500
 
 ;Weapons
@@ -6,7 +6,6 @@
 1/25 海魂 
 1/25 半月 
 1/25 音速刀 
-1/25 CompoundBow 
 1/25 钢斧 
 1/30 凌风 
 1/50 破魂 
@@ -14,7 +13,6 @@
 1/50 偃月 
 1/50 降魔 
 1/50 墨铁刀 
-1/50 LongBow 
 
 ;Armours
 1/15 轻型盔甲(男) 
@@ -122,9 +120,3 @@
 1/10 施毒术 
 1/15 双刀术 
 1/60 体迅风 
-1/15 ExplosiveTrap
-1/20 Meditation
-1/25 SummonVampire
-1/50 DelayedExplosion
-1/700 BackStep
-1/1000 ElementalShot

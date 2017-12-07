@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/5 Gold 20000
 
 ;Potions
@@ -46,15 +46,12 @@
 1/30 玄天宝衣(女)
 1/30 修罗血衣(男)
 1/30 修罗血衣(女)
-1/30 StuddedArmour(男)
-1/30 StuddedArmour(女)
 
 ;Weapons
 1/600 龙牙
 1/600 怒斩
 1/600 逍遥扇
 1/600 冷月刀
-1/600 LitheBow
 
 ;Belts
 1/30 黄金腰带

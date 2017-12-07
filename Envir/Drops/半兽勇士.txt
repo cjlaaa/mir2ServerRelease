@@ -1,21 +1,18 @@
-;Gold
+﻿;Gold
 1/1 Gold 3500
 
 ;Weapons
 1/20 匕首 
 1/20 乌木剑 
-1/20 EbonyBow 
 1/20 青铜剑 
-1/20 ShortBow 
 1/20 铁剑 
-1/20 BoneBow 
 1/20 暴虎刀 
 1/20 短剑 
 1/30 八荒 
 1/30 海魂 
 1/30 半月 
 1/30 音速刀 
-1/30 CompoundBow 
+
 
 ;Armours
 1/20 布衣(男) 
@@ -96,9 +93,7 @@
 1/10 火球术 
 1/10 治愈术 
 1/10 绝命剑法 
-1/10 Focus 
 1/16 精神力战法 
-1/16 StraightShot 
 1/20 施毒术 
 1/20 抗拒火环 
 1/40 诱惑之光 
@@ -108,10 +103,4 @@
 1/40 雷电术 
 1/40 双刀术 
 1/110 刺杀剑术 
-1/30 ExplosiveTrap 
-1/40 Meditation 
-1/50 SummonVampire 
-1/100 DelayedExplosion 
-1/140 BackStep 
-1/200 ElementalShot 
-1/80 DoubleShot 
+

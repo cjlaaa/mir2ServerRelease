@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/5 Gold 100
 
 ;Crafting Materials
@@ -7,4 +7,4 @@
 
 ;Quest
 1/2 遗物 Q
-1/10 水晶戒指 Q
+1/5 水晶戒指 Q

@@ -1,12 +1,10 @@
-;Gold
+﻿;Gold
 1/10 Gold 1000
 
 ;Weapons
 1/60 青铜剑 
-1/60 ShortBow 
 1/60 暴虎刀 
 1/90 铁剑 
-1/90 BoneBow 
 1/100 短剑 
 1/150 青铜斧 
 1/150 钢斧 
@@ -14,7 +12,6 @@
 1/160 海魂 
 1/160 半月 
 1/160 音速刀 
-1/160 CompoundBow 
 1/200 凌风 
 
 ;Armours
@@ -98,9 +95,3 @@
 1/200 半月弯刀 
 1/400 拔刀术 
 1/400 风身术 
-1/300 ExplosiveTrap 
-1/400 Meditation 
-1/500 SummonVampire 
-1/1000 DelayedExplosion 
-1/1400 BackStep 
-1/2000 ElementalShot 

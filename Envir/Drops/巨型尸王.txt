@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/5 Gold 8500
 
 ;Weapons 
@@ -7,7 +7,6 @@
 1/7 偃月 
 1/7 降魔 
 1/7 墨铁刀 
-1/7 LongBow 
 1/6 钢斧 
 1/10 凌风 
 1/50 凝霜
@@ -22,8 +21,6 @@
 1/55 灵魂战衣(女) 
 1/55 残影魔衣(男) 
 1/55 残影魔衣(女) 
-1/55 LightLeatherArmour(男) 
-1/55 LightLeatherArmour(女) 
 1/250 中型盔甲(男) 
 1/250 中型盔甲(女) 
 
@@ -175,10 +172,3 @@
 1/100 风身术 
 1/150 迁移剑 
 1/250 猛毒剑气
-1/15 ExplosiveTrap 
-1/20 Meditation 
-1/25 SummonVampire 
-1/50 DelayedExplosion 
-1/70 BackStep 
-1/100 ElementalShot 
-1/40 DoubleShot 

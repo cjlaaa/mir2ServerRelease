@@ -1,13 +1,11 @@
-;Gold
+﻿;Gold
 1/1 Gold 2000
 
 ;Weapons
 1/5 木剑 
 1/5 虎牙刀 
-1/5 WoodenBow 
 1/10 匕首 
 1/10 乌木剑 
-1/10 EbonyBow 
 
 ;Armours
 1/10 布衣(男) 
@@ -33,4 +31,4 @@
 1/40 太阳水 
 
 ;Quest
-1/5 姜茶 Q
+1/2 姜茶 Q

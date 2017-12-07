@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/5 Gold 5000
 
 ;Potions
@@ -38,8 +38,6 @@
 1/20 灵魂战衣(女)
 1/20 残影魔衣(男)
 1/20 残影魔衣(女)
-1/20 LightLeatherArmour(男)
-1/20 LightLeatherArmour(女)
 
 ;Helmets
 1/20 道士头盔
@@ -52,14 +50,12 @@
 1/8 偃月
 1/8 降魔
 1/8 墨铁刀
-1/8 LongBow
 1/20 修罗
 1/30 凝霜
 1/200 炼狱
 1/200 魔杖
 1/200 银蛇
 1/200 双极刀
-1/200 SilverBow
 
 ;Rings
 1/6 黑色水晶戒指

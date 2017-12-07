@@ -1,13 +1,11 @@
-;Gold
+﻿;Gold
 1/1 Gold 2000
 
 ;Weapons
 1/4 木剑 
 1/4 虎牙刀 
-1/4 WoodenBow 
 1/4 匕首 
 1/4 乌木剑 
-1/4 EbonyBow 
 
 ;Armours
 1/4 布衣(男) 

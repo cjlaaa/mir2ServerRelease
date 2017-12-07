@@ -1,13 +1,11 @@
-;Gold
+﻿;Gold
 1/10 Gold 50
 
 ;Weapons
 1/40 木剑 
 1/40 虎牙刀 
-1/40 WoodenBow 
 1/40 匕首 
 1/40 乌木剑 
-1/40 EbonyBow 
 
 ;Armours
 1/40 布衣(男) 

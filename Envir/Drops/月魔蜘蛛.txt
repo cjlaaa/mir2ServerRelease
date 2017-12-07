@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/5 Gold 500
 
 ;Potions
@@ -15,4 +15,4 @@
 
 
 ;Quest
-1/6 蝙蝠毒 Q
+1/2 蝙蝠毒 Q
