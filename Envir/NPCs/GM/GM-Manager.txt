@@ -4,7 +4,7 @@ Managing the affairs of a Game Master like you is a pleasure.
 What function would you like me to perform today <$DATE>
  
 <Guild Application/@CreateGuildCheck> , <View Market/@MARKET> , <View Consigned Items/@CONSIGNMENT> , <Consign Item/@CONSIGN>
-<Kill my Pets/@KillPets> , <Open my Sto剑气爆/@STO剑气爆> , <Reset Quest Flags/@ResetQuestFlags>
+<Kill my Pets/@KillPets> , <Open my Storage/@Storage> , <Reset Quest Flags/@ResetQuestFlags>
  
 Menu: <Exit/@Exit>                                                  <Event Managment Page/@EventManagment>
 
@@ -61,7 +61,7 @@ The following are {'cautions'/LimeGreen} in the commission sale.
    10,000 - 50,000,000 gold.
 
 
-[@STO剑气爆]
+[@Storage]
 #SAY
 Trust me, I'm looking after your stuff.
  

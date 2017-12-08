@@ -12,7 +12,7 @@ GOTO @Main-1
 [@Main-1]
 #SAY
 你好旅行者，我能帮你做些什么?
-<打开/@Sto剑气爆> 仓库
+<打开/@Storage> 仓库
 <货币/@mbind> 转换
 <购买/@Buy>
 你有 <$PARCELAMOUNT> 个邮件在等待收取.
@@ -20,7 +20,7 @@ GOTO @Main-1
 <收取/@CollectParcel> 邮件
 打听 <消息/@Info> 
 
-[@Sto剑气爆]
+[@Storage]
 #SAY
 看看你需要存取什么东西?
  

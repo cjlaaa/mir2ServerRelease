@@ -13,7 +13,7 @@ GOTO @Main-1
 #SAY
 你好旅行者，我能帮你做些什么?
  
-<打开/@Sto剑气爆> 仓库
+<打开/@Storage> 仓库
 
 你似乎收到了 <$PARCELAMOUNT> 个邮件.
 去找旅馆里的Mary拿取
@@ -22,7 +22,7 @@ GOTO @Main-1
 
 
 
-[@Sto剑气爆]
+[@Storage]
 #SAY
 看看你需要存取什么东西?
  

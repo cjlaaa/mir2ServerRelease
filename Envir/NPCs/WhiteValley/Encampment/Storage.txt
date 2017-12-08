@@ -13,7 +13,7 @@ GOTO @Main-1
 #SAY
 Hello traveller. How can i help you?
  
-<Access/@Sto剑气爆> Sto剑气爆
+<Access/@Storage> Storage
 You have <$PARCELAMOUNT> parcels awaiting collection.
 <Send/@SendParcel> Parcel
 <Collect/@CollectParcel> Parcels
@@ -22,7 +22,7 @@ You have <$PARCELAMOUNT> parcels awaiting collection.
 
 
 
-[@Sto剑气爆]
+[@Storage]
 #SAY
 What item do you want to store or withdraw?
  

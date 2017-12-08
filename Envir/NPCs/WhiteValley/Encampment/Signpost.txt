@@ -34,6 +34,6 @@ MOVE whitevillage 270 248
 #ACT
 MOVE whitevilage 334 248
 
-[@go-Sto剑气爆]
+[@go-Storage]
 #ACT
 MOVE WhiteVillage 312 278
