@@ -1,13 +1,13 @@
 ﻿[@Description]
-找到 {CrushedBone's/LimeGreen} 之后，他已经被蜘蛛杀死了.
+找到{遗失的骸骨/LimeGreen} 之后，他已经被蜘蛛杀死了.
 
 [@TaskDescription]} 
-击杀 {VenomSpider/Crimson}.
+击杀{天狼蜘蛛/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-VenomSpider 1
+天狼蜘蛛 1
 
 [@ItemTasks]
 

@@ -1,15 +1,15 @@
 ﻿[@Description]
-旅行者，请帮帮我. 我在 {TreePath/Yellow}.
-我在砍 {Wood/LightSteelBlue} 时把 {Axe/LightSteelBlue}
-弄丢了
+旅行者，请帮帮我.我在{丛林迷宫/Yellow}.
+砍树时把{斧子/LightSteelBlue}弄丢了，我感觉
+是蜘蛛偷的，你能帮我报仇吗？
 
 [@TaskDescription]
-找到并击杀 {BloodyLureSpider/Crimson} 
+找到并击杀{血之花吻蛛/Crimson} 
 
 [@Completion]
 
 [@KillTasks]
-BloodyLureSpider 1
+血之花吻蛛 1
 
 [@ItemTasks]
 

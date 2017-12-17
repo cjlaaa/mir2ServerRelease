@@ -2,7 +2,7 @@
 这批货物被袭击了，回到道馆去报告吧.
 
 [@TaskDescription]
-向 {LeadTrainer/LimeGreen}回复.
+向{LeadTrainer/LimeGreen}回复.
 
 [@Completion]
 

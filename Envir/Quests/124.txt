@@ -1,10 +1,10 @@
 ﻿[@Description]
 我需要你的帮助. 你能前往洞窟帮我收集一些 
-{雪白的骷髅's/LightSteelBlue}吗.
+{雪白的骷髅/LightSteelBlue}吗.
 
 [@TaskDescription]
-收集 10 {雪白的骷髅's/LightSteelBlue} 通过猎杀 {BoneArcher's/Crimson}, 
-{BoneBlademan/Crimson} 和 {BoneSpearman/Crimson}.
+猎杀{骷髅弓箭手/Crimson}, {骷髅刀斧手/Crimson}和{骷髅长枪兵/Crimson}.
+收集10个{雪白的骷髅/LightSteelBlue}
 
 [@Completion]
 

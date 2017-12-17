@@ -1,16 +1,15 @@
 ﻿[@Description]
-你好旅行者. 请先听听我的故事. 
-我搬来{Woomyon Woods/Yellow} 已经40年了. 
+你好旅行者. 我搬来{沃玛森林/Yellow} 已经40年了. 
 曾经，我努力猎杀着周围的怪物, 
 但现在我老了，你能帮帮我吗
 
 [@TaskDescription]
-猎杀 5 {OmaFighter/Crimson} 为 {MasterShok/LimeGreen}
+为{MasterShok/LimeGreen}猎杀 5只 {半兽战士/Crimson} 
 
 [@Completion]
 
 [@KillTasks]
-OmaFighter 5
+半兽战士 5
 
 [@ItemTasks]
 

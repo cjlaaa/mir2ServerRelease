@@ -1,5 +1,5 @@
 ﻿[@Description]
-回到 {TaoVillage/Yellow} 然后与 {LeadTrainer/LimeGreen}交谈.
+回到{道馆/Yellow} 然后与{LeadTrainer/LimeGreen}交谈.
 
 [@TaskDescription]
 

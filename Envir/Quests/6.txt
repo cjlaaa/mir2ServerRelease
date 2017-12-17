@@ -3,12 +3,12 @@
 你能再帮我个忙吗?
 
 [@TaskDescription]
-消灭5只{HookingCat/Crimson}
+消灭5只{多钩猫/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-HookingCat 5
+多钩猫 5
 
 [@ItemTasks]
 
@@ -19,7 +19,6 @@ HookingCat 5
 [@SelectRewards]
 青铜战刀
 猛虎双刀
-StrongWoodenBow
 
 [@ExpReward]
 750

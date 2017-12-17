@@ -1,17 +1,17 @@
 ﻿[@Description]
-你好冒险者。我们正在将 {Zombie's/Crimson} 赶回山洞.
+你好冒险者。我们正在努力将{僵尸/Crimson} 赶回山洞.
 你能助我们一臂之力吗?
  
 [@TaskDescription]
-猎杀 {CursedZombie/Crimson}, {ShiZombie/Crimson} 和 
-{HungryZombie's/Crimson} 在 {MineralMines/Yellow}.
+在{道馆矿区/Yellow}猎杀{被诅咒的僵尸/Crimson},{石化僵尸/Crimson}
+和 {游荡恶鬼/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-CursedZombie 5 
-ShiZombie 5 
-HungryZombie 5 
+被诅咒的僵尸 5 
+石化僵尸 5 
+游荡恶鬼 5 
 
 [@ItemTasks]
 

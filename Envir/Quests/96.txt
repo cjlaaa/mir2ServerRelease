@@ -1,10 +1,10 @@
 ﻿[@Description]
-{Butcher/LimeGreen} 在 {WoomyonWoods/Yellow} 开了一个
+{Butcher/LimeGreen}在{沃玛村/Yellow}开了一个
 新店，他似乎需要一些帮助. 
 
 [@TaskDescription]
-收集 5 {牛肋排/LightSteelBlue} 通过猎杀 {WoomaSoldier's/Crimson}
-然后带给 {Butcher/LimeGreen} 在 {WoomyonWoods/Yellow}
+猎杀{沃玛军士/Crimson}收集5个{牛肋排/LightSteelBlue}
+然后回到{沃玛村/Yellow}，将牛肋排带给{Butcher/LimeGreen}
 
 [@Completion]
 

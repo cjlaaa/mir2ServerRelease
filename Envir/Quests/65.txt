@@ -1,14 +1,13 @@
 ﻿[@Description]
-你好旅行者, 一只 {Zombies/Crimson} 在几天前杀了我的宠物。 请你帮我杀掉{Zombies/Crimson}!
+你好旅行者, 一只 {僵尸/Crimson} 在几天前杀了我的宠物。 请你帮我向他们复仇!
 
 [@TaskDescription]
-消灭 15 {Shaman Zombies/Crimson} 在 
-{BichonDeadMines/Yellow}.
+前往{废矿/Yellow}消灭10只{萨满僵尸/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ShamanZombie 15
+萨满僵尸 10
 
 [@ItemTasks]
 

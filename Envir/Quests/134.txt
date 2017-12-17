@@ -1,10 +1,9 @@
 ﻿[@Description]
-请把这个 {Algea/LightSteelBlue} 带到 
-{MongchonProvince/Yellow}.
+请把这个{海藻药/LightSteelBlue} 带到 
+{盟重省/Yellow}.
 
 [@TaskDescription]
-运送 {Algea/LightSteelBlue} 给 {CraftsLady/LimeGreen} 在 
-{MongchonProvince/Yellow}.
+运送{海藻药/LightSteelBlue}给盟重省的{工艺夫人/LimeGreen}
 
 [@Completion]
 

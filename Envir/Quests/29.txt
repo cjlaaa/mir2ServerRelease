@@ -1,6 +1,6 @@
 ﻿[@Description]
 请帮我个忙。
-你能帮我把这东西交给{SerpentValley/Yellow}的{Bradly/LimeGreen}吗? 
+你能帮我把这东西交给{毒蛇山谷/Yellow}的{Bradly/LimeGreen}吗? 
 他的{修复油/LightSteelBlue}用光了，但他却急需修理武器。
 请尽快带给他，拜托了。
 

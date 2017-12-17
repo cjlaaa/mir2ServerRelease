@@ -1,12 +1,11 @@
 ﻿[@Description]
-你知道怎么去 {CastleGi-Ryoong/Yellow}吗? 
-我向送一本菜谱给{Butcher Jim/LimeGreen} 在
-{CastleGi-Ryoong/Yellow}? 
+你知道怎么去 {封魔谷/Yellow}吗? 
+我想送一本菜谱给封魔谷的{Butcher Jim/LimeGreen}。 
 
 
 [@TaskDescription]
-前往{WoomyonWoods/Yellow} 的北方，将 {菜谱/LightSteelBlue} 
-带给 {Jim/LimeGreen} 在 {CastleGi-Ryoong/Yellow}
+前往{沃玛森林/Yellow} 的北方，将 {菜谱/LightSteelBlue} 
+带给{封魔谷/Yellow}的 {Jim/LimeGreen}
 
 [@Completion]
 

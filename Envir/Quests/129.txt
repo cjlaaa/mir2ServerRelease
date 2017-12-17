@@ -1,8 +1,8 @@
 ﻿[@Description]
-请前往 {RedValley/Yellow} 然后收集一些材料. 
+请前往{赤月峡谷/Yellow}然后收集一些材料. 
 
 [@TaskDescription]
-猎杀 {SpiderBat/Crimson} 然后收集 10 {蝙蝠毒/LightSteelBlue}.
+猎杀{月魔蜘蛛/Crimson}然后收集10个{蝙蝠毒/LightSteelBlue}.
 
 [@Completion]
 

@@ -1,9 +1,10 @@
 ﻿[@Description]
-这项链是我的 {LifeStone/LightSteelBlue}.. 这也是
-我返回的原因. 请找回我的 {LifeStone/LightSteelBlue}.
+这项链是我的{生命之石/LightSteelBlue}..这也是
+我返回的原因. 请帮帮我.
 
 [@TaskDescription]
-猎杀 {GiantWorm's/Crimson} 然后找回 {老旧的项链/LightSteelBlue}.
+猎杀{巨型蠕虫/Crimson}然后找回{老旧的项链/LightSteelBlue}.
+
 [@Completion]
 
 [@KillTasks]

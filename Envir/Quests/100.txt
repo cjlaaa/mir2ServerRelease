@@ -1,16 +1,16 @@
 ﻿[@Description]
-我们得到报告称有一只强大的恶魔出没在 {Temple/Yellow}.
+我们得到报告称有一只强大的恶魔出没在{沃玛寺庙/Yellow}.
 请去消灭他和他的爪牙！
 
 [@TaskDescription]
-猎杀 15 {WoomaWarrior's/Crimson} 和 1 
-{WoomaGaurdian/Crimson} 然后取得它的 {Horn/LightSteelBlue}.
+猎杀5只{沃玛勇士/Crimson}和1只 
+{沃玛卫士/Crimson}然后取得它的{号角/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
-WoomaWarrior 5
-WoomaGuardian 1
+沃玛勇士 5
+沃玛卫士 1
 
 [@ItemTasks]
 沃玛的号角 1

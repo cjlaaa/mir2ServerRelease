@@ -1,16 +1,16 @@
 ﻿[@Description]
-我们需要尽快化解这场危机. 前往西南方向的 {Temple/Yellow}
+我们需要尽快化解这场危机. 前往西南方向的{沃玛寺庙/Yellow}
 然后试着解除这场危机.
 
 [@TaskDescription]
-猎杀 10 {Dung/Crimson} 和 {WoomaSoldiers/Crimson}.
+猎杀10只{粪虫/Crimson}和{沃玛战士/Crimson}.
 
 [@Completion]
 很好，你是削弱这场危机的希望.
 
 [@KillTasks]
-Dung 10
-WoomaSoldier 10
+粪虫 10
+沃玛战士 10
 
 [@ItemTasks]
 

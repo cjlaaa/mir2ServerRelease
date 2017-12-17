@@ -3,7 +3,7 @@
 我可以帮你酿一些，但是你得给我材料才行.
 
 [@TaskDescription]
-从蛇身上收集 5 {蛇躯's/LightSteelBlue} .
+从蛇身上收集 5个 {蛇躯/LightSteelBlue} .
 
 [@Completion]
 

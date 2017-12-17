@@ -1,9 +1,9 @@
 ﻿[@Description]
-{BlueHoroBlaster/Crimson} 生活在 {InsectCave/Yellow}. 这种昆虫的血
+{碧蓝魔眼/Crimson} 生活在 {昆虫洞/Yellow}. 这种昆虫的血
 可以提升药物的疗效. 你能帮我带6份 {虫血/LightSteelBlue}吗?
 
 [@TaskDescription]
-杀掉 {BlueHoroBlaster's/Crimson} 在 {InsectCave/Yellow} 然后收集 12 
+在 {昆虫洞/Yellow}杀掉 {碧蓝魔眼/Crimson}然后收集6份 
 {虫血/LightSteelBlue}
 
 [@Completion]

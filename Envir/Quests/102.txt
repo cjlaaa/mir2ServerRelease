@@ -1,10 +1,10 @@
 ﻿[@Description]
 哦，你好旅行者. 
-不知道你有没有听说过 {MongchonProvince/Yellow}? 
+不知道你有没有听说过{盟重省/Yellow}? 
 他们现在需要一些帮助.
 
 [@TaskDescription]
-与 {Edwin/LimeGreen} 交谈，他在 {MongchonProvince/Yellow}.
+与{盟重省/Yellow}的{Edwin/LimeGreen} 交谈.
 
 [@Completion]
 

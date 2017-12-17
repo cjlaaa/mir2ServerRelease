@@ -1,12 +1,12 @@
 ﻿[@Description]
-请将我的 {LifeStone/LightSteelBlue} 带回给我的女儿
+请将我的{生命之石/LightSteelBlue}带给我的女儿
 {Rachel/LimeGreen}. 她会理解我的用意.
-
 谢谢你冒险者，现在我可以放心了.
 
 [@TaskDescription]
-把 {老旧的项链/LightSteelBlue} 带给 {Rachel/LimeGreen}.
-她在 {MongchonProvince/Yellow}
+把{老旧的项链/LightSteelBlue}带给{Rachel/LimeGreen}.
+她在{盟重省/Yellow}的首饰店
+
 [@Completion]
 
 [@KillTasks]

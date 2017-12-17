@@ -1,8 +1,9 @@
 ﻿[@Description]
-{Mine/Yellow}洞穴散发出的气氛看起来邪恶又阴冷。
+{矿区/Yellow}洞穴散发出的气氛看起来邪恶又阴冷。
 
 [@TaskDescription]
-调查{SerpentDeadMine/Yellow}中邪恶的来源
+调查{蛇谷矿区/Yellow}中邪恶的来源，
+在矿区2层220:89附近似乎有些异常。
 
 [@Completion]
 

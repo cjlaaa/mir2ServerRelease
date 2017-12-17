@@ -1,11 +1,9 @@
 ﻿[@Description]
-我的祖父生活在 {WoomyonWoods/Yellow}. 现在我太忙了没有时间拜访他. 
-你能去帮我拜访 {MasterShok/LimeGreen} 在 {WoomyonWoods/Yellow}
-看看他在忙些什么吗?
+我的祖父生活在 {沃玛森林/Yellow}. 现在我太忙了，没有时间拜访他。
+你能去帮我拜访 {MasterShok/LimeGreen} 看看他在忙些什么吗?
 
 [@TaskDescription]
-拜访 {MasterShok/LimeGreen} 他的坐标 312:73 
-{WoomyonWood's/Yellow}
+拜访 {MasterShok/LimeGreen} 他的坐标在{沃玛森林/Yellow}的312:73 
 
 [@Completion]
 

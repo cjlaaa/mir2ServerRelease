@@ -5,13 +5,13 @@
 你能通过我的试炼再说吧。
 
 [@TaskDescription]
-消灭5个{Oma/Crimson}和5个{RakingCat/Crimson}。
+消灭5个{半兽人/Crimson}和5个{钉耙猫/Crimson}。
 
 [@Completion]
 
 [@KillTasks]
-Oma 5
-RakingCat 5
+半兽人 5
+钉耙猫 5
 
 [@ItemTasks]
 

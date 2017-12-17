@@ -1,18 +1,18 @@
 ﻿[@Description]
-{Prajna Cave/Yellow} 是曾经勇士与恶魔战斗之地。
+{骨魔洞/Yellow}曾经是勇士与恶魔战斗之地。
 但是最近我们发现，这山洞中战死的勇士都被
 恶灵之力转化成了白骨，这对我们造成了很大的威胁。
 请前往消灭这些白骨，让勇士们安息。
 
 [@TaskDescription]
-前往东方的 {PrajnaStoneCave/Yellow} 然后猎杀 
-10 {BoneArcher's/Crimson} and 10 {BoneSpearman/Crimson}
+前往东方的{骨魔洞/Yellow}，然后猎杀 
+10只{骷髅弓箭手/Crimson}和10只{骷髅长枪兵/Crimson}
 
 [@Completion]
 
 [@KillTasks]
-BoneArcher 10
-BoneSpearman 10
+骷髅弓箭手 10
+骷髅长枪兵 10
 
 [@ItemTasks]
 

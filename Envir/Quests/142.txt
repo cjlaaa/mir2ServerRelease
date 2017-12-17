@@ -2,8 +2,8 @@
 盟重省悬赏任务.
 
 [@TaskDescription]
-前往 {StoneTemple/Yellow}击杀 {Boar's/Crimson} 
-然后收集 {Boar Tooth's/LightSteelBlue}.
+前往{石墓/Yellow}击杀 {野猪/Crimson} 
+然后收集{野猪牙/LightSteelBlue}.
 
 [@Completion]
 

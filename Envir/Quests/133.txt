@@ -1,13 +1,13 @@
 ﻿[@Description]
 
 [@TaskDescription]
-Eliminate 15 {LeftGuard/Crimson} and {RightGuard's/Crimson}.
+猎杀15只{左护法/Crimson}和{右护法/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-LeftGuard 15
-RightGuard 15
+左护法 15
+右护法 15
 
 [@ItemTasks]
 

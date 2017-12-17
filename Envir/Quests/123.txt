@@ -1,15 +1,15 @@
 ﻿[@Description]
 山洞里还有很多强大的怪物.
-{BoneBlademan/Crimson} 就是其中的一种，请消灭它们.
+{骷髅刀斧手/Crimson} 就是其中的一种，请消灭它们.
 
 [@TaskDescription]
-回到洞窟，消灭 10 
-{BoneBlademan/Crimson}.
+回到洞窟，消灭 10只 
+{骷髅刀斧手/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-BoneBlademan 10
+骷髅刀斧手 10
 
 [@ItemTasks]
 

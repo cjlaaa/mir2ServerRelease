@@ -1,11 +1,11 @@
 ﻿[@Description]
-嗯.. 这次攻势似乎是由骷髅精灵发起的 
-{BoneElite/Crimson}. 你能帮我杀掉骷髅精灵吗? 
+嗯.. 这次攻势似乎是由{骷髅精灵/Crimson}发起的 
+你能帮我杀掉骷髅精灵吗? 
 我们现在还走不开. 
 
 [@TaskDescription]
-猎杀 {BoneElite/Crimson} 并把它的 
-{Head/LightSteelBlue}带会来.
+猎杀 {骷髅精灵/Crimson} 并把它的 
+{头骨/LightSteelBlue}带会来.
 
 [@Completion]
 

@@ -3,7 +3,8 @@
 他们拿走了我所有的行李，你能帮我找回来吗? 
 
 [@TaskDescription]
-杀死 {VoiletKekTal/Crimson}, {KekTal/Crimson} 和 {BlueHoroBlaster's/Crimson} 
+杀死{紫虎虫/Crimson},{虎虫/Crimson}和{碧蓝魔眼/Crimson} 
+找回丢失的行李。
 
 [@Completion]
 

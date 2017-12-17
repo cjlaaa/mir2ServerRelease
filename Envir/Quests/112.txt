@@ -3,12 +3,12 @@
 请回到 {隐藏入口/Yellow}. 
  
 [@TaskDescription]
-猎杀一些 {CrawlerZombies/Crimson}.
+猎杀一些{爬行僵尸/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-CrawlerZombie 5 
+爬行僵尸 5 
 
 [@ItemTasks]
 

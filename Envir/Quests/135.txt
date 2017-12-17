@@ -1,10 +1,10 @@
 ﻿[@Description]
-你好旅行者，在 {Stone Temple/Yellow} 深处
-有更强大的存在。去找到远古神石，那是连接
-{Ancient Layer/Yellow} 的入口
+你好旅行者，在{石墓/Yellow}深处
+有更神秘的地图。去找到远古神石，那是连接
+{远古石墓/Yellow}的入口
 
 [@TaskDescription]
-在 {Stone Temple/Yellow} 找到远古神石
+在{石墓/Yellow} 5层找到远古神石
 
 [@Completion]
 

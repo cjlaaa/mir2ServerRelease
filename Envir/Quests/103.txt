@@ -1,11 +1,13 @@
 ﻿[@Description]
-有人想你提起过 {Death Valley/Yellow}嘛? 那里生活着
+有人想你提起过{地牢/Yellow}嘛? 那里生活着
 许多体型异常巨大的虫子. 许多年前我还去过那里.
-我曾想想获得一些{Specimen/LightSteelBlue} 从 {WhimperingBee/Crimson} a身上，但是没有成功。冒险者，你能帮帮我吗？
+我曾想从从{跳跳蜂/Crimson}身上获得一些{昆虫标本/LightSteelBlue}，
+但是没有成功。冒险者，你能帮帮我吗？
 
 [@TaskDescription]
-猎杀 {WhimperingBee's/Crimson} 去收集 
-{昆虫标本/LightSteelBlue} 它们生活在 {Death Valley/Yellow}
+猎杀{跳跳蜂/Crimson}收集一些 
+{昆虫标本/LightSteelBlue}，它们生活在{地牢/Yellow}中。
+
 [@Completion]
 
 [@KillTasks]

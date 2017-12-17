@@ -1,8 +1,8 @@
 ﻿[@Description]
-请向 {BichonExaminer/LimeGreen} 回复. 
+请向{BichonExaminer/LimeGreen} 回复. 
 
 [@TaskDescription]
-与 {BichonExaminer/LimeGreen} 交谈，他在 {BichonProvince/Yellow}
+与{BichonExaminer/LimeGreen} 交谈，他在{比奇城/Yellow}桥头
 
 [@Completion]
 

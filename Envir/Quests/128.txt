@@ -1,10 +1,9 @@
 ﻿[@Description]
 你找到了苍月之书.. 这真是梦幻般的结局. 
-看起来这书已经略显残破了. 
 
 [@TaskDescription]
-将 {苍月史书/LightSteelBlue} 书交还
-给 {VillageChief/LimeGreen} 他在 {PrajnaIsland/Yellow}.
+将{苍月史书/LightSteelBlue}书交还
+给{VillageChief/LimeGreen}.
 
 [@Completion]
 

@@ -2,7 +2,7 @@
 比奇省赏金任务：收集骷髅骨头.
 
 [@TaskDescription]
-前往 {OmaCave/Yellow} 并收集 {Skeleton 骨头's/LightSteelBlue}.
+前往{沃玛天然洞穴/Yellow}并收集{骷髅骨/LightSteelBlue}.
 
 [@Completion]
 

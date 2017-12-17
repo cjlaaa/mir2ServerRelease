@@ -1,11 +1,12 @@
 ﻿[@Description]
 谢谢你旅行者. 
-从我儿子 {Robe/LightSteelBlue} 的回复中我发现了一个任务. 
-我儿子正在寻找埋藏在 {SerpentDeadMine/Yellow} 中的财宝
-这是在他法袍中发现的线索，请去取回 {失窃的金币/LightSteelBlue}
+从我儿子{Robe/LightSteelBlue} 的回复中我发现. 
+他正在寻找埋藏在{蛇谷矿区/Yellow} 中的财宝
+这是在他法袍中发现的线索，请去取回{失窃的金币/LightSteelBlue}
 
 [@TaskDescription]
-杀死 {RotNdZombie/Crimson} 他就在 {SerpentDeadMine 2F/Yellow}
+杀死{暗之石肤僵尸/Crimson}它经常在{蛇谷矿区二层/Yellow}的
+35，303左右游荡。
 
 [@Completion]
 

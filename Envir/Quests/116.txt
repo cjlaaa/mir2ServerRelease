@@ -1,8 +1,8 @@
 ﻿[@Description]
-请向 {BichonProvince/Yellow}汇报这边的战果.
+请向{比奇省/Yellow}汇报这边的战果.
 
 [@TaskDescription]
-汇报 {SubjugationManager/LimeGreen} 
+向{SubjugationManager/LimeGreen}汇报 
 
 [@Completion]
 
@@ -19,7 +19,6 @@
 精锐魔杖
 精锐银蛇
 精锐双极刀
-SolidSilverBow
 
 [@ExpReward]
 668800

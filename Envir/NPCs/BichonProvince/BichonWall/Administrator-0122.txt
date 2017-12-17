@@ -15,7 +15,6 @@ GOTO @Main-1
 我是这里的国王，你有什么需要?
 <建立行会/@CREATEGUILD>
 <发起行会战争/@REQUESTWAR>
-Required {Gold/Gold}: <$GUILDWARFEE> Last's for <$GUILDWARTIME> Minutes.
 <申请沙巴克攻城战/@requestcastlewar>
 <询问如何建立行会/@buildguildexp> || <关于行会战/@guildwarexp>
 

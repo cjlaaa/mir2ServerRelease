@@ -1,10 +1,11 @@
 ﻿[@Description]
-{Border village/Yellow} 有麻烦了! 更多的守卫投入到了保卫
+{边界村/Yellow} 有麻烦了! 更多的守卫投入到了保卫
 战之中. {我/LimeGreen} 需要一些 
 {遗物/LightSteelBlue} 去治疗守卫.
 
 [@TaskDescription]
-收集 5 {遗物/LightSteelBlue} 通过猎杀 {CaveMaggots/Crimson}
+猎杀 {洞蛆/Crimson}收集5个{遗物/LightSteelBlue}
+
 [@Completion]
 
 [@KillTasks]

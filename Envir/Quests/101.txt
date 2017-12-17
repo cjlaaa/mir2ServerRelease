@@ -3,12 +3,12 @@
 找到恶魔的藏身之处并杀掉它
 
 [@TaskDescription]
-猎杀 {OmaWarrior/Crimson}.
+猎杀{半兽勇士/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-OmaWarrior 1
+半兽勇士 1
 
 [@ItemTasks]
 

@@ -1,10 +1,10 @@
 ﻿[@Description]
-你听说过 {TreePath/Yellow}? 那是收集资源的好地方！
+你听说过{丛林迷宫/Yellow}吗? 那是收集资源的好地方！
 请去那里帮我收集一些材料回来.
 
 [@TaskDescription]
-收集 5 {红线's/LightSteelBlue} 和 {黑线's/LightSteelBlue}
-通过猎杀 {VenomSpider's/Crimson} 和 {GreatSpider's/Crimson}
+猎杀{黑锷蜘蛛/Crimson}
+收集5个{红线/LightSteelBlue}和{黑线/LightSteelBlue}
 
 [@Completion]
 

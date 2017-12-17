@@ -4,14 +4,14 @@
 看你的了！
 
 [@TaskDescription]
-猎杀 10 {FlamingWooma's/Crimson} 和 
-{WoomaFighter's/Crimson} 在 {WoomaTemple/Yellow}.
+前往{沃玛寺庙/Yellow}猎杀10只{火焰沃玛/Crimson} 和 
+{沃玛军士/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-FlamingWooma 10
-WoomaFighter 10
+火焰沃玛 10
+沃玛军士 10
 
 [@ItemTasks]
 

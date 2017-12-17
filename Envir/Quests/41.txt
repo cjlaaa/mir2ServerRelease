@@ -1,10 +1,10 @@
 ﻿[@Description]
 你是受我孙女之托来的？ 她去
-{Bichon/Yellow} 赚钱了. 我听说她在肉店工作，
+{比奇城/Yellow} 赚钱了. 我听说她在肉店工作，
 你能帮我回访一下她告诉她我的近况吗？
 
 [@TaskDescription]
-与{Sarah/LimeGreen} 交谈，她在 {BichonWall/Yellow}.
+与{Sarah/LimeGreen} 交谈，她就在{比奇城/Yellow}肉店.
 
 [@Completion]
 谢谢你旅行者. 我还在为我的祖父而担心

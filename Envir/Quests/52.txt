@@ -1,11 +1,11 @@
 ﻿[@Description]
 你想让我帮你做 {食人花茶/LightSteelBlue}? 嗯.. 
-我需要一些原料. 你能帮我找到5 {食人花叶/LightSteelBlue} 
-和 5 {食人花果实/LightSteelBlue}吗?
+我需要一些原料. 你能帮我找到1个 {食人花叶/LightSteelBlue} 
+和 1个 {食人花果实/LightSteelBlue}吗?
 
 [@TaskDescription]
-收集 1 {食人花叶/LightSteelBlue} 和 {食人花果实's/LightSteelBlue} 从 
-{CannibalPlant's/Crimson}
+从{食人花/Crimson}身上
+收集 {食人花叶/LightSteelBlue} 和 {食人花果实's/LightSteelBlue} 各1个
 
 [@Completion]
 

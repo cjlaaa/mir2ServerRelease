@@ -1,14 +1,14 @@
 ﻿[@Description]
-你听说过 {SerpentDeadMine/Yellow}? 
+你听说过 {蛇谷矿区/Yellow}吗? 
 我要被里面传出的呼啸声折磨疯了.
 
 [@TaskDescription]
-消灭 5 {ChainGhoul's/Crimson}.
+消灭5只{爬行僵尸/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ChainGhoul 1
+爬行僵尸 5
 
 [@ItemTasks]
 

@@ -2,12 +2,12 @@
 你喜欢赏金任务吗?
 
 [@TaskDescription]
-找到并击杀 {EvilBigApe/LightSteelBlue} 在 {RedValley/Yellow}.
+在赤月峡谷中找到并击杀{邪恶巨人/LightSteelBlue}.
 
 [@Completion]
 
 [@KillTasks]
-EvilBigApe 1
+邪恶巨人 1
 
 [@ItemTasks]
 

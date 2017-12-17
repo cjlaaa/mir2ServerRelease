@@ -1,14 +1,14 @@
 ﻿[@Description]
-最近我接到报告，附近的{ForestYeti/Crimson}
+最近我接到报告，附近的{森林雪人/Crimson}
 专挑新人勇士攻击。你认为你真的ok吗?
 
 [@TaskDescription]
-消灭5个{ForestYeti/Crimson}。
+消灭5个{森林雪人/Crimson}。
 
 [@Completion]
 
 [@KillTasks]
-ForestYeti 5
+森林雪人 5
 
 [@ItemTasks]
 

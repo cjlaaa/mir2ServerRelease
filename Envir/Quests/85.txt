@@ -1,10 +1,10 @@
 ﻿[@Description]
 Myths 和 Rumours 说需要收集一些 
-{Zombie Heart's/LightSteelBlue} .
+{僵尸之心/LightSteelBlue} .
 这会有助于我们击败它们.
 
 [@TaskDescription]
-收集 5 {僵尸之心/LightSteelBlue} 从 {CursedPriest's/Crimson}.
+从{被诅咒的神父/Crimson}身上收集5个{僵尸之心/LightSteelBlue}.
 
 [@Completion]
 

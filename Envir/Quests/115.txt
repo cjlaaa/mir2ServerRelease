@@ -1,14 +1,14 @@
 ﻿[@Description]
-你深入 {Stone Temple/Yellow} 了吗?
-据说 {WhiteBoar/Crimson} 就隐藏在石墓深处.
+在{石墓/Yellow} 深处，
+据说{白野猪/Crimson}就盘踞在那里.
 
 [@TaskDescription]
-杀掉 {WhiteBoar/Crimson}.
+杀掉{白野猪/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-WhiteBoar 1
+白野猪 1
 
 [@ItemTasks]
 

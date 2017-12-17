@@ -3,13 +3,13 @@
 现在我被这些蛇弄得寝不安眠，似乎它们就在我的床下！
 
 [@TaskDescription]
-猎杀 5 {RedSnake/Crimson} 和 {TigerSnake's/Crimson}.
+猎杀5只{红蛇/Crimson} 和 {虎蛇/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-TigerSnake 5
-RedSnake 5
+虎蛇 5
+红蛇 5
 
 [@ItemTasks]
 

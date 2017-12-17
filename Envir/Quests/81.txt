@@ -3,8 +3,9 @@
 然后完成{隐藏的卷轴/LightSteelBlue}上的任务. 
 
 [@TaskDescription]
-猎杀 {RotShamanZombie's/Crimson} 并找回 
-{死亡之心/LightSteelBlue} 从 {HiGreatGhoul/Crimson}
+猎杀{暗之萨满僵尸/Crimson} 并找回 
+{死亡之心/LightSteelBlue}，这只怪物
+一般出现在蛇谷矿区二层的150,265附近
 
 [@Completion]
 
@@ -22,7 +23,6 @@
 偃月刀
 精锐降魔
 黑铁刀
-ToughLongBow
 
 [@ExpReward]
 48000

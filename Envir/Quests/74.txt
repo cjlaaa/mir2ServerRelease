@@ -1,15 +1,15 @@
 ﻿[@Description]
-冒险者，请进入 {SerpentDeadMine/Yellow} 
+冒险者，请前往{蛇谷矿区/Yellow} 
 消灭里面潜在的威胁.
 
 [@TaskDescription]
-消灭 5 {GhostZombie/Crimson} 和 {DarkPriestZombie/Crimson}.
+消灭5只{石肤僵尸/Crimson}和{蹒跚僵尸/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-GhostZombie 5
-DarkPriestZombie 5
+石肤僵尸 5
+蹒跚僵尸 5
 
 [@ItemTasks]
 

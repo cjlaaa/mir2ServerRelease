@@ -1,9 +1,9 @@
 ﻿[@Description]
-与 {CaveGuide/LimeGreen} 交谈，他在 {TaoVillage/Yellow}
+与{CaveGuide/LimeGreen}交谈，他就在{道馆矿区/Yellow}洞口
 
 [@TaskDescription]
-前往 {TaoVillage/Yellow} 西部然后与 
-{CaveGuide/LimeGreen} 交谈.
+前往{道馆/Yellow}西部然后与 
+{CaveGuide/LimeGreen}交谈.
 
 [@Completion]
 

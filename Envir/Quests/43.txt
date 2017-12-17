@@ -1,10 +1,10 @@
 ﻿[@Description]
-你知道 {SerpentValley/Yellow} 在哪? 
+你知道 {毒蛇山谷/Yellow} 在哪? 
 这个小村子在我们的西北方. {Robert/LimeGreen} 正在寻求一些帮助. 
 你有兴趣吗?
 
 [@TaskDescription]
-与 {Robert/LimeGreen} 交谈，他在 {SerpentValley/Yellow}
+与 {Robert/LimeGreen} 交谈，他就在 {毒蛇山谷/Yellow}
 
 [@Completion]
 

@@ -1,8 +1,9 @@
 ﻿[@Description]
-The {VillageChief/LimeGreen} is looking for you. 
+{VillageChief/LimeGreen}有些事麻烦你. 
 
 [@TaskDescription]
-与 {VillageChief/LimeGreen} 交谈，他在 {Prajna Island/Yellow}
+与{VillageChief/LimeGreen}交谈，他就在{苍月岛/Yellow}
+安全区旁的小屋中
 
 [@Completion]
 

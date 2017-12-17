@@ -1,16 +1,15 @@
 ﻿[@Description]
 哦....冒险者...我被困住了...
-
 我最后的记忆还停留在濒死时.
 其他的已经记不清了.
 
 [@TaskDescription]
-调查为何 {Soul/LimeGreen}会在这里.
+调查为何{Soul/LimeGreen}会在这里.
+在地牢二层西的27，37附近可以找到一些线索
 
 [@Completion]
 
 [@KillTasks]
-
 
 [@FlagTasks]
 524 "Find the LostSouls Body"

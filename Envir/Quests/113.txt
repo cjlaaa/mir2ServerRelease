@@ -1,17 +1,17 @@
 ﻿[@Description]
-最近一段时间，{MongchonProvince/Yellow}有好多虫子. 
+最近一段时间，{盟重省/Yellow}突然出现了好多虫子. 
 我已经被它们制造出的噪音折磨疯了，请帮我
 消灭一些虫子.
 
 [@TaskDescription]
-前往 {Stone Tomb/Yellow} 然后猎杀 5 
-{BlackMaggot/Crimson} 和 {WedgeMoth/Crimson}.
+前往{石墓/Yellow} 然后猎杀 5只 
+{黑色恶蛆/Crimson}和{楔蛾/Crimson}.
  
 [@Completion]
 
 [@KillTasks]
-BlackMaggot 5
-WedgeMoth 5
+黑色恶蛆 5
+楔蛾 5
 
 [@ItemTasks]
 

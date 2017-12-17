@@ -1,9 +1,9 @@
 ﻿[@Description]
-你好旅行者，我在寻找 {Volume 1/LightSteelBlue} 和 {2/LightSteelBlue}, 
+你好旅行者，我在寻找其它的{比奇令牌1/LightSteelBlue}和{2/LightSteelBlue}, 
 
 [@TaskDescription]
 请回到 {隐藏入口/Yellow} 
-然后寻找 {Volume 1/LightSteelBlue} 和 {2/LightSteelBlue}.
+然后寻找{比奇令牌1/LightSteelBlue}和{2/LightSteelBlue}.
 
 [@Completion]
 

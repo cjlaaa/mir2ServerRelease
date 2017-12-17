@@ -2,14 +2,14 @@
 我们最近遭到了怪物猛烈的进攻，你能帮帮我们吗? 
 
 [@TaskDescription]
-前往苍月岛并杀死 10 {ToxicGhoul's/Crimson} 
-和 5 {RoninGhoul's/Crimson}.
+前往苍月岛并杀死 10只{恶灵僵尸/Crimson} 
+和5只{恶灵尸王/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-ToxicGhoul 10
-RoninGhoul 5
+恶灵僵尸 10
+恶灵尸王 5
 
 [@ItemTasks]
 

@@ -1,13 +1,13 @@
 ﻿[@Description]
 
 [@TaskDescription]
-前往东南方的 {PrajnaTemple/Yellow} 然后击杀15 
-{Minotaur's/Crimson}.
+前往东南方的{牛魔寺庙/Yellow} 然后击杀15只 
+{牛头魔/Crimson}.
 
 [@Completion]
 
 [@KillTasks]
-Minotaur 15
+牛头魔 15
 
 [@ItemTasks]
 
