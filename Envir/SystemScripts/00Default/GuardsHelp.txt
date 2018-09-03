@@ -1,7 +1,7 @@
-[@Main]
+ï»¿[@Main]
 {
 #IF
-CHECKITEM ËæÉí»¤ÎÀ[7d]
+CHECKITEM éšèº«æŠ¤å«[7d]
 #ACT
 GOTO @Next-2
 #ELSEACT

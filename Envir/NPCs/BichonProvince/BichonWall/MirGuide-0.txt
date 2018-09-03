@@ -13,8 +13,126 @@ GOTO @Main-1
 #SAY
 欢迎来到这片大陆冒险.
 我是新人向导,祝你的冒险一帆风顺.
+你可以在我这里领取对应的等级奖励，请注意，每个奖励只能领取一次。
+领取<5级/@5>奖励          领取<15级/@15>奖励
+领取<25级/@25>奖励      领取<35级/@35>奖励
+领取<45级/@45>奖励
 
 <关闭/@exit>
+
+[@5]
+#IF
+LEVEL > 4
+check [001]  0
+#ACT
+GIVEGOLD 50000
+set [001] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@15]
+#IF
+LEVEL > 14
+check [002]  0
+#ACT
+GIVEITEM 远古英雄之证[7d]
+set [002] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@25]
+#IF
+LEVEL > 24
+check [003]  0
+CHECKGENDER Male
+#ACT
+GIVEITEM 灵晶甲胄(男)
+GIVEGOLD 100000
+set [003] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 24
+check [003]  0
+CHECKGENDER Female
+#ACT
+GIVEITEM 灵晶甲胄(女)
+GIVEGOLD 100000
+set [003] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+[@35]
+#IF
+LEVEL > 34
+check [004]  0
+#ACT
+GIVEGOLD 1500000
+GIVEITEM 随身护卫[7d]
+set [004] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+
+[@45]
+#IF
+LEVEL > 44
+check [005]  0
+CHECKCLASS Warrior
+#ACT
+GIVEITEM 剑气爆
+set [005] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 44
+check [005]  0
+CHECKCLASS Wizard
+#ACT
+GIVEITEM 火龙气焰
+set [005] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 44
+check [005]  0
+CHECKCLASS Taoist
+#ACT
+GIVEITEM 召唤月灵
+set [005] 1
+#SAY
+这是你的奖励，请拿好。
+#IF
+LEVEL > 44
+check [005]  0
+CHECKCLASS Assassin
+#ACT
+GIVEITEM 月影术
+set [005] 1
+#SAY
+这是你的奖励，请拿好。
+#ELSESAY
+你已经领取过这份奖励了或等级不符。
+
+<关闭/@exit>
+
+
 
 [Quests]
 -9
