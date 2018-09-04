@@ -81,6 +81,7 @@ check [004]  0
 #ACT
 GIVEGOLD 1500000
 GIVEITEM 随身护卫[7d]
+GIVEITEM 远古神石[3d]
 set [004] 1
 #SAY
 这是你的奖励，请拿好。

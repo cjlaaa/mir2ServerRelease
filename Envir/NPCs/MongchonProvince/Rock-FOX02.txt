@@ -10,7 +10,7 @@ break
 
 [@grouphere]
 #IF
-GROUPCOUNT > 2
+GROUPCOUNT > 1
 CHECKMAP FOX02
 CHECKRANGE 223 304 5
 #ACT
@@ -18,7 +18,7 @@ goto @checkorb
 break
 #ELSESAY
 (*你听到了风中呜咽的低语:*)
-"你的队伍太弱了，至少要有三名队员才可以继续前进."
+"你的队伍太弱了，至少要有两名队员才可以继续前进."
 
 [@checkorb]
 #IF
@@ -36,7 +36,7 @@ CHECKITEM 狐月神珠 1
 CHECKITEM 狐月神珠 1
 #ACT
 TAKEITEM 狐月神珠 1
-GROUP瞬息移动 FOX03 47 21
+GROUPTELEPORT FOX03 47 21
 break
 #ELSESAY
 (*你听到了风中呜咽的低语:*)
