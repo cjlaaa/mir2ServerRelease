@@ -3,7 +3,7 @@
 消灭里面潜在的威胁.
 
 [@TaskDescription]
-消灭5只{石肤僵尸/Crimson}和{蹒跚僵尸/Crimson}.
+消灭5只{石肤僵尸/Crimson}和5只{蹒跚僵尸/Crimson}.
 
 [@Completion]
 
