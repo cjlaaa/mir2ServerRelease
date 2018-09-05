@@ -1,5 +1,5 @@
-;Gold
-1/30 Gold 350
+﻿;Gold
+1/10 Gold 350
 
 ;Potions
 1/15 金疮药(中量)

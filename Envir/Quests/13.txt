@@ -5,7 +5,7 @@
 我听说他最近在招徒弟，当然这可能只是谣言。
 
 [@TaskDescription]
-与坐标546:559附近的{HighTaoist/LimeGreen}交谈。
+与坐标428.473附近的{HighTaoist/LimeGreen}交谈。
 
 [@Completion]
 

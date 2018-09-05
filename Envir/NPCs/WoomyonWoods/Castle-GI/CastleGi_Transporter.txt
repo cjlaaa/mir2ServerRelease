@@ -23,12 +23,21 @@ GOTO @Main-1
 #SAY
 你想去哪里?
  
-前往: <比奇城/@move3> {(2000 Gold)/GOLD}
+前往: <比奇城/@move0> {(2000 Gold)/GOLD}
 前往: <边界村/@move1> {(2000 Gold)/GOLD}
 前往: <毒蛇山谷/@move2> {(1000 Gold)/GOLD}
 前往: <盟重土城/@move3> {(3000 Gold)/GOLD}
 前往: <道馆/@move4> {(1000 Gold)/GOLD}
 前往: <下次再来/@exit>
+
+[@move0]
+#IF
+CHECKGOLD > 2000
+#ACT
+MOVE 0 295 222
+TAKEGOLD 2000
+#ELSEACT
+GOTO @B1
 
 [@move1]
 #IF
