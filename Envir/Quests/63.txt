@@ -11,6 +11,8 @@
 [@TaskDescription]
 试着寻找 {Vincent的/LimeGreen} 朋友 最后一次见到他是在
 {矿区通道二/Yellow}的100，100附近.
+矿区通道二可以从入口走右手边前往废矿东部
+再从废矿东部经过矿区一层到达。
 
 [@Completion]
 

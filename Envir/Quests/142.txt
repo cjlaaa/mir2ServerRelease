@@ -10,7 +10,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-野猪牙 25 
+野猪牙 15 
 
 [@FlagTasks]
 

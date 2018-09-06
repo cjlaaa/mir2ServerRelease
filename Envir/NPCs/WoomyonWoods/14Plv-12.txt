@@ -1,22 +1,22 @@
-[@main]
+﻿[@main]
 #SAY
-I open the closed door to you. You are about to enter the land
-filled with Sin, Fear and Shame. Are you sure you want to enter into
-cursed land?
+前方是一片险恶的土地，里面盘踞着许多变异的生物。
+与之对应的是，巨大的财富也隐藏其中，你想前往一探究竟吗？
  
-<Yes, I want to enter./@next>
-<Place Ancient Post Piece on the pillar/@next2>
-<Exit/@exit>
+<是的，我想前往./@next>
+
+<离开/@exit>
 
 
 [@next]
 #SAY
-Your about to enter a world of death and frustration. My duty is to
-open the closed door. I can let you in, but you will not be able to
-return.
+听好了冒险者，你如果一旦前往，就无法回头。
+为了自身的安全，请你三思而行。
 
-<Move/@move1>
+<前往/@move1>
+
+[@move1]
 #ACT
-MOVE hell301s 272 275
+MOVE gumi101 184 186
 BREAK
 CLOSE
