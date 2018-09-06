@@ -8,8 +8,8 @@
 #IF
 CHECKITEM 远古神石[3d]
 #ACT
-GIVEBUFF Exp 0 30 TRUE
-LocalMessage "Experience Increased by 30%" Hint
+GIVEBUFF Exp 0 50 TRUE
+LocalMessage "Experience Increased by 50%" Hint
 #ELSEACT
 LocalMessage "You don't have 远古神石!" Hint
 
