@@ -16,7 +16,7 @@ GOTO @Main-1
 你可以在我这里领取对应的等级奖励，请注意，每个奖励只能领取一次。
 领取<5级/@5>奖励          领取<15级/@15>奖励
 领取<25级/@25>奖励      领取<35级/@35>奖励
-领取<45级/@45>奖励
+领取<40级/@40>奖励
 
 <关闭/@exit>
 
@@ -40,6 +40,7 @@ LEVEL > 14
 check [002]  0
 #ACT
 GIVEITEM 远古英雄之证[7d]
+GIVEITEM 技巧项链
 set [002] 1
 #SAY
 这是你的奖励，请拿好。
@@ -69,8 +70,6 @@ GIVEGOLD 100000
 set [003] 1
 #SAY
 这是你的奖励，请拿好。
-#ELSESAY
-你已经领取过这份奖励了或等级不符。
 
 <关闭/@exit>
 
@@ -91,9 +90,9 @@ set [004] 1
 <关闭/@exit>
 
 
-[@45]
+[@40]
 #IF
-LEVEL > 44
+LEVEL > 39
 check [005]  0
 CHECKCLASS Warrior
 #ACT
@@ -102,7 +101,7 @@ set [005] 1
 #SAY
 这是你的奖励，请拿好。
 #IF
-LEVEL > 44
+LEVEL > 39
 check [005]  0
 CHECKCLASS Wizard
 #ACT
@@ -111,7 +110,7 @@ set [005] 1
 #SAY
 这是你的奖励，请拿好。
 #IF
-LEVEL > 44
+LEVEL > 39
 check [005]  0
 CHECKCLASS Taoist
 #ACT
@@ -120,7 +119,7 @@ set [005] 1
 #SAY
 这是你的奖励，请拿好。
 #IF
-LEVEL > 44
+LEVEL > 39
 check [005]  0
 CHECKCLASS Assassin
 #ACT
@@ -128,8 +127,7 @@ GIVEITEM 月影术
 set [005] 1
 #SAY
 这是你的奖励，请拿好。
-#ELSESAY
-你已经领取过这份奖励了或等级不符。
+
 
 <关闭/@exit>
 
