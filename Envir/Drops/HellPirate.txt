@@ -1,4 +1,4 @@
-;Gold
+﻿;Gold
 1/10 Gold 2250
 
 ;Potions
@@ -15,7 +15,6 @@
 1/50 降魔
 1/50 偃月
 1/50 墨铁刀
-1/50 LongBow
 1/100 修罗
 1/200 凝霜
 
@@ -28,8 +27,6 @@
 1/550 灵魂战衣(女)
 1/550 残影魔衣(男)
 1/550 残影魔衣(女)
-1/550 LightLeatherArmour(男)
-1/550 LightLeatherArmour(女)
 
 ;Helmets
 1/500 道士头盔
