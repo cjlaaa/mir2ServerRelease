@@ -1,8 +1,8 @@
 ﻿[@Description]
-比奇省赏金任务：收集栗子.
+比奇省赏金任务：收集栗子
 
 [@TaskDescription]
-击杀栗子树，收集5个{金栗子/LightSteelBlue}. 
+砍栗子树,收集5个{金栗子/LightSteelBlue}
 
 [@Completion]
 

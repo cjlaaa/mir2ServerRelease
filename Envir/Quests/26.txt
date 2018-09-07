@@ -1,6 +1,6 @@
 ﻿[@Description]
-村子附近的{毒蜘蛛/Crimson}越来越多，
-这种怪物的剧毒的解毒剂只能通过{毒药袋/LightSteelBlue}来制作。
+村子附近的{毒蜘蛛/Crimson}越来越多,
+这种怪物的剧毒的解毒剂只能通过{毒药袋/LightSteelBlue}来制作.
 
 [@TaskDescription]
 消灭{毒蜘蛛/Crimson}并在它们的尸体上找到{毒药袋/LightSteelBlue}

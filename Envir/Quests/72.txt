@@ -1,9 +1,9 @@
 ﻿[@Description]
-谢谢你的帮助勇敢的冒险者. 
-现在请你回复 {Helen/LimeGreen} 告诉她这个好消息.
+谢谢你的帮助,勇敢的冒险者.
+现在请你回复{Helen/LimeGreen}告诉她这个好消息.
 
 [@TaskDescription]
-与{Heleny/LimeGreen}交谈，他在{沃玛村/Yellow}
+与{Heleny/LimeGreen}交谈,他在{沃玛村/Yellow}
 
 [@Completion]
 

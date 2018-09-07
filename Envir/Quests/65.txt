@@ -1,5 +1,6 @@
 ﻿[@Description]
-你好旅行者, 一只 {僵尸/Crimson} 在几天前杀了我的宠物。 请你帮我向他们复仇!
+你好旅行者,一只{僵尸/Crimson}在几天前杀了我的宠物.
+请你帮我复仇,杀光他们!
 
 [@TaskDescription]
 前往{废矿/Yellow}消灭10只{萨满僵尸/Crimson}.

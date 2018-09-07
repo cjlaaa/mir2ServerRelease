@@ -1,14 +1,14 @@
 ﻿[@Description]
-快帮帮我. 我需要充实我的货源.
-你能帮我找一些材料吗？它们在 
-{比奇省/Yellow}附近的山洞的怪物手里。
+快帮帮我.我需要充实我的货源.
+你能帮我找一些材料吗?
+它们在{比奇省/Yellow}附近山洞中的怪物手里.
 
 [@TaskDescription]
-在{天然洞穴/Yellow}收集 5个{蝙蝠牙/LightSteelBlue} 和 {骷髅头/LightSteelBlue} , 
-在 {废矿/Yellow}收集{僵尸之眼/LightSteelBlue} .
+在{天然洞穴/Yellow}收集5个{蝙蝠牙/LightSteelBlue}和{骷髅头/LightSteelBlue},
+在{废矿/Yellow}收集{僵尸之眼/LightSteelBlue}.
 
 [@Completion]
-谢谢你，勇敢的冒险者.
+谢谢你,勇敢的冒险者.
 
 [@KillTasks]
 

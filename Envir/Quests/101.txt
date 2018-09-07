@@ -1,5 +1,5 @@
 ﻿[@Description]
-咆哮...不断的咆哮.
+咆哮...不断的咆哮...
 找到恶魔的藏身之处并杀掉它
 
 [@TaskDescription]

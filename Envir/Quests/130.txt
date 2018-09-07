@@ -2,12 +2,12 @@
 你喜欢赏金任务吗?
 
 [@TaskDescription]
-在赤月峡谷中找到并击杀{邪恶巨人/LightSteelBlue}.
+在赤月峡谷中找到并击杀{邪恶巨人/LightSteelBlue}
 
 [@Completion]
 
 [@KillTasks]
-邪恶巨人 1
+邪恶巨人1
 
 [@ItemTasks]
 

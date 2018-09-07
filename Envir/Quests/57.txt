@@ -1,9 +1,9 @@
 ﻿[@Description]
-我们被怪物袭击了. 现在需要 {比奇省/Yellow}的支援.
+我们被怪物袭击了.现在需要{比奇城/Yellow}的支援.
 你能把这张回复文书送回去吗?
 
 [@TaskDescription]
-带 {回复文书/LightSteelBlue} 给 {Kyle/LimeGreen}.
+带{回复文书/LightSteelBlue}给{Kyle/LimeGreen}.
 
 [@Completion]
 

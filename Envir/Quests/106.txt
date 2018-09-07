@@ -1,6 +1,6 @@
 ﻿[@Description]
-这项链是我的{生命之石/LightSteelBlue}..这也是
-我返回的原因. 请帮帮我.
+这项链是我的{生命之石/LightSteelBlue}.
+这也是我返回这里的原因.请帮帮我好吗!
 
 [@TaskDescription]
 猎杀{巨型蠕虫/Crimson}然后找回{老旧的项链/LightSteelBlue}.

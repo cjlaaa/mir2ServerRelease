@@ -1,10 +1,10 @@
 ﻿[@Description]
-我需要一些打造武器的材料，
-{废矿/Yellow}里就有这种材料, 
-但是那里被 {僵尸/Crimson}占领了. 
+我需要一些打造武器的材料,
+{废矿/Yellow}里就有这种材料,
+但是那里被{僵尸/Crimson}占领了.
 
 [@TaskDescription]
-前往{废矿/Yellow}猎杀{僵尸/Crimson} .
+前往{废矿/Yellow}猎杀{僵尸/Crimson}.
 
 [@Completion]
 

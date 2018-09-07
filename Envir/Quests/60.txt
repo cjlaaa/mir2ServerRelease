@@ -1,11 +1,11 @@
 ﻿[@Description]
-这是个 {比奇省/Yellow}附近的小农场. 现在它被昆虫袭击了. 
+这是个{比奇省/Yellow}附近的小农场.现在它被昆虫袭击了.
 这份报告说那些昆虫生活在{昆虫洞/Yellow}.
-你能去 {昆虫洞/Yellow} 清理一下吗?
+你能去{昆虫洞/Yellow}清理一下吗?
 
 [@TaskDescription]
-在 {沃玛森林/Yellow} 里找到昆虫洞
-在里面猎杀 5只 {血蛙/Crimson}
+在{沃玛森林/Yellow}里找到昆虫洞
+在里面猎杀5只{血蛙/Crimson}
 
 [@Completion]
 

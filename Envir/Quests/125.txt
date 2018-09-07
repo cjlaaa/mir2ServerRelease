@@ -1,9 +1,9 @@
 ﻿[@Description]
-{VillageChief/LimeGreen}有些事麻烦你. 
+{VillageChief/LimeGreen}有些事麻烦你.
 
 [@TaskDescription]
-与{VillageChief/LimeGreen}交谈，他就在{苍月岛/Yellow}
-安全区旁的小屋中
+与{VillageChief/LimeGreen}交谈,
+他就在{苍月岛/Yellow}安全区旁的小屋中
 
 [@Completion]
 

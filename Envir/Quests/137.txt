@@ -1,6 +1,7 @@
 ﻿[@Description]
-你已经去过 {远古石墓/Yellow}了? 能帮我再去收集 12瓶 {血之药/LightSteelBlue}吗？
-据说远古蝎蛇身上可以采集到这种药。
+你已经去过{远古石墓/Yellow}了吗?
+能帮我再去收集12瓶{血之药/LightSteelBlue}吗?
+据说远古蝎蛇身上可以采集到这种药.
 
 [@TaskDescription]
 

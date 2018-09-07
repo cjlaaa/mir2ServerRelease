@@ -1,7 +1,7 @@
 ﻿[@Description]
 
 [@TaskDescription]
-猎杀10只{风之牛魔/Crimson},{冰牛魔/Crimson}, 
+猎杀各10只{风之牛魔/Crimson},{冰牛魔/Crimson},
 {电光牛魔/Crimson}和{火焰牛魔/Crimson}.
 
 [@Completion]

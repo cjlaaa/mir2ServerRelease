@@ -1,12 +1,13 @@
 ﻿[@Description]
-有人想你提起过{地牢/Yellow}嘛? 那里生活着
-许多体型异常巨大的虫子. 许多年前我还去过那里.
-我曾想从从{跳跳蜂/Crimson}身上获得一些{昆虫标本/LightSteelBlue}，
-但是没有成功。冒险者，你能帮帮我吗？
+有人向你提起过死亡山谷的{地牢/Yellow}吗?
+那里生活着许多体型异常巨大的虫子.
+许多年前我还去过那里.
+我曾想从{跳跳蜂/Crimson}身上获得一些{昆虫标本/LightSteelBlue},
+但是没有成功.冒险者,你能帮帮我吗?
 
 [@TaskDescription]
-猎杀{跳跳蜂/Crimson}收集一些 
-{昆虫标本/LightSteelBlue}，它们生活在{地牢/Yellow}中。
+猎杀{跳跳蜂/Crimson}并收集一些{昆虫标本/LightSteelBlue}
+它们生活在死亡山谷的{地牢/Yellow}之中
 
 [@Completion]
 

@@ -1,6 +1,6 @@
 ﻿[@Description]
-请向 {Robin/LimeGreen} 复命，他是仓库守卫在
-{MongchonProvince/Yellow} 
+请向{Robin/LimeGreen}复命,
+他是{盟重土城/Yellow}的仓库守卫
 
 [@TaskDescription]
 

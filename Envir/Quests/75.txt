@@ -1,5 +1,5 @@
 ﻿[@Description]
-你听说过 {蛇谷矿区/Yellow}吗? 
+你听说过{蛇谷矿区/Yellow}吗?
 我要被里面传出的呼啸声折磨疯了.
 
 [@TaskDescription]

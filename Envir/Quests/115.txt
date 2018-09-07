@@ -1,9 +1,9 @@
 ﻿[@Description]
-在{石墓/Yellow} 深处，
-据说{白野猪/Crimson}就盘踞在那里.
+在{石墓/Yellow}深处,
+据说盘踞着一种叫{白野猪/Crimson}的怪物.
 
 [@TaskDescription]
-杀掉{白野猪/Crimson}.
+杀掉{白野猪/Crimson}
 
 [@Completion]
 

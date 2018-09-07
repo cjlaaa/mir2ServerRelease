@@ -1,6 +1,5 @@
 ﻿[@Description]
-冒险者，请前往{蛇谷矿区/Yellow} 
-消灭里面潜在的威胁.
+冒险者,请前往{蛇谷矿区/Yellow}消灭里面潜在的威胁.
 
 [@TaskDescription]
 消灭5只{石肤僵尸/Crimson}和5只{蹒跚僵尸/Crimson}.

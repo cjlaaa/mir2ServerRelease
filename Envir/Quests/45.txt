@@ -1,9 +1,10 @@
 ﻿[@Description]
-{红蛇/Crimson} 咬伤? 请转告 {Robert/LimeGreen} 那些{红蛇/Crimson} 的毒牙可以辅助治疗.
-现在时间紧急，你快去杀一些 {红蛇/Crimson} 收集点毒牙.
+{红蛇/Crimson}咬伤?
+请转告{Robert/LimeGreen}那些{红蛇/Crimson}的毒牙可以辅助治疗.
+现在时间紧急,你快去杀一些{红蛇/Crimson}收集点毒牙.
 
 [@TaskDescription]
-收集 {红蛇牙/LightSteelBlue} 
+收集{红蛇牙/LightSteelBlue}
 
 [@Completion]
 

@@ -1,8 +1,7 @@
 ﻿[@Description]
 
 [@TaskDescription]
-前往东南方的{牛魔寺庙/Yellow} 然后击杀15只 
-{牛头魔/Crimson}.
+前往东南方的{牛魔寺庙/Yellow}然后击杀15只{牛头魔/Crimson}.
 
 [@Completion]
 

@@ -1,9 +1,9 @@
 ﻿[@Description]
-我听说西面的{道馆矿区/Yellow}中有很多
-僵尸出没，去帮我杀掉他们.
- 
+我听说西面的{道馆矿区/Yellow}中有很多僵尸出没,
+去帮我杀掉他们.
+
 [@TaskDescription]
-消灭{被诅咒的萨满/Crimson},{被诅咒的僵尸/Crimson}, 
+消灭{被诅咒的萨满/Crimson},{被诅咒的僵尸/Crimson},
 {被诅咒的神父/Crimson}各5只.
 
 [@Completion]

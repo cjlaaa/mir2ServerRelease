@@ -1,11 +1,11 @@
 ﻿[@Description]
-我现在已经看不清东西了. 随着年龄的增长我的视力越来越差.
-我听说如果吃一些虫眼视力就会变好. 你能帮我带一些 {虫眼/LightSteelBlue} 吗?
-据说 {魔眼/Crimson} 和 {碧蓝魔眼/Crimson} 的眼睛效果更好.
+我现在已经看不清东西了.随着年龄的增长我的视力越来越差.
+我听说如果吃一些虫眼视力就会变好.你能帮我带一些{虫眼/LightSteelBlue}吗?
+据说{魔眼/Crimson}和{碧蓝魔眼/Crimson}的眼睛效果更好.
 
 [@TaskDescription]
-杀掉 {魔眼/Crimson} 和 {碧蓝魔眼/Crimson} 收集 
-5个 {虫眼/LightSteelBlue}
+杀掉{魔眼/Crimson}和{碧蓝魔眼/Crimson}
+收集5个{虫眼/LightSteelBlue}
 
 [@Completion]
 

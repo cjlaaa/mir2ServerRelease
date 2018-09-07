@@ -1,7 +1,6 @@
 ﻿[@Description]
-Myths 和 Rumours 说需要收集一些 
-{僵尸之心/LightSteelBlue} .
-这会有助于我们击败它们.
+Myths和Rumours说需要收集一些{僵尸之心/LightSteelBlue}.
+这对消灭它们很有帮助.
 
 [@TaskDescription]
 从{被诅咒的神父/Crimson}身上收集5个{僵尸之心/LightSteelBlue}.

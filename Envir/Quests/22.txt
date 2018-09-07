@@ -1,9 +1,9 @@
 ﻿[@Description]
-最近我接到报告，附近的{森林雪人/Crimson}
-专挑新人勇士攻击。你认为你真的ok吗?
+最近我接到报告,附近的{森林雪人/Crimson}
+专挑新人勇士攻击.你认为你真的ok吗?
 
 [@TaskDescription]
-消灭5个{森林雪人/Crimson}。
+消灭5个{森林雪人/Crimson}.
 
 [@Completion]
 

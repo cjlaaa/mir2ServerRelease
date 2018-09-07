@@ -1,9 +1,9 @@
 ﻿[@Description]
-年轻的旅者，欢迎来到{边界村/Yellow}
-在开始你的旅途之前，能否先帮我个小忙? 
+年轻的旅者,欢迎来到{边界村/Yellow}
+在开始你的旅途之前,能否先帮我个小忙? 
 
 [@TaskDescription]
-把{食人花叶/LightSteelBlue}捎给{工艺夫人/LimeGreen}。
+把{食人花叶/LightSteelBlue}捎给{工艺夫人/LimeGreen}.
 
 [@Completion]
 

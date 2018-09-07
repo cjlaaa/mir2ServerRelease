@@ -1,5 +1,6 @@
 ﻿[@Description]
-你听说过{丛林迷宫/Yellow}吗? 那是收集资源的好地方！
+你听说过{丛林迷宫/Yellow}吗?
+那里是收集资源的好地方!
 请去那里帮我收集一些材料回来.
 
 [@TaskDescription]

@@ -1,9 +1,8 @@
 ﻿[@Description]
-盟重省悬赏任务.
+盟重省悬赏任务
 
 [@TaskDescription]
-前往{石墓/Yellow}击杀 {野猪/Crimson} 
-然后收集{野猪牙/LightSteelBlue}.
+前往{石墓/Yellow}击杀{野猪/Crimson}并收集{野猪牙/LightSteelBlue}
 
 [@Completion]
 

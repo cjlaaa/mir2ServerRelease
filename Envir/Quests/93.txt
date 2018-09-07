@@ -1,8 +1,8 @@
 ﻿[@Description]
-我们有一名学员走失了，请帮我找到他
+我们有一名学员走失了,请帮我找到他
 
 [@TaskDescription]
-找到迷失的学员. 
+找到丢失的学员
 
 [@Completion]
 

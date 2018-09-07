@@ -1,9 +1,9 @@
 ﻿[@Description]
 看来传言是真的.
-请回到 {隐藏入口/Yellow}. 
- 
+请回到{隐藏入口/Yellow}猎杀一些{爬行僵尸/Crimson}.
+
 [@TaskDescription]
-猎杀一些{爬行僵尸/Crimson}.
+猎杀5只{爬行僵尸/Crimson}.
 
 [@Completion]
 

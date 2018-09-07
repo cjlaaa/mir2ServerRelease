@@ -1,8 +1,8 @@
 ﻿[@Description]
-这是你需要的茶，快些喝吧，别凉了.
+这是你需要的茶,快些喝吧,别凉了.
 
 [@TaskDescription]
-带 {食人花茶/LightSteelBlue} 给 {MirGuide/LimeGreen}
+将{食人花茶/LightSteelBlue}带给{MirGuide/LimeGreen}
 
 [@Completion]
 

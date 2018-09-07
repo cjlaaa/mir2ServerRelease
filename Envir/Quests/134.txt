@@ -1,9 +1,8 @@
 ﻿[@Description]
-请把这个{海藻药/LightSteelBlue} 带到 
-{盟重省/Yellow}.
+请把这个{海藻药/LightSteelBlue}送到{盟重土城/Yellow}.
 
 [@TaskDescription]
-运送{海藻药/LightSteelBlue}给盟重省的{工艺夫人/LimeGreen}
+将{海藻药/LightSteelBlue}带给盟重土城的{工艺夫人/LimeGreen}
 
 [@Completion]
 

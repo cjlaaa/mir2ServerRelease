@@ -1,10 +1,10 @@
 ﻿[@Description]
-请将我的{生命之石/LightSteelBlue}带给我的女儿
-{Rachel/LimeGreen}. 她会理解我的用意.
-谢谢你冒险者，现在我可以放心了.
+请将我的{生命之石/LightSteelBlue}带给我的女儿{Rachel/LimeGreen}.
+她会理解我的用意的.
+谢谢你冒险者,现在我可以安心了.
 
 [@TaskDescription]
-把{老旧的项链/LightSteelBlue}带给{Rachel/LimeGreen}.
+把{老旧的项链/LightSteelBlue}带给{Rachel/LimeGreen}
 她在{盟重省/Yellow}的首饰店
 
 [@Completion]

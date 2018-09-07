@@ -1,11 +1,12 @@
 ﻿[@Description]
-我曾经去 {地牢/Yellow}打猎. 结果遇到了很多 
-{钳虫/Crimson} 慌乱之中我丢掉了我的剑，
-请你帮我找回来。
+我曾经去{死亡山谷地牢/Yellow}打猎,
+结果遇到了很多{钳虫/Crimson},
+慌乱之中我丢失了我的宝剑,
+请你帮我找回来.
 
 
 [@TaskDescription]
-前往{地牢/Yellow}击杀{钳虫/Crimson}
+前往{死亡山谷地牢/Yellow}击杀{钳虫/Crimson}
 获取{龙之宝剑/LightSteelBlue}.
 
 [@Completion]

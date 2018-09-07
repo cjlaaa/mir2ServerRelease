@@ -1,5 +1,5 @@
 ﻿[@Description]
-拜访{沙巴克/Yellow}与{Mr.Wang/LimeGreen}谈谈.
+拜访{沙巴克/Yellow}并与{Mr.Wang/LimeGreen}谈谈.
 
 [@TaskDescription]
 

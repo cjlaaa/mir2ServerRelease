@@ -1,9 +1,8 @@
 ﻿[@Description]
-再次前往{丛林迷宫/Yellow} 采集一些 
-{老树根/LightSteelBlue}.
+再次前往{丛林迷宫/Yellow}采集一些{老树根/LightSteelBlue}.
 
 [@TaskDescription]
-猎杀{幻影蜘蛛/Crimson}，找到2个{老树根/LightSteelBlue}.
+猎杀{幻影蜘蛛/Crimson},找到2个{老树根/LightSteelBlue}.
 
 [@Completion]
 

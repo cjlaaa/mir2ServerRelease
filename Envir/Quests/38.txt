@@ -1,9 +1,9 @@
 ﻿[@Description]
-你好旅行者. 我还需要一些水果来酿酒.
-你能帮我收集5 {乌木果/LightSteelBlue}吗.
+你好旅行者.我还需要一些水果来酿酒.
+你能帮我收集5{乌木果/LightSteelBlue}吗.
 
 [@TaskDescription]
-收集 5 {乌木果/LightSteelBlue}
+收集5{乌木果/LightSteelBlue}
 
 [@Completion]
 

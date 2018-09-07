@@ -1,9 +1,8 @@
 ﻿[@Description]
-你找到了苍月之书.. 这真是梦幻般的结局. 
+你找到了苍月之书!我不是在做梦吧!
 
 [@TaskDescription]
-将{苍月史书/LightSteelBlue}书交还
-给{VillageChief/LimeGreen}.
+将{苍月史书/LightSteelBlue}交还给{VillageChief/LimeGreen}
 
 [@Completion]
 

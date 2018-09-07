@@ -1,11 +1,10 @@
 ﻿[@Description]
-干的漂亮冒险者！
-但是我觉得我们应该更进一步去削弱怪物，
-看你的了！
+干的漂亮冒险者!
+但是我觉得我们应该更进一步去削弱怪物,
+看你的了!
 
 [@TaskDescription]
-前往{沃玛寺庙/Yellow}猎杀10只{火焰沃玛/Crimson} 和 
-{沃玛军士/Crimson}.
+前往{沃玛寺庙/Yellow}猎杀10只{火焰沃玛/Crimson}和10只{沃玛军士/Crimson}.
 
 [@Completion]
 

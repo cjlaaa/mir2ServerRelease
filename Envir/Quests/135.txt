@@ -1,10 +1,9 @@
 ﻿[@Description]
-你好旅行者，在{石墓/Yellow}深处
-有更神秘的地图。去找到远古神石，那是连接
-{远古石墓/Yellow}的入口
+你好旅行者,据说在{石墓/Yellow}深处有个非常神秘的地方,
+去找到远古神石,那是连接{远古石墓/Yellow}的入口.
 
 [@TaskDescription]
-在{石墓/Yellow} 5层找到远古神石
+在{石墓/Yellow}5层找到远古神石
 
 [@Completion]
 

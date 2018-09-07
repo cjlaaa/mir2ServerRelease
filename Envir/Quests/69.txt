@@ -1,10 +1,10 @@
 ﻿[@Description]
-我朋友前往 {昆虫洞/Yellow} 去找草药已经几天了, 
-但是直到现在还没回来. 你能去{昆虫洞/Yellow}找找 {Soho/LimeGreen}吗?
+我朋友前往{昆虫洞/Yellow}去找草药已经几天了,
+但是直到现在还没回来.
+你能去{昆虫洞/Yellow}找找{Soho/LimeGreen}吗?
 
 [@TaskDescription]
-寻找 {Soho/LimeGreen} 他可能在
-{昆虫洞/Yellow}二层114:155附近.
+寻找{Soho/LimeGreen},他可能在{昆虫洞/Yellow}二层114:155附近.
 
 [@Completion]
 

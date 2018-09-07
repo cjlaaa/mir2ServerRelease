@@ -2,7 +2,7 @@
 请向{比奇省/Yellow}汇报这边的战果.
 
 [@TaskDescription]
-向{SubjugationManager/LimeGreen}汇报 
+向{SubjugationManager/LimeGreen}汇报
 
 [@Completion]
 

@@ -1,10 +1,10 @@
 ﻿[@Description]
-{边界村/Yellow} 有麻烦了! 更多的守卫投入到了保卫
-战之中. {我/LimeGreen} 需要一些 
-{遗物/LightSteelBlue} 去治疗守卫.
+{边界村/Yellow}遇到大麻烦了!
+越来越多的守卫投入到了保卫战之中,伤亡惨重.
+{我/LimeGreen}现在急需要一些{遗物/LightSteelBlue}去治疗他们.
 
 [@TaskDescription]
-猎杀 {洞蛆/Crimson}收集5个{遗物/LightSteelBlue}
+猎杀{洞蛆/Crimson}收集5个{遗物/LightSteelBlue}
 
 [@Completion]
 

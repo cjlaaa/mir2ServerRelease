@@ -1,9 +1,9 @@
 ﻿[@Description]
-谢谢，我记得这个戒指还是我奶奶传下来的呢. 
-请将这个礼物带回给 {Bradly/LimeGreen} 以此表达我的谢意吧.
+谢谢,我记得这个戒指还是我奶奶传下来的呢. 
+请将这个礼物带回给{Bradly/LimeGreen}以此表达我的谢意吧.
 
 [@TaskDescription]
-将 {蓝色药丸/LightSteelBlue} 带回给 {Bradly/LimeGreen}
+将{蓝色药丸/LightSteelBlue}带回给{Bradly/LimeGreen}
 
 [@Completion]
 
