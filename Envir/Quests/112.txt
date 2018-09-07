@@ -15,7 +15,7 @@
 [@CarryItems]
 
 [@FixedRewards]
-降魔环 
+降魔环
 
 [@SelectRewards]
 

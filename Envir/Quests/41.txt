@@ -16,7 +16,7 @@
 [@CarryItems]
 
 [@FixedRewards]
-硬皮鞋 
+硬皮鞋
 
 [@SelectRewards]
 

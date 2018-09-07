@@ -15,7 +15,7 @@
 [@CarryItems]
 
 [@FixedRewards]
-黑铁之靴 
+黑铁之靴
 
 [@SelectRewards]
 
