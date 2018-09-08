@@ -3,6 +3,7 @@
 
 [@TaskDescription]
 向{SubjugationManager/LimeGreen}汇报
+他就在比奇城皇宫门口的池塘边上
 
 [@Completion]
 
