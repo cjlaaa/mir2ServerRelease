@@ -5,7 +5,7 @@ CHECKITEM 随身护卫[7d]
 #ACT
 GOTO @Next-2
 #ELSEACT
-LocalMessage "You don't own a Guard Rental Scroll" Hint
+LocalMessage "需要随身护卫卷轴(可在游戏商城购买)" Hint
 
 [@Next-2]
 #IF
@@ -14,5 +14,5 @@ PETCOUNT > 0
 CLEARPETS
 #ELSEACT
 GIVEPET GameShop_Guard
-LocalMessage "A Guard as been summoned to assist you in your battle" Hint
+LocalMessage "一名随身护卫被召唤来协助你战斗" Hint
 }

@@ -1,5 +1,5 @@
 ﻿;; Guard Rental
-[@_CUSTOMCOMMAND(GuardsHelp)]
+[@_CUSTOMCOMMAND(召唤护卫)]
 #INCLUDE [SystemScripts\00Default\GuardsHelp.txt] @Main
 
 ;;远古神石.

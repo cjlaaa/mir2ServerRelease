@@ -24,5 +24,4 @@ GOTO @Main-1
 [Quests]
 -27
 35
--35
 -37
