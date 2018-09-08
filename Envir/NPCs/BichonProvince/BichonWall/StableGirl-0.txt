@@ -29,7 +29,7 @@ Welcome traveller,
 19
 
 [Trade]
-BengalTiger
+黄斑虎
 马鞍
 生肉
 烤肉
