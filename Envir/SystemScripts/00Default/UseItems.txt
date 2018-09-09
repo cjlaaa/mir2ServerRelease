@@ -65,11 +65,11 @@ GIVEITEM ElixirOfDefensive[1d] 1
 GIVEITEM ElixirOf千年雪霜[1d] 1
 GIVEITEM EXP20%[1d] 1
 
-;;FishingPackage
+;;渔具包
 [@_UseItem(13)]
 #ACT
-GIVEITEM RedFishingRod[6M] 1
-GIVEITEM PremiumReel 1
-GIVEITEM PremiumFloat 1
-GIVEITEM PremiumFinder 1
-GIVEITEM PremiumBait 7200
+GIVEITEM 红色鱼竿[6M] 1
+GIVEITEM 高级摇轮 1
+GIVEITEM 高级鱼漂 1
+GIVEITEM 高级探鱼器 1
+GIVEITEM 高级鱼饵 3600

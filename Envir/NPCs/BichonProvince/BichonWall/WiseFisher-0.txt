@@ -43,9 +43,9 @@ GOTO @Main-1
 
 
 [Trade]
-BlueFishingRod
-FishingHook
-FishingFloat
-FishDetector
-FishingReel
-FishBait
+蓝色鱼竿
+鱼钩
+鱼漂
+探鱼器
+摇轮
+鱼饵 1000
