@@ -1,5 +1,6 @@
 ﻿[@Description]
-{蛇谷矿区/Yellow}洞穴散发出邪恶又阴冷的气氛.
+{蛇谷矿区/Yellow}洞穴深处散发出阴冷邪恶的气息,
+你能帮我去调查一下吗?
 
 [@TaskDescription]
 调查{蛇谷矿区/Yellow}中邪恶的来源,
