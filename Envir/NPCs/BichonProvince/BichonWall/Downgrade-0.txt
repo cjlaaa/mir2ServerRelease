@@ -13,8 +13,8 @@ GOTO @Main-1
 #SAY
 欢迎 <$USERNAME>, 你可以在我这里出售觉醒物品
  
-<卖/@Sell> 觉醒物品.
-<分解/@Disassemble> 物品.
+<卖/@Sell>觉醒物品.
+<降级/@Downgrade>物品.
  
 [@Sell]
 #SAY
@@ -27,5 +27,17 @@ GOTO @Main-1
 你要分解什么东西？
  
 <返回/@Main>
+
+[@Downgrade]
+#SAY
+选择你想要降级的物品.
+ 
+<Back/@Main>
+
+[@Reset]
+#SAY
+选择你想重置的物品.
+
+<Back/@Main>
 
 [Types]
