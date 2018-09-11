@@ -7,7 +7,7 @@
 [@Completion]
 
 [@KillTasks]
-邪恶巨人1
+邪恶巨人 1
 
 [@ItemTasks]
 
