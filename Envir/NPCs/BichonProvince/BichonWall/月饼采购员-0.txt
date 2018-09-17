@@ -283,9 +283,6 @@ TAKEITEM 比奇通用币 100
 GIVEITEM 天衣无缝(女)[15d]
 #SAY
 这是你的奖品，请拿好.
-#ELSESAY
-你并没有足够的比奇通用币.
 
-<关闭/@exit>
 
 
