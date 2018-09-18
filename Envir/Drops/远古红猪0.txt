@@ -96,6 +96,7 @@
 1/60 强效太阳水 
 
 ;Crafting Materials
+1/30 比奇通用币
 1/5 红线 
 
 ;Quest

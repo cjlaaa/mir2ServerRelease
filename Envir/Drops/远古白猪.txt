@@ -134,6 +134,7 @@
 ;Crafting Materials
 1/10 白线 
 1/15 白线 
+1/30 比奇通用币
 
 ;Quest
 1/3 岩石标本 Q
