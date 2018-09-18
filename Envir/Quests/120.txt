@@ -13,7 +13,7 @@
 [@KillTasks]
 
 [@ItemTasks]
-雪莲花 5
+尸灵花 5
 
 [@CarryItems]
 
