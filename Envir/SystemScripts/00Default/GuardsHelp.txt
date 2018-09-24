@@ -13,6 +13,6 @@ PETCOUNT > 0
 #ACT
 CLEARPETS
 #ELSEACT
-GIVEPET GameShop_Guard
+GIVEPET 随身护卫
 LocalMessage "一名随身护卫被召唤来协助你战斗" Hint
 }
