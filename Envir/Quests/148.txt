@@ -1,13 +1,11 @@
 [@Description]
-Bring me {恶魔碎片/LightSteelBlue}.
-It's a ominous demonic sword.
-You should seek out the sword before someone 
-else gets it.
+把{恶魔碎片/LightSteelBlue}交给我.
+这是一把不祥的恶魔之剑,
+你一定要在恶人获得它之前得到它!
 
 [@TaskDescription]
-Kill {RedEvilApe's/Crimson} to find the {恶魔碎片/LightSteelBlue}.
-at 11:27 Walk in the corner and you will get through 
-the hidden door.
+通过猎杀{赤月恶魔/Crimson}获得{恶魔碎片/LightSteelBlue}
+在11:27附近的角落里,你将穿过隐藏的门
 [@Completion]
 
 [@KillTasks]

@@ -1,8 +1,8 @@
 [@Description]
-Travel through {TreePath/Yellow} and enter the {RedValley/Yellow}
+穿过{丛林迷宫/Yellow}进入{RedValley/Yellow}
 
 [@TaskDescription]
-Retrieve the {翡翠晶/LightSteelBlue} by killing {BigApes/Crimson}.
+击杀{血巨人/Crimson}并取得{翡翠晶/LightSteelBlue}
 
 [@Completion]
 

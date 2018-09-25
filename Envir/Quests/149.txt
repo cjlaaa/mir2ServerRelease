@@ -1,19 +1,18 @@
 [@Description]
-Now, let me test you once more
-Pass through an ordeal I have prepared and bring me some
-邪恶巨人油. If you do this, then I'll tell you the way to
-get the 赤血魔剑
+那么,让我再来考验考验你吧.
+通过我的测试,并带给我一份邪恶巨人油.
+如果你能顺利完成我的测试,
+我就告诉你如何获得赤血魔剑.
 
 [@TaskDescription]
 
 [@Completion]
-What is in the bottle is the foul blood of a RedMoonEvil I killed...
-If you disguised yourself as a demon of a man by
-smearing it on your clothes and holding an EvilHeart
-You can get the 赤血魔剑. To kill the RedMoonEvil and
-To get rid of the origin of the demon depends upon you.
-It is hard for you to kill a RedMoonEvil alone,
-Band together with many other heroes..
+瓶子里翻滚着的是被我杀死的赤月恶魔的污秽血液...
+如果你通过将恶魔之血涂抹在身上并手持恶魔之心,
+将自己伪装成一个恶魔之人,
+那么你就会获得赤血魔剑.
+杀死赤月恶魔并解决这一些邪恶的根源,就靠你了!
+赤月恶魔很强大,请和其他英雄一起组队杀死它.
 
 [@KillTasks]
 

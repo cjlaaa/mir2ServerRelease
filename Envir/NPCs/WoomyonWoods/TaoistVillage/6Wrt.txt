@@ -4,7 +4,7 @@ CHECK [527] 1
 #ACT
 GOTO @CHECK1
 #ELSESAY
-你对古老的传说有兴趣吗?.
+你对古老的传说有兴趣吗?
  
 <关闭/@exit>
 
@@ -27,29 +27,32 @@ GOTO @MAIN-3
 
 [@MAIN-2]
 #SAY
-You seem to be interested in an old tale. Ok.
-What do you want to know?
-<I'd like to hear about the HolySword/@Quest>
+你似乎对一个古老的传说很感兴趣?
+好吧,你想知道什么?
+ 
+<我想打听一下圣剑的事/@Quest>
 
 [@Quest]
 #IF
 #SAY
-Holy Sword...
-It was our very best sword a long time ago. But we don't
-have it anymore. People say that the sword is able to
-know every kinds of demon and evil for it is holy and reverend.
-But a certain villain stole it and ran away with it a long time ago,
-so there is nothing left but its legend...
-If the HolySword still exists just one place occurs to me...
-<Where is it?/@quest1>
+圣剑吗...
+很久以前,它曾是我们这里最好的剑,但我们已经不再拥有它了. 人们都说这把剑能够分辨出各式各样伪装起来的邪恶恶魔,
+因为它本身是圣洁可敬的.
+ 
+但是某个不怀好意的恶人偷走了它,并且很早之前就不知所踪了.
+所以除了它的传说以外,这把圣剑什么都没有留下...
+如果这把神圣之剑仍然存在,它只可能存在于一个地方...
+ 
+<是哪里?/@quest1>
 
 [@quest1]
 #IF
 #SAY
-There.. Hm.. it is so dangerous that I can not tell you.
-I understand your curiosity but if you are killed there,
-the responsibility of your death would fall on me.
-<I can cover any problem by myself/@quest2>
+那个地方...唉...那里太危险了,我不能告诉你.
+我能理解你的好奇心,但如果你死在了那里,那就是我害了你,
+我以后的日子都会寝食难安的.
+ 
+<我会自己承担一切后果/@quest2>
 
 [@quest2]
 #IF
@@ -63,56 +66,50 @@ BREAK
 #IF
 CHECK [1144] 1
 #SAY
-You killed a RootSpider, didn't you? Good job!
-Now I am goign to tell you what you want.
-<Can you tell me who is the villain who stole the HolySword?/@next_quest>
+你竟然杀了一只幻影蜘蛛?干得漂亮!
+现在我可以告诉你你想知道的事情了.
+
+<到底是谁偷走了圣剑/@next_quest>
 #ELSESAY
-Please kill a RootSpider located in TreePath, Once you have completed 
-my task. I shall tell you everything. 
+请杀死位于丛林迷宫中的幻影蜘蛛,完成这个任务后,我会把一切告诉你.
  
 <Close/@exit>
 
 [@next_quest]
 #IF
 #SAY
-No information about him remains. I just heard that the former
-Rev.taoist of this school thought he was pitiful and permitted
-him to stay here. Because he was running away as he had committed
-a serious crime before. But he betrayed that trust and stole the
-sword, the best sword of this school, and dissapeared.
-<Can you tell me What HolySword is?/@next_quest1>
+没有关于他的信息留下来.
+我只是听说他之前因为犯了严重错误,差点被道馆赶走, 
+多亏这所学校的前Rev.taoist认为他很可怜,并允许他留在这里.
+但他背叛了这种信任并偷走了圣剑----这所学校最好的剑,并消失了.
+ 
+<圣剑到底是什么样的/@next_quest1>
 
 [@next_quest1]
 #IF
 #SAY
-The chronicle or specification for the HolySword vanished since
-the sword disappeared from here long time ago. So I don't know
-it's detail either. People say it cayses storms to blow dragons to
-appear. But thats just hot air. And also an expression of pride and
-love for the disappeared best sword of this school.
-<Can you tell me where the HolySword is?/@next_quest2>
+自从很久以前圣剑从这里消失后,关于它的信息就逐渐遗失了.
+所以我也不知道它的具体细节。
+人们传说它会导致风暴袭击和恶龙现世,但我猜那只是谣言而已,
+当然这也表现出道馆人对这把圣剑的热爱和骄傲.
+ 
+<你能告诉我圣剑现在在哪吗/@next_quest2>
 
 [@next_quest2]
 #IF
 #SAY
-According to the former Rev.taoist of this school, the person who
-stole the HolySword went forward in to the Redmoon Valley across a
-Tree path. Then a big group of heroes went there to pursue him but
-no one came back. By perfroming magical astrology I found out there
-was a very strong demon in Redmoon valley and that it seemed to be
-related to the t剑气爆dy.
-<I see and appreciate your answer/@next_quest3>
+根据道馆的前Rev.taoist的描述,
+偷走圣剑的人穿过丛林迷宫消失在赤月山谷深处. 虽然之后一大群英雄前去那里追捕他,但没有人活着回来. 通过对神秘占星学的研究,我发现赤月山谷中有一个非常强大的恶魔,
+它似乎与这场悲剧有关。
+
+<我明白了,谢谢你的回答/@next_quest3>
 
 [@next_quest3]
 #IF
 #SAY
-A long time ago, the Redmoon valley was a the habitat of the 翡翠晶
-Before the demonic power came there. If a certain special power got into
-the JadeStick then taoistic defenses will come out of it,  It requires a
-翡翠晶 holding. Some special taoistic power to pass there, Only a
-taoist of the highest order is able to make a key 翡翠晶. It is 
-Possible that the heroes who went into the Redmoon Valley left a sign 
-with a 翡翠晶 there. Keep this in mind.
+很久以前,在恶魔力量来到之前,赤月山谷是翡翠晶的栖息地. 如果某个特殊的力量进入JadeStick,那么道教防御就会从它出来,它需要一个翡翠晶控制. 一些特殊的道教力量通过那里,只有最高阶的道士才能制造出翡翠晶钥匙.
+进入赤月山谷的英雄们可能会在那里留下一个带有翡翠晶的标志.请牢记这一点.
+ 
 <Close/@exit>
 #ACT
 SET [529] 1
@@ -120,116 +117,111 @@ SET [529] 1
 
 [@MAIN-1]
 #SAY
-I am Perry, the Rev.Taoist of this school. A young hero like you
-reminds me of my youth.
-Especially of an outstanding thief 'Abel',who's story still makes
-my blood boil. You may not be aware of it since you are still
-young. Do you want to hear about Abel?
-<Hear/@hear> the story
-<Skip/@nohear> the story
+我是Perry,这所学校的Rev.Taoist.
+像你这样的年轻英雄让我想起了自己年轻的时光.
+特别是一个杰出的小偷Abel,他的故事时至今日回想起来,
+仍然让我热血沸腾,年轻的你可能还无法理解.
+你想听听亚伯的故事吗？
+ 
+<听故事/@hear>
+<不想听/@nohear>
+
 [@nohear]
-Well, everything is gone and useless now.
-Get out of here please! 
-<Ask/@pre_hear> for the tale again
-Just <Get out/@exit>
+当然,这一切已经是过去的事了,没有任何意义.
+请离开这里吧.
+
+<再次询问这个故事/@pre_hear>
+<离开/@exit>
 
 
 [@pre_hear]
-You want to hear the tale again.
-Well if that's what you want. 
-<Listen/@next>
+你想听听这个故事?
+好吧,如果你真要听的话...
+ 
+<听故事/@next>
 
 [@hear]
-You are so curious to find out what
-happend before you where born.
-Ok I'll tell you what I can remember. 
-<Next/@next>
+这件事情的发生时间,可能比你的出生还要早.
+如果你真的感兴趣的话,我会告诉你我所知道的故事.
+ 
+<继续/@next>
 
 
 [@next]
-It must be approximately 90 years ago now.
-When I was only a young fellow in my early twenties.
-But my martial art skill was so good as to place me within
-the top ten people with Taoist skills.
-It is true.  
-<Next/@next1>
+这个故事发生在大约90年前,在我二十岁出头的时候.
+我那时候虽然只是一个年轻人,但我的道术技能水平非常棒,
+与当时道馆的十大道士都有得一拼.
+你可能会不信,觉得我在吹牛,但这确实是真的.
+ 
+<继续/@next1>
 
 [@next1]
-It was rumored around Bichon Province that a villain stole
-the secret know-how and treasures of each prominent Taoist
-School, his name was Abel 
-<Next/@next2>
+在比奇省流传着一个说法,一个恶人偷走了道馆的秘密知识和宝藏,他的名字叫Abel
+ 
+<继续/@next2>
 
 [@next2]
-As the damage grew, many heroes struggled to arrest
-Abel and together decided to catch him in a 捕缚术. But
-we all made a mistake and underestimated him
-we never dreamed that he would have
-mastered the best martial art skill of all. 
-<Next/@next3>
+许多英雄尝试抓捕阿贝尔,但是他们都错误的低估了他的水平,
+没想到这人的战斗能力远在他们之上.
+随着伤亡的增加,人们甚至连当时的高级技能捕缚术都用上了. 
+然而还是没有什么效果.
+<继续/@next3>
 
 [@next3]
-We organized a new group consisting of high level heroes after
-the first group consisted of middle level heroes failed to arrest him.
-Finaly we found him in Woomyon Woods. Listen carefully.
-<Next/@next4>
+后来我们组织了一个由高级英雄组成的新团体,毕竟之前的中级英雄都不能能逮捕他.
+最后我们在沃玛森林深处找到了他.
+注意,接下来事情开始变得有趣了.
+
+<继续/@next4>
 
 [@next4]
-Fourteen heroes surrounded him but he was never scared.
-What a great man he was!
-We tried persuading him to surrender to us
-but he didn't answer, consequently a fight began
-<Next/@next5>
+十四个英雄围住了他,但他面色镇定,一点都没有惧色.他真是一个厉害的家伙.
+我们试图说服他向我们投降,但他显然不会答应,一场恶战是不可避免了.
+ 
+<继续/@next5>
 
 [@next5]
-We could not stop him because not only
-was his martial art skill really the best
-but also the heroes were not in harmony to attack him.
-So, I made a decision to fight man to man.
-The heroes stepped back.
-A one on one fight between me and him began.
-<Next/@next6>
+因为他的战斗力非常强大,而且我们临时组建的队伍也配合不到位,
+所以英雄们根本不是他的对手,所以,我决定亲自解决他.
+英雄们退后一步,我和他之间一对一的战斗开始了.
+ 
+<继续/@next6>
 
 [@next6]
-At the end of a fierce fight I was heavily wounded.
-but I had injured his leg.
-I saw he could not even stand so I relaxed my attention
-Then Abel floated in the air as with a kind of
-high level martial art and dissapeared
-We traced his blood but we failed to find him again
-<Next/@next7>
+在一场激烈的战斗后,我受了重伤,但是他的腿也被我废了.
+我看到他基本无法站起来,所以我也稍微放松了我的注意力,然而就在那一刹那,
+Abel突然漂浮到空中,那好像是一种高级的传送术,他消失了在我们面前.
+那之后虽然我们又追踪了他的血液,但我们再也没有找到他.
+ 
+<继续/@next7>
 
 [@next7]
-Abel disappeared and the secret know-how was gone with him.
-It was rumored that a certain party who wanted the secret
-know-how exclusively for themselves hid Abel away.
-It caused lot of groups to fight against each other.
-Although this fight lasted for ten years no one ever found out
-a single clue to his whereabouts.
-Finally this fight was over without any satisfactory conclusion.
-<Next/@next8>
+Abel失踪了,那些他盗取的秘密知识也随着他一起不见了.
+有传言说某个想要盗取道馆秘密的组织收留了Abel并把他藏了起来.
+这件事导致很多组织互相打的不可开交,最后还爆发了一场战争.
+虽然战争持续了十年,但仍然没有人发现Abel下落的任何线索.
+当然,最后那场战争也结束了,没有人是赢家.
+
+<继续/@next8>
 
 [@next8]
-So far there is no one who has seen Abel since this incident
-though it would be a permanent riddle. But there is a rumor
-It says a big cave was found out in the Tree path these days,
-and the secret know-how.
-Abel stole long time ago is hidden there.
-<Next/@next9>
+自从这次事件发生到现在,都没有人见过Abel,估计这将是一个永久的谜了. 但是有传闻说丛林迷宫里最近发现了一个洞穴,那里有一些道馆古老秘密知识的残页,
+我猜测很久以前Abel曾经藏在那里.
+ 
+<继续/@next9>
 
 [@next9]
-But there are many strong monsters there,
-and they will try and kill you if you enter.
-Now I am too old. For am I not a Rev.Taoist
-who is responsible for this Taoist School.
-I'll go there and check it out..
+但是那里有许多强大的怪物,如果你进入那里,它们会试图杀死你.
+现在我太老了,而且我不再是道馆的负责人,要不我就会去那儿看看了.
+ 
 <Next/@next10>
 
 [@next10]
 #IF
 #SAY
-The story is over, now get out of here.
-<Ok/@exit>
+故事结束了,现在你可以离开这里了.
+ 
+<好的/@exit>
 
 [Quests]
 -143
