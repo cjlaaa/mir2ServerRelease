@@ -31,3 +31,7 @@ MOVE 5 160 316
 #ACT
 MOVE B354
 
+[Quests]
+157
+-157
+

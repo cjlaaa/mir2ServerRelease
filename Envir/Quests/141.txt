@@ -20,7 +20,7 @@
 [@SelectRewards]
 
 [@ExpReward]
-65000
+150000
 
 [@GoldReward]
 50000
