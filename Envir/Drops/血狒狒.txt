@@ -168,7 +168,8 @@
 
 
 ;CraftingMaterials
-
+1/400 狒狒皮
+1/400 盔甲之书(勇猛)
 
 ;Quests
 

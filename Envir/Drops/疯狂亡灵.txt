@@ -181,7 +181,8 @@
 
 
 ;CraftingMaterials
-
+1/200 盔甲之书(仙术)
+1/200 盔甲之书(魔界)
 
 ;Quests
 
