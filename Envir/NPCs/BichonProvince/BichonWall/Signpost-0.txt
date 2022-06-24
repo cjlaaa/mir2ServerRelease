@@ -3,6 +3,10 @@
 <使用./@main-1> 城镇传送
 <打听/@ask> 城内的新闻
 
+<<Create Hero/@CreateHero/Green>>
+<<ReviveHero/@ReviveHero/Red>>
+<<SealHero/@SealHero/Yellow>>
+
 [@main-1]
 #SAY
 <武器店/@go-weap>   <服装店/@go-cloth>   <旅馆/@go-inn>
@@ -73,6 +77,14 @@ Move 0101
 [@go-statues]
 #ACT
 Move 0 351 243
+
+[@ReviveHero]
+#ACT
+ReviveHero
+
+[@SealHero]
+#ACT
+SealHero
 
 [Quests]
 140
