@@ -23,7 +23,7 @@ EXP100%1
 [@SelectRewards]
 
 [@ExpReward]
-15000000
+10000000
 
 [@GoldReward]
 250000
